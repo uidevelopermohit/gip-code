@@ -1,0 +1,24 @@
+// PARTIALS FILES
+// @import 'bootstrap/bootstrap.scss';
+
+// PARTIALS FILES
+@import 'partials/global';
+
+//COMPONENTS FILES
+@import 'components/mixins';
+@import 'components/borders';
+@import 'components/forms';
+@import 'components/icons';
+@import 'components/tooltip';
+@import 'components/scrollbar';
+@import 'components/button';
+@import 'components/parallax';
+@import 'components/popup';
+
+// MODULES FILES
+@import 'modules/layout';
+@import 'modules/header';
+@import 'modules/homepage';
+//@import 'modules/owl-carousel';
+@import 'modules/footer';
+

@@ -1,0 +1,66 @@
+.form {
+    &_control {
+        background: $base-font-color;
+        height: 50px;
+        border: solid 1px $base-color;
+        width: 100%;
+        padding: 10px;
+        color: $base-color;
+        outline: none;
+    }
+
+    &_group {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+
+.input-field {
+    position: relative;
+
+    label {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        color: $base-font-color;
+        transition: 0.2s all;
+        cursor: text;
+    }
+
+    input, textarea {
+        width: 100%;
+        border: 0;
+        outline: 0;
+        padding: 0.5rem 0;
+        border-bottom: 2px solid #d3d3d3;
+        background: none;
+        box-shadow: none;
+        color: $base-font-color;
+    }
+
+    input:invalid,
+    textarea:invalid {
+        outline: 0;
+
+        // color: #ff2300;
+        //   border-color: #ff2300;
+   
+    }
+
+    input:focus,
+    input:valid,
+    textarea:focus,
+    textarea:valid {
+        border-color: $website-brand-color;
+    }
+
+    input:focus ~ label,
+    input:valid ~ label,
+    textarea:focus ~ label,
+    textarea:valid ~ label {
+        font-size: 14px;
+        top: -24px;
+        color: $website-brand-color;
+    }
+}

@@ -1,0 +1,128 @@
+.who_we_are_section {
+    background-color: #0B0B0B;
+
+    @include border-radius(20px);
+
+    margin-top: 120px;
+    padding: 120px 85px;
+
+    h5 {
+        margin-bottom: 30px;
+    }
+
+    h2 {
+        margin-bottom: 70px;
+    }
+
+    .about_images_wrapper {
+        position: relative;
+    }
+
+    .about_image_1 {
+        width: 400px;
+
+        @include border-radius(20px);
+    }
+
+    .about_image_2 {
+        width: 300px;
+        position: absolute;
+        left: 50px;
+        bottom: -50px;
+
+        @include border-radius(20px);
+        @include box-shadow(0, 5px, 50px, rgba(255, 255, 255, 0.1));
+    }
+
+    .our_customer {
+        padding-top: 150px;
+        text-align: center;
+
+        .marquee_logos {
+            --image-size: 100px;
+            overflow: hidden;
+            width: 100%;
+            margin: 70px auto 0;
+            position: relative;
+            display: flex;
+
+            div {
+                display: flex;
+                position: relative;
+                animation: marquee 20s linear infinite;
+                justify-content: space-around;
+            }
+
+            img {
+                display: block;
+                min-width: 230px;
+                height: 50px;
+                margin: 0 1vw;
+            }
+
+            @media (max-width: 900px) {
+                --image-size: 50px;
+                --image-size: min(max(50px, 10vw), 100px);
+            }
+
+            @keyframes marquee {
+                0% {
+                    transform: translateX(0%);
+                }
+
+                100% {
+                    transform: translateX(-100%);
+                }
+            }
+        }
+    }
+
+    @media screen and (max-width: 1440px) {
+        margin-top: 100px;
+        padding: 100px 50px;
+
+        h5 {
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            margin-bottom: 50px;
+        }
+    }
+
+    @media screen and (max-width: 1199.98px) {
+        margin-top: 50px;
+        padding: 70px 50px;
+
+        .our_customer {
+            padding-top: 70px;
+        }
+    }
+
+    @media screen and (max-width: 991.98px) {
+        .flex_row {
+            .col_6 {
+                width: 100%;
+            }
+        }
+    }
+
+    @media screen and (max-width: 767.98px) {
+        margin-top: 50px;
+        padding: 50px 30px;
+
+        h2 {
+            margin-bottom: 30px;
+        }
+        .about_image_2 {
+            display: none;
+        }
+        .our_customer {
+            padding-top: 50px;
+
+            .marquee_logos {
+                margin-top: 30px;
+            }
+        }
+    }
+}

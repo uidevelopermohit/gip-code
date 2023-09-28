@@ -1,0 +1,131 @@
+.virtual_properties {
+    border: solid 1px rgba(255, 255, 255, 0.15);
+    background: rgba(255, 255, 255, 0.05);
+    padding: 120px 90px;
+    margin-top: 120px;
+
+    @include border-radius(20px);
+
+    position: relative;
+    overflow: hidden;
+
+    .shade_1,
+    .shade_2,
+    .shade_3 {
+        width: 400px;
+        height: 400px;
+        background-color: #e52991;
+        filter: blur(250px);
+        position: absolute;
+        left: -250px;
+        top: -250px;
+        z-index: 1;
+        opacity: .5;
+    }
+
+    .shade_2 {
+        background-color: $base-font-color;
+        left: 70%;
+        margin-left: -250px;
+        top: -250px;
+    }
+
+    .shade_3 {
+        background-color: $website-brand-color-2;
+        left: auto;
+        right: -250px;
+        margin-left: -250px;
+        top: auto;
+        bottom: -250px;
+    }
+
+    h2 {
+        margin-bottom: 70px;
+    }
+
+    h4 {
+        margin-bottom: 30px;
+    }
+
+    h5 {
+        margin-bottom: 30px;
+    }
+
+    &_video_wrapper {
+        @include border-radius(20px);
+
+        overflow: hidden;
+        position: relative;
+
+        &::before {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.6);
+            left: 0;
+            top: 0;
+        }
+
+        .play_icon {
+            &::before,
+            &::after {
+                border: 8px solid rgba(255, 255, 255, 0.2);
+            }
+        }
+    }
+
+    .owl-carousel .owl-nav {
+        position: relative;
+        top: auto;
+        margin-top: 30px;
+        display: flex;
+        justify-content: center;
+
+        button {
+            &.owl-prev,
+            &.owl-next {
+                opacity: 1;
+                margin-left: 0;
+                background: none;
+                font-size: 26px;
+            }
+        }
+    }
+
+    @media screen and (max-width: 1400px) {
+        padding: 100px 50px;
+        margin-top: 100px;
+
+        h2 {
+            margin-bottom: 50px;
+        }
+
+        h4 {
+            margin-bottom: 20px;
+        }
+    }
+    @media screen and (max-width: 1199.98px) {
+        padding: 70px 50px;
+        margin-top: 70px;
+
+        .owl-item {
+            .item {
+                .flex_row {
+                    .col_4,
+                    .col_8 {
+                        width: 100%;
+                    }
+                }
+            }
+        }
+    }
+    @media screen and (max-width: 767.98px) {
+        padding: 50px 30px;
+        margin-top: 30px;
+
+         h2 {
+            margin-bottom: 30px;
+        }
+    }
+}
