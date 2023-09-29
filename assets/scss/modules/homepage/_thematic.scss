@@ -1,0 +1,55 @@
+.thematic_section
+{
+    height: 891px;
+    margin-bottom: 96px;
+    
+}
+.thematic_heading
+{
+    //styleName: H2;
+font-family: Plus Jakarta Sans;
+font-size: 40px;
+font-weight: 800;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: center;
+background: linear-gradient(90deg, #E97F00 0%, #327C34 95.59%);;
+-webkit-text-fill-color: transparent;
+-webkit-background-clip: text;
+padding-bottom: 47px;
+
+}
+.forest_section
+{
+    width: 640px;
+height: 771px;
+background-image: url('../images/thematic/forest.png');
+}
+.mining_section
+{
+    width: 640px;
+    height: 771px;
+    background-image: url('../images/thematic/mining.png');
+}
+.financing_section
+{
+    width: 640px;
+    height: 771px;
+    background-image: url('../images/thematic/financing.png');
+}
+.thematic_section_heading
+{
+    width: 475px;
+padding-left: 22px;
+padding-top: 648px;
+
+    //styleName: H2;
+font-family: Plus Jakarta Sans;
+font-size: 36px;
+font-weight: 800;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: left;
+color:#FFFFFF;
+
+}
