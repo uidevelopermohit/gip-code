@@ -1,110 +1,126 @@
-.events
-{
-    width: 100%;
-    padding-left: 18px;
-    padding-right: 18px; 
-    margin-bottom: 60px;  
-}
-.events_img
-{
-    width: 100%;
-height: 588px;
-border-radius: 30px;
-background-image: url('../images/events/events.png');
+.events {
+    &_section {
+        padding-bottom: 6.25vw; //120px
+        .section_heading {
+            margin-bottom: 3.6458333333333335vw; //70px
+       
+        }
+    }
 
-}
-.events_dscrptn
-{
-    font-family: Plus Jakarta Sans;
-font-size: 20px;
-font-weight: 400;
-line-height: 25px;
-letter-spacing: 0em;
-text-align: left;
-padding-top: 10px;
-padding-left: 18px;
-}
-.evnts_hdng
-{
-    //styleName: H2;
-font-family: Plus Jakarta Sans;
-font-size: 40px;
-font-weight: 800;
-line-height: 50px;
-letter-spacing: 0em;
-text-align: left;
-padding-top: 440px;
-padding-left: 18px;
-}
-.col-8
-{
-    width: 80%;
-}
-.evnts_imge
-{
-    width: 380px;
-height: 166px;
-border-radius: 20px, 20px, 0px, 0px;
-}
-.events_hdng
-{
-    font-family: Plus Jakarta Sans;
-font-size: 20px;
-font-weight: 700;
-line-height: 25px;
-letter-spacing: 0em;
-text-align: left;
-color:#000;
+    &_selected {
+        margin-bottom: 20px;
+        position: relative;
 
-padding-left: 10px;
-}
-.events_bottom
-{
-    width: 110px;
-height: 5px;
-background: #F7941D;
-margin-top: 10px;
-margin-bottom: 10px;
+        &_content_overlay {
+            position: absolute;
+            bottom: 0;
+            padding: 5.208333333333334vw 2.604166666666667vw 2.604166666666667vw; //100px 50px 50px
+            // @include gradient(rgba(0,0,0,1), rgba(0,0,0,0));
+            background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
 
-margin-left: 10px;
-}
-.evnts_date
-{
-    font-family: Plus Jakarta Sans;
-font-size: 14px;
-font-weight: 300;
-line-height: 26px;
-letter-spacing: 0em;
-text-align: left;
-color: #000;
+            @include flexbox;
 
-padding-left: 10px;
-}
-.ents_bx
-{
-    width:26%;
-    box-shadow: 0px 0px 50px 0px #0000001A;
-    background-color: #fff;
-    border-radius: 20px;
-    margin-right: 20px;
-}
-.box_date
-{
-    width: 111px;
-    height: 80px;
-    background: rgb(197 173 173 / 61%);
-    color: #000;
-    margin-top: 459px;
-    margin-left: 119px;
-}
-.year
-{
-    font-family: Plus Jakarta Sans;
-font-size: 30px;
-font-weight: 800;
-line-height: 38px;
-letter-spacing: 0em;
-text-align: left;
-color: #000;
-padding-left: 10px;
+            .selected_event_content {
+                color: $base-light-color;
+                width: calc(100% - 250px);
+
+                h2 {
+                    margin-bottom: 1.0416666666666665vw; //20px
+               
+                }
+
+                p {
+                    margin-bottom: 0;
+                }
+            }
+
+            .selected_event_date {
+                padding: 1.04167vw; //20px;
+                background-color: rgba(255, 255, 255, 0.5);
+                color: $base-font-color;
+                margin-left: auto;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+            }
+        }
+    }
+
+    &_card {
+        @include border-radius(1.5625vw); //30px
+        @include box-shadow(0, 0, 50px, rgba(0, 0, 0, 0.1));
+
+        &_image {
+            @include border-radii(1.5625vw, 1.5625vw, 0, 0);
+
+            overflow: hidden;
+        }
+
+        &_content {
+            padding: 1.0416666666666665vw; //20px
+
+            h5 {
+                margin-bottom: 1.0416666666666665vw; //20px
+                position: relative;
+
+                &::before {
+                    content: '';
+                    position: absolute;
+                    width: 5.729166666666666vw; //110px
+                    height: 0.26041666666666663vw; //5px
+                    background-color: $brand-color;
+                    bottom: -1.0416666666666665vw; //20px
+               
+                }
+            }
+
+            p {
+                margin-bottom: 0;
+                padding-top: 1.0416666666666665vw; //20px;
+           
+            }
+        }
+    }
+
+    @media screen and (min-width: 1920.98px) {
+        &_section {
+            .section_heading {
+                margin-bottom: 70px;
+            }
+        }
+
+        &_card {
+            @include border-radius(30px);
+        }
+
+        &_selected {
+            &_content_overlay {
+                padding: 100px 50px 50px;
+
+                .selected_event_content {
+                    h2 {
+                        margin-bottom: 20px;
+                    }
+                }
+            }
+        }
+
+        &_content {
+            padding: 20px;
+
+            h5 {
+                margin-bottom: 20px;
+
+                &::before {
+                    width: 110px;
+                    height: 5px;
+                    bottom: -20px;
+                }
+            }
+
+            p {
+                margin-bottom: 0;
+            }
+        }
+    }
 }

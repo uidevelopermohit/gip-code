@@ -14,411 +14,497 @@
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;500;700;900&display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
         rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css"
-        type="text/css" media="screen" />
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css"
+        type="text/css" media="screen" /> -->
     <link rel="stylesheet" href="assets/scss/main-style.min.css">
 </head>
+
 <body>
-<!--Header Start Here-->
-<header>
-    <div class="container-topbar">
-        <div class="topbar">
-            <div class="row">
-                <div class="fst_box">
-
-                </div>
-                <div class="scnd_box">
-                    <p class="top_bar_dte">September 20, 2023 &nbsp; | &nbsp;23:40 hrs</p>
-                    <button class="tp_bar-lnguage_btn"><img src="assets/images/language/flaglanguageen.png" class="flag_languge"><span class="btn_topbar">English</span></button>
-                    <button class="tp_bar-lnguage_btn_1">GIP Dashboard</button>
+    <!--Header Start Here-->
+    <header>
+        <div class="header_topbar">
+            <div class="container_fluid">
+                <div class="header_top_content">
+                    <div class="date_time">September 20, 2023 | 23:40 hrs</div>
+                    <div class="font_size">A</div>
+                    <!-- <div class="website_language"><img src="assets/images/language/flaglanguageen.png" width="27"
+                            height="14px" alt=""> English</div> -->
+                    <div class="dashoard_cta">GIP Dashboard</div>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="container-navigation-bar">
-        <div class="row">
-            <div class="logo_section">
-                <img src="assets/images/headerlogo/headerfirst.png" class="fst_logo">
-                <img src="assets/images/headerlogo/headersecond.png" class="second_logo">
+        <div class="container_fluid">
+            <nav class="navbar">
+                <div class="navbar_brand">
+                    <img src="assets/images/headerlogo/headerfirst.png" class="fst_logo">
+                    <img src="assets/images/headerlogo/headersecond.png" class="second_logo">
+                </div>
+                <ul class="navbar_nav">
+                    <li class="nav_item"><a href="">GIP</a></li>
+                    <li class="nav_item"><a href="">G20 Country Initiatives</a></li>
+                    <li class="nav_item"><a href="">Forest Fire Impacted Landscapes</a></li>
+                    <li class="nav_item"><a href="">Mining Afected Landscapes</a></li>
+                    <li class="nav_item"><a href="">Financing Options</a></li>
+                    <li class="nav_item"><a href="">Events & News</a></li>
+                    <li class="nav_item"><a href="">Contact</a></li>
+                    <li class="nav_item"><a href="">Media</a></li>
+                </ul>
+                <div class="navbar_brand">
+                    <img src="assets/images/headerlogo/g20header.png" class="fst_logo">
+                </div>
+            </nav>
+        </div>
+    </header>
+    <!--Header End Here-->
+
+    <!--Banner Section Start Here-->
+    <section class="banner">
+        <div class="owl-carousel banner_slider">
+            <div class="item">
+                <img src="assets/images/banner/banner-1.jpg" alt="">
             </div>
-            <div class="navigation">
-                <!--Added Section -->
-                <nav class="navbar">
-                    <ul class="navbar-list">
-                        <li><a class="navbar_link" href="">GIP</a></li>
-                        <li><a class="navbar_link" href="">G20 Country Initiatives</a></li>
-                        <li><a class="navbar_link" href="">Forest Fire Impacted Landscapes</a></li>
-                        <li><a class="navbar_link" href="">Mining Afected Landscapes</a></li>
-                        <li><a class="navbar_link" href="">Financing Options</a></li>
-                        <li><a class="navbar_link" href="">Events & News</a></li>
-                        <li><a class="navbar_link" href="">Contact</a></li>
-                        <li><a class="navbar_link" href="">Media</a></li>
-                   
-                    </ul>   
-                </nav>
-                <!--Added Section -->
+            <div class="item">
+                <img src="assets/images/banner/banner-2.jpg" alt="">
             </div>
-            <div class="logo_section_third">
-                <img src="assets/images/headerlogo/g20header.png" class="third_logo">
+            <div class="item">
+                <img src="assets/images/banner/banner-3.jpg" alt="">
+            </div>
+            <div class="item">
+                <img src="assets/images/banner/banner-4.jpg" alt="">
             </div>
         </div>
-    </div>
-</header>
+    </section>
+    <!--Banner Section End Here-->
 
-<!--Header End Here-->
-<!--Banner Section Start Here-->
-<section class="banner">
-
-
-
-
-</section>
-
-<!--Banner Section End Here-->
-<!-- Minister Section Start-->
-<Section class="minister_Section">
-    <div class="container">
-        <div class="row">
-            <div class=" first_box">
-                <div class="row">
-                    <div class="image_section_first">
-                        <img src="assets/images/ministersection/playbtn.png" class="ply_btn">
-                        <h2 class="minister_section_heading">Prime Minister’s Message</h2>
-                        <p class="minister_section_discription"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic.</p>
+    <!-- Minister Section Start-->
+    <Section class="minister_Section common_spacing">
+        <div class="container_fluid">
+            <div class="flex_row">
+                <div class="col_8">
+                    <div class="minister_card">
+                        <div class="minister_card_image">
+                            <img src="assets/images/ministersection/narendermodiji.png" alt="">
+                        </div>
+                        <div class="minister_card_content">
+                            <h2>Prime Minister's Message</h2>
+                            <p> Lorem Ipsum is simply dummy text of the printing
+                                and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever
+                                since the 1500s, when an unknown printer took a galley of type and scrambled it to make
+                                a type specimen book. It has survived not only five centuries, but also the leap into
+                                electronic.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col_4">
+                    <div class="minister_card">
+                        <div class="minister_card_image">
+                            <img src="assets/images/ministersection/ministerimage.png" alt="">
+                        </div>
+                        <div class="minister_card_content">
+                            <h2>Minister’s Message</h2>
+                            <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+                                has been the industry's standard dummy text ever since.</p>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="col-4">
-                <div class="second_section">
-                    <img src="assets//images/ministersection/ministerimage.png" class="image_section_second">
-                    <h2 class="minister_section_heading">Minister’s Message</h2>
-                    <p class="minister_section_discription"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
+        </div>
+    </Section>
+    <!--Minister Section End-->
+
+    <!--About Section Start-->
+    <section class="about_section common_spacing">
+        <div class="container_fluid">
+            <div class="flex_row">
+                <div class="col_4">
+                    <div class="about_cards">
+                        <h5>About G20</h5>
+                        <p>Following the Asian financial crisis, the G20 was established in 1999 as a forum for Finance
+                            Ministers and Central Bank Governors to discuss global economic and financial concerns...
+                        </p>
+                        <a href="#">View More</a>
+                    </div>
+                </div>
+                <div class="col_4">
+                    <div class="about_cards">
+                        <h5>G20 Presidency - India</h5>
+                        <p>India’s G20 presidency has marked a significant milestone in global
+                            leadership, focusing on inclusive growth, digital innovation, climate resilience, and
+                            equitable global health access...</p>
+                        <a href="#">View More</a>
+                    </div>
+                </div>
+                <div class="col_4">
+                    <div class="about_cards">
+                        <h5>History of GIP</h5>
+                        <p>The Ministerial Communiqué of the G20 Environmental Ministers Meet during the Saudi Arabia
+                            Summit 2020 recognised the urgent need for bold, coordinated, and collective initiatives on
+                            land protection...</p>
+                        <a href="#">View More</a>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-</Section>
+    </section>
+    <!--About Section End-->
 
-<!--Minister Section End-->
-<!--About Section Start-->
-<section class="about_section">
-    <div class="container">
-        <div class="row abt_inr_sctn">
-            <div class=" abt_first_bx">
-                <div class="abt_inr_fst_Sctn">
-                    <h3 class="abt_hdng">About G20</h3>
-                    <p class="abt_dscrptn">Following the Asian financial crisis, the G20 was established in 1999 as a forum for Finance Ministers and Central Bank Governors to discuss global economic and financial concerns...</p>
-                    <a href="#"><u>View More</u></a>
+    <!--Thematic Section Start-->
+    <section class="thematic_section common_spacing">
+        <a href="" class="thematic_section_card" style="background-image: url('assets/images/thematic/forest.png');">
+            <div class="thematic_section_card_content">
+                <h2>Forest Fires Impacted Landscapes</h2>
+            </div>
+        </a>
+        <a href="" class="thematic_section_card" style="background-image: url('assets/images/thematic/mining.png');">
+            <div class="thematic_section_card_content">
+                <h2>Forest Fires Impacted Landscapes</h2>
+            </div>
+        </a>
+        <a href="" class="thematic_section_card" style="background-image: url('assets/images/thematic/financing.png');">
+            <div class="thematic_section_card_content">
+                <h2>Forest Fires Impacted Landscapes</h2>
+            </div>
+        </a>
+    </section>
+    <!--Thematic Section End-->
+
+    <!--G20 Member Section Start-->
+    <section class="members_section">
+        <div class="container_fluid">
+            <div class="members_section_heading_content">
+                <h2>G20 Members</h2>
+                <p>Lorem egestas, leo nisl convallis sem, ac vulputate lacus sapien id quam.
+                    Donec laoreet suscipit posuere. Integer aliquet ipsum ac condimentum vulputate. Maecenas in purus
+                    pellentesque, dapibus augue ut, tincidunt metus.</p>
+            </div>
+
+            <ul class="members_flag">
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/argantina.png">
+                        <h5>Argentina</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/australia.png">
+                        <h5>Australia</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/brazil.png">
+                        <h5>Brazil</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/canada.png">
+                        <h5>Canada</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/china.png">
+                        <h5>China</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/france.png">
+                        <h5>France</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/germany.png">
+                        <h5>Germany</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/india.png">
+                        <h5>India</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/indonesia.png">
+                        <h5>Indonesia</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/italy.png">
+                        <h5>Italy</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/japan.png">
+                        <h5>Japan</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/mexico.png">
+                        <h5>Mexico</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/korea.png">
+                        <h5>Korea</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/russia.png">
+                        <h5>Russia</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/saudiarabia.png">
+                        <h5>Saudi Arabia</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/southafrica.png">
+                        <h5>South Africa</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/turkiya.png">
+                        <h5>Turkiya</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/unitedkingdom.png">
+                        <h5>United Kingdom</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/unitedstates.png">
+                        <h5>United States</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/europeanunion.png">
+                        <h5>European Union</h5>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="assets/images/flags/africanunion.png">
+                        <h5>African Union</h5>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <!--G20 Member Section Start-->
+
+    <!--Event Section Start-->
+    <section class="events_section common_spacing">
+        <div class="container_fluid">
+            <div class="section_heading">
+                <h2>Events & News</h2>
+            </div>
+            <div class="events_selected">
+                <img src="assets/images/events/events.png" alt="">
+                <div class="events_selected_content_overlay">
+                    <div class="selected_event_content">
+                        <h2>1st ECSWG meet: Bengaluru</h2>
+                        <p>First Environment and Climate Sustainability Working Group (ECSWG) meeting concluded in
+                            Bengaluru with all G20 countries showing commitment to constructively work towards the
+                            objective of the three priority areas</p>
+                    </div>
+                    <div class="selected_event_date">
+                        <span>Feb 9-11</span>
+                        <h6>2023</h6>
+                    </div>
                 </div>
             </div>
-            <div class=" abt_first_bx_2">
-                <div class="abt_inr_fst_Sctn">
-                    <h3 class="abt_hdng">G20 Presidency - India</h3>
-                    <p class="abt_dscrptn">India’s G20 presidency has marked a significant milestone in global leadership,
-                        focusing on inclusive growth, digital innovation, climate resilience, and equitable global health access...</p>
-                    <a href="#"><u>View More</u></a>
+
+            <div class="owl-carousel events_slider">
+                <div class="events_card">
+                    <div class="events_card_image">
+                        <img src="assets/images/events/events.png" alt="">
+                    </div>
+                    <div class="events_card_content">
+                        <h5>1st ECSWG meet: Bengaluru</h5>
+                        <p>February 9 to 11, 2023</p>
+                    </div>
+                </div>
+                <div class="events_card">
+                    <div class="events_card_image">
+                        <img src="assets/images/events/events.png" alt="">
+                    </div>
+                    <div class="events_card_content">
+                        <h5>1st ECSWG meet: Bengaluru</h5>
+                        <p>February 9 to 11, 2023</p>
+                    </div>
+                </div>
+                <div class="events_card">
+                    <div class="events_card_image">
+                        <img src="assets/images/events/events.png" alt="">
+                    </div>
+                    <div class="events_card_content">
+                        <h5>1st ECSWG meet: Bengaluru</h5>
+                        <p>February 9 to 11, 2023</p>
+                    </div>
+                </div>
+                <div class="events_card">
+                    <div class="events_card_image">
+                        <img src="assets/images/events/events.png" alt="">
+                    </div>
+                    <div class="events_card_content">
+                        <h5>1st ECSWG meet: Bengaluru</h5>
+                        <p>February 9 to 11, 2023</p>
+                    </div>
+                </div>
+                <div class="events_card">
+                    <div class="events_card_image">
+                        <img src="assets/images/events/events.png" alt="">
+                    </div>
+                    <div class="events_card_content">
+                        <h5>1st ECSWG meet: Bengaluru</h5>
+                        <p>February 9 to 11, 2023</p>
+                    </div>
                 </div>
             </div>
-            <div class="abt_first_bx_3">
-                <div class="abt_inr_fst_Sctn">
-                    <h3 class="abt_hdng">history of GIP</h3>
-                    <p class="abt_dscrptn">The Ministerial Communiqué of the G20 Environmental Ministers Meet during the Saudi Arabia Summit 2020 recognised the urgent need for bold, coordinated, and collective initiatives on land protection...</p>
-                    <a href="#"><u>View More</u></a>
-                </div>
-            </div>
         </div>
-    </div>
-</section>
+    </section>
+    <!--Event Section End-->
 
-<!--About Section End-->
-<!--G20 Member Section Start-->
-<section class="members_section">
-    <div class="thematic_row">
-        <h2 class="thematic_heading">G20 Members</h2>
-        <p class="member_discription">Lorem egestas, leo nisl convallis sem, ac vulputate lacus sapien id quam. Donec laoreet suscipit posuere. Integer aliquet ipsum ac condimentum vulputate. Maecenas in purus pellentesque, dapibus augue ut, tincidunt metus.</p>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="flag_section_1">
-                <img src="assets/images/flags/argantina.png" class="flag_img">
-                <h3 class="flag_name">Argentina</h3>
-            </div>
-            <div class="flag_section">
-                <img src="assets/images/flags/australia.png" class="flag_img">
-                <h3 class="flag_name">Australia</h3>
-            </div>
-            <div class="flag_section">
-                <img src="assets/images/flags/brazil.png" class="flag_img">
-                <h3 class="flag_name">Brazil</h3>
-            </div>
-            <div class="flag_section">
-                <img src="assets/images/flags/canada.png" class="flag_img">
-                <h3 class="flag_name">Canada</h3>
-            </div>
-            <div class="flag_section">
-                <img src="assets/images/flags/china.png" class="flag_img">
-                <h3 class="flag_name">China</h3>
-            </div>
-            <div class="flag_section">
-                <img src="assets/images/flags/france.png" class="flag_img">
-                <h3 class="flag_name">France</h3>
-            </div>
-            <div class="flag_section">
-                <img src="assets/images/flags/germany.png" class="flag_img">
-                <h3 class="flag_name">Germany</h3>
-            </div>
-        </div>
-        <div class="row">
-            <div class="flag_section_1">
-                <img src="assets/images/flags/india.png" class="flag_img">
-                <h3 class="flag_name">India</h3>
-            </div>
-            <div class="flag_section">
-                <img src="assets/images/flags/indonesia.png" class="flag_img">
-                <h3 class="flag_name">Indonesia</h3>
-            </div>
-            <div class="flag_section">
-                <img src="assets/images/flags/italy.png" class="flag_img">
-                <h3 class="flag_name">Italy</h3>
-            </div>
-            <div class="flag_section">
-                <img src="assets/images/flags/japan.png" class="flag_img">
-                <h3 class="flag_name">Japan</h3>
-            </div>
-            <div class="flag_section">
-                <img src="assets/images/flags/mexico.png" class="flag_img">
-                <h3 class="flag_name">Mexico</h3>
-            </div>
-            <div class="flag_section">
-                <img src="assets/images/flags/korea.png" class="flag_img">
-                <h3 class="flag_name">Korea</h3>
-            </div>
-            <div class="flag_section">
-                <img src="assets/images/flags/russia.png" class="flag_img">
-                <h3 class="flag_name">Russia</h3>
-            </div>
-        </div>
-        <div class="row">
-            <div class="flag_section_1">
-                <img src="assets/images/flags/saudiarabia.png" class="flag_img">
-                <h3 class="flag_name">Saudi Arabia</h3>
-            </div>
-            <div class="flag_section">
-                <img src="assets/images/flags/southafrica.png" class="flag_img">
-                <h3 class="flag_name">South Africa</h3>
-            </div>
-            <div class="flag_section">
-                <img src="assets/images/flags/turkiya.png" class="flag_img">
-                <h3 class="flag_name">Turkiya</h3>
-            </div>
-            <div class="flag_section">
-                <img src="assets/images/flags/unitedkingdom.png" class="flag_img">
-                <h3 class="flag_name">United Kingdom</h3>
-            </div>
-            <div class="flag_section">
-                <img src="assets/images/flags/unitedstates.png" class="flag_img">
-                <h3 class="flag_name">United States</h3>
-            </div>
-            <div class="flag_section">
-                <img src="assets/images/flags/europeanunion.png" class="flag_img">
-                <h3 class="flag_name">European Union</h3>
-            </div>
-            <div class="flag_section">
-                <img src="assets/images/flags/africanunion.png" class="flag_img">
-                <h3 class="flag_name">African Union</h3>
-            </div>
-        </div>
-    </div>
-</section>
-<!--G20 Member Section Start-->
-<!--Thematic Section Start-->
-<section class="thematic_section">
-        <div class="thematic_row">
-            <h2 class="thematic_heading">Thematic Sections</h2><br>
-        </div>
-        <div class="row">
-            <div class="forest_section">
-                <h2 class="thematic_section_heading">Forest Fires
-                    Impacted Landscapes</h2>
-            </div>
-            <div class="mining_section">
-                <h2 class="thematic_section_heading">Mining Affected
-                    Landscapes</h2>
-            </div>
-            <div class="financing_section">
-                <h2 class="thematic_section_heading">Financing<br>
-                    Options</h2>
-            </div>
-        </div>
-</section>
-<!--Thematic Section End-->
-<!--Event Section Start-->
-<section class="events">
-    <div class="thematic_row">
-        <h2 class="thematic_heading">Events & News</h2><br>
-    </div>
-    <div class="container">
-        <div class="events_img">
-            <div class="row">
-            <div class="col-8">
-            <h2 class="evnts_hdng">1st ECSWG meet: Bengaluru</h2>
-            <p class="events_dscrptn">First Environment and Climate Sustainability Working Group (ECSWG) meeting concluded in
-                Bengaluru with all G20 countries showing commitment to constructively work towards the
-                objective of the three priority areas</p>  
-            </div>
-            <div class=" box_date">
-                
-                <p class="events_dscrptn">Feb 9-11<br>
-                <span class="year">2023</span></p>  
-            </div>
-        </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class=" ents_bx">
-                <img src="assets/images/events/events.png" class="evnts_imge">
-                <h4 class="events_hdng">1st ECSWG meet: Bengaluru</h4>
-                <hr class="events_bottom">
-                <p class="evnts_date">February 9 to 11,  2023</p>
-            </div>
-            <div class=" ents_bx">
-                <img src="assets/images/events/events.png" class="evnts_imge">
-                <h4 class="events_hdng">1st ECSWG meet: Bengaluru</h4>
-                <hr class="events_bottom">
-                <p class="evnts_date">February 9 to 11,  2023</p>
-            </div>
-            <div class=" ents_bx">
-                <img src="assets/images/events/events.png" class="evnts_imge">
-                <h4 class="events_hdng">1st ECSWG meet: Bengaluru</h4>
-                <hr class="events_bottom">
-                <p class="evnts_date">February 9 to 11,  2023</p>
-            </div>
-            <div class=" ents_bx">
-                <img src="assets/images/events/events.png" class="evnts_imge">
-                <h4 class="events_hdng">1st ECSWG meet: Bengaluru</h4>
-                <hr class="events_bottom">
-                <p class="evnts_date">February 9 to 11,  2023</p>
-            </div>
-        </div>
-    </div>
-</section>
-
-
-<!--Event Section End-->
-<!--Logo Section Start-->
-<section class="logos">
-    <div class="container">
-        <div class="row">
+    <!--Logo Section Start-->
+    <section class="logos_section">
+        <div class="container_fluid">
             <div class="logos_stripe">
-                <img src="assets/images/logos/Life1.png" class="logo1">
-                <img src="assets/images/logos/icfre_logo.png" class="logo2">
-                <img src="assets/images/logos/Indian_Institute_of_Forest_Management.png" class="logo3">
-                <img src="assets/images/logos/image9.png" class="logo4">
-                <img src="assets/images/logos/image10.png" class="logo5">
-                <img src="assets/images/logos/UNDP_logo_1undp.png" class="logo6">
+                <img src="assets/images/logos/Life1.png">
+                <img src="assets/images/logos/icfre_logo.png">
+                <img src="assets/images/logos/Indian_Institute_of_Forest_Management.png">
+                <img src="assets/images/logos/image9.png">
+                <img src="assets/images/logos/image10.png">
+                <img src="assets/images/logos/UNDP_logo_1undp.png">
+            </div>
+        </div>
+    </section>
+    <!--Logo Section End-->
+
+
+    <!-- Footer starts here -->
+    <hr class="footer_top">
+    <footer class="common_spacing">
+        <div class="container_fluid">
+            <div class="flex_row">
+                <div class="col_2">
+                    <img src="assets/images/footer/footerlogog20.png" class="footer_logo">
+                    <p>The Group of Twenty (G20) was established in 1999 to discuss
+                        international economic and financial stability...</p>
+                    <a href="#"><u>View More</u></a>
+                </div>
+                <div class="col_2">
+                    <div class="footer_links">
+                        <h5>GIP</h5>
+                        <ul>
+                            <li><a href="#">PM’s Message</a></li>
+                            <li><a href="#"> Minister’s Message</a></li>
+                            <li> <a href="#"> G20 Presidency - India</a></li>
+                            <li> <a href="#"> About GIP</a></li>
+                            <li> <a href="#"> ICFRE-COE</a></li>
+                            <li> <a href="#"> IIFM</a></li>
+                            <li> <a href="#"> UNDP</a></li>
+                            <li> <a href="#"> Event</a></li>
+                            <li> <a href="#"> Contact</a></li>
+                            <li><a href="#"> Media</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col_2">
+                    <div class="footer_links">
+                        <h5>Mining Affected Landscapes</h5>
+                        <ul>
+                            <li><a href="#">Policies and Programs</a></li>
+                            <li><a href="#"> Knowledge Resources</a></li>
+                            <li> <a href="#"> Design Frameworks</a></li>
+                            <li> <a href="#">Technology & Tools</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col_2">
+                    <div class="footer_links">
+                        <h5>Forest Fires Impacted Landscapes</h5>
+                        <ul>
+                            <li><a href="#">Policies and Programs</a></li>
+                            <li><a href="#"> Knowledge Resources</a></li>
+                            <li> <a href="#"> Design Frameworks</a></li>
+                            <li> <a href="#">Technology & Tools</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col_2">
+                    <div class="footer_links">
+                        <h5>Financing <br>Options</h5>
+                        <ul>
+                            <li><a href="#">Public Programs and schemes</a></li>
+                            <li><a href="#"> Financial Institutions</a></li>
+                            <li> <a href="#"> Financial Markets</a></li>
+                            <li> <a href="#"> Private Sector funding</a></li>
+                            <li> <a href="#"> Bi / Multilateral Environmental</a></li>
+                            <li> <a href="#"> Agreements</a></li>
+                            <li> <a href="#"> High Impact proposals</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col_2">
+                    <div class="footer_links">
+                        <h5>G20 <br>Countries</h5>
+                        <ul class="footr_lnks_ul">
+                            <li><a href="#">Policies and Programs</a></li>
+                            <li><a href="#"> Good Practices</a></li>
+                            <li> <a href="#">Traditional/Indigenous Knowledge</a></li>
+                            <li> <a href="#">Design Frameworks</a></li>
+                            <li> <a href="#"> Knowledge Resources</a></li>
+                            <li> <a href="#">Social Media Links</a></li>
+                            <li> <a href="#">National Events and News</a></li>
+                            <li> <a href="#">Financing for land Conservation and Restoration</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="bottom_footer">
+        <div class="container_fluid">
+            <div class="flex_row">
+                <div class="col_9">
+                    <p><a href="#">Website Policy</a> | <a href="#"> Disclaimer</a> | <a href="">Terms and Conditions</a> | <a href="">Notifications</a> | <a href="">Filtration </a> | <a href="" >Hyperlinking Policy</a> | <a href="">Accessibility Statement</a></p>
+                </div>
+                <div class="col_3 text_right">
+                    <p>©2023 . All Rights Reserved.</p>
+                </div>
             </div>
         </div>
     </div>
-</section>
-
-<!--Logo Section End-->
-<!-- Footer starts here -->
-<hr class="footer_top">
-<footer>
-   <div class="container">
-        <div class="row">
-            <div class="col-1">
-                <img src="assets/images/footer/footerlogog20.png" class="footr_lgo">
-                <p class="footer_logo_discription">The Group of Twenty (G20) was established in 1999 to discuss international economic and financial stability...</p>
-                <a href="#"><u>View More</u></a>
-            </div>
-
-            <div class="col-1">
-                <h3 class="footer_lnks_heading">GIP</h3>
-                <ul class="footr_lnks_ul">
-                    <li><a href="#" class="footer_lnks">PM’s Message</a></li>
-                    <li><a href="#" class="footer_lnks"> Minister’s Message</a></li>
-                    <li> <a href="#" class="footer_lnks"> G20 Presidency - India</a></li>
-                    <li> <a href="#" class="footer_lnks"> About GIP</a></li>
-                    <li> <a href="#" class="footer_lnks"> ICFRE-COE</a></li>
-                    <li> <a href="#" class="footer_lnks"> IIFM</a></li>
-                    <li> <a href="#" class="footer_lnks"> UNDP</a></li>
-                    <li> <a href="#" class="footer_lnks"> Event</a></li>
-                    <li> <a href="#" class="footer_lnks">  Contact</a></li>
-                    <li><a href="#" class="footer_lnks"> Media</a></li>
-                </ul>
-            </div>
-
-            <div class="col-1">
-                <h3 class="footer_lnks_heading">Mining Affected Landscapes</h3>
-                <ul class="footr_lnks_ul">
-                    <li><a href="#" class="footer_lnks">Policies and Programs</a></li>
-                    <li><a href="#" class="footer_lnks"> Knowledge Resources</a></li>
-                    <li> <a href="#" class="footer_lnks"> Design Frameworks</a></li>
-                    <li> <a href="#" class="footer_lnks">Technology & Tools</a></li>
-                </ul>
-            </div>
-
-            <div class="col-2">
-                <h3 class="footer_lnks_heading">Forest Fires Impacted Landscapes</h3>
-                <ul class="footr_lnks_ul">
-                    <li><a href="#" class="footer_lnks">Policies and Programs</a></li>
-                    <li><a href="#" class="footer_lnks"> Knowledge Resources</a></li>
-                    <li> <a href="#" class="footer_lnks"> Design Frameworks</a></li>
-                    <li> <a href="#" class="footer_lnks">Technology & Tools</a></li>
-                </ul>
-            </div>
-
-            <div class="col-2">
-                <h3 class="footer_lnks_heading">Financing <br>Options</h3>
-                <ul class="footr_lnks_ul">
-                    <li><a href="#" class="footer_lnks">Public Programs and schemes</a></li>
-                    <li><a href="#" class="footer_lnks"> Financial Institutions</a></li>
-                    <li> <a href="#" class="footer_lnks">  Financial Markets</a></li>
-                    <li> <a href="#" class="footer_lnks"> Private Sector funding</a></li>
-                    <li> <a href="#" class="footer_lnks"> Bi / Multilateral Environmental</a></li>
-                    <li> <a href="#" class="footer_lnks"> Agreements</a></li>
-                    <li> <a href="#" class="footer_lnks">  High Impact proposals</a></li>
-                </ul>
-            </div>
-
-            <div class="col-3">
-                <h3 class="footer_lnks_heading">G20  <br>Countries</h3>
-                <ul class="footr_lnks_ul">
-                     <li><a href="#" class="footer_lnks">Policies and Programs</a></li>
-                    <li><a href="#" class="footer_lnks"> Good Practices</a></li>
-                    <li> <a href="#" class="footer_lnks">Traditional/Indigenous Knowledge</a></li>
-                    <li> <a href="#" class="footer_lnks">Design Frameworks</a></li>
-                    <li> <a href="#" class="footer_lnks"> Knowledge Resources</a></li>
-                    <li> <a href="#" class="footer_lnks">Social Media Links</a></li>
-                    <li> <a href="#" class="footer_lnks">National Events  and News</a></li>
-                    <li> <a href="#" class="footer_lnks">Financing for land Conservation  and Restoration</a></li>
-                </ul>
-            </div>
-        </div>
-   </div>
-</footer>
-<div class="bottom_footer_container">
-    <div class="row">
-        <div class="col-11">
-            <p class="bottom_lnk"><a href="#" class="bootom_footer_lnk">Website Policy</a>     |    <a href="#" class="bootom_footer_lnk"> Disclaimer</a>     |    <a href="" class="bootom_footer_lnk">Terms and Conditions</a>     |     <a href="" class="bootom_footer_lnk">Notifications</a>     |     <a href="" class="bootom_footer_lnk">Filtration </a>    |    <a href="" class="bootom_footer_lnk">Hyperlinking Policy</a>     |     <a href="" class="bootom_footer_lnk">Accessibility Statement</a></p>
-        </div>
-        <div class="col-3">
-            <p class="dscrptn_bottom_footer">©2023 . All Rights Reserved.</p>
-        </div>
-    </div>
-</div>
 
 
     <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
     <script src="assets/js/jquery.min.js"></script>
-    <script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+    <!-- <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script> -->
     <script src="assets/js/owl.carousel.min.js"></script>
     <script src="assets/js/custom.js"></script>
 </body>

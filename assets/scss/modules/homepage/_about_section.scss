@@ -1,88 +1,118 @@
-.about_section
-{
-    width: 100%;
-    margin-top: 40px;
-    margin-bottom: 95px;
-    padding-left: 18px;
-    padding-right: 40px;
+.about {
+    &_section {}
+
+    &_cards {
+        padding: 2.604166666666667vw; //50px
+        @include border-radius(1.5625vw); //30px
+        @include box-shadow(0, 0, 50px, rgba(0, 0, 0, 0.1));
+
+        h5 {
+            margin-bottom: 1.5625vw; //30px
+       
+        }
+
+        p {
+            margin-bottom: 0;
+        }
+
+        a {
+            text-decoration: underline;
+            margin-top: 1.0416666666666665vw;   //20px
+            display: inline-block;
+        }
+    }
+
+    @media screen and (min-width: 1920.98px) {
+        &_cards {
+            @include border-radius(30px);
+
+            padding: 50px;
+
+            h5 {
+                margin-bottom: 30px;
+            }
+            a {
+                margin-top: 20px;
+            }
+        }
+    }
 }
-.abt_inr_sctn
-{
+
+.abt_inr_sctn {
     width: 1760px;
-height: 378px;
-border-radius: 30px;
-border: 1px;
+    height: 378px;
+    border-radius: 30px;
+    border: 1px;
 }
-.abt_first_bx
-{
-height: 378px;
-top: 1917px;
-left: 80px;
-border-radius: 30px;
-border: 1px;
-background-image:linear-gradient(0deg, rgb(248 247 246 / 83%) 0%, rgb(249 248 246) 99.24%),url('../images/abt/pinklotus.png');
-background-repeat: no-repeat;
-background-position:100% 97%; 
-margin-left: 40px;
-margin-right: 40px;
+
+.abt_first_bx {
+    height: 378px;
+    top: 1917px;
+    left: 80px;
+    border-radius: 30px;
+    border: 1px;
+    background-image: linear-gradient(0deg, rgb(248 247 246 / 83%) 0%, rgb(249 248 246) 99.24%), url("../images/abt/pinklotus.png");
+    background-repeat: no-repeat;
+    background-position: 100% 97%;
+    margin-left: 40px;
+    margin-right: 40px;
 }
-.abt_first_bx_2
-{
-height: 378px;
-top: 1917px;
-left: 80px;
-border-radius: 30px;
-border: 1px;
-background-image:linear-gradient(0deg, rgba(248, 247, 246, 0.83) 0%, rgb(249 247 243 / 26%) 99.24%),url('../images/abt/green.png');
-background-repeat: no-repeat;
-background-position:100% 97%; 
-margin-left: 40px;
-margin-right: 40px;
+
+.abt_first_bx_2 {
+    height: 378px;
+    top: 1917px;
+    left: 80px;
+    border-radius: 30px;
+    border: 1px;
+    background-image: linear-gradient(0deg, rgba(248, 247, 246, 0.83) 0%, rgb(249 247 243 / 26%) 99.24%), url("../images/abt/green.png");
+    background-repeat: no-repeat;
+    background-position: 100% 97%;
+    margin-left: 40px;
+    margin-right: 40px;
 }
-.abt_first_bx_3
-{
-height: 378px;
-top: 1917px;
-left: 80px;
-border-radius: 30px;
-border: 1px;
-background-image:linear-gradient(0deg, rgba(248, 247, 246, 0.83) 0%, rgb(249 248 246 / 22%) 99.24%),url('../images/abt/grey.png');
-background-repeat: no-repeat;
-background-position:101% 97%; 
-margin-left: 40px;
-margin-right: 40px;
+
+.abt_first_bx_3 {
+    height: 378px;
+    top: 1917px;
+    left: 80px;
+    border-radius: 30px;
+    border: 1px;
+    background-image: linear-gradient(0deg, rgba(248, 247, 246, 0.83) 0%, rgb(249 248 246 / 22%) 99.24%), url("../images/abt/grey.png");
+    background-repeat: no-repeat;
+    background-position: 101% 97%;
+    margin-left: 40px;
+    margin-right: 40px;
 }
-.abt_inr_fst_Sctn
-{
+
+.abt_inr_fst_Sctn {
     width: 413px;
     height: 378px;
     border-radius: 30px;
-        padding: 58px;
+    padding: 58px;
     text-align: justify;
-box-shadow: 0px 0px 50px 0px #0000001A;
+    box-shadow: 0px 0px 50px 0px #0000001A;
+}
 
-}
-.abt_dscrptn
-{
+.abt_dscrptn {
     //styleName: Body Font;
-font-family: Plus Jakarta Sans;
-font-size: 18px;
-font-weight: 500;
-line-height: 30px;
-letter-spacing: 0em;
-text-align: left;
-color: #000;
-margin-bottom: 16px;
+    font-family: Plus Jakarta Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000;
+    margin-bottom: 16px;
 }
-.abt_hdng
-{
+
+.abt_hdng {
     //styleName: H3;
-font-family: Plus Jakarta Sans;
-font-size: 24px;
-font-weight: 700;
-line-height: 30px;
-letter-spacing: 0em;
-text-align: left;
-color:#000;
-padding-bottom: 17px;
+    font-family: Plus Jakarta Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000;
+    padding-bottom: 17px;
 }

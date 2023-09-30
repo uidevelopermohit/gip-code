@@ -1,55 +1,91 @@
-.thematic_section
-{
-    height: 891px;
-    margin-bottom: 96px;
-    
-}
-.thematic_heading
-{
-    //styleName: H2;
-font-family: Plus Jakarta Sans;
-font-size: 40px;
-font-weight: 800;
-line-height: 50px;
-letter-spacing: 0em;
-text-align: center;
-background: linear-gradient(90deg, #E97F00 0%, #327C34 95.59%);;
--webkit-text-fill-color: transparent;
--webkit-background-clip: text;
-padding-bottom: 47px;
+.thematic {
+    &_section {
+        @include flexbox;
 
+        &_card {
+            flex: 0 0 33.33%;
+            width: 33.33%;
+            background-size: cover;
+            background-repeat: no-repeat;
+            position: relative;
+            color: $base-light-color;
+            height: 90vh;
+            @include flexbox();
+            @include align-items(end);
+
+            &::before {
+                content: '';
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                top: 0;
+                left: 0;
+                background-color: rgba(0, 0, 0, 0.1);
+            }
+
+            &_content {
+                padding: 5.208333333333334vw 2.604166666666667vw 2.604166666666667vw; //100px 50px 50px
+                // @include gradient(rgba(0,0,0,1), rgba(0,0,0,0));
+                background-image: linear-gradient(to top, rgba(0,0,0,1), rgba(0,0,0,0));
+            }
+        }
+    }
+
+    @media screen and (min-width: 1920.98px) {
+        &_section {
+            &_card {
+
+                &_content {
+                    padding: 100px 50px 50px;
+                }
+            }
+        }
+    }
 }
-.forest_section
-{
-    width: 640px;
-height: 771px;
-background-image: url('../images/thematic/forest.png');
+
+.thematic_heading {
+    //styleName: H2;
+    font-family: Plus Jakarta Sans;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: center;
+    background: linear-gradient(90deg, #E97F00 0%, #327C34 95.59%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    padding-bottom: 47px;
 }
-.mining_section
-{
+
+.forest_section {
     width: 640px;
     height: 771px;
-    background-image: url('../images/thematic/mining.png');
+    background-image: url("../images/thematic/forest.png");
 }
-.financing_section
-{
+
+.mining_section {
     width: 640px;
     height: 771px;
-    background-image: url('../images/thematic/financing.png');
+    background-image: url("../images/thematic/mining.png");
 }
-.thematic_section_heading
-{
+
+.financing_section {
+    width: 640px;
+    height: 771px;
+    background-image: url("../images/thematic/financing.png");
+}
+
+.thematic_section_heading {
     width: 475px;
-padding-left: 22px;
-padding-top: 648px;
+    padding-left: 22px;
+    padding-top: 648px;
 
     //styleName: H2;
-font-family: Plus Jakarta Sans;
-font-size: 36px;
-font-weight: 800;
-line-height: 50px;
-letter-spacing: 0em;
-text-align: left;
-color:#FFFFFF;
-
+    font-family: Plus Jakarta Sans;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
 }

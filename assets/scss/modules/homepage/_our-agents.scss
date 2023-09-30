@@ -84,17 +84,17 @@
                 padding: 0 2rem;
                 font-size: 200px;
 
-                // color: $website-brand-color-2;
+                // color: $brand-color-2;
                 text-transform: uppercase;
                 font-weight: 900;
                 -webkit-text-stroke-width: 1px;
-                -webkit-text-stroke-color: $website-brand-color-2;
+                -webkit-text-stroke-color: $brand-color-2;
                 font-family: roboto;
                 -webkit-text-fill-color: transparent;
 
                 span {
-                    -webkit-text-stroke-color: $website-brand-color-2;
-                    -webkit-text-fill-color: $website-brand-color-2;
+                    -webkit-text-stroke-color: $brand-color-2;
+                    -webkit-text-fill-color: $brand-color-2;
                 }
             }
         }

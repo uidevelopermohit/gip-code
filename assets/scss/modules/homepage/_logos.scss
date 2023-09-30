@@ -1,50 +1,27 @@
-.logos
-{
-width: 100%;
-padding-left: 150px;
-padding-right: 150px;
-padding-bottom: 150px;
-}
-.logos_stripe
-{
- width: 100%;
-height: 280px;
-border-radius: 30px;
-box-shadow: 0px 0px 50px 0px #0000001A;
-padding: 78px;
-}
-.logo1
-{
-    width: 202.16px;
-height: 73px;
-}
-.logo2
-{
-    width: 154px;
-height: 92px;
-padding-left: 40px;
-}
-.logo3
-{
-    width: 161px;
-height: 90px;
-padding-left: 62px;
-}
-.logo4
-{
-    width: 267.85px;
-height: 90px;
-padding-left: 59px;
-}
-.logo5
-{
-    width: 105px;
-height: 90px;
-padding-left: 40px;
-}
-.logo6
-{
-    width: 88.44px;
-height: 90px;
-padding-left: 40px;
+.logos {
+    &_section {}
+
+    &_stripe {
+        padding: 5.208333333333334vw; //100px
+        @include border-radius(1.5625vw); //30px
+        @include box-shadow(0, 0, 50px, rgba(0, 0, 0, 0.1));
+        @include flexbox();
+        justify-content: space-between;
+
+        img {
+            height: 4.6875vw;
+        }
+    }
+
+    @media screen and (min-width: 1920.98px) {
+        &_stripe {
+            padding: 100px;
+
+            @include border-radius(30px);
+
+            img {
+                height: 90px;
+            }
+        }
+    }
 }

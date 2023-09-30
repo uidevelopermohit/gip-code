@@ -52,7 +52,7 @@
     input:valid,
     textarea:focus,
     textarea:valid {
-        border-color: $website-brand-color;
+        border-color: $brand-color;
     }
 
     input:focus ~ label,
@@ -61,6 +61,6 @@
     textarea:valid ~ label {
         font-size: 14px;
         top: -24px;
-        color: $website-brand-color;
+        color: $brand-color;
     }
 }
