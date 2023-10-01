@@ -16,6 +16,10 @@ body {
     font-weight: $base-font-weight;
 }
 
+.overflow_wrapper {
+    overflow: hidden;
+}
+
 img {
     max-width: 100%;
     height: auto;
@@ -198,9 +202,11 @@ h6 {
     font-size: 1.4583333333333333vw; //28px
     font-weight: 500;
 }
+
 .section_heading {
     text-align: center;
 }
+
 .common_spacing {
     padding-top: 6.25vw; //120px
     //padding-bottom: 6.25vw; //120px
@@ -228,19 +234,49 @@ h6 {
     @include align-items(center);
 }
 
+.gradient_container {
+    position: relative;
+
+    &::before,
+    &::after {
+        content: '';
+        position: absolute;
+        left: -5.989583333333334vw; //115px
+        top: 2.604166666666667vw; //50px
+        width: 26.041666666666668vw; //500px
+        height: 26.041666666666668vw; //500px
+        background-color: $brand-color;
+        border-radius: 100%;
+        filter: blur(200px);
+    }
+
+    &::before {
+        left: auto;
+        top: auto;
+        bottom: -2.604166666666667vw; //50px
+        right: -5.989583333333334vw; //115px
+        background-color: $brand-color-2;
+    }
+}
+
 .play_icon {
-    width: 100px;
-    height: 100px;
+    width: 5.208333333333334vw; //100px
+    height: 5.208333333333334vw; //100px
 
     @extend .middle_align;
 
-    background: $base-color;
+    background: $brand-color-4;
 
     @include border-radius(100px);
 
-    color: $base-font-color;
-    font-size: 22px;
-    position: relative;
+    color: $base-light-color;
+    font-size: 1.1458333333333333vw; //22px
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -2.604166666666667vw; //50px
+    margin-top: -2.604166666666667vw; //50px
+    cursor: pointer;
 
     &::after {
         opacity: 0;
@@ -256,7 +292,7 @@ h6 {
         content: "";
         height: 100%;
         width: 100%;
-        border: 8px solid rgba(0, 0, 0, 0.2);
+        border: 8px solid rgba(0, 117, 188, 0.5);
         border-radius: 100%;
         -webkit-animation-name: ripple;
         animation-name: ripple;
@@ -268,7 +304,7 @@ h6 {
         animation-iteration-count: infinite;
         -webkit-animation-timing-function: cubic-bezier(0.65, 0, 0.34, 1);
         animation-timing-function: cubic-bezier(0.65, 0, 0.34, 1);
-        z-index: -1;
+        z-index: 1;
     }
 
     &::before {
@@ -285,7 +321,7 @@ h6 {
         content: "";
         height: 100%;
         width: 100%;
-        border: 8px solid rgba(0, 0, 0, 0.2);
+        border: 8px solid rgba(0, 117, 188, 0.5);
         border-radius: 100%;
         -webkit-animation-name: ripple;
         animation-name: ripple;
@@ -297,7 +333,7 @@ h6 {
         animation-iteration-count: infinite;
         -webkit-animation-timing-function: cubic-bezier(0.65, 0, 0.34, 1);
         animation-timing-function: cubic-bezier(0.65, 0, 0.34, 1);
-        z-index: -1;
+        z-index: 1;
     }
 
     @-webkit-keyframes ripple {
@@ -322,6 +358,44 @@ h6 {
             opacity: 0;
             transform: scale3d(1.5, 1.5, 1);
         }
+    }
+}
+
+@-moz-keyframes spin {
+    100% {
+        -moz-transform: rotate(360deg);
+    }
+}
+
+@-webkit-keyframes spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@-moz-keyframes reverse-spin {
+    100% {
+        -moz-transform: rotate(-360deg);
+    }
+}
+
+@-webkit-keyframes reverse-spin {
+    100% {
+        -webkit-transform: rotate(-360deg);
+    }
+}
+
+@keyframes reverse-spin {
+    100% {
+        -webkit-transform: rotate(-360deg);
+        transform: rotate(-360deg);
     }
 }
 
@@ -388,6 +462,31 @@ h6 {
     h6 {
         font-size: 28px;
         font-weight: 500;
+    }
+
+    .gradient_container {
+        &::before,
+        &::after {
+            left: 115px;
+            top: 50px;
+            width: 500px;
+            height: 500px;
+            filter: blur(200px);
+        }
+
+        &::before {
+            bottom: 50px;
+            right: 115px;
+        }
+    }
+
+    .play_icon {
+        width: 100px;
+        height: 100px;
+        font-size: 22px;
+        margin-left: 50px;
+        margin-top: 50px;
+   
     }
 }
 

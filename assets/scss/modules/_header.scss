@@ -16,7 +16,26 @@ header {
             @include justify-content(flex-end);
             @include align-items(center);
 
-            .font_size,
+            .website_font_size {
+                margin-left: 1.5625vw; //30px
+                span {
+                    padding: 0.4166666666666667vw 0.5208333333333333vw; //8px 10px
+                    @include border-radius(5px);
+
+                    cursor: pointer;
+
+                    &.font_size_selected {
+                        background-color: rgba(255, 255, 255, 0.1);
+                    }
+                }
+            }
+
+            .date_time {
+                span {
+                    padding: 0 0.5208333333333333vw;
+                }
+            }
+
             .website_language,
             .dashoard_cta {
                 background-color: rgba(255, 255, 255, 0.1);
@@ -83,7 +102,14 @@ header {
         }
 
         &_top_content {
-            .font_size,
+            .website_font_size {
+                margin-left: 30px;
+
+                span {
+                    padding: 8px 10px;
+                }
+            }
+
             .website_language,
             .dashoard_cta {
                 padding: 8px;

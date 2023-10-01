@@ -14,3 +14,9 @@
         padding: 15px;
     }
 }
+.outline_button {
+    padding: 1.3020833333333335vw 2.604166666666667vw;      //25px 50px
+    border: solid 1px $base-light-color;
+    @include border-radius(50px);
+    color: $base-light-color;
+}

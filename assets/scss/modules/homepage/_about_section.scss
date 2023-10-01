@@ -1,10 +1,27 @@
 .about {
-    &_section {}
+    &_section {
+        .about_blocks_row {
+            @include flexbox();
+
+            .first_col,
+            .second_col,
+            .third_col {
+                width: 27.083333333333332vw;        //520px
+            }
+            .second_col {
+                margin-left: 5.208333333333334vw;      //100px
+                margin-right: 5.208333333333334vw;      //100px 
+            }
+        }
+    }
 
     &_cards {
         padding: 2.604166666666667vw; //50px
         @include border-radius(1.5625vw); //30px
         @include box-shadow(0, 0, 50px, rgba(0, 0, 0, 0.1));
+        background-color: $base-light-color;
+        position: relative;
+        overflow: hidden;
 
         h5 {
             margin-bottom: 1.5625vw; //30px
@@ -17,12 +34,61 @@
 
         a {
             text-decoration: underline;
-            margin-top: 1.0416666666666665vw;   //20px
+            margin-top: 1.0416666666666665vw; //20px
             display: inline-block;
+        }
+
+        &::before {
+            content: '';
+            position: absolute;
+            background: url('../images/lotus-vector-orange.svg') no-repeat;
+            opacity: 0.15;
+            width: 14.583333333333334vw;        //280px
+            height: 14.583333333333334vw;       //280px
+            background-size: 100%;
+            right: -4.6875vw;       //90px
+            bottom: -4.6875vw;      //90px
+            -webkit-animation: spin 15s linear infinite;
+            -moz-animation: spin 15s linear infinite;
+            animation: spin 15s linear infinite;
+        }
+
+        &_1 {
+            &::before {
+                background: url('../images/lotus-vector-orange.svg') no-repeat;
+                background-size: 100%;
+            }  
+        }
+        &_2 {
+            &::before {
+                background: url('../images/lotus-vector-green.svg') no-repeat; 
+                background-size: 100%;
+            } 
+        }
+        &_3 {
+            &::before {
+                background: url('../images/lotus-vector-grey.svg') no-repeat;
+                background-size: 100%;
+                opacity: 1;  
+            }
         }
     }
 
     @media screen and (min-width: 1920.98px) {
+        &_section {
+            .about_blocks_row {
+    
+                .first_col,
+                .second_col,
+                .third_col {
+                    width: 520px;
+                }
+                .second_col {
+                    margin-left: 100px;
+                    margin-right: 100px; 
+                }
+            }
+        }
         &_cards {
             @include border-radius(30px);
 
@@ -31,6 +97,7 @@
             h5 {
                 margin-bottom: 30px;
             }
+
             a {
                 margin-top: 20px;
             }

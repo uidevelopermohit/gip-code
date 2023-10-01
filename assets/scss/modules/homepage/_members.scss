@@ -4,6 +4,8 @@
         padding-top: 6.25vw; //120px
         padding-bottom: 6.25vw; //120px
         text-align: center;
+        position: relative;
+        overflow: hidden;
 
         &_heading_content {
             width: 70%;
@@ -19,6 +21,29 @@
            
             }
         }
+
+        &::before,
+        &::after {
+            content: '';
+            background: url('../images/lotus-2.png') no-repeat;
+            background-size: 100%;
+            width: 46.875vw;    //900px
+            height: 46.875vw;   //900px
+            position: absolute;
+            bottom: -23.4375vw;
+            left: -23.4375vw;
+            -webkit-animation: spin 30s linear infinite;
+            -moz-animation: spin 30s linear infinite;
+            animation: spin 30s linear infinite;
+        }
+        &::after {
+            -webkit-animation: reverse-spin 30s linear infinite;
+            -moz-animation: reverse-spin 30s linear infinite;
+            animation: reverse-spin 30s linear infinite;
+            bottom: -23.4375vw;
+            left: auto;
+            right: -23.4375vw;
+        }
     }
 
     &_flag {
@@ -27,20 +52,31 @@
         @include flexbox;
 
         flex-wrap: wrap;
+        position: relative;
+        z-index: 1;
 
         li {
             flex: 0 0 14.28%;
             width: 14.28%;
-            padding: 2.083333333333333vw; //40px
-            border: solid 1px $border-color;
 
             a {
                 color: $base-font-color;
                 display: block;
+                padding: 2.083333333333333vw; //40px
+                border: solid 1px $border-color;
+                @extend .transition;
+                background-color: $base-light-color;
 
                 h5 {
                     margin-top: 0.78125vw; //15px
-               
+                    font-size: 1.0416666666666665vw;    //20px
+                }
+
+                &:hover {
+                    @include scale(1.1);
+                    @include box-shadow(0, 0, 30px, rgba(0, 0, 0, 0.1));
+                    @extend .transition;
+                    z-index: 1;
                 }
             }
 
@@ -71,6 +107,7 @@
                 a {
                     h5 {
                         margin-top: 15px;
+                        font-size: 20px;
                     }
                 }
 

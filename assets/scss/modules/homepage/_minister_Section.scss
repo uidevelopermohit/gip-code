@@ -9,12 +9,18 @@
     background-size: contain; */
 
     &_Section {
-        .col_8 {
-            padding-right: 2.60417vw;
+        padding-bottom: 6.25vw;     //120px 
+
+        .ministers_row {
+            @include flexbox();
         }
 
-        .col_4 {
-            padding-left: 2.60417vw;
+        .minister_first_col {
+            width: 59.375vw;        //1140px
+            margin-right: 5.208333333333334vw;      //100px
+        }
+        .minister_second_col {
+            width: 27.083333333333332vw;        //520px
         }
     }
 
@@ -22,10 +28,15 @@
         @include border-radius(1.5625vw); //30px
         @include box-shadow(0, 0, 50px, rgba(0, 0, 0, 0.1));
 
+        background-color: $base-light-color;
+        position: relative;
+        z-index: 1;
+
         &_image {
             @include border-radii(1.5625vw, 1.5625vw, 0, 0);
 
             overflow: hidden;
+            position: relative;
         }
 
         &_content {
@@ -44,12 +55,13 @@
 
     @media screen and (min-width: 1920.98px) {
         &_Section {
-            .col_8 {
-                padding-right: 50px;
+            padding-bottom: 120px;
+            .minister_first_col {
+                width: 1140px;
+                margin-right: 100px;
             }
-
-            .col_4 {
-                padding-left: 50px;
+            .minister_second_col {
+                width: 520px;
             }
         }
 

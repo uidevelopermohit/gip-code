@@ -1,10 +1,14 @@
 .logos {
-    &_section {}
+    &_section {
+        position: relative;
+        z-index: 1;
+    }
 
     &_stripe {
         padding: 5.208333333333334vw; //100px
         @include border-radius(1.5625vw); //30px
         @include box-shadow(0, 0, 50px, rgba(0, 0, 0, 0.1));
+        background-color: $base-light-color;
         @include flexbox();
         justify-content: space-between;
 

@@ -452,6 +452,8 @@
 
 // Custom css start here
 .owl-carousel {
+    overflow: hidden;
+
     .owl-nav {
         position: absolute;
         top: 50%;
@@ -489,7 +491,7 @@
         }
     }
 
-    /* &:hover {
+    &:hover {
         .owl-nav {
             position: absolute;
             top: 50%;
@@ -514,7 +516,7 @@
                 }
             }
         }
-    } */
+    }
 
     @media screen and (max-width: 991.98px) {
         .owl-nav {
@@ -523,10 +525,11 @@
                 &.owl-prev {
                     opacity: 1;
                 }
+
                 &.owl-next {
                     margin-right: 20px;
                 }
-    
+
                 &.owl-prev {
                     margin-left: 20px;
                 }

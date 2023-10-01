@@ -10,6 +10,7 @@
     &_selected {
         margin-bottom: 20px;
         position: relative;
+        z-index: 1;
 
         &_content_overlay {
             position: absolute;
@@ -49,6 +50,7 @@
     &_card {
         @include border-radius(1.5625vw); //30px
         @include box-shadow(0, 0, 50px, rgba(0, 0, 0, 0.1));
+        background-color: $base-light-color;
 
         &_image {
             @include border-radii(1.5625vw, 1.5625vw, 0, 0);
