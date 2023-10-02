@@ -1,0 +1,212 @@
+.breadcrumb
+{
+background: linear-gradient(to right, #F7941D 0%, #008A4B 100%);
+height: 13.020833333333334vw;
+}
+.breadcrumb
+{
+    h2{
+        color: #fff;
+    }
+}
+.breadcrumb_lnk
+{
+   
+    ul{
+        display: flex;
+        color: #fff;
+    }
+    ul li:first-child
+    {
+        list-style: none;
+    }
+   
+   li {
+        margin-left:26px; 
+        list-style: unset;
+        padding-bottom: 2px;
+        margin-top: 10px;
+
+    }
+}
+/**/
+.history_gip_section h4{
+padding-bottom:1.5625vw;
+}
+/**/
+.minister_images_section
+{
+.minister_images_g20
+{
+border-radius: 30px;
+margin-right: 30px;
+}
+}
+.minister_images_descriptipon .flex_row{
+padding-top:2.0416666667vw;
+}
+.minister_box_button
+{
+    width: 12.565104166666666vw;
+height: 2.8645833333333335vw;
+border-radius: 1.4322916666666667vw;
+    background: #0075BC;
+    color: #fff;
+    border: none;
+}
+
+.gip_section{
+    .flex_row{
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    h5{
+        padding-bottom:1.5625vw;
+        }
+    .gip_box_first
+    {
+        padding: 20px;
+        border-radius: 30px;
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+linear-gradient(0deg, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05));
+margin-right: 30px;
+
+    }
+}
+.description h5{
+    padding-bottom:1.5625vw;
+}
+.pilrs_section
+{
+    h5
+    {
+        padding-bottom:1.5625vw;
+    }
+    .col
+    {
+    border-radius: 30px;
+    box-shadow: 0px 0px 50px 0px #0000001A;
+    padding: 30px;
+    margin-right: 20px;
+    }
+    .shwcase
+    {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #F7941D;
+    padding-bottom:1.5625vw;
+    }
+    .engage
+    {
+        font-size: 26px;
+        font-weight: 700;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: left;
+        color:  #2C2E75;
+
+        padding-bottom:1.5625vw;   
+    }
+    .colbarate
+    {
+        font-size: 26px;
+        font-weight: 700;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: left;
+        color:  #008A4B;
+
+        padding-bottom:1.5625vw;
+    }
+    .suport
+    {
+        font-size: 26px;
+        font-weight: 700;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #0075BC;
+
+        padding-bottom:1.5625vw;
+    }
+    .integrate
+    {
+        font-size: 26px;
+        font-weight: 700;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #32BBFF;
+        padding-bottom:1.5625vw;
+    }
+}
+.expert_section
+{
+    .col
+    {
+        background: #F7941D;
+        padding: 30px;
+        border-radius: 30px;
+        color: #fff;
+        margin-right: 30px;
+    }
+    h5
+    {
+        padding-bottom: 1.5625vw;
+    }
+    .initiative_box{
+        background: #008A4B;
+
+    }
+    span
+    {
+        font-size: 1.25vw;
+        font-weight: 700;
+        color: #fff;
+    }
+}
+.logo_Section
+{
+h5{
+    padding-bottom: 1.5625vw;
+}
+.col_2{
+    text-align: center;
+}
+
+}
+.more_about_gip
+{
+    h2
+    {
+        text-align: center;
+    }
+   .delhi_declaration
+   {
+    padding: 40px;
+    border-radius: 30px;
+    background: #F7941D;
+    color: #fff;
+    text-align: center;
+
+   } 
+   .grih_structure
+   {
+    padding: 40px;
+    border-radius: 30px;
+    background: #008A4B;
+    color: #fff;
+    text-align: center;
+   }
+   .gir_gip_structure
+   {
+    padding: 40px;
+    border-radius: 30px;
+    background:  #0075BC;
+    color: #fff;
+    text-align: center;
+   }
+}
