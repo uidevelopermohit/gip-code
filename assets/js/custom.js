@@ -30,7 +30,7 @@ $(document).ready(function () {
         navText: ["<i class='icon-left-arrow'></i>", "<i class='icon-right-arrow'></i>"],
         responsive: {
             0: {
-                items: 2
+                items: 1
             },
             600: {
                 items: 2
@@ -41,4 +41,7 @@ $(document).ready(function () {
         }
     });
 
+    $('.menu_toggle').on('click', function(){
+        $('.navbar_nav').slideToggle();
+    })
 });

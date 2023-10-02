@@ -41,8 +41,8 @@
 
                 @extend .transition;
 
-                .thematic_section_card_content { 
-                    @include scale(1); 
+                .thematic_section_card_content {
+                    @include scale(1);
                 }
             }
         }
@@ -57,51 +57,22 @@
             }
         }
     }
-}
 
-.thematic_heading {
-    //styleName: H2;
-    font-family: Plus Jakarta Sans;
-    font-size: 40px;
-    font-weight: 800;
-    line-height: 50px;
-    letter-spacing: 0em;
-    text-align: center;
-    background: linear-gradient(90deg, #E97F00 0%, #327C34 95.59%);
-    -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
-    padding-bottom: 47px;
-}
+    @media screen and (max-width: 991.98px) {
+        &_section {
+            display: block;
 
-.forest_section {
-    width: 640px;
-    height: 771px;
-    background-image: url("../images/thematic/forest.png");
-}
+            &_card_wrapper {
+                flex: 0 0 100%;
+                width: 100%;
+            }
 
-.mining_section {
-    width: 640px;
-    height: 771px;
-    background-image: url("../images/thematic/mining.png");
-}
-
-.financing_section {
-    width: 640px;
-    height: 771px;
-    background-image: url("../images/thematic/financing.png");
-}
-
-.thematic_section_heading {
-    width: 475px;
-    padding-left: 22px;
-    padding-top: 648px;
-
-    //styleName: H2;
-    font-family: Plus Jakarta Sans;
-    font-size: 36px;
-    font-weight: 800;
-    line-height: 50px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #FFFFFF;
+            &_card {
+                &_content {
+                    padding: 50px 30px 30px;
+                    width: 100%;
+                }
+            }
+        }
+    }
 }

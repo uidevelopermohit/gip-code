@@ -9,18 +9,21 @@
     background-size: contain; */
 
     &_Section {
-        padding-bottom: 6.25vw;     //120px 
+        padding-bottom: 6.25vw; //120px
 
         .ministers_row {
-            @include flexbox();
+            @include flexbox;
         }
 
         .minister_first_col {
-            width: 59.375vw;        //1140px
-            margin-right: 5.208333333333334vw;      //100px
+            width: 59.375vw; //1140px
+            margin-right: 5.208333333333334vw; //100px
+       
         }
+
         .minister_second_col {
-            width: 27.083333333333332vw;        //520px
+            width: 27.083333333333332vw; //520px
+       
         }
     }
 
@@ -31,11 +34,11 @@
         background-color: $base-light-color;
         position: relative;
         z-index: 1;
+        overflow: hidden;
 
         &_image {
             @include border-radii(1.5625vw, 1.5625vw, 0, 0);
 
-            overflow: hidden;
             position: relative;
         }
 
@@ -56,10 +59,12 @@
     @media screen and (min-width: 1920.98px) {
         &_Section {
             padding-bottom: 120px;
+
             .minister_first_col {
                 width: 1140px;
                 margin-right: 100px;
             }
+
             .minister_second_col {
                 width: 520px;
             }
@@ -70,6 +75,42 @@
 
             &_content {
                 padding: 50px;
+
+                h2 {
+                    margin-bottom: 20px;
+                }
+            }
+        }
+    }
+
+    @media screen and (max-width: 991.98px) {
+        &_Section {
+            padding-bottom: 50px;
+
+            .ministers_row {
+                display: block;
+            }
+
+            .minister_first_col {
+                width: 100%;
+                margin-right: 0;
+            }
+
+            .minister_second_col {
+                width: 100%;
+                margin-top: 20px;
+            }
+        }
+
+        &_card {
+            @include border-radius(10px);
+
+            &_image {
+                @include border-radii(10px, 10px, 0, 0);
+            }
+
+            &_content {
+                padding: 20px;
 
                 h2 {
                     margin-bottom: 20px;

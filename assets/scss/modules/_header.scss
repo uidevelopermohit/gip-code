@@ -142,3 +142,71 @@ header {
         }
     }
 }
+
+@media screen and (max-width: 991.98px) {
+    header {
+        .header {
+            &_topbar {
+                font-size: 12px;
+                padding: 10px 0;
+            }
+
+            &_top_content {
+                display: block;
+                text-align: center;
+
+                .website_font_size {
+                    margin-left: 0;
+                    margin-top: 10px;
+                    margin-bottom: 10px;
+
+                    span {
+                        padding: 5px 10px;
+                        display: inline-block;
+                    }
+                }
+
+                .dashoard_cta {
+                    padding: 5px 10px;
+    
+                    margin-left: 0;
+               
+                }
+            }
+        }
+    }
+
+    .navbar {
+        padding: 10px 0;
+
+        &_brand {
+            img {
+                height: 30px;
+            }
+        }
+
+        &_nav {
+            display: none;
+            font-size: 16px;
+            position: absolute;
+            width: 100%;
+            background: $base-light-color;
+            top: 68px;
+            z-index: 10;
+            left: 0;
+            font-size: 14px;
+
+            @include box-shadow(0, 0, 10px, rgba(0, 0, 0, 0.2));
+
+            .nav_item a {
+                padding: 10px 30px;
+                display: block;
+            }
+        }
+
+        .menu_toggle {
+            margin-left: auto;
+            margin-right: 20px;
+        }
+    }
+}
