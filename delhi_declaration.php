@@ -47,10 +47,10 @@
         <div class="container_fluid">
             <div class="flex_row">
                 <div class="col_6">
-                    <img src="assets/images/aboutpage/g20leaders.jpg" class="minister_images_g20">
+                    <img src="assets/images/aboutpage/g20leaders.webp" class="minister_images_g20">
                 </div>
                 <div class="col_6">
-                    <img src="assets/images/aboutpage/g20leadersmeeting.jpg" class="minister_images_g20">
+                    <img src="assets/images/aboutpage/g20leadersmeeting.webp" class="minister_images_g20">
                 </div>
             </div>
         </div>

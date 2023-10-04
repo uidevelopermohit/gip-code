@@ -45,10 +45,10 @@
         <div class="container_fluid">
             <div class="flex_row">
                 <div class="col_6">
-                    <img src="assets/images/aboutpage/g20leaders.jpg" class="minister_images_g20">
+                    <img src="assets/images/aboutpage/g20leaders.webp" class="minister_images_g20">
                 </div>
                 <div class="col_6">
-                    <img src="assets/images/aboutpage/g20leadersmeeting.jpg" class="minister_images_g20">
+                    <img src="assets/images/aboutpage/g20leadersmeeting.webp" class="minister_images_g20">
                 </div>
             </div>
         </div>
@@ -220,12 +220,12 @@
                             </div>
                         </div>
                         <div class="col_6">
-                            <img src="assets/images/aboutpage/g20leaders.jpg" class="expert_images_sectn">
+                            <img src="assets/images/aboutpage/g20leaders.webp" class="expert_images_sectn">
                         </div>
                     </div>
                     <div class="flex_row  initiative_box">
                         <div class="col_6">
-                            <img src="assets/images/aboutpage/g20leaders.jpg" class="initaiative_images_sectn">
+                            <img src="assets/images/aboutpage/g20leaders.webp" class="initaiative_images_sectn">
                         </div>
                         <div class="col_6 ">
                             <div class="secnd_box">
@@ -282,13 +282,13 @@
         <div class="flex_row">
             <div class="col_3"></div>
             <div class="col_2">
-                <img src="assets/images/aboutpage/icfre_logo.png">
+                <img src="assets/images/aboutpage/icfre_logo.webp">
             </div>
             <div class="col_2">
-                <img src="assets/images/aboutpage/Indian_Institute_of_Forest_Management.png">
+                <img src="assets/images/aboutpage/Indian_Institute_of_Forest_Management.webp">
             </div>
             <div class="col_2">
-                <img src="assets/images/aboutpage/image9.png">
+                <img src="assets/images/aboutpage/image9.webp">
             </div>
             <div class="col_3"></div>
         </div>
