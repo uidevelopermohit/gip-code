@@ -24,7 +24,7 @@
                 
         <div class="flex_row">
             <div class="col_12">
-                <p>The Ministerial Communiqué of the G20 Environmental Ministers Meet during the Saudi Arabia Summit 2020 recognised the urgent
+                <p>The Ministerial Communique of the G20 Environmental Ministers Meet during the Saudi Arabia Summit 2020 recognised the urgent
                     need for bold, coordinated, and collective initiatives on land protection and restoration and on sustainable land 
                     management and use to strengthen existing efforts, such as the Bonn Challenge, the United Nations Decade on Ecosystem 
                     Restoration, and other multilateral initiatives, as well as to promote new ones. One of the key elements of the initiative 
@@ -76,8 +76,8 @@
                         Sustainability Working Group (ECSWG). India proposes a knowledge sharing platform- Gandhinagar Information Portal 
                         (GIP) enhance the Global Restoration Information Website being developed under the G20 Global Land Initiative.
                     </p>
-                    <p><button class="minister_box_button">List of Documents</button></p>
-                </d iv>
+                    <p><button class="minister_box_button"><a href="#">List of Documents</a></button></p>
+                </div>
             </div>
         </div>
     </section>
@@ -111,9 +111,9 @@
                         </p>
                     </div>
                     <div class="col gip_box_second">
-                        <p>Enhance focus on ecological/ecosystem restoration of land by reinforcing the capacity of habitats to sustain
-                             the diversity of their species in particular the keystone/ indicator/ umbrella species, in accordance with
-                              the respective priorities as determined by scientific evidence, and
+                        <p>Accelerate action on the identified landscapes by operationalizing the Roadmap’s tangible pillars of work to 
+                            help achieve the objectives under the Kunming Montreal Global Biodiversity Framework and other relevant 
+                            frameworks and initiatives including the G20 voluntary target of restoration of 50% degraded land by 2040.
                         </p>
                     </div>
                 </div>
@@ -203,42 +203,59 @@
     <Section class="expert_section common_spacing">
         <div class="container_fluid">
             <div class="flex_row">
-                <div class="col ">
-                    <div class="first_box">
-                    <h5>Expert Panel</h5>
-                    <p>
-                        The nominated national nodal/experts/organizations shall constitute an expert panel to the GIR and shall meet periodically to plan, discuss, and report progress on the voluntary ambitions of the GIR.
-                    </p>
-                    <p>
-                        Gandhinagar Information Platform – An enabler for implementation of the GIR Overall Objective of the Gandhinagar Information Platform
-                    </p>
-                    <p> 
-                        The platform shall display progress on the voluntary ambitions of the GIR and act as an information sharing hub for policies, best practices and actions. The platform will also foster collaboration between the nodal institutions/experts/organization while showcasing traditional and indigenous knowledge on ecological/ecosystem restoration of the identified landscapes and adopting a solutions approach to enable affordable, replicable and flexible solutions for the improvement of global restoration efforts.
-                    </p>
-                </div>
-                </div>
-                <div class="col initiative_box">
-                    <div class="secnd_box">
-                    <h5>Initiative Scope and Activities</h5>
-                    <p>
-                        The GIP will enable the operationalization of the GIR in the following ways –      
-                    </p>
-                    <p>
-                        <span>Engage stakeholders –</span> The Indian Council of Forestry Research & Education (ICFRE) and Indian Institute of 
-                        Forest Management (IIFM), will coordinate with nodal institutions/experts/organizations for the collation 
-                        of data, best practices and information received from participating countries as well as be responsible for
-                         the design, development and maintenance of the GIP. </p>
-                    <p> 
-                        <span>Enable collaboration on a voluntary basis – </span> The best practices, policies and success stories shared on the GIP 
-                        shall enable cross-learning as well as for ecological/ecosystem restoration.  </p>
-                        <p> 
-                            <span>Innovation through traditions –</span> Highlight traditional knowledge and role of other partners and 
-                                stakeholders (e.g., Indigenous Peoples, Local Communities and others as appropriate) for the 
-                                ecological/ecosystem restoration. </p>
+                <div class="col_12">
+                    <div class="flex_row col_fst_box">
+                        <div class="col_6">
+                            <div class="first_box">
+                                <h5>Expert Panel</h5>
+                                <p>
+                                        The nominated national nodal/experts/organizations shall constitute an expert panel to the GIR and shall meet periodically to plan, discuss, and report progress on the voluntary ambitions of the GIR.
+                                </p>
+                                <p>
+                                        Gandhinagar Information Platform – An enabler for implementation of the GIR Overall Objective of the Gandhinagar Information Platform
+                                </p>
+                                <p> 
+                                        The platform shall display progress on the voluntary ambitions of the GIR and act as an information sharing hub for policies, best practices and actions. The platform will also foster collaboration between the nodal institutions/experts/organization while showcasing traditional and indigenous knowledge on ecological/ecosystem restoration of the identified landscapes and adopting a solutions approach to enable affordable, replicable and flexible solutions for the improvement of global restoration efforts.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col_6">
+                            <img src="assets/images/aboutpage/g20leaders.jpg" class="expert_images_sectn">
+                        </div>
+                    </div>
+                    <div class="flex_row  initiative_box">
+                        <div class="col_6">
+                            <img src="assets/images/aboutpage/g20leaders.jpg" class="initaiative_images_sectn">
+                        </div>
+                        <div class="col_6 ">
+                            <div class="secnd_box">
+                                <h5>Initiative Scope and Activities</h5>
+                                <p>
+                                    The GIP will enable the operationalization of the GIR in the following ways –      
+                                </p>
+                                <p>
+                                    <span>Engage stakeholders –</span> The Indian Council of Forestry Research & Education (ICFRE) and Indian Institute of 
+                                    Forest Management (IIFM), will coordinate with nodal institutions/experts/organizations for the collation 
+                                    of data, best practices and information received from participating countries as well as be responsible for
+                                    the design, development and maintenance of the GIP. 
+                                </p>
+                                <p> 
+                                    <span>Enable collaboration on a voluntary basis – </span> The best practices, policies and success stories shared on the GIP 
+                                    shall enable cross-learning as well as for ecological/ecosystem restoration. 
+                                </p>
+                                <p> 
+                                    <span>Innovation through traditions –</span> Highlight traditional knowledge and role of other partners and 
+                                        stakeholders (e.g., Indigenous Peoples, Local Communities and others as appropriate) for the 
+                                        ecological/ecosystem restoration. 
+                                </p>
                                 <p> 
                                     <span>Access to and sharing of information</span> across a network of experts, researchers and civil 
-                                        society organizations invited by participating countries for capacity building activities. </p>
+                                        society organizations invited by participating countries for capacity building activities.
+                                 </p>
+                            </div>
+                        </div>
                     </div>
+                </div>
                 </div>
             </div>
         </div>

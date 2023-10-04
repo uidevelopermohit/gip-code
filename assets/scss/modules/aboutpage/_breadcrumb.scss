@@ -61,7 +61,7 @@ padding-bottom:1.5625vw;//24px
     width: 26.0416666667vw;
     height:23.041667vw;
     border-radius: 100%;
-    background-color: #f7941d;
+    background-color: #f7941d73;
     filter: blur(200px);
 }
 
@@ -145,7 +145,7 @@ border-radius: 1.4322916666666667vw;
     {
         padding: 1.953125vw; //30px
         border-radius: 1.953125vw;//30px
-        background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),url('../images/aboutpage/zerone.png');
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),url('../images/aboutpage/zeroone.webp');
         background-repeat: no-repeat;
         margin-right: 30px;
         background-position: 1%;
@@ -155,7 +155,7 @@ border-radius: 1.4322916666666667vw;
     {
         padding: 1.953125vw; //30px
         border-radius: 1.953125vw;//30px
-        background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),url('../images/aboutpage/zerotwo.png');
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),url('../images/aboutpage/zerotwo.webp');
         background-repeat: no-repeat;
         margin-right: 30px;
         background-position: 1%;
@@ -360,13 +360,24 @@ border-radius: 1.4322916666666667vw;
 
 .expert_section
 {
-    .col
+    .col_fst_box
     {
-        background-color: #f7941d21;
-        padding: 30px;
+        background-color: rgb(247 148 29 / 5%);
+        padding: 50px;
         border-radius: 30px;
         color: #000;
         margin-right: 30px;
+    }
+    .expert_images_sectn
+    {
+        border-radius: 1.953125vw;
+    margin-right: 1.953125vw;
+    }
+    .initaiative_images_sectn
+    {
+        height: 100%;
+        border-radius: 1.953125vw;
+    margin-right: 1.953125vw;
     }
     h5
     {
@@ -374,6 +385,11 @@ border-radius: 1.4322916666666667vw;
     }
     .initiative_box{
         background: #008a4b29;
+        padding: 50px;
+    border-radius: 30px;
+    color: #000;
+    margin-right: 30px;
+    margin-top: 4.25vw;
 
     }
     span
@@ -382,6 +398,12 @@ border-radius: 1.4322916666666667vw;
         font-weight: 700;
         color: #000;
     }
+}
+.minister_box_button
+{
+a{
+    color:#fff;
+}
 }
 
 
@@ -474,7 +496,7 @@ h5{
 .members_section::before, .members_section::after
 {
     content: "";
-    background: url(../images/lotus-2.png) no-repeat;
+    background: url(../images/lotus-2.webp) no-repeat;
     background-size: 100%;
     width: 46.875vw;
     height: 46.875vw;
@@ -487,8 +509,9 @@ h5{
 .members_section::after
 {
     animation: reverse-spin 30s linear infinite;
-    bottom:36.4375vw;
+    bottom:37.4375vw;
     left: 71.6vw;
-    right: -16.4375vw;
+    right: -3.4375vw;
+    height: 49.6vw;
 }
 
