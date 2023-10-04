@@ -1,0 +1,54 @@
+h5
+{
+    padding-bottom: 1.5625vw;
+
+}
+.about_gip_section
+{
+    h5
+    {
+        padding-bottom: 1.5625vw;
+
+    }
+}
+.abt_gip_section_Second
+{
+    .container
+    {
+        overflow: hidden;
+        border-radius: 1.953125vw;
+        padding-left: 4.4921875vw;
+        padding-right: 4.5572916667vw;
+        background-color: rgba(235,235,252,.2392156863);
+        margin-top: 2.6041666667vw;
+        padding-bottom: 2.6041666667vw;
+    }
+    .gradient_container::before, .gradient_container::after
+    {
+        width: 24.041667vw;
+    height: 11.041667vw;
+    }
+   
+}
+.discription_structr_about_gip
+{
+    .gradient_container
+    {
+        overflow: hidden;
+    }
+    .common_spacing
+    {
+    padding-bottom: 6.25vw;
+    padding-top: 6.25vw;
+    }
+    .gradient_container::before, .gradient_container::after
+    {
+        width: 27.041667vw;
+    height: 13.041667vw;
+    }
+}
+.minister_images_g20
+{
+border-radius: 1.953125vw;
+margin-right: 1.953125vw;
+}
