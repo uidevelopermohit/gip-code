@@ -465,18 +465,20 @@
         button {
             &.owl-next,
             &.owl-prev {
-                background: rgba(255, 255, 255, 0.5);
+                // background: rgba(255, 255, 255, 0.5);
 
                 @include border-radius(5px);
 
-                width: 40px;
-                height: 40px;
+                width: 20px;
+                height: 20px;
                 opacity: 0;
+                font-size: 26px;
                 -webkit-transition: all 0.27s cubic-bezier(0, 0, 0.58, 1);
                 -moz-transition: all 0.27s cubic-bezier(0, 0, 0.58, 1);
                 -ms-transition: all 0.27s cubic-bezier(0, 0, 0.58, 1);
                 -o-transition: all 0.27s cubic-bezier(0, 0, 0.58, 1);
                 transition: all 0.27s cubic-bezier(0, 0, 0.58, 1);
+                color: $base-light-color;
 
                 @extend .middle_align;
             }
@@ -508,11 +510,11 @@
                 }
 
                 &.owl-next {
-                    margin-right: 30px;
+                    margin-right: 20px;
                 }
 
                 &.owl-prev {
-                    margin-left: 30px;
+                    margin-left: 20px;
                 }
             }
         }
@@ -527,11 +529,11 @@
                 }
 
                 &.owl-next {
-                    margin-right: 20px;
+                    margin-right: 10px;
                 }
 
                 &.owl-prev {
-                    margin-left: 20px;
+                    margin-left: 10px;
                 }
             }
         }

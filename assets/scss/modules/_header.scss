@@ -77,6 +77,10 @@ header {
         }
     }
 
+    .menu_toggle {
+        display: none;
+    }
+
     &_nav {
         @include flexbox;
 
@@ -84,12 +88,88 @@ header {
         text-transform: uppercase;
         font-weight: 700;
         margin-left: auto;
+        position: relative;
 
         .nav_item {
             margin-right: 1.5625vw; //30px
 
             a {
                 color: $base-font-color;
+
+                &:hover {
+                    opacity: 0.8;
+                }
+            }
+        }
+
+        & > li {
+            padding: 1.7708333333333333vw 0;
+
+            &.sub_menu {
+                li {
+                    a {
+                        padding: 1.0416666666666665vw;
+                        display: block;
+                        border-bottom: solid 1px $border-color;
+                        display: flex;
+                        justify-content: space-between;
+                    }
+                }
+
+                ul {
+                    display: none;
+                    position: absolute;
+                    z-index: 10;
+                    background: #fff;
+                    top: 100%;
+                }
+
+                & > a {
+                    &::after {
+                        font-family: 'icomoon' !important;
+                        content: "\e902";
+
+                        @include rotate(90);
+
+                        display: inline-block;
+                    }
+                }
+
+                &:hover {
+                    & > a {
+                        color: $brand-color-4;
+                    }
+
+                    & > ul {
+                        display: block;
+                    }
+                }
+
+                .sub_menu {
+                    & > a {
+                        &::after {
+                            font-family: 'icomoon' !important;
+                            content: "\e902";
+                            display: inline-block;
+                        }
+                    }
+
+                    ul {
+                        left: 100%;
+                        top: 0;
+                        width: max-content;
+                    }
+
+                    &:hover {
+                        & > a {
+                            color: $brand-color-4;
+                        }
+
+                        & > ul {
+                            display: block;
+                        }
+                    }
+                }
             }
         }
     }
@@ -139,6 +219,18 @@ header {
             .nav_item {
                 margin-right: 30px;
             }
+
+            & > li {
+                padding: 20px 0;
+
+                &.sub_menu {
+                    li {
+                        a {
+                            padding: 20px;
+                        }
+                    }
+                }
+            }
         }
     }
 }
@@ -152,13 +244,12 @@ header {
             }
 
             &_top_content {
-                display: block;
-                text-align: center;
+                // display: block;
+                // text-align: center;
+                justify-content: space-between;
 
                 .website_font_size {
                     margin-left: 0;
-                    margin-top: 10px;
-                    margin-bottom: 10px;
 
                     span {
                         padding: 5px 10px;
@@ -168,9 +259,8 @@ header {
 
                 .dashoard_cta {
                     padding: 5px 10px;
-    
                     margin-left: 0;
-               
+                    display: none;
                 }
             }
         }
@@ -191,22 +281,57 @@ header {
             position: absolute;
             width: 100%;
             background: $base-light-color;
-            top: 68px;
+            top: 103px;
             z-index: 10;
             left: 0;
             font-size: 14px;
 
             @include box-shadow(0, 0, 10px, rgba(0, 0, 0, 0.2));
 
-            .nav_item a {
-                padding: 10px 30px;
-                display: block;
+            .nav_item > a {
+                padding: 20px;
+                display: flex;
+                justify-content: space-between;
+            }
+
+            & > li {
+                padding: 0;
+
+                &.sub_menu {
+                    li {
+                        a {
+                            padding: 20px;
+                        }
+                    }
+
+                    & > ul {
+                        position: relative;
+
+                        & > li > a {
+                            padding-left: 30px;
+                        }
+                    }
+
+                    .sub_menu {
+                        ul {
+                            position: relative;
+                            left: 0;
+
+                            li {
+                                a {
+                                    padding-left: 40px;
+                                }
+                            }
+                        }
+                    }
+                }
             }
         }
 
         .menu_toggle {
             margin-left: auto;
             margin-right: 20px;
+            display: block;
         }
     }
 }

@@ -47,7 +47,22 @@
                         <img src="assets/images/headerlogo/headersecond.png" class="second_logo">
                     </div>
                     <ul class="navbar_nav">
-                        <li class="nav_item"><a href="">GIP</a></li>
+                        <li class="nav_item sub_menu"><a href="javascript: void(0)">GIP</a>
+                            <ul>
+                                <li class="sub_menu"><a href="javascript: void(0)">About GIP</a>
+                                    <ul>
+                                        <li><a href="">History of GIP</a></li>
+                                        <li><a href="">Delhi Declaration</a></li>
+                                        <li><a href="">Structure</a></li>
+                                        <li><a href="">Alliance</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="">G20 Presidency</a></li>
+                                <li><a href="">Past Presidencies</a></li>
+                                <li><a href="">Key Highlights</a></li>
+                                <li><a href="">Themetic Working Group Meetings</a></li>
+                            </ul>
+                        </li>
                         <li class="nav_item"><a href="">G20 Country Initiatives</a></li>
                         <li class="nav_item"><a href="">Forest Fire Impacted Landscapes</a></li>
                         <li class="nav_item"><a href="">Mining Afected Landscapes</a></li>
