@@ -63,7 +63,6 @@
                                 <li><a href="">Themetic Working Group Meetings</a></li>
                             </ul>
                         </li>
-<<<<<<< HEAD
                         <li class="nav_item sub_menu"><a href="javascript: void(0)">G20 Country Initiatives</a>
                                     <ul>
                                         <li><a href="">Argentina</a></li>
@@ -122,13 +121,6 @@
                                         <li><a href="">Training Programs</a></li>
                                     </ul>
                         </li>
-=======
-                        <li class="nav_item"><a href="">G20 Country Initiatives</a></li>
-                        <li class="nav_item"><a href="">Forest Fire Impacted Landscapes</a></li>
-                        <li class="nav_item"><a href="">Mining Afected Landscapes</a></li>
-                        <li class="nav_item"><a href="">Financing Options</a></li>
-                        <li class="nav_item"><a href="">Events & News</a></li>
->>>>>>> 2e981305eacf013753e4cd72af34263cbe64b440
                         <li class="nav_item"><a href="">Contact</a></li>
                         <li class="nav_item sub_menu"><a href="javascript: void(0)">Media</a>
                                     <ul>
