@@ -109,9 +109,10 @@
 
     <!--Third Section Start-->
     <section class="discription_structr_about_gip common_spacing">
-        <div class="container_fluid common_spacing gradient_container">
-            <div class="flex_row">
-                <div class="col_12">
+        <div class="container_fluid common_spacing gradient_container ">
+            <div class="flex_row ">
+                <div class="col_12 discription_structr_about_gip_lotus">
+
                     <h5>Gandhinagar Information Platform</h5>
                     <p>The vision for the Gandhinagar Information Platform is to encourage increased cooperation between G20 countries
                          on sharing best practices on landscape restoration, technology transfer and mobilizing finance for the priority
@@ -132,14 +133,71 @@
                     <p>
                     <i class="icon-right-arrow"></i>&nbsp;Progress achieved, and lessons learned on restoration efforts
                      </p>
-                     <p>
+                     <h5>
                      The following discusses the specific components that will be encompassed in the Gandhinagar Information Hub:
+                     </h5>
+                     <p>
+                    <i class="icon-right-arrow"></i>&nbsp;Best practices of restoration in mining and forest-forest-impacted areas</p>
+
+                    <p>
+                    <i class="icon-right-arrow"></i>&nbsp; Information on the nodal institutes/agencies that are proposed to be 
+                    designated nodal agencies that will support the G20 Global Land Initiative specific to the priority landscapes of
+                     mining-affected areas and forest fire-impacted areas</p>
+
+                    <p>
+                    <i class="icon-right-arrow"></i>&nbsp; Knowledge base showcasing case studies of the use of traditional knowledge 
+                    in restoration and biodiversity enrichment</p>
+
+                    <p>
+                    <i class="icon-right-arrow"></i>&nbsp; Solution portal of restoration efforts for the identification of appropriate 
+                    techniques and practices for restoration efforts</p>
+
+                    <p>
+                    <i class="icon-right-arrow"></i>&nbsp;Feedback mechanism</p>
+
+                    <p>
+                    <i class="icon-right-arrow"></i>&nbsp; Showcase of capacity building efforts of G20 countries</p>
+
+                    <p>
+                    <i class="icon-right-arrow"></i>&nbsp; Employment and gender aspects</p>
+
+                    <p>
+                    <i class="icon-right-arrow"></i>&nbsp; Display of progress and progress sharing</p>
+
+                    <p>
+                    <i class="icon-right-arrow"></i>&nbsp; Publications across the thematic areas of restoration and biodiversity 
+                    enrichment
                     </p>
                 </div>
             </div>
         </div>
     </section>
     <!--Third Section End -->
+    <!--Fourth Section Start-->
+    <section class="integration_section common_spacing_top_btm">
+        <div class="container_fluid">
+            <div class="flex_row">
+                <div class="col_12">
+                    <h5>Integration between Gandhinagar Information Platform (GIP) and Global Restoration Information Hub (GRIH)</h5>
+                    <p>
+                        The Global Restoration Information Hub (currently under development by UNCCD) will be interlinked with the Gandhinagar 
+                        Information Platform. The information on priority landscapes hosted on the GIP shall be displayed on the GRIH as well via a 
+                        separate tab or link on the main landing page.
+                     </p>
+                    <h5>Potential Implementation Mechanism</h5>
+                    <p>
+                     The Gandhinagar Information Platform (GIP) for priority landscapes will be implemented and maintained through the 
+                     Center for Excellence under the Indian Council of Forestry Research and Education (ICFRE). The Center of Excellence
+                     under the Indian Council of Forestry Research and Education (ICFRE) will be responsible for the administration,
+                      and maintenance of the webpages for the Gandhinagar Information Platform (GIP) for the eco-restoration of 
+                      priority landscapes. Periodic updating of the information on the GIP will also be overseen by ICFRE.
+                    </p>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Fourth Section End-->
     <!--last Section Start-->
     <section class="more_about_gip common_spacing">
         <div class="container_fluid">
@@ -152,17 +210,17 @@
                 <div class="col_2"></div>
                 <div class="col_3">
                     <div class="delhi_declaration">
-                        <h4>History of GIP</h4>
+                        <h4><a href="#">History of GIP</a></h4>
                     </div>
                 </div>
                 <div class="col_3">
                     <div class="grih_structure">
-                        <h4>GRIH Structure</h4>
+                        <h4><a href="#">GRIH Structure</a></h4>
                     </div>
                 </div>
                 <div class="col_3">
                     <div class="gir_gip_structure">
-                        <h4>GIR-GIP Alliance</h4>
+                        <h4><a href="#">GIR-GIP Alliance</a></h4>
                     </div>
                 </div>
                 <div class="col_1"></div>

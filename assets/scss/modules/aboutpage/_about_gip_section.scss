@@ -30,15 +30,19 @@ h5
     }
    
 }
+
 .discription_structr_about_gip
 {
+    p:nth-last-child(1)
+    {
+        padding-bottom: 2.23vw;
+    }
     .gradient_container
     {
         overflow: hidden;
     }
     .common_spacing
     {
-    padding-bottom: 6.25vw;
     padding-top: 6.25vw;
     }
     .gradient_container::before, .gradient_container::after
@@ -46,9 +50,27 @@ h5
         width: 27.041667vw;
     height: 13.041667vw;
     }
+    
 }
+.discription_structr_about_gip_lotus
+    {
+        background: url(../images/lotus-2.webp) no-repeat;
+        background-position: 149% 379%;
+        background-size:45.5vw;
+}
+    
+
 .minister_images_g20
 {
 border-radius: 1.953125vw;
 margin-right: 1.953125vw;
+}
+
+
+.integration_section
+{
+    .col_12
+    {
+        padding-right:179px;
+    }
 }

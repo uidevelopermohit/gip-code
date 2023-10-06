@@ -47,14 +47,90 @@
                         <img src="assets/images/headerlogo/headersecond.png" class="second_logo">
                     </div>
                     <ul class="navbar_nav">
-                        <li class="nav_item"><a href="">GIP</a></li>
-                        <li class="nav_item"><a href="">G20 Country Initiatives</a></li>
-                        <li class="nav_item"><a href="">Forest Fire Impacted Landscapes</a></li>
-                        <li class="nav_item"><a href="">Mining Afected Landscapes</a></li>
-                        <li class="nav_item"><a href="">Financing Options</a></li>
-                        <li class="nav_item"><a href="">Events & News</a></li>
+                        <li class="nav_item sub_menu"><a href="javascript: void(0)">GIP</a>
+                            <ul>
+                                <li class="sub_menu"><a href="javascript: void(0)">About GIP</a>
+                                    <ul>
+                                        <li><a href="">History of GIP</a></li>
+                                        <li><a href="">Delhi Declaration</a></li>
+                                        <li><a href="">Structure</a></li>
+                                        <li><a href="">Alliance</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="">G20 Presidency</a></li>
+                                <li><a href="">Past Presidencies</a></li>
+                                <li><a href="">Key Highlights</a></li>
+                                <li><a href="">Themetic Working Group Meetings</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav_item sub_menu"><a href="javascript: void(0)">G20 Country Initiatives</a>
+                                    <ul>
+                                        <li><a href="">Argentina</a></li>
+                                        <li><a href="">Australia</a></li>
+                                        <li><a href="">Brazil</a></li>
+                                        <li><a href="">Canada</a></li>
+                                        <li><a href="">China</a></li>
+                                        <li><a href="">France</a></li>
+                                        <li><a href="">Germany</a></li>
+                                        <li><a href="">India</a></li>
+                                        <li><a href="">Indonesia</a></li>
+                                        <li><a href="">Italy</a></li>
+                                        <li><a href="">Japan</a></li>
+                                        <li><a href="">Mexico</a></li>
+                                        <li><a href="">Korea</a></li>
+                                        <li><a href="">Russia</a></li>
+                                        <li><a href="">Saudi Arabia</a></li>
+                                        <li><a href="">South Africa</a></li>
+                                        <li><a href="">Turkiya</a></li>
+                                        <li><a href="">United Kingdom</a></li>
+                                        <li><a href="">United States</a></li>
+                                        <li><a href="">European Union</a></li>
+                                        <li><a href="">African Union</a></li>
+                                    </ul>
+                        </li>
+                        <li class="nav_item sub_menu"><a href="javascript: void(0)">Forest Fire Impacted Landscapes</a>
+                                    <ul>
+                                        <li><a href="">Policy and Programs</a></li>
+                                        <li><a href="">Knowledge Resources</a></li>
+                                        <li><a href="">Design Frameworks</a></li>
+                                        <li><a href="">Technology & Tools</a></li>
+                                    </ul>
+                        </li>
+                        <li class="nav_item sub_menu"><a href="javascript: void(0)">Mining Afected Landscapes</a>
+                                    <ul>
+                                        <li><a href="">Policy and Programs</a></li>
+                                        <li><a href="">Knowledge Resources</a></li>
+                                        <li><a href="">Design Frameworks</a></li>
+                                        <li><a href="">Technology & Tools</a></li>
+                                    </ul>
+                        </li>
+                        <li class="nav_item sub_menu"><a href="javascript: void(0)">Financing Options</a>
+                                    <ul>
+                                        <li><a href="">Public Programs and Schemes</a></li>
+                                        <li><a href="">Financial Institutions</a></li>
+                                        <li><a href="">Financial Markets</a></li>
+                                        <li><a href="">Private Sector Funding</a></li>
+                                        <li><a href="">Bi/ Multilateral Environmental Agreements</a></li>
+                                        <li><a href="">High Impact Proposals</a></li>
+                                    </ul>
+                        </li>
+                        <li class="nav_item sub_menu"><a href="javascript: void(0)">Events & News</a>
+                                    <ul>
+                                        <li><a href="">Events</a></li>
+                                        <li><a href="">News</a></li>
+                                        <li><a href="">Training Programs</a></li>
+                                    </ul>
+                        </li>
                         <li class="nav_item"><a href="">Contact</a></li>
-                        <li class="nav_item"><a href="">Media</a></li>
+                        <li class="nav_item sub_menu"><a href="javascript: void(0)">Media</a>
+                                    <ul>
+                                        <li><a href="">Press Releases</a></li>
+                                        <li><a href="">Media Coverage</a></li>
+                                        <li><a href="">Event Reports</a></li>
+                                        <li><a href="">Gallery</a></li>
+                                    </ul>
+                    
+                        </li>
                     </ul>
                     <a href="javascript: void(0)" class="menu_toggle"><i class="icon-menu"></i></a>
                     <div class="navbar_brand">

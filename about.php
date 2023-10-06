@@ -308,17 +308,17 @@
                 <div class="col_2"></div>
                 <div class="col_3">
                     <div class="delhi_declaration">
-                        <h4>Delhi Declaration</h4>
+                        <h4><a href="#">Delhi Declaration</a></h4>
                     </div>
                 </div>
                 <div class="col_3">
                     <div class="grih_structure">
-                        <h4>GRIH Structure</h4>
+                        <h4><a href="#">GRIH Structure</a></h4>
                     </div>
                 </div>
                 <div class="col_3">
                     <div class="gir_gip_structure">
-                        <h4>GIR-GIP Alliance</h4>
+                        <h4><a href="#">GIR-GIP Alliance</a></h4>
                     </div>
                 </div>
                 <div class="col_1"></div>
