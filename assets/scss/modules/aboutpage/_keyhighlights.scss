@@ -1,0 +1,206 @@
+.scope_box_section
+{
+    h2
+    {
+        text-align: center;
+        padding-bottom: 1.5625vw;
+    }
+    p{
+        text-align: center;
+        padding-bottom: 1.5625vw;
+    }
+} 
+.col_boxes_shadow
+ {
+    border-radius: 30px;
+    box-shadow: 0px 0px 50px 0px rgba(0,0,0,.1019607843);
+    padding: 30px;
+    margin-right: 20px;
+    overflow: hidden;
+}
+.col_boxes_shadow
+{
+    p
+    {
+        text-align: left;
+    }
+}
+.sidebar_navigation
+{
+    li:nth-child(1)
+    {
+       background-color : #0075BC;
+       color:#fff !important;
+       width: 341px;
+       height: 64px;
+       font-weight: 700;
+       padding-left: 15px;
+       margin-top: 1.5625vw;
+       padding-top: 1.2625vw;
+       padding-bottom: 1.5625;
+    }
+    li:nth-child(2)
+    {
+       color:#000 !important;
+       width: 341px;
+       height: 30px;
+       padding-left: 15px;
+       margin-top: 1.5625vw;
+       font-weight: 700;
+    }
+    li:nth-child(3)
+    {
+       color:#000 !important;
+       width: 341px;
+       height: 30px;
+       padding-left: 15px;
+       margin-top: 1.5625vw;
+       font-weight: 700;
+    }
+    li a
+    {
+        color: #000;
+    }
+}
+.sidebar_navigation
+{
+    display: fixed;
+}
+.gradient_container_image_lotus_left
+{
+    background: url(../images/lotus-2.webp) no-repeat;
+    background-position: -19% 14%;
+    background-size: 31.5vw;
+    position: relative;
+}
+.gradient_container_image_lotus_right
+{
+    background: url(../images/lotus-2.webp) no-repeat;
+    background-position: 124% 94%;
+    background-size: 37.5vw;
+    position: relative;
+}
+.gradient_container_topbar_left::before
+{
+    content: "";
+    position: absolute;
+    left: -0.989583vw;
+    top: 2.604167vw;
+    width: 15.041667vw;
+    height: 13.041667vw;
+    border-radius: 100%;
+    background-color: rgba(247,148,29,0.4509803922);
+    filter: blur(200px);
+}
+.gradient_container_topbar_right::after
+{
+    left: auto;
+    top: auto;
+    bottom: -12.604167vw;
+    right: -11.989583vw;
+    background-color: #008a4b;
+    content: "";
+    position: absolute;
+    width: 19.041667vw;
+    height: 9.169271vw;
+    border-radius: 100%;
+    filter: blur(200px);
+    z-index: -1;
+}
+.gradient_container_image_lotus_right 
+{
+    .gradient_container::before, .gradient_container::after
+{
+    content: "";
+    position: absolute;
+    left: -7.989583vw;
+    top: 2.6041666667vw;
+    width: 26.0416666667vw;
+    height: 7.041667vw;
+    background-color: #f7941d;
+    border-radius: 100%;
+    filter: blur(200px);
+}
+ .gradient_container_indonesia::before, .gradient_container_indonesia::after
+{
+    content: "";
+    position: absolute;
+    left: -7.989583vw;
+    top:262.604167vw;
+    width: 26.0416666667vw;
+    height: 7.041667vw;
+    background-color: #f7941d;
+    border-radius: 100%;
+    filter: blur(200px); 
+}
+.gradient_container_indonesia::after
+{
+    left: auto;
+    top: auto;
+    bottom: 8.395833vw;
+    right: -11.989583vw;
+    background-color: #008a4b;
+    content: "";
+    position: absolute;
+    width: 19.041667vw;
+    height: 9.169271vw;
+    border-radius: 100%;
+    filter: blur(200px);
+    z-index: -1;
+}
+.gradient_container_italy::before, .gradient_container_italy::after
+{
+    content: "";
+    position: absolute;
+    left: -7.989583vw;
+    top:130.604167vw;
+    width: 26.0416666667vw;
+    height: 7.041667vw;
+    background-color: #f7941d;
+    border-radius: 100%;
+    filter: blur(200px); 
+}
+.gradient_container_italy::after
+{
+    left: auto;
+    top: auto;
+    bottom:146.395833vw;
+    right: -11.989583vw;
+    background-color: #008a4b;
+    content: "";
+    position: absolute;
+    width: 19.041667vw;
+    height: 9.169271vw;
+    border-radius: 100%;
+    filter: blur(200px);
+    z-index: -1;
+}
+.gradient_container_saudi::before, .gradient_container_saudi::after
+{
+    content: "";
+    position: absolute;
+    left: -7.989583vw;
+    top:10.604167vw;
+    width: 26.0416666667vw;
+    height: 7.041667vw;
+    background-color: #f7941d;
+    border-radius: 100%;
+    filter: blur(200px); 
+}
+.gradient_container_saudi::after
+{
+    left: auto;
+    top: auto;
+    bottom:273.395833vw;
+    right: -11.989583vw;
+    background-color: #008a4b;
+    content: "";
+    position: absolute;
+    width: 19.041667vw;
+    height: 9.169271vw;
+    border-radius: 100%;
+    filter: blur(200px);
+    z-index: -1;
+}
+}
+

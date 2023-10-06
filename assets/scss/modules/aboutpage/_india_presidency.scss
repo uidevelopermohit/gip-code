@@ -1,0 +1,174 @@
+.breadcrumb_lnk_india_presidency ul li:nth-child(2)
+{
+    text-decoration: none;
+}
+.breadcrumb_lnk_india_presidency ul li:nth-child(1)
+{
+    text-decoration: underline;
+    list-style: none;
+}
+.breadcrumb_lnk_india_presidency ul li
+{
+    margin-left: 1.6927083333vw;
+    list-style: unset;
+    padding-bottom: 2px;
+    margin-top: 10px;
+}
+.breadcrumb_lnk_india_presidency ul 
+{
+    display: flex;
+    color: #fff;
+}
+
+    .top_discription_box_delhi_declrtn
+    {
+        background-image: url(../images/aboutpage/lotus.webp);
+    background-repeat: no-repeat;
+    background-position: 43% 2px;
+    /* height: 9.533854vw; */
+    background-size: 9.421875vw;
+    position: relative;
+    z-index: -1;
+    }
+    
+
+.second_discrptn_box 
+{
+    .flex_row
+    {
+    padding-top:2.0416666667vw
+    }
+}
+.common_spacing_top_btm
+    {
+        padding-top: 6.25vw;
+        padding-bottom: 6.25vw;
+    }
+.line_bar_Section_Start
+{
+    background-color:  #FCEFDF;
+}
+.line_bar_Section_Start
+{
+    h2
+    {
+        text-align: center;
+    }
+    .top_right_image_lotus
+    {
+        background-image: url('../images/aboutpage/orange_lotus.webp');
+        background-position: 100%;
+        background-repeat: no-repeat;
+        opacity: 0.5;
+    background-size: 15.123vw;
+    }
+    
+}
+.more_about_gip
+{
+    a{
+        color: #fff;
+    }
+}
+.gradient_container_image_lotus_top
+{
+    background: url(../images/lotus-2.webp) no-repeat;
+    background-position: 50% 1118%;
+    background-size: 32.5vw;
+    position: relative;
+}
+.gradient_container_topbar::before
+{
+    content: "";
+    position: absolute;
+    left: -5.9895833333vw;
+    top: -1.395833vw;
+    width: 26.0416666667vw;
+    height: 23.041667vw;
+    border-radius: 100%;
+    background-color: rgba(247,148,29,.4509803922);
+    filter: blur(200px);
+}
+.line_bar_Section_Start
+{
+    .timeline
+    {
+        margin-top: 40px;
+        margin-bottom: 40px;
+        position: relative;
+        box-sizing: border-box;
+    }
+    .timeline:before
+    {
+        content: '';
+        position: absolute;
+        left: 50%;
+        width: 2px;
+        height: 100%;
+        background:#2C2E75;
+    }
+    .timeline ul {
+        margin: 0;
+        padding: 0;
+
+    }
+    
+    .timeline ul li{
+        list-style: none;
+        position: relative;
+        width: 50%;
+        padding: 20px 40px;
+        box-sizing: border-box;
+    }
+    .timeline ul li:nth-child(odd)
+    {
+        float: left;
+        text-align: right;
+        clear: both;
+    }
+    .timeline ul li:nth-child(even)
+    {
+        float: right;
+        text-align: left;
+        clear: both;
+    }
+    .timeline ul li:nth-child(odd):before
+    {
+        content: '';
+        position: absolute;
+        top: 24px;
+        right: -11px;
+        width: 20px;
+        height: 20px;
+        background:#2C2E75 ;
+        border-radius: 50%;
+    }
+    .timeline ul li:nth-child(even):before
+    {
+        content:'';
+        position: absolute;
+        top: 24px;
+        left: -9px;
+        width: 20px;
+        height: 20px;
+        background:#2C2E75 ;
+        border-radius: 50%;
+        box-shadow:  0 0 0 3px rgba(233,33,99,0.2);
+    }
+    .timeline ul li:nth-child(even) .image 
+    {
+        position: absolute;
+        top: 12px;
+        right: -165px;
+        margin: 0;
+        padding: 8px 16px;
+    }
+    .timeline ul li:nth-child(odd) .image 
+    {
+        position: absolute;
+        top: 12px;
+        right: -165px;
+        margin: 0;
+        padding: 8px 16px;
+    }
+}
