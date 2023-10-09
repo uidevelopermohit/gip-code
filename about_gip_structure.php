@@ -121,7 +121,7 @@
                            traditional knowledge and practices to prevent landscape degradation, accelerate ecosystem restoration
                             and enrich biodiversity
                     </p>
-                    <p>The Gandhinagar For anformation Platform (GIP) that is proposed will enhance the Global Restoration Information
+                    <p>The Gandhinagar information Platform (GIP) that is proposed will enhance the Global Restoration Information
                          Hub (GRIH) under the G20 Global Land Initiative. The GIP will be specific to the priority landscapes selected
                           under the Indian Presidency i.e., forest fire-impacted areas and mining-affected areas. The hub will broadly
                            comprise and cover the following components:
