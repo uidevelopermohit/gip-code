@@ -51,16 +51,16 @@
                             <ul>
                                 <li class="sub_menu"><a href="javascript: void(0)">About GIP</a>
                                     <ul>
-                                        <li><a href="">History of GIP</a></li>
-                                        <li><a href="">Delhi Declaration</a></li>
-                                        <li><a href="">Structure</a></li>
-                                        <li><a href="">Alliance</a></li>
+                                        <li><a href="about.php">History of GIP</a></li>
+                                        <li><a href="delhi_declaration.php">Delhi Declaration</a></li>
+                                        <li><a href="about_gip_structure.php">Structure</a></li>
+                                        <li><a href="alliance.php">Alliance</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="">G20 Presidency</a></li>
-                                <li><a href="">Past Presidencies</a></li>
-                                <li><a href="">Key Highlights</a></li>
-                                <li><a href="">Themetic Working Group Meetings</a></li>
+                                <li><a href="indias_presidency.php">G20 Presidency</a></li>
+                                <li><a href="indias_presidency.php">Past Presidencies</a></li>
+                                <li><a href="keyhighlights.php">Key Highlights</a></li>
+                                <li><a href="thematic_working_group_meetings.php">Themetic Working Group Meetings</a></li>
                             </ul>
                         </li>
                         <li class="nav_item sub_menu"><a href="javascript: void(0)">G20 Country Initiatives</a>

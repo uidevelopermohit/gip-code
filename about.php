@@ -18,9 +18,9 @@
     </Section>
     <!--Breadcrumb section End-->
     <!--History GIP Section Start-->
-    <section class="history_gip_section  gradient_container_topbar">
+    <section class="history_gip_section  ">
         <div class="flex_row top_discription_box"></div>
-    <div class="container_fluid ">
+    <div class="container_fluid gradient_container_topbar">
                 
         <div class="flex_row">
             <div class="col_12">

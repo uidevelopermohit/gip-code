@@ -14,3 +14,18 @@
         text-align: center;
     }
 }
+.alliance_section_start
+{
+.gradient_container_topbar::before
+{
+    content: "";
+    position: absolute;
+    left: -5.9895833333vw;
+    top: 21.604167vw;
+    width: 26.0416666667vw;
+    height:23.041667vw;
+    border-radius: 100%;
+    background-color: #f7941d73;
+    filter: blur(200px);
+}
+}

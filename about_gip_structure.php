@@ -18,8 +18,8 @@
     </Section>
     <!--Breadcrumb section End-->
     <!--First Section Start-->
-    <section class="about_gip_section   gradient_container_topbar">
-        <div class="flex_row">
+    <section class="about_gip_section">
+        <div class="flex_row gradient_container_topbar">
             <div class="col_10">
             <h2 class="delhi_declrtion">Global Restoration Information Hub under the G20 Global Land Initiative</h2>
             </div>

@@ -18,8 +18,8 @@
     </Section>
     <!--Breadcrumb section End-->
     <!--First Section Start-->
-    <section class="alliance_section_start   gradient_container_topbar">
-        <div class="flex_row ">
+    <section class="alliance_section_start   ">
+        <div class="flex_row gradient_container_topbar">
             <div class="col_12 top_discription_box_delhi_declrtn">
             <h2 class="delhi_declrtion">Gandhinagar Implementation Roadmap- Gandhinagar Information Platform Alliance <br>(GIR-GIP Alliance)</h2>
             </div>

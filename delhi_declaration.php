@@ -18,8 +18,8 @@
     </Section>
     <!--Breadcrumb section End-->
     <!--First Section Start-->
-    <section class="history_gip_section   gradient_container_topbar">
-        <div class="flex_row">
+    <section class="history_gip_section   ">
+        <div class="flex_row gradient_container_topbar">
             <div class="col_10">
             <h2 class="delhi_declrtion">Conserving, Protecting, Sustainably Using and Restoring Ecosystems</h2>
             </div>

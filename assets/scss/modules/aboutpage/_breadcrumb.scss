@@ -51,7 +51,8 @@ background-repeat: no-repeat;
 .history_gip_section h4{
 padding-bottom:1.5625vw;//24px
 }
-
+.history_gip_section
+{
 .gradient_container_topbar::before
 {
     content: "";
@@ -64,7 +65,7 @@ padding-bottom:1.5625vw;//24px
     background-color: #f7941d73;
     filter: blur(200px);
 }
-
+}
 /**/
 .minister_images_section
 {
