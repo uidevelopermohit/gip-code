@@ -21,28 +21,31 @@
     <section class="key_highlights_sections ">
         <div class="container_fluid gradient_container_topbar_left  common_spacing_top_btm gradient_container_image_lotus_left">
             <div class="flex_row  gradient_container_left">
-                <div class="col_4 sidebar_navigation">
-                    <div class="flex_row">
-                        <div class="col_12">
-                            <h2>Relevant declarations</h2> 
-                            <ul class=""> 
-                                <li class="sub_menu"><a href="#saudi_arabia_section"><p>Saudi Arabia – 2020</p></a></li> 
-                                <li class="sub_menu"><a href="#italy_Section"><p>Italy – 2021</p></a></li>
-                                <li class="sub_menu"><a href="#indonesia_section"><p>Indonesia – 2022</p></a></li>            
-                            </ul> 
+                    <div class="col_4  sidebar_navigation">
+                        <div class="flex_row">
+                            <div class="col_12">
+                                <section class="fixme">
+                                <h2>Relevant declarations</h2> 
+                                <ul class=""> 
+                                    <li class="sub_menu"><p><a href="#saudi_arabia_section" class="active">Saudi Arabia – 2020</a></p></li> 
+                                    <li class="sub_menu"><p><a href="#italy_Section" >Italy – 2021</a></p></li>
+                                    <li class="sub_menu"><p><a href="#indonesia_Section" >Indonesia – 2022</a></p></li>            
+                                </ul> 
+                                </section>
+                            </div>
+                        </div>
+                        <div class="flex_row">
+                            <div class="col_12 ">
+
+                            </div>                  
                         </div>
                     </div>
-                    <div class="flex_row">
-                        <div class="col_12 ">
-
-                        </div>                  
-                    </div>
-                </div>
-                <div class="col_8 common_spacing">
+                <div class="col_8 common_spacing ">
                     <section id="saudi_arabia_section" class="gradient_container_saudi">
                         <div class="flex_row">
                             <div class="col_12">
-                            <h5>A. Leaders’ Declaration</h5>
+                            <h5 class="heading_line">A. Leaders’ Declaration</h5>
+                            
                             <p><b>Ensuring a Sustainable Future</b></p>
                             <p>Environment, Energy, Climate: Preventing environmental degradation, conserving, sustainably using and restoring 
                                 biodiversity, preserving our oceans, promoting clean air and clean water, responding to natural disasters and 
@@ -54,7 +57,7 @@
                         </div>
                         <div class="flex_row">
                             <div class="col_12">
-                            <h5>A. Communiqué G20 Environment Ministers Meeting</h5>
+                            <h5 class="heading_line">A. Communiqué G20 Environment Ministers Meeting</h5>
                             <p><b>Land Degradation and Habitat Loss</b></p>
                             <p><i class="icon-right-arrow"></i>&nbsp;We stress that ecosystems including, but not limited to, forests, grasslands, drylands, rangelands, 
                                 croplands, peatlands, mangroves, soil, tundra, karst, and wetlands are essential for the existence,
@@ -141,7 +144,7 @@
                     <section id="italy_Section" class="gradient_container_italy">
                         <div class="flex_row">
                             <div class="col_12">
-                            <h5>A. Leaders’ Declaration</h5>
+                            <h5 class="heading_line">A. Leaders’ Declaration</h5>
                             <p><b>Environment</b></p>
                             <p><i class="icon-right-arrow"></i>&nbsp;We commit to strengthen actions to halt and reverse biodiversity loss 
                             by 2030 and call on CBD Parties to adopt an ambitious, balanced, practical, effective, robust and 
@@ -172,7 +175,7 @@
                         </div>  
                         <div class="flex_row">
                             <div class="col_12">
-                            <h5>B. Communiqué G20 Environment Ministers Meeting</h5>
+                            <h5 class="heading_line">B. Communiqué G20 Environment Ministers Meeting</h5>
                             <p><b>Call for action on protecting, conserving, sustainably managing and restoring degraded lands</b></p>
                             <p><i class="icon-right-arrow"></i>&nbsp;
                             We welcome the successful convening of the workshop organized by the Italian Presidency on the G20 Global 
@@ -203,10 +206,10 @@
                             </div>
                         </div> 
                     </section>
-                    <section id="indonesia_Section " class="gradient_container_indonesia">
+                    <section id="indonesia_Section" class="gradient_container_indonesia">
                         <div class="flex_row">
                             <div class="col_12">
-                            <h5>A. Leaders’ Declaration</h5>
+                            <h5 class="heading_line">A. Leaders’ Declaration</h5>
                             <p><b>Environment</b></p>
                             <p><i class="icon-right-arrow"></i>&nbsp;
                                 We welcome the progress to date towards achieving a Post 2020 Global Biodiversity Framework (GBF). We urge 
@@ -255,7 +258,7 @@
                         </div>  
                         <div class="flex_row ">
                             <div class="col_12">
-                            <h5>B. Communique G20 Environment Ministers Meeting</h5>
+                            <h5 class="heading_line">B. Communique G20 Environment Ministers Meeting</h5>
                             <p><b>Environment</b></p>
                             <p><i class="icon-right-arrow"></i>&nbsp;
                                 We will continue and scale up our efforts to combat desertification, land degradation and drought, as well 

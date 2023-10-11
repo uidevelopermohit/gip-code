@@ -138,7 +138,7 @@
                 <a href="" class="thematic_section_card"
                     style="background-image: url('assets/images/thematic/mining.png');">
                     <div class="thematic_section_card_content">
-                        <h2>Forest Fires Impacted Landscapes</h2>
+                        <h2>Mining Affected Landscapes</h2>
                     </div>
                 </a>
             </div>
@@ -146,7 +146,8 @@
                 <a href="" class="thematic_section_card"
                     style="background-image: url('assets/images/thematic/financing.png');">
                     <div class="thematic_section_card_content">
-                        <h2>Forest Fires Impacted Landscapes</h2>
+                        <h2>Financing</h2>
+                        <h2>Options</h2>
                     </div>
                 </a>
             </div>

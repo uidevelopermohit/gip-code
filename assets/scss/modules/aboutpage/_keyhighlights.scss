@@ -39,6 +39,10 @@
        padding-top: 1.2625vw;
        padding-bottom: 1.5625;
     }
+     li  .active
+    {
+    color:#fff;
+    }
     li:nth-child(2)
     {
        color:#000 !important;
@@ -204,3 +208,9 @@
 }
 }
 
+.heading_line
+{
+    border-bottom: 1px solid #EEE;
+    padding-bottom: 0.5625vw;
+    margin-bottom: 1.5625vw;
+}

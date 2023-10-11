@@ -65,27 +65,27 @@
                         </li>
                         <li class="nav_item sub_menu"><a href="javascript: void(0)">G20 Country Initiatives</a>
                                     <ul>
-                                        <li><a href="">Argentina</a></li>
-                                        <li><a href="">Australia</a></li>
-                                        <li><a href="">Brazil</a></li>
-                                        <li><a href="">Canada</a></li>
-                                        <li><a href="">China</a></li>
-                                        <li><a href="">France</a></li>
-                                        <li><a href="">Germany</a></li>
-                                        <li><a href="">India</a></li>
-                                        <li><a href="">Indonesia</a></li>
-                                        <li><a href="">Italy</a></li>
-                                        <li><a href="">Japan</a></li>
-                                        <li><a href="">Mexico</a></li>
-                                        <li><a href="">Korea</a></li>
-                                        <li><a href="">Russia</a></li>
-                                        <li><a href="">Saudi Arabia</a></li>
-                                        <li><a href="">South Africa</a></li>
-                                        <li><a href="">Turkiya</a></li>
-                                        <li><a href="">United Kingdom</a></li>
-                                        <li><a href="">United States</a></li>
-                                        <li><a href="">European Union</a></li>
-                                        <li><a href="">African Union</a></li>
+                                        <li><a href="g20_country_initiatives.php">Argentina</a></li>
+                                        <li><a href="g20_country_initiatives.php">Australia</a></li>
+                                        <li><a href="g20_country_initiatives.php">Brazil</a></li>
+                                        <li><a href="g20_country_initiatives.php">Canada</a></li>
+                                        <li><a href="g20_country_initiatives.php">China</a></li>
+                                        <li><a href="g20_country_initiatives.php">France</a></li>
+                                        <li><a href="g20_country_initiatives.php">Germany</a></li>
+                                        <li><a href="g20_country_initiatives.php">India</a></li>
+                                        <li><a href="g20_country_initiatives.php">Indonesia</a></li>
+                                        <li><a href="g20_country_initiatives.php">Italy</a></li>
+                                        <li><a href="g20_country_initiatives.php">Japan</a></li>
+                                        <li><a href="g20_country_initiatives.php">Mexico</a></li>
+                                        <li><a href="g20_country_initiatives.php">Korea</a></li>
+                                        <li><a href="g20_country_initiatives.php">Russia</a></li>
+                                        <li><a href="g20_country_initiatives.php">Saudi Arabia</a></li>
+                                        <li><a href="g20_country_initiatives.php">South Africa</a></li>
+                                        <li><a href="g20_country_initiatives.php">Turkiya</a></li>
+                                        <li><a href="g20_country_initiatives.php">United Kingdom</a></li>
+                                        <li><a href="g20_country_initiatives.php">United States</a></li>
+                                        <li><a href="g20_country_initiatives.php">European Union</a></li>
+                                        <li><a href="g20_country_initiatives.php">African Union</a></li>
                                     </ul>
                         </li>
                         <li class="nav_item sub_menu"><a href="javascript: void(0)">Forest Fire Impacted Landscapes</a>

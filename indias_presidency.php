@@ -100,7 +100,7 @@
                 <div class="right_content">
                         <div class="events_card_content">
                                     <h5>Indonesia</h5>
-                                    <p>2022</p>
+                                    <p class="year">2022</p>
                                     <p>
                                     Indonesia chose “Recover Together, Recover Stronger” as the overall theme for its Presidency, as a 
                                     way to advance strong and inclusive global recovery from COVID-19 pandemic. The idea was to reflect 
@@ -152,14 +152,14 @@
                         </div>
                 </div>
                 <div class="left_content">
-                <img src="assets/images/aboutpage/g20leaders.webp" class="minister_images_g20">
+                <img src="assets/images/pastpresidencies/BALI_Indonesia_Summit_2022.webp" class="minister_images_g20">
                 </div>
                 </li>
                 <li >
                 <div class="right_content">
                         <div class="events_card_content">
                             <h5>Italy</h5>
-                            <p>2021</p>
+                            <p class="year">2021</p>
                             <p>
                                 The 16th G20 Summit was hosted by Italy on 30-31 October 2021 in Rome. The theme chosen by Italy for 
                                 their Presidency of the G20 was 'People, Planet, Prosperity' with a focus on four broad thematic areas: 
@@ -202,7 +202,7 @@
                 <div class="right_content">
                         <div class="events_card_content">
                                     <h5>Saudi Arabia</h5>
-                                    <p>2020</p>
+                                    <p class="year">2020</p>
                                     <p>
                                         The 15th G20 Summit was held under the theme ‘Realizing Opportunities of the 21st Century for 
                                         all’. It was the first ever virtual Summit in the history of G20. At the initiative of Prime 
@@ -247,7 +247,7 @@
                 <div class="right_content">
                         <div class="events_card_content">
                             <h5>Osaka</h5>
-                            <p>2019</p>
+                            <p class="year">2019</p>
                             <p>
                                  The G20 Summit in 2019 (Japan) focused on key issues such as Trade and Investment; Excess Capacity of 
                                  Steel; Digitalization; Data Free Flow with Trust; G20/OECD Framework on Base Erosion and Profit 
@@ -265,7 +265,7 @@
                 <div class="right_content">
                         <div class="events_card_content">
                                     <h5>Buenos Aires</h5>
-                                    <p>2018</p>
+                                    <p class="year">2018</p>
                                     <p>
                                         The overarching theme of the G20 under Argentina’s Presidency was ‘Building Consensus For Fair 
                                         And Sustainable Development’. The priority areas for Argentina’s Presidency were - Future of 
@@ -278,14 +278,14 @@
                         </div>
                 </div>
                 <div class="left_content">
-                <img src="assets/images/aboutpage/g20leaders.webp" class="minister_images_g20">
+                <img src="assets/images/pastpresidencies/Buenos_Aires_Summit_2018.webp" class="minister_images_g20">
                 </div>
                 </li>
                 <li>
                 <div class="right_content">
                         <div class="events_card_content">
                             <h5>Hamburg</h5>
-                            <p>2017</p>
+                            <p class="year">2017</p>
                             <p>
                                 The G20 under the German Presidency met under the theme “Shaping an interconnected world” and accorded 
                                 a special emphasis to addressing the global menace of terrorism. A G20 Leaders’ Retreat on ‘Fighting 
@@ -307,7 +307,7 @@
                 <div class="right_content">
                         <div class="events_card_content">
                                     <h5>Antalya and Hangzhou</h5>
-                                    <p>2015 & 2016</p>
+                                    <p class="year">2015 & 2016</p>
                                     <p>
                                         At the G20 Summit in Antalya (Turkey), in 2015, the G20 looked for the first time at migration 
                                         and refugee movement. They also agreed on further financial sector reforms and resolved to 
@@ -329,7 +329,7 @@
                 <div class="right_content">
                         <div class="events_card_content">
                             <h5>Los Cabos, St. Petersburg, Brisbane</h5>
-                            <p>2012, 2013 &2014</p>
+                            <p class="year">2012, 2013 &2014</p>
                             <p>
                                 The focus of the Summit in Los Cabos (Mexico) in 2012 was on fighting youth unemployment and creating 
                                 quality jobs with social security coverage and fair income. The Summit also highlighted the link between 
@@ -355,7 +355,7 @@
                 <div class="right_content">
                         <div class="events_card_content">
                                     <h5>Toronto, Seoul, Cannes</h5>
-                                    <p>2010 & 2011</p>
+                                    <p class="year">2010 & 2011</p>
                                     <p>
                                         At the Toronto Summit (Canada) in 2010, the G20 adopted directives to reduce sovereign debt. 
                                         The advanced industrial States pledged a reduction in their budget deficits and external 
@@ -373,14 +373,14 @@
                         </div>
                 </div>
                 <div class="left_content">
-                <img src="assets/images/aboutpage/g20leaders.webp" class="minister_images_g20">
+                <img src="assets/images/pastpresidencies/Seoul_G20_summit.webp" class="minister_images_g20">
                 </div>
                 </li>
                 <li>
                 <div class="right_content">
                         <div class="events_card_content">
                             <h5>Washington DC, London, Pittsburgh</h5>
-                            <p>2008 & 2009</p>
+                            <p class="year">2008 & 2009</p>
                             <p>
                                 The first G20 Summit was held in 2008 in Washington DC (USA). It set the scene for the most dramatic 
                                 reform of global finance in over 60 years. At the follow-up summit in 2009 in London (UK), the G20 
@@ -412,36 +412,6 @@
         </div>
     </section>
     <!--Second Section End-->
-     <!--last Section Start-->
-     <section class="more_about_gip common_spacing footer_bottom_Secton_top">
-        <div class="container_fluid ">
-            <div class="flex_row">
-                <div class="col_12">
-                <h2>To Know More About GIP</h2>
-            </div>
-            </div>
-            <div class="flex_row common_spacing">
-                <div class="col_2"></div>
-                <div class="col_3">
-                    <div class="delhi_declaration">
-                        <h4><a href="#">History of GIP</a></h4>
-                    </div>
-                </div>
-                <div class="col_3">
-                    <div class="grih_structure">
-                        <h4><a href="#">GRIH Structure</a></h4>
-                    </div>
-                </div>
-                <div class="col_3">
-                    <div class="gir_gip_structure">
-                        <h4><a href="#">GIR-GIP Alliance</a></h4>
-                    </div>
-                </div>
-                <div class="col_1"></div>
-            </div>
-        </div>
-
-    </section>
-    <!--last Section End-->
+     
     <!--last Section End-->
     <?php include('includes/footer.php')?>

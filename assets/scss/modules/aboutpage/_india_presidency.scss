@@ -94,17 +94,17 @@
 .timeline:before {
     content: '';
     position:absolute;
-    height:100%;
+    height:99.4%;
     left:50%;
-    width:2px;
-    top:-20px;
+    width:3px;
+    top:49px;
     background:#2c2e75;
     z-index:1;
   }
   .timeline{
     position:relative;
-    margin: 50px auto;
-    padding:50px 0;
+    /*margin: 50px auto;
+    padding:50px 0;*/
   }
   
   
@@ -151,31 +151,31 @@
   .timeline ul li:nth-child(odd):before{
     content: '';
     position:absolute;
-    width:10px;
-    height:10px;
-    background:rgba(59,112,239,1);
+    width:30px;
+    height:30px;
+    background:#2C2E75;
     border-radius:50%;
-    box-shadow: 0 0 0 3px rgba(58,112,239,0.2);
-    right:-6px;
-    top:153px;
+    box-shadow: 0 0 0 3px rgb(58 112 239 / 0%);
+    right:-17px;
+    top:7px;
     z-index:1;
   }
   
   .timeline ul li:nth-child(even):before{
     content: '';
     position:absolute;
-    width:10px;
-    height:10px;
-   background:rgba(59,112,239,1);
+    width:30px;
+    height:30px;
+   background:#2C2E75;
     border-radius:50%;
-    box-shadow: 0 0 0 3px rgba(58,112,239,0.2);
-    left:-4px;
-    top:-118px;
+    box-shadow: 0 0 0 3px rgb(58 112 239 / 0%);
+    left:-13px;
+    top:-191px;
   }
   
   .timeline ul li:nth-child(odd) .left_content{
     position: relative;
-    top: -688px;
+    top: -641px;
     right: -645px;
     margin: 0;
     /* padding: 8px 16px; */
@@ -194,7 +194,7 @@
     color: #2c2e75;
     /* box-shadow: 0 0 0 3px rgba(59,112,239,.3); */
     border-radius: 18px;
-    top: -961px;
+    top: -918px;
     
   }
   
@@ -253,7 +253,7 @@
     ul li:nth-child(1) .left_content
     {
       position: relative;
-    top: -1392px;
+    top: -1357px;
     right: -645px;
     margin: 0;
     color: #fff;
@@ -264,29 +264,16 @@
      {
       content: "";
       position: absolute;
-      width: 10px;
-      height: 10px;
-      background: #3b70ef;
+      width: 30px;
+      height: 30px;
+      background: #2C2E75;
       border-radius: 50%;
-      box-shadow: 0 0 0 3px rgba(58,112,239,.2);
-      right: -6px;
-      top: 202px;
+      box-shadow: 0 0 0 3px rgb(58 112 239 / 0%);
+      right: -16px;
+      top: 184px;
       z-index: 1;
      }
-     ul li:nth-child(1):before
-    {
-      content: "";
-      position: absolute;
-      width: 10px;
-      height: 10px;
-      background: #3b70ef;
-      border-radius: 50%;
-      box-shadow: 0 0 0 3px rgba(58,112,239,.2);
-      right: -6px;
-      top: 195px;
-      z-index: 1;
-    }
-
+     
     ul li:nth-child(1)
     {
     height: 2056px;
@@ -299,12 +286,12 @@
     ul li:nth-child(2):before {
       content: "";
       position: absolute;
-      width: 10px;
-      height: 10px;
-      background: #3b70ef;
+      width: 30px;
+      height: 30px;
+      background: #2C2E75;
       border-radius: 50%;
-      box-shadow: 0 0 0 3px rgba(58,112,239,.2);
-      left: -4px;
+      box-shadow: 0 0 0 3px rgb(58 112 239 / 0%);
+      left: -13px;
       top: -365px;
   }
    ul li:nth-child(2) .left_content
@@ -315,7 +302,7 @@
     padding: 12px -25px;
     color: #2c2e75;
     border-radius: 18px;
-    top: -1564px;
+    top: -1526px;
   }
   ul li:nth-child(2)
   {
@@ -325,13 +312,13 @@
   {
     content: "";
     position: absolute;
-    width: 10px;
-    height: 10px;
-    background: #3b70ef;
+    width: 30px;
+    height: 30px;
+    background: #2C2E75;
     border-radius: 50%;
-    box-shadow: 0 0 0 3px rgba(58,112,239,.2);
-    right: -6px;
-    top: 59px;
+    box-shadow:0 0 0 3px rgb(58 112 239 / 0%);
+    right: -16px;
+    top: 33px;
     z-index: 1;
   }
   ul li:nth-child(3) .right_content
@@ -346,9 +333,17 @@
     width: 6.729167vw;
     height: 0.2604166667vw;
     background-color: #f7941d;
-    bottom: -1.0416666667vw;
+    bottom: 0.958333vw;
     float: right;
     left: 25.520833333333332vw;//392px
+  }
+  .events_card_content h5::before
+  {
+    bottom:   0.958333vw;
+  }
+  .events_card_content .year
+  {
+      margin-top: -2.5390625vw;//-39px
   }
   ul li:nth-child(3)
   {
@@ -360,7 +355,7 @@
   ul li:nth-child(3) .left_content
   {
     position: relative;
-    top: -1258px;
+    top: -1209px;
     right: -645px;
     margin: 0;
     color: #fff;
@@ -375,19 +370,19 @@
     padding: 12px -25px;
     color: #2c2e75;
     border-radius: 18px;
-    top: -843px;
+    top: -803px;
   }
   ul li:nth-child(4):before
   {
     content: "";
     position: absolute;
-    width: 10px;
-    height: 10px;
-    background: #3b70ef;
+    width: 30px;
+    height: 30px;
+    background: #2c2e75;
     border-radius: 50%;
-    box-shadow: 0 0 0 3px rgba(58,112,239,.2);
-    left: -4px;
-    top: -342px;
+    box-shadow:0 0 0 3px rgb(58 112 239 / 0%);
+    left: -13px;
+    top: -392px;
   }
   ul li:nth-child(4) .right_content
   {
@@ -405,13 +400,13 @@
   {
     content: "";
     position: absolute;
-    width: 10px;
-    height: 10px;
-    background: #3b70ef;
+    width: 30px;
+    height: 30px;
+    background: #2c2e75;
     border-radius: 50%;
-    box-shadow: 0 0 0 3px rgba(58,112,239,.2);
-    right: -6px;
-    top: -113px;
+    box-shadow: 0 0 0 3px rgb(58 112 239 / 0%);
+    right: -17px;
+    top: -129px;
     z-index: 1;
   }
   ul li:nth-child(5) .right_content
@@ -438,11 +433,11 @@
     padding: 12px -25px;
     color: #2c2e75;
     border-radius: 18px;
-    top: -1097px;
+    top: -1053px;
 }
 ul li:nth-child(6):before
 {
-  top: -454px;
+  top: -472px;
 }
 ul li:nth-child(6) .right_content
 {
@@ -453,12 +448,12 @@ ul li:nth-child(6) .right_content
 {
   content: "";
   position: absolute;
-  width: 10px;
-  height: 10px;
-  background: #3b70ef;
+  width: 30px;
+  height: 30px;
+  background: #2c2e75;
   border-radius: 50%;
-  box-shadow: 0 0 0 3px rgba(58,112,239,.2);
-  right: -6px;
+  box-shadow:0 0 0 3px rgb(58 112 239 / 0%);
+  right: -17px;
   top: -40px;
   z-index: 1;
 }
@@ -505,11 +500,11 @@ ul li:nth-child(9)
 {
   content: "";
   position: absolute;
-  width: 10px;
-  height: 10px;
-  background: #3b70ef;
+  width: 30px;
+  height: 30px;
+  background: #2c2e75;
   border-radius: 50%;
-  box-shadow: 0 0 0 3px rgba(58,112,239,.2);
+  box-shadow: 0 0 0 3px rgb(58 112 239 / 0%);
   right: -6px;
   top: -147px;
   z-index: 1;
@@ -540,5 +535,18 @@ ul li:nth-child(9) .right_content
  {
   
   left: 26.520833333333332vw;//392px
+ }
+  ul li:nth-child(10):before
+ {
+  content: "";
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background: #2c2e75;
+  border-radius: 50%;
+  box-shadow: 0 0 0 3px rgb(58 112 239 / 0%);
+  left: -13px;
+  top: -150px;
+  
  }
 }
