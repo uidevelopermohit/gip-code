@@ -1,7 +1,21 @@
-.country_initiatives_details
+.additional_topics
 {
-    .additional_topics
-    {
-    border-top:2px solid #EEEEEE;
-    }
+border-top:1px solid #EEEEEE;
 }
+.back_btn
+    {
+        width: 130px;
+        height: 40px;
+        border-radius: 5px;
+        background: #D9D9D9;
+        border: none;
+    }
+    .back_btn a
+    {
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: left;
+        color:#000;
+    }

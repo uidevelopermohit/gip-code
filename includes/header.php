@@ -90,28 +90,29 @@
                         </li>
                         <li class="nav_item sub_menu"><a href="javascript: void(0)">Forest Fire Impacted Landscapes</a>
                                     <ul>
-                                        <li><a href="">Policy and Programs</a></li>
-                                        <li><a href="">Knowledge Resources</a></li>
-                                        <li><a href="">Design Frameworks</a></li>
-                                        <li><a href="">Technology & Tools</a></li>
+                                        <li><a href="forest_fires_impacted_landscapes.php#policy_prgrms_section">Policy and Programs</a></li>
+                                        <li><a href="forest_fires_impacted_landscapes.php#knowledge_resources">Knowledge Resources</a></li>
+                                        <li><a href="forest_fires_impacted_landscapes.php">Design Frameworks</a></li>
+                                        <li><a href="forest_fires_impacted_landscapes.php#technology_tools_Section">Technology & Tools</a></li>
                                     </ul>
                         </li>
                         <li class="nav_item sub_menu"><a href="javascript: void(0)">Mining Afected Landscapes</a>
                                     <ul>
-                                        <li><a href="">Policy and Programs</a></li>
-                                        <li><a href="">Knowledge Resources</a></li>
-                                        <li><a href="">Design Frameworks</a></li>
-                                        <li><a href="">Technology & Tools</a></li>
+                                        <li><a href="mining_affected_landscapes.php#policy_prgrms_section">Policy and Programs</a></li>
+                                        <li><a href="mining_affected_landscapes.php#knowledge_resources">Knowledge Resources</a></li>
+                                        <li><a href="mining_affected_landscapes.php#design_framework_Section">Design Frameworks</a></li>
+                                        <li><a href="mining_affected_landscapes.php#technology_tools_Section">Technology & Tools</a></li>
                                     </ul>
                         </li>
                         <li class="nav_item sub_menu"><a href="javascript: void(0)">Financing Options</a>
                                     <ul>
-                                        <li><a href="">Public Programs and Schemes</a></li>
-                                        <li><a href="">Financial Institutions</a></li>
-                                        <li><a href="">Financial Markets</a></li>
-                                        <li><a href="">Private Sector Funding</a></li>
-                                        <li><a href="">Bi/ Multilateral Environmental Agreements</a></li>
-                                        <li><a href="">High Impact Proposals</a></li>
+                                        <li><a href="financing_option.php#policy_prgrms_section">Public Programs and Schemes</a></li>
+                                        <li><a href="financing_option.php#financial_institutions">Financial Institutions</a></li>
+                                        <li><a href="financing_option.php#financial_markets">Financial Markets</a></li>
+                                        <li><a href="financing_option.php#probable_international_Section">Probable International Finance Options</a></li>
+                                        <li><a href="financing_option.php">Private Sector Funding</a></li>
+                                        <li><a href="financing_option.php">Bi/ Multilateral Environmental Agreements</a></li>
+                                        <li><a href="financing_option.php">High Impact Proposals</a></li>
                                     </ul>
                         </li>
                         <li class="nav_item sub_menu"><a href="javascript: void(0)">Events & News</a>

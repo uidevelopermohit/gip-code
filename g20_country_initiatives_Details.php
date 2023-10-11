@@ -49,7 +49,7 @@
                     <section id="policy_prgrms_section">
                         <div class="flex_row">
                             <div class="col_12">
-                                <h2>Policy and Programs (GIP related)</h2>
+                            <h2><button class="back_btn"><a href="g20_country_initiatives.php" class="">Go Back</a></button>&nbsp;&nbsp;Policy and Programs (GIP related)</h2>
                             </div>
                         </div>
                         <div class="flex_row">
@@ -75,7 +75,7 @@
                     </section>
                     <!--policy_programs_section End-->
                     <!--policy_programs_section Start-->
-                    <section id="policy_prgrms_section " class="common_spacing">
+                    <section id="policy_prgrms_section " class="common_spacing additional_topics">
                         <div class="flex_row">
                             <div class="col_12">
                                 <h5>Additional Topics</h5>
