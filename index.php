@@ -50,19 +50,12 @@
                     <div class="minister_first_col">
                         <div class="minister_card pm_card">
                             <div class="minister_card_image">
-                                <img src="assets/images/ministersection/narendermodiji.png" alt="">
-                                <span class="play_icon"><i class="icon-play"></i></span>
+                                <iframe width="100%" src="https://www.youtube.com/embed/im5C6zecwFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                <!-- <span class="play_icon"><i class="icon-play"></i></span> -->
                             </div>
                             <div class="minister_card_content">
                                 <h2>Prime Minister's Message</h2>
-                                <p> Lorem Ipsum is simply dummy text of the printing
-                                    and typesetting industry. Lorem Ipsum has been the industry's standard dummy text
-                                    ever
-                                    since the 1500s, when an unknown printer took a galley of type and scrambled it to
-                                    make
-                                    a type specimen book. It has survived not only five centuries, but also the leap
-                                    into
-                                    electronic.</p>
+                                <p> The Prime Minister, Shri Narendra Modi addressed the G20 Environment and Climate Ministers’ Meet in Chennai via video message. The Prime Minister emphasized providing for nature as nature provides for us. He stated said that protecting and caring for Mother Earth is our fundamental responsibility and today, it has taken the shape of ‘Climate Action’ as this duty was ignored by many for a very long time.</p>
                             </div>
                         </div>
                     </div>
@@ -73,9 +66,8 @@
                             </div>
                             <div class="minister_card_content">
                                 <h2>Minister’s Message</h2>
-                                <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                    Ipsum
-                                    has been the industry's standard dummy text ever since.</p>
+                                <p> Message at the G20 Environment and Climate Ministers Meet in Chennai: 
+(Shri Bhupender Yadav, Union Minister of Environment, Forest and Climate Change, said the Environment and Climate Ministers’ Meet concluded in Chennai with G20 ministers standing united in their commitment to create a sustainable and resilient future</p>
                             </div>
                         </div>
                     </div>
@@ -159,10 +151,7 @@
             <div class="container_fluid">
                 <div class="members_section_heading_content">
                     <h2>G20 Members</h2>
-                    <p>Lorem egestas, leo nisl convallis sem, ac vulputate lacus sapien id quam.
-                        Donec laoreet suscipit posuere. Integer aliquet ipsum ac condimentum vulputate. Maecenas in
-                        purus
-                        pellentesque, dapibus augue ut, tincidunt metus.</p>
+                    <p>In 2023, the India’s presidency has identified Arresting Land Degradation, Accelerating Ecosystem Restoration and Enriching Biodiversity as one of the key priorities for deliberation as a part of the Environment and Climate Sustainability Working Group (ECSWG). India proposes a knowledge sharing platform- Gandhinagar Information Portal (GIP) enhance the Global Restoration Information Website being developed under the G20 Global Land Initiative. Under this initiative, the participating countries on a voluntary basis shall share progress, knowledge, and best practices to enhance ecological/ecosystem restoration of landscapes through the Gandhinagar Information Platform.</p>
                 </div>
 
                 <ul class="members_flag">
@@ -304,7 +293,7 @@
                     <h2>Events & News</h2>
                 </div>
                 <div class="events_selected">
-                    <img src="assets/images/events/events.png" alt="">
+                    <img src="assets/images/events/events.jpg" alt="">
                     <div class="events_selected_content_overlay">
                         <div class="selected_event_content">
                             <h2>1st ECSWG meet: Bengaluru</h2>
@@ -322,7 +311,7 @@
                 <div class="owl-carousel events_slider">
                     <div class="events_card">
                         <div class="events_card_image">
-                            <img src="assets/images/events/events.png" alt="">
+                            <img src="assets/images/events/events.jpg" alt="">
                         </div>
                         <div class="events_card_content">
                             <h5>1st ECSWG meet: Bengaluru</h5>
@@ -331,38 +320,29 @@
                     </div>
                     <div class="events_card">
                         <div class="events_card_image">
-                            <img src="assets/images/events/events.png" alt="">
+                            <img src="assets/images/events/events.jpg" alt="">
                         </div>
                         <div class="events_card_content">
-                            <h5>1st ECSWG meet: Bengaluru</h5>
-                            <p>February 9 to 11, 2023</p>
+                            <h5>2nd ECSWG meet: Gandhinagar</h5>
+                            <p>March 27 to 29,  2023</p>
                         </div>
                     </div>
                     <div class="events_card">
                         <div class="events_card_image">
-                            <img src="assets/images/events/events.png" alt="">
+                            <img src="assets/images/events/events.jpg" alt="">
                         </div>
                         <div class="events_card_content">
-                            <h5>1st ECSWG meet: Bengaluru</h5>
-                            <p>February 9 to 11, 2023</p>
+                            <h5>3rd ECSWG meet: Mumbai</h5>
+                            <p>May 21 to 23, 2023</p>
                         </div>
                     </div>
                     <div class="events_card">
                         <div class="events_card_image">
-                            <img src="assets/images/events/events.png" alt="">
+                            <img src="assets/images/events/events.jpg" alt="">
                         </div>
                         <div class="events_card_content">
-                            <h5>1st ECSWG meet: Bengaluru</h5>
-                            <p>February 9 to 11, 2023</p>
-                        </div>
-                    </div>
-                    <div class="events_card">
-                        <div class="events_card_image">
-                            <img src="assets/images/events/events.png" alt="">
-                        </div>
-                        <div class="events_card_content">
-                            <h5>1st ECSWG meet: Bengaluru</h5>
-                            <p>February 9 to 11, 2023</p>
+                            <h5>4th ECSWG meet: Chennai</h5>
+                            <p>July 26 to 28, 2023</p>
                         </div>
                     </div>
                 </div>

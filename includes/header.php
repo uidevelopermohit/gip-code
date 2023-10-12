@@ -26,118 +26,114 @@
         <!--Header Start Here-->
         <header>
             <div class="header_topbar">
-                <div class="container_fluid">
-                    <div class="header_top_content">
-                        <div class="date_time"><span>September 20, 2023</span> | <span>23:40 hrs</span></div>
-                        <div class="website_font_size">
-                            <span>A <sup>-</sup></span>
-                            <span class="font_size_selected">A</span>
-                            <span>A <sup>+</sup></span>
-                        </div>
-                        <!-- <div class="website_language"><img src="assets/images/language/flaglanguageen.png" width="27"
-                            height="14px" alt=""> English</div> -->
-                        <a href="" class="dashoard_cta">GIP Dashboard</a>
+                <div class="header_top_content">
+                    <div class="date_time"><span>September 20, 2023</span> | <span>23:40 hrs</span></div>
+                    <div class="website_font_size">
+                        <span>A <sup>-</sup></span>
+                        <span class="font_size_selected">A</span>
+                        <span>A <sup>+</sup></span>
                     </div>
+                    <!-- <div class="website_language"><img src="assets/images/language/flaglanguageen.png" width="27"
+                        height="14px" alt=""> English</div> -->
+                    <a href="" class="dashoard_cta">GIP Dashboard</a>
                 </div>
             </div>
-            <div class="container_fluid">
-                <nav class="navbar">
-                    <div class="navbar_brand">
-                        <img src="assets/images/headerlogo/headerfirst.png" class="fst_logo">
-                        <img src="assets/images/headerlogo/headersecond.png" class="second_logo">
-                    </div>
-                    <ul class="navbar_nav">
-                        <li class="nav_item sub_menu"><a href="javascript: void(0)">GIP</a>
-                            <ul>
-                                <li class="sub_menu"><a href="javascript: void(0)">About GIP</a>
-                                    <ul>
-                                        <li><a href="about.php">History of GIP</a></li>
-                                        <li><a href="delhi_declaration.php">Delhi Declaration</a></li>
-                                        <li><a href="about_gip_structure.php">Structure</a></li>
-                                        <li><a href="alliance.php">Alliance</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="indias_presidency.php">G20 Presidency</a></li>
-                                <li><a href="indias_presidency.php">Past Presidencies</a></li>
-                                <li><a href="keyhighlights.php">Key Highlights</a></li>
-                                <li><a href="thematic_working_group_meetings.php">Themetic Working Group Meetings</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav_item sub_menu"><a href="javascript: void(0)">G20 Country Initiatives</a>
-                                    <ul>
-                                        <li><a href="g20_country_initiatives.php">Argentina</a></li>
-                                        <li><a href="g20_country_initiatives.php">Australia</a></li>
-                                        <li><a href="g20_country_initiatives.php">Brazil</a></li>
-                                        <li><a href="g20_country_initiatives.php">Canada</a></li>
-                                        <li><a href="g20_country_initiatives.php">China</a></li>
-                                        <li><a href="g20_country_initiatives.php">France</a></li>
-                                        <li><a href="g20_country_initiatives.php">Germany</a></li>
-                                        <li><a href="g20_country_initiatives.php">India</a></li>
-                                        <li><a href="g20_country_initiatives.php">Indonesia</a></li>
-                                        <li><a href="g20_country_initiatives.php">Italy</a></li>
-                                        <li><a href="g20_country_initiatives.php">Japan</a></li>
-                                        <li><a href="g20_country_initiatives.php">Mexico</a></li>
-                                        <li><a href="g20_country_initiatives.php">Korea</a></li>
-                                        <li><a href="g20_country_initiatives.php">Russia</a></li>
-                                        <li><a href="g20_country_initiatives.php">Saudi Arabia</a></li>
-                                        <li><a href="g20_country_initiatives.php">South Africa</a></li>
-                                        <li><a href="g20_country_initiatives.php">Turkiya</a></li>
-                                        <li><a href="g20_country_initiatives.php">United Kingdom</a></li>
-                                        <li><a href="g20_country_initiatives.php">United States</a></li>
-                                        <li><a href="g20_country_initiatives.php">European Union</a></li>
-                                        <li><a href="g20_country_initiatives.php">African Union</a></li>
-                                    </ul>
-                        </li>
-                        <li class="nav_item sub_menu"><a href="javascript: void(0)">Forest Fire Impacted Landscapes</a>
-                                    <ul>
-                                        <li><a href="forest_fires_impacted_landscapes.php#policy_prgrms_section">Policy and Programs</a></li>
-                                        <li><a href="forest_fires_impacted_landscapes.php#knowledge_resources">Knowledge Resources</a></li>
-                                        <li><a href="forest_fires_impacted_landscapes.php">Design Frameworks</a></li>
-                                        <li><a href="forest_fires_impacted_landscapes.php#technology_tools_Section">Technology & Tools</a></li>
-                                    </ul>
-                        </li>
-                        <li class="nav_item sub_menu"><a href="javascript: void(0)">Mining Afected Landscapes</a>
-                                    <ul>
-                                        <li><a href="mining_affected_landscapes.php#policy_prgrms_section">Policy and Programs</a></li>
-                                        <li><a href="mining_affected_landscapes.php#knowledge_resources">Knowledge Resources</a></li>
-                                        <li><a href="mining_affected_landscapes.php#design_framework_Section">Design Frameworks</a></li>
-                                        <li><a href="mining_affected_landscapes.php#technology_tools_Section">Technology & Tools</a></li>
-                                    </ul>
-                        </li>
-                        <li class="nav_item sub_menu"><a href="javascript: void(0)">Financing Options</a>
-                                    <ul>
-                                        <li><a href="financing_option.php#policy_prgrms_section">Public Programs and Schemes</a></li>
-                                        <li><a href="financing_option.php#financial_institutions">Financial Institutions</a></li>
-                                        <li><a href="financing_option.php#financial_markets">Financial Markets</a></li>
-                                        <li><a href="financing_option.php#probable_international_Section">Probable International Finance Options</a></li>
-                                        <li><a href="financing_option.php">Private Sector Funding</a></li>
-                                        <li><a href="financing_option.php">Bi/ Multilateral Environmental Agreements</a></li>
-                                        <li><a href="financing_option.php">High Impact Proposals</a></li>
-                                    </ul>
-                        </li>
-                        <li class="nav_item sub_menu"><a href="javascript: void(0)">Events & News</a>
-                                    <ul>
-                                        <li><a href="">Events</a></li>
-                                        <li><a href="">News</a></li>
-                                        <li><a href="">Training Programs</a></li>
-                                    </ul>
-                        </li>
-                        <li class="nav_item"><a href="">Contact</a></li>
-                        <li class="nav_item sub_menu"><a href="javascript: void(0)">Media</a>
-                                    <ul>
-                                        <li><a href="">Press Releases</a></li>
-                                        <li><a href="">Media Coverage</a></li>
-                                        <li><a href="">Event Reports</a></li>
-                                        <li><a href="">Gallery</a></li>
-                                    </ul>
-                    
-                        </li>
-                    </ul>
-                    <a href="javascript: void(0)" class="menu_toggle"><i class="icon-menu"></i></a>
-                    <div class="navbar_brand">
-                        <img src="assets/images/headerlogo/g20header.png" class="fst_logo">
-                    </div>
-                </nav>
-            </div>
+            <nav class="navbar">
+                <div class="navbar_brand">
+                    <img src="assets/images/headerlogo/headerfirst.png" class="fst_logo">
+                    <img src="assets/images/headerlogo/headersecond.png" class="second_logo">
+                </div>
+                <ul class="navbar_nav">
+                    <li class="nav_item sub_menu"><a href="javascript: void(0)">GIP</a>
+                        <ul>
+                            <li class="sub_menu"><a href="javascript: void(0)">About GIP</a>
+                                <ul>
+                                    <li><a href="about.php">History of GIP</a></li>
+                                    <li><a href="delhi_declaration.php">Delhi Declaration</a></li>
+                                    <li><a href="about_gip_structure.php">Structure</a></li>
+                                    <li><a href="alliance.php">Alliance</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="indias_presidency.php">G20 Presidency</a></li>
+                            <li><a href="indias_presidency.php">Past Presidencies</a></li>
+                            <li><a href="keyhighlights.php">Key Highlights</a></li>
+                            <li><a href="thematic_working_group_meetings.php">Themetic Working Group Meetings</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav_item sub_menu"><a href="javascript: void(0)">G20 Country Initiatives</a>
+                                <ul>
+                                    <li><a href="g20_country_initiatives.php">Argentina</a></li>
+                                    <li><a href="g20_country_initiatives.php">Australia</a></li>
+                                    <li><a href="g20_country_initiatives.php">Brazil</a></li>
+                                    <li><a href="g20_country_initiatives.php">Canada</a></li>
+                                    <li><a href="g20_country_initiatives.php">China</a></li>
+                                    <li><a href="g20_country_initiatives.php">France</a></li>
+                                    <li><a href="g20_country_initiatives.php">Germany</a></li>
+                                    <li><a href="g20_country_initiatives.php">India</a></li>
+                                    <li><a href="g20_country_initiatives.php">Indonesia</a></li>
+                                    <li><a href="g20_country_initiatives.php">Italy</a></li>
+                                    <li><a href="g20_country_initiatives.php">Japan</a></li>
+                                    <li><a href="g20_country_initiatives.php">Mexico</a></li>
+                                    <li><a href="g20_country_initiatives.php">Korea</a></li>
+                                    <li><a href="g20_country_initiatives.php">Russia</a></li>
+                                    <li><a href="g20_country_initiatives.php">Saudi Arabia</a></li>
+                                    <li><a href="g20_country_initiatives.php">South Africa</a></li>
+                                    <li><a href="g20_country_initiatives.php">Turkiya</a></li>
+                                    <li><a href="g20_country_initiatives.php">United Kingdom</a></li>
+                                    <li><a href="g20_country_initiatives.php">United States</a></li>
+                                    <li><a href="g20_country_initiatives.php">European Union</a></li>
+                                    <li><a href="g20_country_initiatives.php">African Union</a></li>
+                                </ul>
+                    </li>
+                    <li class="nav_item sub_menu"><a href="javascript: void(0)">Forest Fire Impacted Landscapes</a>
+                                <ul>
+                                    <li><a href="forest_fires_impacted_landscapes.php#policy_prgrms_section">Policy and Programs</a></li>
+                                    <li><a href="forest_fires_impacted_landscapes.php#knowledge_resources">Knowledge Resources</a></li>
+                                    <li><a href="forest_fires_impacted_landscapes.php">Design Frameworks</a></li>
+                                    <li><a href="forest_fires_impacted_landscapes.php#technology_tools_Section">Technology & Tools</a></li>
+                                </ul>
+                    </li>
+                    <li class="nav_item sub_menu"><a href="javascript: void(0)">Mining Afected Landscapes</a>
+                                <ul>
+                                    <li><a href="mining_affected_landscapes.php#policy_prgrms_section">Policy and Programs</a></li>
+                                    <li><a href="mining_affected_landscapes.php#knowledge_resources">Knowledge Resources</a></li>
+                                    <li><a href="mining_affected_landscapes.php#design_framework_Section">Design Frameworks</a></li>
+                                    <li><a href="mining_affected_landscapes.php#technology_tools_Section">Technology & Tools</a></li>
+                                </ul>
+                    </li>
+                    <li class="nav_item sub_menu"><a href="javascript: void(0)">Financing Options</a>
+                                <ul>
+                                    <li><a href="financing_option.php#policy_prgrms_section">Public Programs and Schemes</a></li>
+                                    <li><a href="financing_option.php#financial_institutions">Financial Institutions</a></li>
+                                    <li><a href="financing_option.php#financial_markets">Financial Markets</a></li>
+                                    <li><a href="financing_option.php#probable_international_Section">Probable International Finance Options</a></li>
+                                    <li><a href="financing_option.php">Private Sector Funding</a></li>
+                                    <li><a href="financing_option.php">Bi/ Multilateral Environmental Agreements</a></li>
+                                    <li><a href="financing_option.php">High Impact Proposals</a></li>
+                                </ul>
+                    </li>
+                    <li class="nav_item sub_menu"><a href="javascript: void(0)">Events & News</a>
+                                <ul>
+                                    <li><a href="">Events</a></li>
+                                    <li><a href="">News</a></li>
+                                    <li><a href="">Training Programs</a></li>
+                                </ul>
+                    </li>
+                    <li class="nav_item"><a href="">Contact</a></li>
+                    <li class="nav_item sub_menu"><a href="javascript: void(0)">Media</a>
+                                <ul>
+                                    <li><a href="">Press Releases</a></li>
+                                    <li><a href="">Media Coverage</a></li>
+                                    <li><a href="">Event Reports</a></li>
+                                    <li><a href="">Gallery</a></li>
+                                </ul>
+                
+                    </li>
+                </ul>
+                <a href="javascript: void(0)" class="menu_toggle"><i class="icon-menu"></i></a>
+                <div class="navbar_brand">
+                    <img src="assets/images/headerlogo/g20header.png" class="fst_logo">
+                </div>
+            </nav>
         </header>
         <!--Header End Here-->

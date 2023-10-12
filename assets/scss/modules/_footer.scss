@@ -1,9 +1,10 @@
 .footer_top {
     margin-top: 6.25vw;
 }
+
 footer {
     position: relative;
-    padding-bottom: 2.604166666666667vw;
+    padding: 0 2.604166666666667vw 2.604166666666667vw;
 
     &::before,
     &::after {
@@ -16,6 +17,7 @@ footer {
         left: 0;
         top: 0;
     }
+
     &::after {
         @include scale(-1);
         left: auto;
@@ -24,7 +26,7 @@ footer {
 
     .footer_logo {
         height: 4.166666666666666vw; //80px
-   
+
     }
 
     .footer_links {
@@ -49,7 +51,7 @@ footer {
 
 .bottom_footer {
     background-color: #EEEEEE;
-    padding: 1.3020833333333335vw 0; //25px 0
+    padding: 1.3020833333333335vw 2.604166666666667vw; //25px 0
     // margin-top: 2.604166666666667vw;
 
     p {
@@ -66,8 +68,9 @@ footer {
     .footer_top {
         margin-top: 120px;
     }
+
     footer {
-        padding-bottom: 50px;
+        padding-bottom: 0 50px 50px;
 
         .footer_logo {
             height: 80px;
@@ -81,7 +84,7 @@ footer {
     }
 
     .bottom_footer {
-        padding: 25px 0;
+        padding: 25px 50px;
         margin-top: 50px;
 
         p {
@@ -92,127 +95,60 @@ footer {
     }
 }
 
-.container {
-    width: 100%;
-    max-width: 1600px;
-    padding-left: 18px;
-    padding-right: 18px;
-    padding-top: 64px;
+
+@media screen and (max-width: 991.98px) {
+    footer {
+        padding: 20px 30px;
+
+        .flex_row {
+            .col_2 {
+                flex: 0 0 auto;
+                width: 33.33333333%;
+                margin-bottom: 30px;
+            }
+        }
+
+        .footer_links {
+            br {
+                display: none;
+            }
+        }
+    }
+
+    .bottom_footer {
+        padding: 20px 30px;
+
+        .flex_row {
+            .col_9 {
+                margin-bottom: 10px;
+            }
+
+            .col_9,
+            .col_3 {
+                flex: 0 0 auto;
+                width: 100%;
+                text-align: center;
+            }
+        }
+    }
 }
 
-.row {
-    display: flex;
-}
+@media screen and (max-width: 991.98px) {
+    footer {
+        padding: 20px 30px;
 
-.col-1 {
-    width: 15%;
-}
+        &::before,
+        &::after {
+            width: 40.416667vw;
+            background-position: right;
+        }
 
-.col-2 {
-    width: 18%;
-}
-
-.col-3 {
-    width: 27%;
-}
-
-.footer_lgo {
-    width: 141.38px;
-    height: 78px;
-}
-
-.footer_logo_discription {
-    font-family: Plus Jakarta Sans;
-    font-size: 18px;
-    font-weight: 500;
-    line-height: 30px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #000;
-    margin-bottom: 0px;
-}
-
-.footer_lnks_heading {
-    //styleName: H3;
-    font-family: Plus Jakarta Sans;
-    font-size: 24px;
-    font-weight: 700;
-    line-height: 30px;
-    letter-spacing: 0em;
-    text-align: left;
-    padding-left: 18px;
-    color: #000;
-}
-
-.footer_lnks {
-    font-family: Plus Jakarta Sans;
-    font-size: 18px;
-    font-weight: 300;
-    line-height: 40px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #000;
-    padding-left: 18px;
-    text-decoration: none;
-}
-
-.footr_lnks_ul {
-    margin-top: 30px;
-}
-
-li {
-    text-decoration: none;
-    list-style: none;
-}
-
-ul {
-    text-decoration: none;
-}
-
-.col-7 {
-    width: 70%;
-}
-
-.bootom_footer_lnk {
-    //styleName: Body Font;
-    font-family: Plus Jakarta Sans;
-    font-size: 18px;
-    font-weight: 500;
-    line-height: 30px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #000;
-}
-
-.bottom_footer_container {
-    background-color: #EEEEEE;
-    padding-left: 18px;
-    padding-right: 18px;
-    padding: 18px;
-    height: 65px;
-}
-
-.bottom_lnk {
-    color: #000;
-    padding-bottom: 0px;
-}
-
-.dscrptn_bottom_footer {
-    //styleName: Body Font;
-    font-family: Plus Jakarta Sans;
-    font-size: 18px;
-    font-weight: 500;
-    line-height: 30px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #000;
-}
-
-.col-11 {
-    width: 157%;
-}
-
-.footer_top {
-    background: linear-gradient(90deg, #E97F00 0%, #327C34 99.24%);
-    height: 8px;
+        .flex_row {
+            .col_2 {
+                flex: 0 0 auto;
+                width: 100%;
+                margin-bottom: 20px;
+            }
+        }
+    }
 }

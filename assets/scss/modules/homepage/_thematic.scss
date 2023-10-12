@@ -61,10 +61,13 @@
     @media screen and (max-width: 991.98px) {
         &_section {
             display: block;
+            padding-left: 30px;
+            padding-right: 30px;
 
             &_card_wrapper {
                 flex: 0 0 100%;
                 width: 100%;
+                margin-bottom: 20px;
             }
 
             &_card {

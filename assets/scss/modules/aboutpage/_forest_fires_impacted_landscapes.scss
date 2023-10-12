@@ -1,56 +1,55 @@
-.forest_fires_impacted_landscapes
-{
-     .col_8 .events_card
-{
-    height: auto;
-}
-.members_section::after
-{
-    animation: reverse-spin 30s linear infinite;
-    bottom: -29.5625vw;
-    left: 76.6vw;
-    right: -3.4375vw;
-    height: 49.6vw;
-}
-.gradient_container_top_left::before
-{
-    content: "";
-    position: absolute;
-    left: -12.989583vw;
-    top: -1.395833vw;
-    width: 45.169271vw;
-    height: 15.1692708333vw;
-    background-color: #f7941d;
-    border-radius: 100%;
-    z-index: -1;
-    border-radius: 100%;
-    filter: blur(200px);
-}.gradient_container::before
-{
-    left: auto;
-    top: auto;
-    bottom: 0.395833vw;
-    right: 0.010417vw;
-    background-color: #008a4b;
-    content: "";
-    position: absolute;
-    width: 12.041667vw;
-    height: 13.169271vw;
-    border-radius: 100%;
-    filter: blur(200px);
-}
-.gradient_container::after
-{
-    left: auto;
-    top: auto;
-    bottom: 0.395833vw;
-    right: 0.010417vw;
-    background-color: #008a4b;
-    content: "";
-    position: absolute;
-    width: 1.041667vw;
-    height: 3.169271vw;
-    border-radius: 100%;
-    filter: blur(200px);
-}
+.forest_fires_impacted_landscapes {
+    .col_8 .events_card {
+        height: auto;
+    }
+
+    .members_section::after {
+        animation: reverse-spin 30s linear infinite;
+        bottom: -29.5625vw;
+        left: 76.6vw;
+        right: -3.4375vw;
+        height: 49.6vw;
+    }
+
+    .gradient_container_top_left::before {
+        content: "";
+        position: absolute;
+        left: -12.989583vw;
+        top: -1.395833vw;
+        width: 45.169271vw;
+        height: 15.1692708333vw;
+        background-color: #f7941d;
+        border-radius: 100%;
+        z-index: -1;
+        border-radius: 100%;
+        filter: blur(200px);
+    }
+
+    .gradient_container::before {
+        left: auto;
+        top: auto;
+        bottom: 0.395833vw;
+        right: 0.010417vw;
+        background-color: #008a4b;
+        content: "";
+        position: absolute;
+        width: 12.041667vw;
+        height: 13.169271vw;
+        border-radius: 100%;
+        filter: blur(200px);
+    }
+
+    .gradient_container::after {
+        left: auto;
+        top: auto;
+        bottom: 0.395833vw;
+        right: 0.010417vw;
+        background-color: #008a4b;
+        content: "";
+        position: absolute;
+        width: 1.041667vw;
+        height: 3.169271vw;
+        border-radius: 100%;
+        filter: blur(200px);
+    }
 }

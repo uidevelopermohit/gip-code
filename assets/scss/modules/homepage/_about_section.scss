@@ -6,11 +6,12 @@
             .first_col,
             .second_col,
             .third_col {
-                width: 27.083333333333332vw;        //520px
+                width: 27.083333333333332vw; //520px
             }
+
             .second_col {
-                margin-left: 5.208333333333334vw;      //100px
-                margin-right: 5.208333333333334vw;      //100px 
+                margin-left: 5.208333333333334vw; //100px
+                margin-right: 5.208333333333334vw; //100px 
             }
         }
     }
@@ -25,11 +26,12 @@
 
         h5 {
             margin-bottom: 1.5625vw; //30px
-       
+
         }
 
         p {
             margin-bottom: 0;
+            position: relative;
         }
 
         a {
@@ -43,11 +45,11 @@
             position: absolute;
             background: url('../images/lotus-vector-orange.svg') no-repeat;
             opacity: 0.15;
-            width: 14.583333333333334vw;        //280px
-            height: 14.583333333333334vw;       //280px
+            width: 13.583333333333334vw; //280px
+            height: 13.583333333333334vw; //280px
             background-size: 100%;
-            right: -4.6875vw;       //90px
-            bottom: -4.6875vw;      //90px
+            right: -5.6875vw; //90px
+            bottom: -5.6875vw; //90px
             /* -webkit-animation: spin 15s linear infinite;
             -moz-animation: spin 15s linear infinite;
             animation: spin 15s linear infinite; */
@@ -57,19 +59,21 @@
             &::before {
                 background: url('../images/lotus-vector-orange.svg') no-repeat;
                 background-size: 100%;
-            }  
+            }
         }
+
         &_2 {
             &::before {
-                background: url('../images/lotus-vector-green.svg') no-repeat; 
+                background: url('../images/lotus-vector-green.svg') no-repeat;
                 background-size: 100%;
-            } 
+            }
         }
+
         &_3 {
             &::before {
                 background: url('../images/lotus-vector-grey.svg') no-repeat;
                 background-size: 100%;
-                opacity: 1;  
+                opacity: 1;
             }
         }
     }
@@ -77,18 +81,20 @@
     @media screen and (min-width: 1920.98px) {
         &_section {
             .about_blocks_row {
-    
+
                 .first_col,
                 .second_col,
                 .third_col {
                     width: 520px;
                 }
+
                 .second_col {
                     margin-left: 100px;
-                    margin-right: 100px; 
+                    margin-right: 100px;
                 }
             }
         }
+
         &_cards {
             @include border-radius(30px);
 
@@ -103,24 +109,27 @@
             }
         }
     }
+
     @media screen and (max-width: 991.98px) {
         &_section {
             .about_blocks_row {
                 display: block;
-    
+
                 .first_col,
                 .second_col,
                 .third_col {
-                    width: 100%;        //520px
+                    width: 100%; //520px
                 }
+
                 .second_col {
                     margin-left: 0;
-                    margin-right: 0; 
+                    margin-right: 0;
                     margin-top: 20px;
                     margin-bottom: 20px;
                 }
             }
         }
+
         &_cards {
             padding: 30px;
             @include border-radius(10px);
@@ -128,6 +137,7 @@
             h5 {
                 margin-bottom: 20px;
             }
+
             a {
                 margin-top: 15px
             }

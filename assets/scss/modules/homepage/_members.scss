@@ -8,7 +8,7 @@
         overflow: hidden;
 
         &_heading_content {
-            width: 70%;
+            width: 100%;
             margin: 0 auto;
 
             h2 {
@@ -31,14 +31,14 @@
             position: absolute;
             bottom: -23.4375vw;
             left: -23.4375vw;
-            -webkit-animation: spin 30s linear infinite;
-            -moz-animation: spin 30s linear infinite;
-            animation: spin 30s linear infinite;
+            -webkit-animation: spin 40s linear infinite;
+            -moz-animation: spin 40s linear infinite;
+            animation: spin 40s linear infinite;
         }
         &::after {
-            -webkit-animation: reverse-spin 30s linear infinite;
-            -moz-animation: reverse-spin 30s linear infinite;
-            animation: reverse-spin 30s linear infinite;
+            -webkit-animation: reverse-spin 40s linear infinite;
+            -moz-animation: reverse-spin 40s linear infinite;
+            animation: reverse-spin 40s linear infinite;
             bottom: -23.4375vw;
             left: auto;
             right: -23.4375vw;

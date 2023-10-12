@@ -77,7 +77,7 @@ p {
     .col_12 {
         padding-left: 1.0416666666666665vw; //20px
         padding-right: 1.0416666666666665vw; //20px
-   
+
     }
 
     .col {
@@ -145,6 +145,7 @@ p {
     }
 
     @media screen and (max-width: 767.98px) {
+
         .col_1,
         .col_2,
         .col_3,
@@ -465,6 +466,7 @@ h6 {
     }
 
     .gradient_container {
+
         &::before,
         &::after {
             left: 115px;

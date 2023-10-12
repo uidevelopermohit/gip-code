@@ -2,7 +2,7 @@ header {
     .header {
         &_topbar {
             width: 100%;
-            padding: 0.5208333333333333vw 0;
+            padding: 0.5208333333333333vw 2.604166666666667vw;
 
             @include horizontal-gradient($brand-color, $brand-color-2);
 
@@ -18,6 +18,7 @@ header {
 
             .website_font_size {
                 margin-left: 1.5625vw; //30px
+
                 span {
                     padding: 0.4166666666666667vw 0.5208333333333333vw; //8px 10px
                     @include border-radius(5px);
@@ -43,7 +44,7 @@ header {
                 @include border-radius(5px);
 
                 margin-left: 1.5625vw; //30px
-           
+
             }
 
             .website_language {
@@ -52,7 +53,7 @@ header {
 
                 img {
                     margin-right: 0.5208333333333333vw; //10px;
-               
+
                 }
             }
 
@@ -65,7 +66,7 @@ header {
 }
 
 .navbar {
-    padding: 0.5208333333333333vw 0;
+    padding: 0.5208333333333333vw 2.604166666666667vw;
 
     @include flexbox;
     @include align-items(center);
@@ -73,7 +74,7 @@ header {
     &_brand {
         img {
             height: 4.427083333333334vw; //85px;
-       
+
         }
     }
 
@@ -95,6 +96,8 @@ header {
 
             a {
                 color: $base-font-color;
+                position: relative;
+                padding-right: 1.0416666666666665vw;
 
                 &:hover {
                     opacity: 0.8;
@@ -102,7 +105,7 @@ header {
             }
         }
 
-        & > li {
+        &>li {
             padding: 1.7708333333333333vw 0;
 
             &.sub_menu {
@@ -122,9 +125,10 @@ header {
                     z-index: 10;
                     background: #fff;
                     top: 100%;
+                    min-width: 220px;
                 }
 
-                & > a {
+                &>a {
                     &::after {
                         font-family: 'icomoon' !important;
                         content: "\e902";
@@ -132,21 +136,23 @@ header {
                         @include rotate(90);
 
                         display: inline-block;
+                        position: absolute;
+                        right: 0;
                     }
                 }
 
                 &:hover {
-                    & > a {
+                    &>a {
                         color: $brand-color-4;
                     }
 
-                    & > ul {
+                    &>ul {
                         display: block;
                     }
                 }
 
                 .sub_menu {
-                    & > a {
+                    &>a {
                         &::after {
                             font-family: 'icomoon' !important;
                             content: "\e902";
@@ -161,11 +167,11 @@ header {
                     }
 
                     &:hover {
-                        & > a {
+                        &>a {
                             color: $brand-color-4;
                         }
 
-                        & > ul {
+                        &>ul {
                             display: block;
                         }
                     }
@@ -220,7 +226,7 @@ header {
                 margin-right: 30px;
             }
 
-            & > li {
+            &>li {
                 padding: 20px 0;
 
                 &.sub_menu {
@@ -240,7 +246,7 @@ header {
         .header {
             &_topbar {
                 font-size: 12px;
-                padding: 10px 0;
+                padding: 10px 30px;
             }
 
             &_top_content {
@@ -267,11 +273,11 @@ header {
     }
 
     .navbar {
-        padding: 10px 0;
+        padding: 10px 30px;
 
         &_brand {
             img {
-                height: 30px;
+                height: 40px;
             }
         }
 
@@ -288,13 +294,13 @@ header {
 
             @include box-shadow(0, 0, 10px, rgba(0, 0, 0, 0.2));
 
-            .nav_item > a {
+            .nav_item>a {
                 padding: 20px;
                 display: flex;
                 justify-content: space-between;
             }
 
-            & > li {
+            &>li {
                 padding: 0;
 
                 &.sub_menu {
@@ -304,10 +310,10 @@ header {
                         }
                     }
 
-                    & > ul {
+                    &>ul {
                         position: relative;
 
-                        & > li > a {
+                        &>li>a {
                             padding-left: 30px;
                         }
                     }

@@ -40,6 +40,10 @@
             @include border-radii(1.5625vw, 1.5625vw, 0, 0);
 
             position: relative;
+
+            iframe {
+                height: 26.239583333333332vw;
+            }
         }
 
         &_content {
@@ -107,6 +111,10 @@
 
             &_image {
                 @include border-radii(10px, 10px, 0, 0);
+                
+                iframe {
+                    height: 530px;
+                }
             }
 
             &_content {
