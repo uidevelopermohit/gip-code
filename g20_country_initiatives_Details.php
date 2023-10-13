@@ -48,8 +48,11 @@
                     <!--policy_programs_section Start-->
                     <section id="policy_prgrms_section">
                         <div class="flex_row">
-                            <div class="col_12">
-                            <h2><button class="back_btn"><a href="g20_country_initiatives.php" class="">Go Back</a></button>&nbsp;&nbsp;Policy and Programs (GIP related)</h2>
+                            <div class="col_9">
+                                <h2>Good Practices</h2>
+                            </div>
+                            <div class="col_3">
+                                <button class="back_btn"><a href="g20_country_initiatives.php" class="">Back</a></button>
                             </div>
                         </div>
                         <div class="flex_row">
@@ -106,7 +109,7 @@
                                         <img src="assets/images/events/events.png" alt="">
                                     </div>
                                     <div class="events_card_content">
-                                        <h5>GIR GIP outcome document</h5>
+                                        <h5>GIR GIP Outcome Document</h5>
                                         <p>
                                             The Prime Minister, Shri Narendra Modi lauded the adoption of the New Delhi Leaders’ 
                                             Declaration and expressed his gratitude to all fellow G20 members for their support and 

@@ -2,6 +2,16 @@
 {
 border-top:1px solid #EEEEEE;
 }
+.dtls_page
+{
+    .common_spacing
+    {
+        padding-top: 4.25vw;
+        margin-top: 4.25vw;
+    }
+    
+    
+}
 .back_btn
     {
         width: 130px;
@@ -18,4 +28,32 @@ border-top:1px solid #EEEEEE;
         letter-spacing: 0em;
         text-align: left;
         color:#000;
+    }
+    ol{
+        margin-left: 1.0416666667vw;
+    }
+    .pdf_box
+    {
+    margin-top:1.041667vw;
+    }
+    .pdf_icon_box
+    {
+        padding-right: .0416666667vw;
+    }
+    .pdf_icon
+    {
+        height: 3.25vw;
+    }
+    .content_center
+    {
+        align-self: center;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .content_center
+    {
+        p
+        {
+                margin-bottom:0vw;
+        }
     }

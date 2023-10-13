@@ -1,5 +1,21 @@
 .country_initiatives
 {
+    .pdf_box
+    {
+    margin-top:1.041667vw;
+    }
+    .pdf_icon_box
+    {
+        padding-right: .0416666667vw;
+    }
+    .pdf_icon
+    {
+        height: 3.25vw;
+    }
+    .content_center
+    {
+        align-self: center;
+    }
     .gradient_container_topbar_right
     {
         background: url(../images/lotus-2.webp) no-repeat;
@@ -155,3 +171,4 @@
             filter: blur(200px);
         }
     }
+    

@@ -90,7 +90,6 @@ header {
         font-weight: 700;
         margin-left: auto;
         position: relative;
-        list-style: none;
 
         .nav_item {
             margin-right: 1.5625vw; //30px
@@ -127,7 +126,6 @@ header {
                     background: #fff;
                     top: 100%;
                     min-width: 220px;
-                    list-style: none;
                 }
 
                 &>a {

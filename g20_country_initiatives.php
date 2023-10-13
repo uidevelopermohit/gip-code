@@ -49,7 +49,7 @@
                     <section id="policy_prgrms_section">
                         <div class="flex_row">
                             <div class="col_12">
-                                <h2>Policy and Programs (GIP related)</h2>
+                                <h2>Policy and Programs (GIP Related)</h2>
                             </div>
                         </div>
                         <div class="flex_row">
@@ -65,7 +65,30 @@
                                             Declaration and expressed his gratitude to all fellow G20 members for their support and 
                                             cooperation.
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <p>
+                                            Sharing the digital copy of the New Delhi Leaders’ Declaration, the Prime Minister posted 
+                                            on X: “History has been created with the adoption of the New Delhi Leaders’ Declaration. 
+                                            United in consensus and spirit, we pledge to work collaboratively for a better, more 
+                                            prosperous, and harmonious future. My gratitude to all fellow G20 members for their 
+                                            support and cooperation.”<br>
+                                            Outcome document: New Delhi Leaders’ Declaration 
+                                        </p>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -79,11 +102,30 @@
                                         <h5>G20 Environment and Climate Ministers’ Meeting Outcome Document and Chair’s Summary 
                                             (28th July 2023, Chennai)</h5>
                                         <p>
-                                            The Prime Minister, Shri Narendra Modi lauded the adoption of the New Delhi Leaders’ 
-                                            Declaration and expressed his gratitude to all fellow G20 members for their support and 
-                                            cooperation.
+                                            The 4th and last Environment and Climate Sustainability Working Group and Environment and 
+                                            Climate Ministers meeting concluded in Chennai, with consensual adoption of an Outcome 
+                                            document, the Chennai High Level Principles for a Sustainable and Resilient Blue/Ocean-based
+                                            Economy. This document will be submitted to the Leaders for their consideration to be 
+                                            annexed to the G20 New Delhi Leader’s Declaration 2023.  The Ministers also adopted the 
+                                            Outcome Document and the Chair’s Summary.
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_ECMM_Outcome_document.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/ECMM_Outcome_document_and_Chair_Summary_(July_28)_FINAL.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/ECMM_Outcome_document_and_Chair_Summary_(July_28)_FINAL.pdf" target="_blank">
+                                                <p><b>ECMM Outcome document and Chair Summary (July 28) FINAL </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -102,7 +144,23 @@
                                             Declaration and expressed his gratitude to all fellow G20 members for their support and 
                                             cooperation.
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_gir_gip.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20_ECSWG-GIR_GIP_for_Global_Land_Initiative.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20_ECSWG-GIR_GIP_for_Global_Land_Initiative.pdf" target="_blank">
+                                                <p><b>G20 ECSWG GIR GIP for Global Land Initiative </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -114,7 +172,7 @@
                     </section>
                     <!--policy_programs_section End-->
                     <!--good_practices_section Start-->
-                    <section id="good_practices " class="common_spacing">
+                    <section id="good_practices" class="common_spacing">
                         <div class="flex_row ">
                             <div class="col_12">
                                 <h2>Good Practices</h2>
@@ -134,7 +192,8 @@
                                             Karnataka district of Uttara Kannada. Uttara Kannada being the only district in 
                                             Karnataka...
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_forest_fire_management.php">Read More</a>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -151,7 +210,23 @@
                                             were undertaken after 2019 major fire incident in GS Betta Range. Efforts were being made 
                                             to restore 340 ha out of 2150 ha of burnt area.
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_restoration_forest_fire.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
+                                                <p><b>G20 ECSWG Compendium of Best Practices on Restoration of Forest Fire Affected Areas </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -175,7 +250,23 @@
                                             Impacts on the environment, including deforestation, soil erosion, water resource depletion, 
                                             and air pollution.
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_developing_ecological_restoration_model.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
+                                                <p><b>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -193,6 +284,22 @@
                                              and cut-slopes.
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -212,6 +319,22 @@
                                             prioritized profit over safety and conservation.
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -229,6 +352,22 @@
                                             biological approach between 2018 and 2021
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -256,6 +395,22 @@
                                             one way. 
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -273,6 +428,22 @@
                                             district administration.
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -300,6 +471,22 @@
                                             are also necessary to safeguard against liabilities.
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -332,6 +519,22 @@
                                             13% compared to 2019, a record year for fires.
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -349,6 +552,22 @@
                                             analysis suggests that there has been a 10-fold increase in forest
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -368,6 +587,22 @@
                                              grass, herb, shrub and tree...
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -384,6 +619,22 @@
                                             enabling and empowering forest fringe communities and may be incentivizing them to work in tandem with the forest departments.
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -403,6 +654,22 @@
                                             diminishing supplies of forest products and farm yields...
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -420,6 +687,22 @@
                                             the Fifth Assessment Report of the...
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -445,6 +728,22 @@
                                             and developed...
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -462,6 +761,22 @@
                                             vast employment opportunities...
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -481,6 +796,22 @@
                                             and roads etc...
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -498,6 +829,22 @@
                                             incentivizing them to work in tandem with the forest departments.
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -516,6 +863,22 @@
                                             (earth balls) are made by mixing seeds of different plant species...
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -533,6 +896,22 @@
                                             the Fifth Assessment Report of the...
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                </a>
+                                            </diV>
+                                            
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
