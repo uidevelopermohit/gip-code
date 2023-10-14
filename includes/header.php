@@ -99,7 +99,7 @@
                                     <li><a href="forest_fires_impacted_landscapes.php#technology_tools_Section">Technology & Tools</a></li>
                                 </ul>
                     </li>
-                    <li class="nav_item sub_menu"><a href="javascript: void(0)">Mining Afected Landscapes</a>
+                    <li class="nav_item sub_menu"><a href="javascript: void(0)">Mining Affected Landscapes</a>
                                 <ul>
                                     <li><a href="mining_affected_landscapes.php#policy_prgrms_section">Policy and Programs</a></li>
                                     <li><a href="mining_affected_landscapes.php#knowledge_resources">Knowledge Resources</a></li>

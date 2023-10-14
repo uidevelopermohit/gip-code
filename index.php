@@ -24,7 +24,7 @@
                     <img src="assets/images/banner/Mining-Affected-Landscape-Home-Page.webp" alt="">
                     <div class="banner_content_overlay">
                         <h5>Accelerating Ecological Restoration</h5>
-                        <h1>Mining-Effected Lands Under Effective
+                        <h1>Mining-Affected Landscapes Under Effective
                             Restoration</h1>
                         <a href="about.php" class="outline_button">Learn More</a>
                     </div>
