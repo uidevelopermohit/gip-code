@@ -18,12 +18,12 @@
         .minister_first_col {
             width: 59.375vw; //1140px
             margin-right: 5.208333333333334vw; //100px
-       
+
         }
 
         .minister_second_col {
             width: 27.083333333333332vw; //520px
-       
+
         }
     }
 
@@ -51,7 +51,7 @@
 
             h2 {
                 margin-bottom: 1.0416666666666665vw; //20px
-           
+
             }
 
             p {
@@ -111,7 +111,7 @@
 
             &_image {
                 @include border-radii(10px, 10px, 0, 0);
-                
+
                 iframe {
                     height: 530px;
                 }
@@ -123,6 +123,24 @@
                 h2 {
                     margin-bottom: 20px;
                 }
+            }
+        }
+    }
+
+    @media screen and (max-width: 575.98px) {
+        &_card {
+            box-shadow: none;
+
+            &_image {
+                height: 215px;
+                overflow: hidden;
+
+                iframe {
+                    height: 215px;
+                }
+            }
+            &_content {
+                padding: 20px 0;
             }
         }
     }

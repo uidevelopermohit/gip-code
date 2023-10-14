@@ -41,15 +41,30 @@ $(document).ready(function () {
         }
     });
 
-    $('.menu_toggle').on('click', function(){
-        $('.navbar_nav').slideToggle();
+    $('.menu_toggle').on('click', function () {
+        // $('.navbar_nav').slideToggle();
+        $('.navbar_nav').toggleClass('open_navigation');
+    })
+
+    $('.navbar_nav li.sub_menu>a').on('click', function () {
+        $(this).siblings('ul').toggleClass('submenu_open');
     })
 });
+
+$(window).scroll(function () {
+    var sticky = $('header'),
+        scroll = $(window).scrollTop();
+
+    if (scroll >= 100) sticky.addClass('header_fixed');
+    else sticky.removeClass('header_fixed');
+});
+
+
 
 //sidebar fixed
 var fixmeTop = $('.fixme').offset().top;       // get initial position of the element
 
-$(window).scroll(function() {                  // assign scroll event listener
+$(window).scroll(function () {                  // assign scroll event listener
 
     var currentScroll = $(window).scrollTop(); // get current position
 
