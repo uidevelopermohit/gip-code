@@ -23,10 +23,7 @@
             <div class="container_fluid">
                 <div class="members_section_heading_content">
                     <h2>G20 Members</h2>
-                    <p>Lorem egestas, leo nisl convallis sem, ac vulputate lacus sapien id quam.
-                        Donec laoreet suscipit posuere. Integer aliquet ipsum ac condimentum vulputate. Maecenas in
-                        purus
-                        pellentesque, dapibus augue ut, tincidunt metus.</p>
+                    <p>In 2023, the India’s presidency has identified Arresting Land Degradation, Accelerating Ecosystem Restoration and Enriching Biodiversity as one of the key priorities for deliberation as a part of the Environment and Climate Sustainability Working Group (ECSWG). India proposes a knowledge sharing platform- Gandhinagar Information Portal (GIP) enhance the Global Restoration Information Website being developed under the G20 Global Land Initiative. Under this initiative, the participating countries on a voluntary basis shall share progress, knowledge, and best practices to enhance ecological/ecosystem restoration of landscapes through the Gandhinagar Information Platform.</p>
                 </div>
 
                 <ul class="members_flag">
@@ -233,9 +230,25 @@
                                     Vocational Rules 1966, Oil Mines Regulations 1984, Mines Rescue Rules 1985, and Mines Creche Rules 
                                     1966.
                                 </p>
+                                <p>Source: Comeopnedium of Best Practices on restoration of Mining Affected Areas </p>
                             </div>
                         </div>
-                        
+                    <!--Pdf Section Start-->
+                    <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_1 pdf_icon_box">
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
+                                                <p><b>G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf</b></p>
+                                                </a>
+                                            </diV>
+                                                                
+                                            </div>
+                                        <!--Pdf Section End-->
                     <!--Knowledge Resources Section Start-->
                     <section id="knowledge_resources" class="common_spacing">
                         <div class="flex_row">
@@ -254,7 +267,7 @@
                                         <p>
                                             Eco Friendly Approaches for Rehabilitation of Mine Spoils, Institute of Forest Genetics and Tree Breeding
                                         </p>
-                                        <a href="#">Read More</a>
+                                        <a href="mining_knowledge_resources_research_studies_more.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -271,7 +284,7 @@
                                                  Area (About 8-10 Ha) Of BCCL Mine, Forest Ecology & Environment Division Forest 
                                                  Research Institute, Dehradun, India
                                         </p>
-                                        <a href="#">Read More</a>
+                                        <a href="mining_knowledge_resources_project_reports_more.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -289,7 +302,7 @@
                                         <p>
                                         Comeopnedium of Best Practices on restoration of Mining Affected Areas 
                                         </p>
-                                        <a href="#">Read More</a>
+                                        <a href="mining_knowledge_resources_case_studies_more.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -304,7 +317,7 @@
                                         <p>
                                             Mine Reclamation: A handbook, Indian council of Forestry and Research Education
                                         </p>
-                                        <a href="#">Read More</a>
+                                        <a href="mining_knowledge_resources_training_materials_more.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -340,6 +353,22 @@
                                      The Ministry of Environment, Forest and Climate Change (MoEF&CC) monitors compliance with 
                                      environmental clearance conditions and conducts regular assessments of mining projects.
                                 </p>
+                                 <!--Pdf Section Start-->
+                                 <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_1 pdf_icon_box">
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
+                                                <p><b>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf</b></p>
+                                                </a>
+                                            </diV>
+                                                                
+                                            </div>
+                                        <!--Pdf Section End-->
                             </div>
                         </div>
                     </section>
@@ -376,11 +405,47 @@
                                     additives such as humus or compost, microbial inoculants, cotton fibres, liquefied paper mash, etc., 
                                     to protect the seed balls in harsh habitats and to promote the germination and growth.
                                 </p>
+                                 <!--Pdf Section Start-->
+                                 <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_1 pdf_icon_box">
+                                                <a href="assets/pdf/Technology_RFRI_Seed_ball_technology_for_restoration_of_coal_mine.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/Technology_RFRI_Seed_ball_technology_for_restoration_of_coal_mine.pdf" target="_blank">
+                                                <p><b>Technology RFRI Seed ball technology for restoration of coal mine.pdf</b></p>
+                                                </a>
+                                            </diV>
+                                                                
+                                            </div>
+                                        <!--Pdf Section End-->
+                                    </div>
+                                    </div>
+                                    <div class="flex_row secnd_row_top">
+                                    <div class="col_12">
                                 <p>
                                    <b>2. &nbsp; Plantation technology for restoration of coal mined land (The Indian Forester, International Journal)</b>
                                     Plantation technology focuses on restoring coal-mined land by establishing a diverse and sustainable 
                                     ecosystem. The process begins with the establishment of a suitable grass cover on the reclaimed land. Once this initial step is successful, the subsequent plantation of native tree species is undertaken over the next couple of rainy seasons. This holistic approach to land restoration not only helps in stabilizing the ecosystem but also enhances soil health and biodiversity. By utilizing native plant species and beneficial microorganisms, this technology aims to accelerate the reclamation of coal-mined land and promote ecological sustainability.
                                 </p>
+                                <!--Pdf Section Start-->
+                                <div class="flex_row pdf_box">
+                                            
+                                            <div class="col_1 pdf_icon_box">
+                                                <a href="assets/pdf/Special_Issue_on_Ecorestoration_Indian_Forester.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                </a>
+                                            </div>
+                                            <div class="col content_center">
+                                                <a href="assets/pdf/Special_Issue_on_Ecorestoration_Indian_Forester.pdf" target="_blank">
+                                                <p><b>Special Issue on Ecorestoration Indian Forester.pdf</b></p>
+                                                </a>
+                                            </diV>
+                                                                
+                                            </div>
+                                        <!--Pdf Section End-->
                             </div>
                         </div>
                     </section>

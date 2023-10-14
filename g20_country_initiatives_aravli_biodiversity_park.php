@@ -206,6 +206,9 @@
                                             A study was conducted In Tikak Colliery, Margherita, Assam, India, to evaluate the performance of 42 native plant species in a revegetation experiment with an integrated biological approach between 2018 and 2021
                                         </p>
                                         <a href="g20_country_initiatives_restoration_of_mining_affected.php">Read More</a>
+<<<<<<< HEAD
+                                        
+=======
                                         <!--Pdf Section Start-->
                                         <div class="flex_row pdf_box">
                                             
@@ -222,6 +225,7 @@
                                             
                                         </div>
                                         <!--Pdf Section End-->
+>>>>>>> efa0039e37c7b902fd0403cb300ec7cfda19a317
                                     </div>
                                 </div>
                             </div>

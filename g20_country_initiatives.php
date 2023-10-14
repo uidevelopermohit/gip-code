@@ -176,7 +176,7 @@
                         <div class="flex_row ">
                             <div class="col_12">
                                 <h2>Good Practices</h2>
-                                <h5>A. Forest fire affected landscapes</h5>
+                                <h5>Forest fire affected landscapes</h5>
                             </div>
                         </div>
                         <div class="flex_row">
@@ -234,7 +234,7 @@
                         <!--Second row Start-->
                         <div class="flex_row secnd_row_top gradient_container_topbar_left gradient_container_topbar_right_nolotus">
                             <div class="col_12">
-                                <h5>B. Mining affected landscapes</h5>
+                                <h5>Mining affected landscapes</h5>
                             </div>
                         </div>
                         <div class="flex_row ">
@@ -283,18 +283,20 @@
                                              Vasant Vihar resulted in a degraded landscape filled with numerous voids, depressions, 
                                              and cut-slopes.
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_aravli_biodiversity_park.php">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="flex_row pdf_box">
                                             
                                             <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
                                                 <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
                                                 </a>
                                             </div>
                                             <div class="col content_center">
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
                                                 <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                <p><b>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf </b></p>
                                                 </a>
                                             </diV>
                                             
@@ -318,18 +320,20 @@
                                             the 1970s, suffered severe land degradation due to unscientific mining methods that 
                                             prioritized profit over safety and conservation.
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_ecological_restoration_jharia.php">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="flex_row pdf_box">
                                             
                                             <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
                                                 <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
                                                 </a>
                                             </div>
                                             <div class="col content_center">
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
                                                 <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                <p><b>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf </b></p>
                                                 </a>
                                             </diV>
                                             
@@ -351,23 +355,8 @@
                                             performance of 42 native plant species in a revegetation experiment with an integrated 
                                             biological approach between 2018 and 2021
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
-                                        <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
-                                                </a>
-                                            </diV>
-                                            
-                                        </div>
-                                        <!--Pdf Section End-->
+                                        <a href="g20_country_initiatives_restoration_of_mining_affected.php">Read More</a>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -394,18 +383,20 @@
                                             sustenance of these communities is intertwined with the forest ecosystems in more than 
                                             one way. 
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_traditional_forest_fires_management.php">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="flex_row pdf_box">
                                             
                                             <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
                                                 <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
                                                 </a>
                                             </div>
                                             <div class="col content_center">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
+                                                <p><b>G20 ECSWG Compendium of Best Practices on Restoration of Forest Fire Affected Areas.pdf</b></p>
+                                                
                                                 </a>
                                             </diV>
                                             
@@ -421,24 +412,26 @@
                                         <img src="assets/images/events/events.png" alt="">
                                     </div>
                                     <div class="events_card_content">
-                                        <h5>Community Involvement and Engagement in Forest Fire Management</h5>
+                                        <h5>Community Involvement and Engagement in Mining Restoration </h5>
                                         <p>
                                             Public participation Is crucial during the pre-project stage, specifically during the 
                                             Environmental Impact Assessment (EIA) led by the responsible state government through the 
                                             district administration.
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_traditional_mining_restoration.php">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="flex_row pdf_box">
                                             
                                             <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
                                                 <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
                                                 </a>
                                             </div>
                                             <div class="col content_center">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
+                                                <p><b>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf </b></p>
+                                               
                                                 </a>
                                             </diV>
                                             
@@ -470,18 +463,20 @@
                                             Closure Plan to ensure the systematic and scientific closure of mines. Financial assurances 
                                             are also necessary to safeguard against liabilities.
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_design_framework.php">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="flex_row pdf_box">
                                             
                                             <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
                                                 <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
                                                 </a>
                                             </div>
                                             <div class="col content_center">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
+                                                <p><b>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf </b></p>
+                                              
                                                 </a>
                                             </diV>
                                             
@@ -502,7 +497,7 @@
                         <div class="flex_row">
                             <div class="col_12">
                                 <h2>Knowledge Resources</h2>
-                                <h5>A. Forest fire affected landscapes</h5>
+                                <h5>Forest fire affected landscapes</h5>
                             </div>
                         </div>
                         <div class="flex_row">
@@ -518,18 +513,20 @@
                                             wildfires. For example, in April 2020, the number of fire alerts around the world rose by 
                                             13% compared to 2019, a record year for fires.
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_knowledge_resources_forest_fire_landscape.php">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="flex_row pdf_box">
                                             
                                             <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
                                                 <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
                                                 </a>
                                             </div>
                                             <div class="col content_center">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
+                                                <p><b>G20 ECSWG Compendium of Best Practices on Restoration of Forest Fire Affected Areas.pdf</b></p>
+                                               
                                                 </a>
                                             </diV>
                                             
@@ -551,18 +548,20 @@
                                             climatological scenarios at a localised level can help mitigate forest fires better. Our 
                                             analysis suggests that there has been a 10-fold increase in forest
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_knowledge_resources_manage_forest_fire_climate.php">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="flex_row pdf_box">
                                             
                                             <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/ceew-research-on-states-prone-to-forest-wildfires-india-and-mitigation-methods.pdf" target="_blank">
                                                 <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
                                                 </a>
                                             </div>
                                             <div class="col content_center">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                <a href="assets/pdf/ceew-research-on-states-prone-to-forest-wildfires-india-and-mitigation-methods.pdf" target="_blank">
+                                                <p><b>Ceew research on states prone to forest wildfires india and mitigation methods.pdf</b></p>
+                                               
                                                 </a>
                                             </diV>
                                             
@@ -586,18 +585,20 @@
                                              invasive alien weed species like Lantana camara. This results in suppression of native 
                                              grass, herb, shrub and tree...
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_knowledge_resources_restoration_forest_fire.php">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="flex_row pdf_box">
                                             
                                             <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/Karnatka_Restoration_of_Forest_Fire_Impacted_Areas.pdf" target="_blank">
                                                 <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
                                                 </a>
                                             </div>
                                             <div class="col content_center">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                <a href="assets/pdf/Karnatka_Restoration_of_Forest_Fire_Impacted_Areas.pdf" target="_blank">
+                                                <p><b>Karnatka Restoration of Forest Fire Impacted Areas.pdf </b></p>
+                                                
                                                 </a>
                                             </diV>
                                             
@@ -618,18 +619,20 @@
                                             The objective of the National Action Plan on Forest Fires is to minimize forest fires from taking place by informing, 
                                             enabling and empowering forest fringe communities and may be incentivizing them to work in tandem with the forest departments.
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_knowledge_resources_action_plan_forest_fire.php">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="flex_row pdf_box">
                                             
                                             <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/NAPFF-Final-Draft-23.04.2018.pdf" target="_blank">
                                                 <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
                                                 </a>
                                             </div>
                                             <div class="col content_center">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                <a href="assets/pdf/NAPFF-Final-Draft-23.04.2018.pdf" target="_blank">
+                                                <p><b>NAPFF Final Draft 23.04.2018.pdf</b></p>
+                                               
                                                 </a>
                                             </diV>
                                             
@@ -653,18 +656,20 @@
                                             the indigenous people in the tropical forests have faced poverty and alienation due to 
                                             diminishing supplies of forest products and farm yields...
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_knowledge_resources_forest_fire_disaster_management.php">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="flex_row pdf_box">
                                             
                                             <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/NDMA_forest_fire_report_India.pdf" target="_blank">
                                                 <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
                                                 </a>
                                             </div>
                                             <div class="col content_center">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                <a href="assets/pdf/NDMA_forest_fire_report_India.pdf" target="_blank">
+                                                <p><b>NDMA forest fire report India.pdf </b></p>
+                                               
                                                 </a>
                                             </diV>
                                             
@@ -686,18 +691,20 @@
                                             forest fires are enormous and are no longer beneficial to the forest health. According to 
                                             the Fifth Assessment Report of the...
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_knowledge_resources_forest_fire_management.php">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="flex_row pdf_box">
                                             
                                             <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/BestPracticesForestFire_final.pdf" target="_blank">
                                                 <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
                                                 </a>
                                             </div>
                                             <div class="col content_center">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                <a href="assets/pdf/BestPracticesForestFire_final.pdf" target="_blank">
+                                                <p><b>Best Practices Forest Fire final.pdf </b></p>
+                                              
                                                 </a>
                                             </diV>
                                             
@@ -711,7 +718,7 @@
                         <!--Second row Start-->
                         <div class="flex_row secnd_row_top">
                             <div class="col_12">
-                                <h5>B. Mining affected landscapes</h5>
+                                <h5>Mining affected landscapes</h5>
                             </div>
                         </div>
                         <div class="flex_row ">
@@ -727,21 +734,22 @@
                                             the development of many countries around the world, many developing and emerging economies, 
                                             and developed...
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_knowledge_resources_mining_restoration_affected.php">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="flex_row pdf_box">
                                             
                                             <div class="col_2 pdf_icon_box">
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
                                                 <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
                                                 </a>
                                             </div>
                                             <div class="col content_center">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
+                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
+                                                <p><b>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf</b></p>
+                                               
                                                 </a>
                                             </diV>
-                                            
                                         </div>
                                         <!--Pdf Section End-->
                                     </div>
@@ -760,7 +768,7 @@
                                             of India in the form of exports, raw material to other industries in the country and finally 
                                             vast employment opportunities...
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_forestry_education_industry.php">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="flex_row pdf_box">
                                             
@@ -824,9 +832,7 @@
                                     <div class="events_card_content">
                                         <h5>Developing Ecological Restoration Model In The Mine Spoils At Tetulmari Under Sijua Area (About 8-10 Ha) Of Bccl Mine, Forest Ecology & Environment Division Forest Research Institute, Dehradun, India</h5>
                                         <p>
-                                            The objective of the National Action Plan on Forest Fires is to minimize forest fires from 
-                                            taking place by informing, enabling and empowering forest fringe communities and may be 
-                                            incentivizing them to work in tandem with the forest departments.
+                                        Almost all the mining techniques from mineral explorations to production and transport are causing environmental damage in several ways. The list includes deforestation, loss of topsoil, accelerated soil erosion, soil contamination, qualitative and quantitative depletion of surface and ground water resources, migration of wild life and avian fauna, and addition of air pollutants and dust in the atmosphere
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
                                         <!--Pdf Section Start-->
@@ -891,9 +897,7 @@
                                     <div class="events_card_content">
                                         <h5>Road Map for Ecological Restoration Works in Coal Mines of NCL, Singrauli, M.P.; Forest Research Institute, Dehradun, India</h5>
                                         <p>
-                                            With climate change leading to drying of biomass and adding organic build-up over time the 
-                                            forest fires are enormous and are no longer beneficial to the forest health. According to 
-                                            the Fifth Assessment Report of the...
+                                        The various activities required for ecological restoration of coal mines have been discussed and suggested for their implementation in the field as the part of road map...
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
                                         <!--Pdf Section Start-->
