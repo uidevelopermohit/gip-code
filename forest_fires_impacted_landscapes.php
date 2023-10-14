@@ -23,7 +23,10 @@
             <div class="container_fluid">
                 <div class="members_section_heading_content">
                     <h2>G20 Members</h2>
-                    <p>In 2023, the India’s presidency has identified Arresting Land Degradation, Accelerating Ecosystem Restoration and Enriching Biodiversity as one of the key priorities for deliberation as a part of the Environment and Climate Sustainability Working Group (ECSWG). India proposes a knowledge sharing platform- Gandhinagar Information Portal (GIP) enhance the Global Restoration Information Website being developed under the G20 Global Land Initiative. Under this initiative, the participating countries on a voluntary basis shall share progress, knowledge, and best practices to enhance ecological/ecosystem restoration of landscapes through the Gandhinagar Information Platform.</p>
+                    <p>Lorem egestas, leo nisl convallis sem, ac vulputate lacus sapien id quam.
+                        Donec laoreet suscipit posuere. Integer aliquet ipsum ac condimentum vulputate. Maecenas in
+                        purus
+                        pellentesque, dapibus augue ut, tincidunt metus.</p>
                 </div>
 
                 <ul class="members_flag">
@@ -282,6 +285,26 @@
                         </div>
                     </section>
                     <!--policy_programs_section End-->
+
+
+                    <!--Pdf Section Start-->
+                    <div class="flex_row pdf_box">
+                                            
+                        <div class="col_1 pdf_icon_box">
+                            <a href="assets/pdf/127284-Forest-Fire-Prevention-Management-8Oct2018.pdf" target="_blank">
+                            <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                            </a>
+                        </div>
+                        <div class="col content_center">
+                            <a href="assets/pdf/127284-Forest-Fire-Prevention-Management-8Oct2018.pdf" target="_blank">
+                            <p><b>Forest-Fire-Prevention-Management-8Oct2018.pdf</b></p>
+                            </a>
+                        </div>
+                                            
+                        </div>
+                    <!--Pdf Section End-->
+
+
                     <!--Knowledge Resources Section Start-->
                     <section id="knowledge_resources" class="common_spacing">
                         <div class="flex_row">
@@ -293,14 +316,14 @@
                             <div class="col">
                             <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/research_studies.jpeg" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Research Studies</h5>
                                         <p>
                                             Managing Forest Fires in a Changing Climate: Council on Energy Environment and Water (CEEW)
                                         </p>
-                                        <a href="#">Read More</a>
+                                        <a href="forest_fire_knowledge_resource_research_studies.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -315,7 +338,7 @@
                                         <p>
                                             Restoration of forest fire impacted areas- Karnataka Forest Department, India
                                         </p>
-                                        <a href="#">Read More</a>
+                                        <a href="forest_fire_knowledge_resource_project_reports.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -329,11 +352,11 @@
                                         <img src="assets/images/events/events.png" alt="">
                                     </div>
                                     <div class="events_card_content">
-                                        <h5>Case studies</h5>
+                                        <h5>Case Studies</h5>
                                         <p>
                                         Comeopnedium of Best Practices on restoration of Forest Fire Affected Areas 
                                         </p>
-                                        <a href="#">Read More</a>
+                                        <a href="forest_fire_knowledge_resource_case_studies.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -344,11 +367,11 @@
                                         <img src="assets/images/events/events.png" alt="">
                                     </div>
                                     <div class="events_card_content">
-                                        <h5>Training materials</h5>
+                                        <h5>Training Materials</h5>
                                         <p>
                                             Forest Fire Disaster Management; National Disaster Management Authority, India
                                         </p>
-                                        <a href="#">Read More</a>
+                                        <a href="forest_fire_knowledge_resource_training_material.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -375,13 +398,45 @@
                                     research Institute, Dehradun, India has developed an in-house forest fire extinguishing kit which 
                                     has been given to forest department personnel’s for controlling forest fire in difficult terrains.
                                 </p>
-                                <p>
+                                <!--Pdf Section Start-->
+                                <div class="flex_row pdf_box">
+                                    
+                                    <div class="col_1 pdf_icon_box">
+                                        <a href="assets/pdf/FRI-Forest-Fire-in-India_26July19.pdf" target="_blank">
+                                        <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                        </a>
+                                    </div>
+                                    <div class="col content_center">
+                                        <a href="assets/pdf/FRI-Forest-Fire-in-India_26July19.pdf" target="_blank">
+                                        <p><b>FRI-Forest-Fire-in-India_26July19.pdf</b></p>
+                                        </a>
+                                    </div>
+                                                        
+                                </div>
+                                <!--Pdf Section End-->
+                                <p class="secnd_row_top">
                                     <b>2. Modern Tools and Fire Safety Equipment (Forest Fires In India; Forest Research institute, India)</b>
                                     All the water reservoirs either originates or present in the forest areas, hence, the use of 
                                     chemical extinguishing agents should be prohibited during forest fore extinguishing process. 
                                     The only recommended extinguishing agent is water.
                                 </p>
-                                <p>
+                                <!--Pdf Section Start-->
+                                <div class="flex_row pdf_box">
+                                    
+                                    <div class="col_1 pdf_icon_box">
+                                        <a href="assets/pdf/FRI-Forest-Fire-in-India_26July19.pdf" target="_blank">
+                                        <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                        </a>
+                                    </div>
+                                    <div class="col content_center">
+                                        <a href="assets/pdf/FRI-Forest-Fire-in-India_26July19.pdf" target="_blank">
+                                        <p><b>FRI-Forest-Fire-in-India_26July19.pdf</b></p>
+                                        </a>
+                                    </div>
+                                                        
+                                </div>
+                                <!--Pdf Section End-->
+                                <p class="secnd_row_top">
                                     <b>3. Equipment for forest firefighting in India, Strengthening Forest Fire Management in India 
                                     (Joint report by MoEFCC and The World Bank)</b> Structural firefighting can involve short periods of 
                                     very intense activity where firefighters may undertake search and rescue or very specialized 
@@ -394,6 +449,22 @@
                                     Firefighters can only operate in these situations for very short periods, after which they must 
                                     retreat so they can cool down by shedding their heavy protective clothing.
                                 </p>
+                                <!--Pdf Section Start-->
+                                <div class="flex_row pdf_box">
+                                            
+                                    <div class="col_1 pdf_icon_box">
+                                        <a href="assets/pdf/127284-Forest-Fire-Prevention-Management-8Oct2018.pdf" target="_blank">
+                                        <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                        </a>
+                                    </div>
+                                    <div class="col content_center">
+                                        <a href="assets/pdf/127284-Forest-Fire-Prevention-Management-8Oct2018.pdf" target="_blank">
+                                        <p><b>Forest-Fire-Prevention-Management-8Oct2018.pdf</b></p>
+                                        </a>
+                                    </div>
+                                                        
+                                </div>
+                                <!--Pdf Section End-->
                             </div>
                         </div>
                     </section>
