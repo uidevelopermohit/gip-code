@@ -78,4 +78,12 @@
             }
         }
     }
+    @media screen and (max-width: 767.98px) {
+        &_section {
+    
+            &_card {
+                height: 45vh;
+            }
+        }
+    }
 }

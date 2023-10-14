@@ -9,6 +9,7 @@ header {
             font-size: 0.7291666666666666vw; //14px
             color: $base-light-color;
             font-weight: 700;
+            @extend .transition;
         }
 
         &_top_content {
@@ -63,6 +64,15 @@ header {
             }
         }
     }
+
+    &.header_fixed {
+        position: fixed;
+        width: 100%;
+        top: 0;
+        left: 0;
+        z-index: 5;
+        @extend .transition;
+    }
 }
 
 .navbar {
@@ -70,6 +80,7 @@ header {
 
     @include flexbox;
     @include align-items(center);
+    background: $base-light-color;
 
     &_brand {
         img {
@@ -90,6 +101,7 @@ header {
         font-weight: 700;
         margin-left: auto;
         position: relative;
+        list-style: none;
 
         .nav_item {
             margin-right: 1.5625vw; //30px
@@ -126,6 +138,7 @@ header {
                     background: #fff;
                     top: 100%;
                     min-width: 220px;
+                    list-style: none;
                 }
 
                 &>a {
@@ -144,10 +157,6 @@ header {
                 &:hover {
                     &>a {
                         color: $brand-color-4;
-                    }
-
-                    &>ul {
-                        display: block;
                     }
                 }
 
@@ -169,10 +178,6 @@ header {
                     &:hover {
                         &>a {
                             color: $brand-color-4;
-                        }
-
-                        &>ul {
-                            display: block;
                         }
                     }
                 }
@@ -241,12 +246,19 @@ header {
     }
 }
 
+@media screen and (min-width: 992px) {
+    .navbar_nav>li.sub_menu:hover>ul,
+    .navbar_nav>li.sub_menu .sub_menu:hover>ul {
+        display: block;
+    }
+}
+
 @media screen and (max-width: 991.98px) {
     header {
         .header {
             &_topbar {
                 font-size: 12px;
-                padding: 10px 30px;
+                padding: 10px 20px;
             }
 
             &_top_content {
@@ -273,37 +285,61 @@ header {
     }
 
     .navbar {
-        padding: 10px 30px;
+        padding: 10px 20px;
 
         &_brand {
             img {
                 height: 40px;
+                margin-left: 5px;
+                margin-right: 5px;
+            }
+
+            &_logos_left {
+                margin-left: auto;
+            }
+
+            &_logos_right {
+                margin-right: auto;
             }
         }
 
         &_nav {
-            display: none;
+            display: block;
             font-size: 16px;
-            position: absolute;
+            position: fixed;
             width: 100%;
             background: $base-light-color;
             top: 103px;
             z-index: 10;
-            left: 0;
+            left: -100%;
             font-size: 14px;
 
             @include box-shadow(0, 0, 10px, rgba(0, 0, 0, 0.2));
 
-            .nav_item>a {
-                padding: 20px;
-                display: flex;
-                justify-content: space-between;
+            @include transition(all, 0.5s);
+
+            .nav_item {
+                margin-right: 0;
+
+                &>a {
+                    padding: 20px;
+                    display: flex;
+                    justify-content: space-between;
+                }
             }
 
             &>li {
                 padding: 0;
 
+                ul.submenu_open {
+                    display: block;
+                }
+
                 &.sub_menu {
+                    &>a::after {
+                        right: 20px;
+                    }
+
                     li {
                         a {
                             padding: 20px;
@@ -312,6 +348,7 @@ header {
 
                     &>ul {
                         position: relative;
+                        width: 100%;
 
                         &>li>a {
                             padding-left: 30px;
@@ -332,12 +369,18 @@ header {
                     }
                 }
             }
+
+            &.open_navigation {
+                transform: translateX(100%);
+                @include transition(all, 0.5s);
+            }
         }
 
         .menu_toggle {
-            margin-left: auto;
-            margin-right: 20px;
+            margin-left: 0;
+            margin-right: auto;
             display: block;
+            position: absolute;
         }
     }
 }

@@ -13,7 +13,7 @@
 
             h2 {
                 margin-bottom: 1.5625vw; //30px
-           
+
             }
 
             p {
@@ -26,8 +26,8 @@
             content: '';
             background: url('../images/lotus-2.png') no-repeat;
             background-size: 100%;
-            width: 46.875vw;    //900px
-            height: 46.875vw;   //900px
+            width: 46.875vw; //900px
+            height: 46.875vw; //900px
             position: absolute;
             bottom: -23.4375vw;
             left: -23.4375vw;
@@ -35,6 +35,7 @@
             -moz-animation: spin 40s linear infinite;
             animation: spin 40s linear infinite;
         }
+
         &::after {
             -webkit-animation: reverse-spin 40s linear infinite;
             -moz-animation: reverse-spin 40s linear infinite;
@@ -57,31 +58,31 @@
         li {
             flex: 0 0 14.28%;
             width: 14.28%;
+            padding: 2.083333333333333vw; //40px
+            border: solid 1px $border-color;
+            background-color: $base-light-color;
 
             a {
                 color: $base-font-color;
                 display: block;
-                padding: 2.083333333333333vw; //40px
-                border: solid 1px $border-color;
-                @extend .transition;
-                background-color: $base-light-color;
 
                 h5 {
                     margin-top: 0.78125vw; //15px
-                    font-size: 1.0416666666666665vw;    //20px
+                    font-size: 1.0416666666666665vw; //20px
+                    padding-bottom: 0;
                 }
 
                 &:hover {
-                    @include scale(1.1);
-                    @include box-shadow(0, 0, 30px, rgba(0, 0, 0, 0.1));
-                    @extend .transition;
+                    // @include scale(1.1);
+                    // @include box-shadow(0, 0, 30px, rgba(0, 0, 0, 0.1));
+                    // @extend .transition;
                     z-index: 1;
                 }
             }
 
             img {
                 height: 4.6875vw; //90px
-           
+
             }
         }
     }
@@ -116,61 +117,64 @@
             }
         }
     }
+
     @media screen and (max-width: 991.98px) {
         &_section {
             padding-top: 50px;
             padding-bottom: 50px;
-    
+
             &_heading_content {
                 width: 100%;
+
                 h2 {
                     margin-bottom: 20px;
-               
+
                 }
-    
+
                 p {
                     font-size: 16px;
                 }
             }
-        } 
+        }
 
         &_flag {
-    
+
             li {
                 flex: 0 0 20%;
                 width: 20%;
-    
+
                 a {
                     padding: 20px;
-    
+
                     h5 {
                         margin-top: 10px;
                         font-size: 16px;
                     }
                 }
-    
+
                 img {
                     height: 30px;
                 }
             }
         }
     }
+
     @media screen and (max-width: 767.98px) {
         &_flag {
-    
+
             li {
                 flex: 0 0 33.33%;
                 width: 33.33%;
-    
+
                 a {
                     padding: 20px;
-    
+
                     h5 {
                         margin-top: 10px;
                         font-size: 16px;
                     }
                 }
-    
+
                 img {
                     height: 30px;
                 }

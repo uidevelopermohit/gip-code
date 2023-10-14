@@ -39,7 +39,8 @@
                 </div>
             </div>
             <nav class="navbar">
-                <div class="navbar_brand">
+                <a href="javascript: void(0)" class="menu_toggle"><i class="icon-menu"></i></a>
+                <div class="navbar_brand navbar_brand_logos_left">
                     <img src="assets/images/headerlogo/headerfirst.png" class="fst_logo">
                     <img src="assets/images/headerlogo/headersecond.png" class="second_logo">
                 </div>
@@ -61,29 +62,29 @@
                         </ul>
                     </li>
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">G20 Country Initiatives</a>
-                                <ul>
-                                    <li><a href="g20_country_initiatives.php">Argentina</a></li>
-                                    <li><a href="g20_country_initiatives.php">Australia</a></li>
-                                    <li><a href="g20_country_initiatives.php">Brazil</a></li>
-                                    <li><a href="g20_country_initiatives.php">Canada</a></li>
-                                    <li><a href="g20_country_initiatives.php">China</a></li>
-                                    <li><a href="g20_country_initiatives.php">France</a></li>
-                                    <li><a href="g20_country_initiatives.php">Germany</a></li>
-                                    <li><a href="g20_country_initiatives.php">India</a></li>
-                                    <li><a href="g20_country_initiatives.php">Indonesia</a></li>
-                                    <li><a href="g20_country_initiatives.php">Italy</a></li>
-                                    <li><a href="g20_country_initiatives.php">Japan</a></li>
-                                    <li><a href="g20_country_initiatives.php">Mexico</a></li>
-                                    <li><a href="g20_country_initiatives.php">Korea</a></li>
-                                    <li><a href="g20_country_initiatives.php">Russia</a></li>
-                                    <li><a href="g20_country_initiatives.php">Saudi Arabia</a></li>
-                                    <li><a href="g20_country_initiatives.php">South Africa</a></li>
-                                    <li><a href="g20_country_initiatives.php">Turkiya</a></li>
-                                    <li><a href="g20_country_initiatives.php">United Kingdom</a></li>
-                                    <li><a href="g20_country_initiatives.php">United States</a></li>
-                                    <li><a href="g20_country_initiatives.php">European Union</a></li>
-                                    <li><a href="g20_country_initiatives.php">African Union</a></li>
-                                </ul>
+                        <ul>
+                            <li><a href="g20_country_initiatives.php">Argentina</a></li>
+                            <li><a href="g20_country_initiatives.php">Australia</a></li>
+                            <li><a href="g20_country_initiatives.php">Brazil</a></li>
+                            <li><a href="g20_country_initiatives.php">Canada</a></li>
+                            <li><a href="g20_country_initiatives.php">China</a></li>
+                            <li><a href="g20_country_initiatives.php">France</a></li>
+                            <li><a href="g20_country_initiatives.php">Germany</a></li>
+                            <li><a href="g20_country_initiatives.php">India</a></li>
+                            <li><a href="g20_country_initiatives.php">Indonesia</a></li>
+                            <li><a href="g20_country_initiatives.php">Italy</a></li>
+                            <li><a href="g20_country_initiatives.php">Japan</a></li>
+                            <li><a href="g20_country_initiatives.php">Mexico</a></li>
+                            <li><a href="g20_country_initiatives.php">Korea</a></li>
+                            <li><a href="g20_country_initiatives.php">Russia</a></li>
+                            <li><a href="g20_country_initiatives.php">Saudi Arabia</a></li>
+                            <li><a href="g20_country_initiatives.php">South Africa</a></li>
+                            <li><a href="g20_country_initiatives.php">Turkiya</a></li>
+                            <li><a href="g20_country_initiatives.php">United Kingdom</a></li>
+                            <li><a href="g20_country_initiatives.php">United States</a></li>
+                            <li><a href="g20_country_initiatives.php">European Union</a></li>
+                            <li><a href="g20_country_initiatives.php">African Union</a></li>
+                        </ul>
                     </li>
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">Forest Fire Impacted Landscapes</a>
                                 <ul>
@@ -130,8 +131,7 @@
                 
                     </li>
                 </ul>
-                <a href="javascript: void(0)" class="menu_toggle"><i class="icon-menu"></i></a>
-                <div class="navbar_brand">
+                <div class="navbar_brand navbar_brand_logos_right">
                     <img src="assets/images/headerlogo/g20header.png" class="fst_logo">
                 </div>
             </nav>

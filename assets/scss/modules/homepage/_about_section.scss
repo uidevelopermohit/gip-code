@@ -100,6 +100,11 @@
 
             padding: 50px;
 
+            &::before {
+                width: 280px;
+                height: 280px;
+            }
+
             h5 {
                 margin-bottom: 30px;
             }
@@ -140,6 +145,15 @@
 
             a {
                 margin-top: 15px
+            }
+        }
+    }
+
+    @media screen and (max-width: 767.98px) {
+        &_cards {
+            &::before {
+                width: 150px;
+                height: 150px;
             }
         }
     }

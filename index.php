@@ -138,8 +138,7 @@
                 <a href="" class="thematic_section_card"
                     style="background-image: url('assets/images/thematic/financing.png');">
                     <div class="thematic_section_card_content">
-                        <h2>Financing</h2>
-                        <h2>Options</h2>
+                        <h2>Financing Options</h2>
                     </div>
                 </a>
             </div>
