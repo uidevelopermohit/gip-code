@@ -1,4 +1,6 @@
 <?php include('includes/header.php')?>
+
+
         <!--Banner Section Start Here-->
         <section class="banner_section">
             <div class="owl-carousel banner_slider">
@@ -11,7 +13,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <img src="assets/images/banner/banner-2.jpg" alt="">
+                    <img src="assets/images/banner/Forest-Fire-First-Fold-Banner.webp" alt="">
                     <div class="banner_content_overlay">
                         <h5>Accelerating Ecological Restoration </h5>
                         <h1>Forest Fire-Degraded Lands</h1>
@@ -19,7 +21,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <img src="assets/images/banner/banner-4.jpg" alt="">
+                    <img src="assets/images/banner/Mining-Affected-Landscape-Home-Page.webp" alt="">
                     <div class="banner_content_overlay">
                         <h5>Accelerating Ecological Restoration</h5>
                         <h1>Mining-Effected Lands Under Effective
@@ -66,8 +68,9 @@
                             </div>
                             <div class="minister_card_content">
                                 <h2>Minister’s Message</h2>
-                                <p> Message at the G20 Environment and Climate Ministers Meet in Chennai: 
-(Shri Bhupender Yadav, Union Minister of Environment, Forest and Climate Change, said the Environment and Climate Ministers’ Meet concluded in Chennai with G20 ministers standing united in their commitment to create a sustainable and resilient future</p>
+								<!--<p> Message at the G20 Environment and Climate Ministers Meet in Chennai:</p>-->
+
+                                <p>Shri Bhupender Yadav, Union Minister of Environment, Forest and Climate Change, said the Environment and Climate Ministers’ Meet concluded in Chennai with G20 ministers standing united in their commitment to create a sustainable and resilient future.</p>
                             </div>
                         </div>
                     </div>
@@ -120,7 +123,7 @@
         <section class="thematic_section common_spacing">
             <div class="thematic_section_card_wrapper">
                 <a href="" class="thematic_section_card"
-                    style="background-image: url('assets/images/thematic/forest.png');">
+                    style="background-image: url('assets/images/thematic/forest_fire.webp');background-position:center;">
                     <div class="thematic_section_card_content">
                         <h2>Forest Fires Impacted Landscapes</h2>
                     </div>
@@ -128,7 +131,7 @@
             </div>
             <div class="thematic_section_card_wrapper">
                 <a href="" class="thematic_section_card"
-                    style="background-image: url('assets/images/thematic/mining.png');">
+                    style="background-image: url('assets/images/thematic/1-2.webp');background-position:right;">
                     <div class="thematic_section_card_content">
                         <h2>Mining Affected Landscapes</h2>
                     </div>
@@ -136,7 +139,7 @@
             </div>
             <div class="thematic_section_card_wrapper">
                 <a href="" class="thematic_section_card"
-                    style="background-image: url('assets/images/thematic/financing.png');">
+                    style="background-image: url('assets/images/thematic/finance_option.webp');">
                     <div class="thematic_section_card_content">
                         <h2>Financing Options</h2>
                     </div>
@@ -292,25 +295,23 @@
                     <h2>Events & News</h2>
                 </div>
                 <div class="events_selected">
-                    <img src="assets/images/events/events.jpg" alt="">
+                    <img src="assets/images/events/bharat_mandapam.webp" alt="">
                     <div class="events_selected_content_overlay">
                         <div class="selected_event_content">
-                            <h2>1st ECSWG meet: Bengaluru</h2>
-                            <p>First Environment and Climate Sustainability Working Group (ECSWG) meeting concluded in
-                                Bengaluru with all G20 countries showing commitment to constructively work towards the
-                                objective of the three priority areas</p>
+                            <h2>New Delhi Leaders’ Declaration:(9th September 2023, New Delhi)</h2>
+                            <p>The Prime Minister, Shri Narendra Modi lauded the adoption of the New Delhi Leaders’ Declaration and expressed his gratitude to all fellow G20 members for their support and cooperation.Sharing the digital copy of the New Delhi Leaders’ Declaration, the Prime Minister posted on X: “History has been created with the adoption of the New Delhi Leaders’ Declaration. United in consensus and spirit, we pledge to work collaboratively for a better, more prosperous, and harmonious future. My gratitude to all fellow G20 members for their support and cooperation.”</p>
                         </div>
-                        <div class="selected_event_date">
-                            <span>Feb 9-11</span>
+                        <!--<div class="selected_event_date">
+                            <span>Sept&nbsp; 9</span>
                             <h6>2023</h6>
-                        </div>
+                        </div>-->
                     </div>
                 </div>
 
                 <div class="owl-carousel events_slider">
                     <div class="events_card">
                         <div class="events_card_image">
-                            <img src="assets/images/events/events.jpg" alt="">
+                            <img src="assets/images/events/ECSWG1.webp" alt="">
                         </div>
                         <div class="events_card_content">
                             <h5>1st ECSWG meet: Bengaluru</h5>
@@ -319,7 +320,7 @@
                     </div>
                     <div class="events_card">
                         <div class="events_card_image">
-                            <img src="assets/images/events/events.jpg" alt="">
+                            <img src="assets/images/events/2nd_ECWSG.webp" alt="">
                         </div>
                         <div class="events_card_content">
                             <h5>2nd ECSWG meet: Gandhinagar</h5>
@@ -328,7 +329,7 @@
                     </div>
                     <div class="events_card">
                         <div class="events_card_image">
-                            <img src="assets/images/events/events.jpg" alt="">
+                            <img src="assets/images/events/3rd_EWCSG.webp" alt="">
                         </div>
                         <div class="events_card_content">
                             <h5>3rd ECSWG meet: Mumbai</h5>
@@ -337,7 +338,7 @@
                     </div>
                     <div class="events_card">
                         <div class="events_card_image">
-                            <img src="assets/images/events/events.jpg" alt="">
+                            <img src="assets/images/events/ECSWG_Chennai.webp" alt="">
                         </div>
                         <div class="events_card_content">
                             <h5>4th ECSWG meet: Chennai</h5>

@@ -46,8 +46,8 @@
             <nav class="navbar">
                 <a href="javascript: void(0)" class="menu_toggle"><i class="icon-menu"></i></a>
                 <div class="navbar_brand navbar_brand_logos_left">
-                    <img src= "<?php echo $base_url; ?>/gip-code/assets/images/headerlogo/headerfirst.png" class="fst_logo">
-                    <img src="assets/images/headerlogo/headersecond.png" class="second_logo">
+                    <a href="index.php"><img src="<?php echo $base_url; ?>/gip-code/assets/images/headerlogo/headerfirst.png" class="fst_logo">
+                    <img src="assets/images/headerlogo/headersecond.png" class="second_logo"></a>
                 </div>
                 <ul class="navbar_nav">
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">GIP</a>
