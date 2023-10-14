@@ -4,13 +4,12 @@
         <div class="container_fluid">
             <div class="flex_row">
                 <div class="col_9">
-                    <h2>History of GIP</h2>
+                    <h2>About GIP</h2>
                 </div>
                 <div class="col_3 breadcrumb_lnk">
                     <ul>
-                        <li>Home</li>
+                        <li><a href="index.php">Home</a></li>
                         <li>About GIP</li>
-                        <li>History of GIP</li>
                     </ul>
                 </div>
             </div>
@@ -19,11 +18,19 @@
     <!--Breadcrumb section End-->
     <!--History GIP Section Start-->
     <section class="history_gip_section  ">
-        <div class="flex_row top_discription_box"></div>
+    <div class="flex_row top_discription_box"></div>
     <div class="container_fluid gradient_container_topbar">
                 
         <div class="flex_row">
             <div class="col_12">
+                <p>
+                    The Group of Twenty (G20) was established in 1999 to discuss international economic and financial stability. It comprises 19 countries and the European Union, with the African Union joining as a permanent member. The G20 is the premier forum for international economic cooperation, shaping global governance on major issues. Initially focused on macroeconomics, it has expanded to include trade, sustainable development, health, agriculture, energy, environment, climate change, and anti-corruption (Read more).
+                </p>
+                <p>
+                    The Group of Twenty (G20) was founded in 1999 after the Asian financial crisis of 1997-98 as an informal forum for the Finance Ministers and Central Bank Governors of the most important industrialized and developing economies to discuss international economic and financial stability. The G20 comprises 19 countries (Argentina, Australia, Brazil, Canada, China, France, Germany, India, Indonesia, Italy, Japan, Republic of Korea, Mexico, Russia, Saudi Arabia, South Africa, Türkiye, United Kingdom, and United States) and European Union. Under the India's G20 Presidency, the African Union joins as a permanent member with all party consensus.  G20 is the premier forum for international economic cooperation, and it plays an important role in shaping and strengthening global architecture and governance on all major international economic issues. The G20 was upgraded to the level of Heads of State/Government in the wake of the global economic and financial crisis of 2007, and, in 2009, was designated the “premier forum for international economic cooperation”. The G20 Summit is held annually, under the leadership of a rotating Presidency. The G20 initially focused largely on broad macroeconomic issues, but it has since expanded its agenda to inter-alia include trade, sustainable development, health, agriculture, energy, environment, climate change, and anti-corruption.
+                </p>
+
+                <h5>Gandhinagar Information Platform (GIP)</h5>
                 <p>The Ministerial Communique of the G20 Environmental Ministers Meet during the Saudi Arabia Summit 2020 recognised the urgent
                     need for bold, coordinated, and collective initiatives on land protection and restoration and on sustainable land 
                     management and use to strengthen existing efforts, such as the Bonn Challenge, the United Nations Decade on Ecosystem 
@@ -76,7 +83,6 @@
                         Sustainability Working Group (ECSWG). India proposes a knowledge sharing platform- Gandhinagar Information Portal 
                         (GIP) enhance the Global Restoration Information Website being developed under the G20 Global Land Initiative.
                     </p>
-                    <p><button class="minister_box_button"><a href="#">List of Documents</a></button></p>
                 </div>
             </div>
         </div>

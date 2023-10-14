@@ -23,10 +23,7 @@
             <div class="container_fluid">
                 <div class="members_section_heading_content">
                     <h2>G20 Members</h2>
-                    <p>Lorem egestas, leo nisl convallis sem, ac vulputate lacus sapien id quam.
-                        Donec laoreet suscipit posuere. Integer aliquet ipsum ac condimentum vulputate. Maecenas in
-                        purus
-                        pellentesque, dapibus augue ut, tincidunt metus.</p>
+                    <p>In 2023, the India’s presidency has identified Arresting Land Degradation, Accelerating Ecosystem Restoration and Enriching Biodiversity as one of the key priorities for deliberation as a part of the Environment and Climate Sustainability Working Group (ECSWG). India proposes a knowledge sharing platform- Gandhinagar Information Portal (GIP) enhance the Global Restoration Information Website being developed under the G20 Global Land Initiative. Under this initiative, the participating countries on a voluntary basis shall share progress, knowledge, and best practices to enhance ecological/ecosystem restoration of landscapes through the Gandhinagar Information Platform.</p>
                 </div>
 
                 <ul class="members_flag">

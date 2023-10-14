@@ -3,18 +3,7 @@
         position: relative;
 
         .owl-item {
-            &::before {
-                content: '';
-                width: 100%;
-                height: 100%;
-                background-color: rgba(0, 0, 0, 0.5);
-                position: absolute;
-                left: 0;
-                top: 0;
-            }
-        }
 
-        .item {
             &::before,
             &::after {
                 content: '';
@@ -34,6 +23,25 @@
                 bottom: -2.604166666666667vw; //50px
                 right: -5.989583333333334vw; //115px
                 background-color: $brand-color-2;
+            }
+        }
+
+        .item {
+            &::before {
+                content: '';
+                width: 100%;
+                height: 100%;
+                background-color: rgba(0, 0, 0, 0.5);
+                position: absolute;
+                left: 0;
+                top: 0;
+                z-index: 1;
+            }
+
+            &.last_slide {
+                &::before {
+                    display: none;
+                }
             }
         }
     }
@@ -69,6 +77,7 @@
             // -moz-animation: spin 25s linear infinite;
             // animation: spin 25s linear infinite;
         }
+
         &::before {
             background-image: url("../images/lotus-vector-orange.svg");
             right: auto;
@@ -77,18 +86,20 @@
             top: 0;
         }
 
-        h5, h1, .outline_button {
+        h5,
+        h1,
+        .outline_button {
             position: relative;
         }
 
         h5 {
             margin-bottom: 1.0416666666666665vw; //20px
-       
+
         }
 
         h1 {
             margin-bottom: 2.604166666666667vw; //50px
-       
+
         }
     }
 
@@ -100,7 +111,8 @@
 
     @media screen and (min-width: 1920.98px) {
         &_section {
-            .item {
+            .owl-item {
+
                 &::before,
                 &::after {
                     left: 115px;
@@ -132,8 +144,9 @@
 
     @media screen and (max-width: 991.98px) {
         &_section {
-    
-            .item {
+
+            .owl-item {
+
                 &::before,
                 &::after {
                     content: '';
@@ -144,13 +157,14 @@
                     height: 150px;
                     filter: blur(100px);
                 }
-    
+
                 &::before {
                     bottom: -30px;
                     right: -30px;
                 }
             }
         }
+
         &_content_overlay {
             padding: 0 30px; // 0 80px
         }
@@ -161,10 +175,12 @@
             h1 {
                 font-size: 20px;
             }
+
             h5 {
                 font-size: 12px;
                 margin-bottom: 0;
             }
+
             .outline_button {
                 padding: 5px 10px;
             }

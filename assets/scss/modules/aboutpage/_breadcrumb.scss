@@ -26,16 +26,9 @@
 
     ul {
         display: flex;
+        justify-content: end;
         color: #fff;
-    }
-
-    ul li:first-child {
         list-style: none;
-        text-decoration: underline;
-    }
-
-    ul li:nth-child(2) {
-        text-decoration: underline;
     }
 
     li {
@@ -43,7 +36,26 @@
         list-style: unset;
         padding-bottom: 2px;
         margin-top: 10px;
+        position: relative;
 
+        a {
+            color: $base-light-color;
+        }
+
+        &:not(:last-child) {
+            text-decoration: underline;
+
+            &::after {
+                content: '';
+                width: 10px;
+                height: 10px;
+                background-color: $base-light-color;
+                right: -22px;
+                top: 8px;
+                position: absolute;
+                border-radius: 50px;
+            }
+        }
     }
 }
 

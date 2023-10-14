@@ -1,4 +1,5 @@
 $(document).ready(function () {
+    $('.banner_section .last_slide').parents('.owl-item').addClass('removeOverlayColor');
     $('.banner_slider').owlCarousel({
         items: 1,
         margin: 25,

@@ -91,7 +91,7 @@
                                 Ministers and Central Bank Governors to discuss global economic and financial
                                 concerns...
                             </p>
-                            <a href="#">View More</a>
+                            <a href="about.php">View More</a>
                         </div>
                     </div>
                     <div class="second_col">
@@ -100,7 +100,7 @@
                             <p>India’s G20 presidency has marked a significant milestone in global
                                 leadership, focusing on inclusive growth, digital innovation, climate resilience, and
                                 equitable global health access...</p>
-                            <a href="#">View More</a>
+                            <a href="indias_presidency.php">View More</a>
                         </div>
                     </div>
                     <div class="third_col">
@@ -111,7 +111,7 @@
                                 Summit 2020 recognised the urgent need for bold, coordinated, and collective initiatives
                                 on
                                 land protection...</p>
-                            <a href="#">View More</a>
+                            <a href="about.php">View More</a>
                         </div>
                     </div>
                 </div>
@@ -122,7 +122,7 @@
         <!--Thematic Section Start-->
         <section class="thematic_section common_spacing">
             <div class="thematic_section_card_wrapper">
-                <a href="" class="thematic_section_card"
+                <a href="forest_fires_impacted_landscapes.php" class="thematic_section_card"
                     style="background-image: url('assets/images/thematic/forest_fire.webp');background-position:center;">
                     <div class="thematic_section_card_content">
                         <h2>Forest Fires Impacted Landscapes</h2>
@@ -130,7 +130,7 @@
                 </a>
             </div>
             <div class="thematic_section_card_wrapper">
-                <a href="" class="thematic_section_card"
+                <a href="mining_affected_landscapes.php" class="thematic_section_card"
                     style="background-image: url('assets/images/thematic/1-2.webp');background-position:right;">
                     <div class="thematic_section_card_content">
                         <h2>Mining Affected Landscapes</h2>
@@ -138,7 +138,7 @@
                 </a>
             </div>
             <div class="thematic_section_card_wrapper">
-                <a href="" class="thematic_section_card"
+                <a href="financing_option.php" class="thematic_section_card"
                     style="background-image: url('assets/images/thematic/finance_option.webp');">
                     <div class="thematic_section_card_content">
                         <h2>Financing Options</h2>
