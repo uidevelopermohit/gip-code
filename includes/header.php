@@ -19,6 +19,11 @@
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css"
         type="text/css" media="screen" /> -->
     <link rel="stylesheet" href="assets/scss/main-style.min.css">
+    <?php
+        $url = 'http://localhost/'; 
+        $url = parse_url($url, PHP_URL_SCHEME).'://'.parse_url($url, PHP_URL_HOST); 
+        $base_url = trim($url, '/');
+    ?>
 </head>
 
 <body>
@@ -41,7 +46,7 @@
             <nav class="navbar">
                 <a href="javascript: void(0)" class="menu_toggle"><i class="icon-menu"></i></a>
                 <div class="navbar_brand navbar_brand_logos_left">
-                    <img src="assets/images/headerlogo/headerfirst.png" class="fst_logo">
+                    <img src= "<?php echo $base_url; ?>/gip-code/assets/images/headerlogo/headerfirst.png" class="fst_logo">
                     <img src="assets/images/headerlogo/headersecond.png" class="second_logo">
                 </div>
                 <ul class="navbar_nav">
