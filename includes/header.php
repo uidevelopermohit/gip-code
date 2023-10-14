@@ -68,15 +68,15 @@
                     </li>
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">G20 Country Initiatives</a>
                         <ul>
-                            <li><a href="g20_country_initiatives.php">Argentina</a></li>
+                            <!--<li><a href="g20_country_initiatives.php">Argentina</a></li>
                             <li><a href="g20_country_initiatives.php">Australia</a></li>
                             <li><a href="g20_country_initiatives.php">Brazil</a></li>
                             <li><a href="g20_country_initiatives.php">Canada</a></li>
                             <li><a href="g20_country_initiatives.php">China</a></li>
                             <li><a href="g20_country_initiatives.php">France</a></li>
-                            <li><a href="g20_country_initiatives.php">Germany</a></li>
+                            <li><a href="g20_country_initiatives.php">Germany</a></li>-->
                             <li><a href="g20_country_initiatives.php">India</a></li>
-                            <li><a href="g20_country_initiatives.php">Indonesia</a></li>
+                            <!--<li><a href="g20_country_initiatives.php">Indonesia</a></li>
                             <li><a href="g20_country_initiatives.php">Italy</a></li>
                             <li><a href="g20_country_initiatives.php">Japan</a></li>
                             <li><a href="g20_country_initiatives.php">Mexico</a></li>
@@ -88,7 +88,7 @@
                             <li><a href="g20_country_initiatives.php">United Kingdom</a></li>
                             <li><a href="g20_country_initiatives.php">United States</a></li>
                             <li><a href="g20_country_initiatives.php">European Union</a></li>
-                            <li><a href="g20_country_initiatives.php">African Union</a></li>
+                            <li><a href="g20_country_initiatives.php">African Union</a></li>-->
                         </ul>
                     </li>
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">Forest Fire Impacted Landscapes</a>

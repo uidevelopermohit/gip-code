@@ -9,7 +9,7 @@
                     <div class="banner_content_overlay">
                         <h5>A G20 Knowledge Initiative</h5>
                         <h1>Gandhinagar Information Platform (GIP)</h1>
-                        <a href="" class="outline_button">Learn More</a>
+                        <a href="about.php" class="outline_button">Learn More</a>
                     </div>
                 </div>
                 <div class="item">
@@ -17,7 +17,7 @@
                     <div class="banner_content_overlay">
                         <h5>Accelerating Ecological Restoration </h5>
                         <h1>Forest Fire-Degraded Lands</h1>
-                        <a href="" class="outline_button">Learn More</a>
+                        <a href="about.php" class="outline_button">Learn More</a>
                     </div>
                 </div>
                 <div class="item">
@@ -26,16 +26,16 @@
                         <h5>Accelerating Ecological Restoration</h5>
                         <h1>Mining-Effected Lands Under Effective
                             Restoration</h1>
-                        <a href="" class="outline_button">Learn More</a>
+                        <a href="about.php" class="outline_button">Learn More</a>
                     </div>
                 </div>
                 <div class="item">
-                    <img src="assets/images/banner/banner-3.jpg" alt="">
+                    <img src="assets/images/banner/Five-Frame-Works.webp" alt="">
                     <div class="banner_content_overlay">
                         <h5>A framework of five pillars</h5>
                         <h1>Showcasing, Engaging, Collaborating,
                             Supporting, and Integrating</h1>
-                        <a href="" class="outline_button">Learn More</a>
+                        <a href="about.php" class="outline_button">Learn More</a>
                     </div>
                 </div>
                 <div class="item last_slide">
