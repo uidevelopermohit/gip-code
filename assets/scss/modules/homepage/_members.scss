@@ -1,6 +1,6 @@
 .members {
     &_section {
-        background-color: $base-light-grey;
+        background-color: #fcefdf;
         padding-top: 6.25vw; //120px
         padding-bottom: 6.25vw; //120px
         text-align: center;
@@ -31,15 +31,9 @@
             position: absolute;
             bottom: -23.4375vw;
             left: -23.4375vw;
-            -webkit-animation: spin 40s linear infinite;
-            -moz-animation: spin 40s linear infinite;
-            animation: spin 40s linear infinite;
         }
 
         &::after {
-            -webkit-animation: reverse-spin 40s linear infinite;
-            -moz-animation: reverse-spin 40s linear infinite;
-            animation: reverse-spin 40s linear infinite;
             bottom: -23.4375vw;
             left: auto;
             right: -23.4375vw;
