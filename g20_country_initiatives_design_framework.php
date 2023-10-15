@@ -33,7 +33,7 @@
                                     <li class="sub_menu"><a href="g20_country_initiatives.php#knowledge_Resources_section">Knowledge Resources</a></li> 
                                     <li class="sub_menu"><a href="g20_country_initiatives.php#social_media_section">Social Media Links</a></li> 
                                     <li class="sub_menu"><a href="g20_country_initiatives.php#news_events_section">National Events and News</a></li> 
-                                    <li class="sub_menu"><a href="g20_country_initiatives.php#">Financing for Land Conservation and Restoration</a></li>             
+                                    <li class="sub_menu"><a href="g20_country_initiatives.php">Financing for Land Conservation and Restoration</a></li>             
                                 </ul> 
                                 </section>
                             </div>

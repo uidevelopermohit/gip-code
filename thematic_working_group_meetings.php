@@ -31,7 +31,7 @@
             </div>
             <div class="flex_row ">
                 <div class="col_12">
-                    <img src="assets/images/aboutpage/g20leaders.webp" class="minister_images_g20_thematic_page">
+                    <img src="assets/images/events/ECSWG1.webp" class="minister_images_g20_thematic_page">
                 </div>
             </div>
             <div class="flex_row thematic_descrptn_box">
@@ -82,7 +82,7 @@
             </div>
             <div class="flex_row ">
                 <div class="col_12">
-                    <img src="assets/images/aboutpage/g20leaders.webp" class="minister_images_g20_thematic_page">
+                    <img src="assets/images/events/2nd_ECWSG.webp" class="minister_images_g20_thematic_page">
                 </div>
             </div>
             <div class="flex_row thematic_descrptn_box">
@@ -132,7 +132,7 @@
             </div>
             <div class="flex_row ">
                 <div class="col_12">
-                    <img src="assets/images/aboutpage/g20leaders.webp" class="minister_images_g20_thematic_page">
+                    <img src="assets/images/events/3rd_EWCSG.webp" class="minister_images_g20_thematic_page">
                 </div>
             </div>
             <div class="flex_row thematic_descrptn_box">
@@ -175,7 +175,7 @@
             </div>
             <div class="flex_row ">
                 <div class="col_12">
-                    <img src="assets/images/aboutpage/g20leaders.webp" class="minister_images_g20_thematic_page">
+                    <img src="assets/images/events/ECSWG_Chennai.webp" class="minister_images_g20_thematic_page">
                 </div>
             </div>
             <div class="flex_row thematic_descrptn_box">

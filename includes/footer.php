@@ -12,10 +12,10 @@
                     <div class="footer_links">
                         <h5>GIP</h5>
                         <ul>
-                            <li><a href="#">PM’s Message</a></li>
-                            <li><a href="#"> Minister’s Message</a></li>
-                            <li> <a href="#"> G20 Presidency - India</a></li>
-                            <li> <a href="#"> About GIP</a></li>
+                            <li><a href="index.php">PM’s Message</a></li>
+                            <li><a href="index.php"> Minister’s Message</a></li>
+                            <li> <a href="indias_presidency.php"> G20 Presidency - India</a></li>
+                            <li> <a href="about.php"> About GIP</a></li>
                             <li> <a href="#"> ICFRE-COE</a></li>
                             <li> <a href="#"> IIFM</a></li>
                             <li> <a href="#"> UNDP</a></li>
@@ -29,10 +29,10 @@
                     <div class="footer_links">
                         <h5>Mining Affected Landscapes</h5>
                         <ul>
-                            <li><a href="#">Policies and Programs</a></li>
-                            <li><a href="#"> Knowledge Resources</a></li>
-                            <li> <a href="#"> Design Frameworks</a></li>
-                            <li> <a href="#">Technology & Tools</a></li>
+                            <li><a href="mining_affected_landscapes.php#policy_prgrms_section">Policies and Programs</a></li>
+                            <li><a href="mining_affected_landscapes.php#knowledge_resources#"> Knowledge Resources</a></li>
+                            <li> <a href="mining_affected_landscapes.php#design_framework_Section"> Design Frameworks</a></li>
+                            <li> <a href="mining_affected_landscapes.php#technology_tools_Section">Technology & Tools</a></li>
                         </ul>
                     </div>
                 </div>
@@ -40,10 +40,10 @@
                     <div class="footer_links">
                         <h5>Forest Fires Impacted Landscapes</h5>
                         <ul>
-                            <li><a href="#">Policies and Programs</a></li>
-                            <li><a href="#"> Knowledge Resources</a></li>
-                            <li> <a href="#"> Design Frameworks</a></li>
-                            <li> <a href="#">Technology & Tools</a></li>
+                            <li><a href="forest_fires_impacted_landscapes.php#policy_prgrms_section">Policies and Programs</a></li>
+                            <li><a href="forest_fires_impacted_landscapes.php#knowledge_resources"> Knowledge Resources</a></li>
+                            <li> <a href="forest_fires_impacted_landscapes.php"> Design Frameworks</a></li>
+                            <li> <a href="forest_fires_impacted_landscapes.php#technology_tools_Section">Technology & Tools</a></li>
                         </ul>
                     </div>
                 </div>
@@ -52,13 +52,13 @@
                     <div class="footer_links">
                         <h5>Financing <br>Options</h5>
                         <ul>
-                            <li><a href="#">Public Programs and schemes</a></li>
-                            <li><a href="#"> Financial Institutions</a></li>
-                            <li> <a href="#"> Financial Markets</a></li>
-                            <li> <a href="#"> Private Sector funding</a></li>
-                            <li> <a href="#"> Bi / Multilateral Environmental</a></li>
-                            <li> <a href="#"> Agreements</a></li>
-                            <li> <a href="#"> High Impact proposals</a></li>
+                            <li><a href="financing_option.php#policy_prgrms_section#">Public Programs and schemes</a></li>
+                            <li><a href="financing_option.php#financial_institutions"> Financial Institutions</a></li>
+                            <li> <a href="financing_option.php#financial_markets"> Financial Markets</a></li>
+                            <li> <a href="financing_option.php#probable_international_Section"> Private Sector funding</a></li>
+                            <li> <a href="financing_option.php"> Bi / Multilateral Environmental</a></li>
+                            <li> <a href="financing_option.php"> Agreements</a></li>
+                            <li> <a href="financing_option.php"> High Impact proposals</a></li>
                         </ul>
                     </div>
                 </div>
@@ -67,14 +67,14 @@
                     <div class="footer_links">
                         <h5>G20 <br>Countries</h5>
                         <ul class="footr_lnks_ul">
-                            <li><a href="#">Policies and Programs</a></li>
-                            <li><a href="#"> Good Practices</a></li>
-                            <li> <a href="#">Traditional/Indigenous Knowledge</a></li>
-                            <li> <a href="#">Design Frameworks</a></li>
-                            <li> <a href="#"> Knowledge Resources</a></li>
-                            <li> <a href="#">Social Media Links</a></li>
-                            <li> <a href="#">National Events and News</a></li>
-                            <li> <a href="#">Financing for land Conservation and Restoration</a></li>
+                            <li><a href="g20_country_initiatives.php#policy_prgrms_section">Policies and Programs</a></li>
+                            <li><a href="g20_country_initiatives.php#good_practices"> Good Practices</a></li>
+                            <li> <a href="g20_country_initiatives.php#Traditional_Indigenous_section">Traditional/Indigenous Knowledge</a></li>
+                            <li> <a href="g20_country_initiatives.php#design_framework_section">Design Frameworks</a></li>
+                            <li> <a href="g20_country_initiatives.php#knowledge_Resources_section"> Knowledge Resources</a></li>
+                            <li> <a href="g20_country_initiatives.php#social_media_section">Social Media Links</a></li>
+                            <li> <a href="g20_country_initiatives.php#news_events_section">National Events and News</a></li>
+                            <li> <a href="g20_country_initiatives.php">Financing for land Conservation and Restoration</a></li>
                         </ul>
                     </div>
                 </div>

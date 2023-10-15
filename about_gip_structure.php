@@ -75,7 +75,7 @@
             <div class="container ">
                 <div class="gradient_container">
                 <div class="flex_row">
-                    <div class="col_12">
+                    <div class="col_12 common_spacing">
                         <h5>Enhancing the Global Restoration Information Hub under the G20 Global Land Initiative</h5>
                         <p>India’s presidency has identified Arresting Land Degradation, Accelerating Ecosystem Restoration and 
                             Enriching Biodiversity as one of the key priorities for deliberation as a part of the Environment and 
@@ -210,17 +210,17 @@
                 <div class="col_2"></div>
                 <div class="col_3">
                     <div class="delhi_declaration">
-                        <h4><a href="#">History of GIP</a></h4>
+                        <h4><a href="about.php">History of GIP</a></h4>
                     </div>
                 </div>
                 <div class="col_3">
                     <div class="grih_structure">
-                        <h4><a href="#">GRIH Structure</a></h4>
+                        <h4><a href="about_gip_structure.php">GRIH Structure</a></h4>
                     </div>
                 </div>
                 <div class="col_3">
                     <div class="gir_gip_structure">
-                        <h4><a href="#">GIR-GIP Alliance</a></h4>
+                        <h4><a href="alliance.php">GIR-GIP Alliance</a></h4>
                     </div>
                 </div>
                 <div class="col_1"></div>

@@ -24,6 +24,7 @@
         $url = parse_url($url, PHP_URL_SCHEME).'://'.parse_url($url, PHP_URL_HOST); 
         $base_url = trim($url, '/');
     ?>
+    
 </head>
 
 <body>

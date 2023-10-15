@@ -4,12 +4,12 @@
         <div class="container_fluid">
             <div class="flex_row">
                 <div class="col_9">
-                    <h2>Key highlights</h2>
+                    <h2>Key Highlights</h2>
                 </div>
                 <div class="col_3 breadcrumb_lnk_india_presidency">
                     <ul>
                         <li>Home</li>
-                        <li>Key highlights</li>
+                        <li>Key Highlights</li>
                     </ul>
                 </div>
             </div>
@@ -25,11 +25,11 @@
                         <div class="flex_row">
                             <div class="col_12">
                                 <section class="fixme">
-                                <h2>Relevant declarations</h2> 
+                                <h2>Relevant Declarations</h2> 
                                 <ul class=""> 
-                                    <li class="sub_menu"><p><a href="#saudi_arabia_section" class="active">Saudi Arabia – 2020</a></p></li> 
-                                    <li class="sub_menu"><p><a href="#italy_Section" >Italy – 2021</a></p></li>
-                                    <li class="sub_menu"><p><a href="#indonesia_Section" >Indonesia – 2022</a></p></li>            
+                                    <li class="sub_menu"><a href="#saudi_arabia_section" class="active">Saudi Arabia – 2020</a></li> 
+                                    <li class="sub_menu"><a href="#italy_Section" >Italy – 2021</a></li>
+                                    <li class="sub_menu"><a href="#indonesia_Section" >Indonesia – 2022</a></li>            
                                 </ul> 
                                 </section>
                             </div>
@@ -44,7 +44,7 @@
                     <section id="saudi_arabia_section" class="gradient_container_saudi">
                         <div class="flex_row">
                             <div class="col_12">
-                            <h5 class="heading_line">A. Leaders’ Declaration</h5>
+                            <h5 class="heading_line">Leaders’ Declaration (Saudi Arabia – 2020)</h5>
                             
                             <p><b>Ensuring a Sustainable Future</b></p>
                             <p>Environment, Energy, Climate: Preventing environmental degradation, conserving, sustainably using and restoring 
@@ -57,7 +57,7 @@
                         </div>
                         <div class="flex_row">
                             <div class="col_12">
-                            <h5 class="heading_line">A. Communiqué G20 Environment Ministers Meeting</h5>
+                            <h5 class="heading_line">Communique G20 Environment Ministers Meeting (Saudi Arabia – 2020)</h5>
                             <p><b>Land Degradation and Habitat Loss</b></p>
                             <p><i class="icon-right-arrow"></i>&nbsp;We stress that ecosystems including, but not limited to, forests, grasslands, drylands, rangelands, 
                                 croplands, peatlands, mangroves, soil, tundra, karst, and wetlands are essential for the existence,
@@ -144,7 +144,7 @@
                     <section id="italy_Section" class="gradient_container_italy">
                         <div class="flex_row">
                             <div class="col_12">
-                            <h5 class="heading_line">A. Leaders’ Declaration</h5>
+                            <h5 class="heading_line">Leaders’ Declaration (Italy – 2021)</h5>
                             <p><b>Environment</b></p>
                             <p><i class="icon-right-arrow"></i>&nbsp;We commit to strengthen actions to halt and reverse biodiversity loss 
                             by 2030 and call on CBD Parties to adopt an ambitious, balanced, practical, effective, robust and 
@@ -175,7 +175,7 @@
                         </div>  
                         <div class="flex_row">
                             <div class="col_12">
-                            <h5 class="heading_line">B. Communiqué G20 Environment Ministers Meeting</h5>
+                            <h5 class="heading_line">Communique G20 Environment Ministers Meeting (Italy – 2021)</h5>
                             <p><b>Call for action on protecting, conserving, sustainably managing and restoring degraded lands</b></p>
                             <p><i class="icon-right-arrow"></i>&nbsp;
                             We welcome the successful convening of the workshop organized by the Italian Presidency on the G20 Global 
@@ -209,7 +209,7 @@
                     <section id="indonesia_Section" class="gradient_container_indonesia">
                         <div class="flex_row">
                             <div class="col_12">
-                            <h5 class="heading_line">A. Leaders’ Declaration</h5>
+                            <h5 class="heading_line">Leaders’ Declaration (Indonesia – 2022)</h5>
                             <p><b>Environment</b></p>
                             <p><i class="icon-right-arrow"></i>&nbsp;
                                 We welcome the progress to date towards achieving a Post 2020 Global Biodiversity Framework (GBF). We urge 
@@ -258,7 +258,7 @@
                         </div>  
                         <div class="flex_row ">
                             <div class="col_12">
-                            <h5 class="heading_line">B. Communique G20 Environment Ministers Meeting</h5>
+                            <h5 class="heading_line">Communique G20 Environment Ministers Meeting (Indonesia – 2022)</h5>
                             <p><b>Environment</b></p>
                             <p><i class="icon-right-arrow"></i>&nbsp;
                                 We will continue and scale up our efforts to combat desertification, land degradation and drought, as well 
@@ -324,7 +324,7 @@
     <!--Second Section Start-->
     <Section class="scope_box_section common_spacing_top_btm common_spacing gradient_container ">
         <div class="container_fluid ">
-            <div class="flex_row">
+            <div class="flex_row">  
                 <div class="col_12">
                     <h2>Initiative Scope and Activities</h2>
                     <p>The GIP will enable the operationalization of the GIR in the following ways –</p>

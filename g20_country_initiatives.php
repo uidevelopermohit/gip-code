@@ -56,7 +56,7 @@
                             <div class="col">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/initiatives/10-October-GIP-54-New-Delhi-Leaders-Declaration-Country-Initiative.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>New Delhi Leaders’ Declaration (9th September 2023, New Delhi)</h5>
@@ -96,7 +96,7 @@
                             <div class="col">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/initiatives/10-October-GIP-55-G20-Environment-and-Climate-Ministers’-Meeting-Out.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>G20 Environment and Climate Ministers’ Meeting Outcome Document and Chair’s Summary 
@@ -135,7 +135,7 @@
                             <div class="col">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/initiatives/10-October-GIP-56-GIR-GIP-outcome-document.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>GIR GIP outcome document</h5>
@@ -183,7 +183,7 @@
                             <div class="col">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/initiatives/10-October-GIP-57-Forest-Fire-Management-in-Yellapurra-Division.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Forest Fire Management in Yellapurra Division, Karnataka.</h5>
@@ -201,7 +201,7 @@
                             <div class="col">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/initiatives/10-October-GIP-58-Restoration-of-Forest-Fire-Impacted-Bandipur.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Restoration of Forest Fire Impacted areas in Bandipur Tiger Reserve, Karnataka</h5>
@@ -241,7 +241,7 @@
                             <div class="col">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/initiatives/10-October-GIP-59-Mine-Spoils-at-Tetulmari-under-Sijua-Area.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Developing Ecological Restoration Model in the Mine Spoils at Tetulmari under Sijua Area, Jharkhand</h5>
@@ -274,7 +274,7 @@
                             <div class="col">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/initiatives/10-October-GIP-60-Aravalli-Biodiversity-Park,-Gurgaon,-Haryana.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Aravalli Biodiversity Park, Gurgaon, Haryana</h5>
@@ -311,7 +311,7 @@
                             <div class="col">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/initiatives/10-October-GIP-61-Ecological-Restoration-in-Jharia-Coal-fields,-BCCL.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Ecological Restoration in Jharia Coal-fields, BCCL, Jharkhand</h5>
@@ -346,7 +346,7 @@
                             <div class="col">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/initiatives/10-October-GIP-62-Restoration-of-mining-affected-land-of-Tikak-Coill.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Restoration of mining-affected land of Tikak Coillery, Margarita, Assam with Integrated Biological Approach</h5>
@@ -374,7 +374,7 @@
                             <div class="col">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/initiatives/10-October-GIP-63-Community-Involvement-and-Engagement-in-Forest-Fir.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Community Involvement and Engagement in Forest Fire Management</h5>
@@ -409,7 +409,7 @@
                             <div class="col">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/initiatives/10-October-GIP-64-Engagement-in-Mining-Restoration.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Community Involvement and Engagement in Mining Restoration </h5>

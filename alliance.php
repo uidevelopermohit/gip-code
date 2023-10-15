@@ -163,17 +163,17 @@
                 <div class="col_2"></div>
                 <div class="col_3">
                     <div class="delhi_declaration">
-                        <h4><a href="#">History of GIP</a></h4>
+                        <h4><a href="about.php">History of GIP</a></h4>
                     </div>
                 </div>
                 <div class="col_3">
                     <div class="grih_structure">
-                        <h4><a href="#">GRIH Structure</a></h4>
+                        <h4><a href="about_gip_structure.php">GRIH Structure</a></h4>
                     </div>
                 </div>
                 <div class="col_3">
                     <div class="gir_gip_structure">
-                        <h4><a href="#">GIR-GIP Alliance</a></h4>
+                        <h4><a href="alliance.php">GIR-GIP Alliance</a></h4>
                     </div>
                 </div>
                 <div class="col_1"></div>
