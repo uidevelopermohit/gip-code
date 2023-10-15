@@ -66,7 +66,7 @@
         <div class="container_fluid">
             <div class="container ">
                 <div class="gradient_container">
-                <div class="flex_row">
+                <div class="flex_row vision_sctn">
                     <div class="col_12">
                         <h5>Vision of the Alliance</h5>
                         <p>To set and advance the agenda for restoration of identified degraded landscapes by conducting and 

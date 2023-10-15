@@ -230,10 +230,10 @@
                         </div>-->
                     </div>
                     <div class="flex_row  initiative_box">
-                        <div class="col_6">
+                    <!-- <div class="col_6">
                             <img src="assets/images/aboutpage/g20leaders.webp" class="initaiative_images_sectn">
-                        </div>
-                        <div class="col_6 ">
+                        </div>-->
+                        <div class="col_12">
                             <div class="secnd_box">
                                 <h5>Initiative Scope and Activities</h5>
                                 <p>
