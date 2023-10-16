@@ -20,8 +20,8 @@
         type="text/css" media="screen" /> -->
     <link rel="stylesheet" href="assets/scss/main-style.min.css?v=1.1">
     <?php
-        $url = 'https://www.netnivaran.net/'; 
-        $url = parse_url($url, PHP_URL_SCHEME).'://'.parse_url($url, PHP_URL_HOST); 
+        $url = 'https://www.netnivaran.net/development/GIP/'; 
+        // $url = parse_url($url, PHP_URL_SCHEME).'://'.parse_url($url, PHP_URL_HOST); 
         $base_url = trim($url, '/');
     ?>
      <?php
@@ -36,7 +36,7 @@ $currentDateTime = date('F j, Y | H:i \h\r\s');
 </head>
 
 <body>
-    <div class="overflow_wrapper">
+    <div>
         <!--Header Start Here-->
         <header>
             <div class="header_topbar">
@@ -55,7 +55,7 @@ $currentDateTime = date('F j, Y | H:i \h\r\s');
             <nav class="navbar">
                 <a href="javascript: void(0)" class="menu_toggle"><i class="icon-menu"></i></a>
                 <div class="navbar_brand navbar_brand_logos_left">
-                    <a href="index.php"><img src="<?php echo $base_url; ?>/development/GIP/assets/images/headerlogo/headerfirst.png" class="fst_logo">
+                    <a href="index.php"><img src="<?php echo $base_url; ?>/assets/images/headerlogo/headerfirst.png" class="fst_logo">
                     <img src="assets/images/headerlogo/headersecond.png" class="second_logo"></a>
                 </div>
                 <ul class="navbar_nav">

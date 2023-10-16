@@ -61,6 +61,15 @@ $(window).scroll(function () {
 });
 
 
+$('.vertical_tabs').find('a').click(function () {
+    var $href = $(this).attr('href');
+    var $anchor = $($href).offset();
+    $('.vertical_tabs a').removeClass('active');
+    $(this).addClass('active')
+    window.scrollTo($anchor.left, $anchor.top - 180);
+    return false;
+});
+
 
 //sidebar fixed
 /* var fixmeTop = $('.fixme').offset().top;       // get initial position of the element

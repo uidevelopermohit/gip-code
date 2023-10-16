@@ -28,14 +28,14 @@
             <div class="sidebar_sticky_wrapper">
                 <div class="sidebar_sticky_left">
                     <ul class="vertical_tabs"> 
-                        <li><a href="#policy_prgrms_section" class="active"><span>Policy and Programs</span> <i class="icon-play"></i></a></li> 
-                        <li><a href="#good_practices"><span>Good Practices</span> <i class="icon-play"></i></a></li>
-                        <li><a href="#Traditional_Indigenous_section"><span>Traditional / Indigenous knowledge</span> <i class="icon-play"></i></a></li>
-                        <li><a href="#design_framework_section"><span>Design Frameworks</span> <i class="icon-play"></i></a></li> 
-                        <li><a href="#knowledge_Resources_section"><span>Knowledge Resources</span> <i class="icon-play"></i></a></li> 
-                        <li><a href="#social_media_section"><span>Social Media Links</span> <i class="icon-play"></i></a></li> 
-                        <li><a href="#news_events_section"><span>National Events and News</span> <i class="icon-play"></i></a></li> 
-                        <li><a href="#"><span>Financing for Land Conservation and Restoration</span> <i class="icon-play"></i></a></li>             
+                        <li><a href="#CI_policy_progam" class="active"><span>Policy and Programs</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="#CI_good_practice"><span>Good Practices</span> <i class="icon-play"></i></a></li>
+                        <li><a href="#CI_traditional_indigenous"><span>Traditional / Indigenous knowledge</span> <i class="icon-play"></i></a></li>
+                        <li><a href="#CI_design_framework"><span>Design Frameworks</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="#CI_knowledge_Resources"><span>Knowledge Resources</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="#CI_social_media"><span>Social Media Links</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="#CI_news_events"><span>National Events and News</span> <i class="icon-play"></i></a></li> 
+                        <!-- <li><a href="#"><span>Financing for Land Conservation and Restoration</span> <i class="icon-play"></i></a></li>              -->
                     </ul>
                 </div>
 
@@ -65,19 +65,11 @@
                                             Outcome document: New Delhi Leaders’ Declaration 
                                         </p>
                                         <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                        <div class="pdf_document">
+                                            <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>G20 New Delhi Leaders Declaration</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
                                     </div>
@@ -102,19 +94,11 @@
                                         </p>
                                         <a href="g20_country_initiatives_ECMM_Outcome_document.php">Read More</a>
                                         <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/ECMM_Outcome_document_and_Chair_Summary_(July_28)_FINAL.pdf" target="_blank">
+                                        <div class="pdf_document">
+                                            <a href="assets/pdf/ECMM_Outcome_document_and_Chair_Summary_(July_28)_FINAL.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/ECMM_Outcome_document_and_Chair_Summary_(July_28)_FINAL.pdf" target="_blank">
-                                                <p><b>ECMM Outcome document and Chair Summary (July 28) FINAL </b></p>
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>ECMM Outcome document and Chair Summary (July 28) FINAL</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
                                     </div>
@@ -134,19 +118,11 @@
                                         </p>
                                         <a href="g20_country_initiatives_gir_gip.php">Read More</a>
                                         <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/G20_ECSWG-GIR_GIP_for_Global_Land_Initiative.pdf" target="_blank">
+                                        <div class="pdf_document">
+                                            <a href="assets/pdf/G20_ECSWG-GIR_GIP_for_Global_Land_Initiative.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/G20_ECSWG-GIR_GIP_for_Global_Land_Initiative.pdf" target="_blank">
-                                                <p><b>G20 ECSWG GIR GIP for Global Land Initiative </b></p>
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>G20 ECSWG GIR GIP for Global Land Initiative</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
                                     </div>
