@@ -1,4 +1,7 @@
 <?php include('includes/header.php')?>
+<style>
+
+</style>
      <!--Inner Banner Start-->
      <Section class="inner_banner ">
         <div class="container_fluid">
@@ -28,13 +31,13 @@
             <div class="sidebar_sticky_wrapper">
                 <div class="sidebar_sticky_left">
                     <ul class="vertical_tabs"> 
-                        <li><a href="#policy_prgrms_section" class="active"><span>Policy and Programs</span> <i class="icon-play"></i></a></li> 
-                        <li><a href="#good_practices"><span>Good Practices</span> <i class="icon-play"></i></a></li>
-                        <li><a href="#Traditional_Indigenous_section"><span>Traditional / Indigenous knowledge</span> <i class="icon-play"></i></a></li>
-                        <li><a href="#design_framework_section"><span>Design Frameworks</span> <i class="icon-play"></i></a></li> 
-                        <li><a href="#knowledge_Resources_section"><span>Knowledge Resources</span> <i class="icon-play"></i></a></li> 
-                        <li><a href="#social_media_section"><span>Social Media Links</span> <i class="icon-play"></i></a></li> 
-                        <li><a href="#news_events_section"><span>National Events and News</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="#CI_policy_progam" class="active"><span>Policy and Programs</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="#CI_good_practice"><span>Good Practices</span> <i class="icon-play"></i></a></li>
+                        <li><a href="#CI_traditional_indigenous"><span>Traditional / Indigenous knowledge</span> <i class="icon-play"></i></a></li>
+                        <li><a href="#CI_design_framework"><span>Design Frameworks</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="#CI_knowledge_Resources"><span>Knowledge Resources</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="#CI_social_media"><span>Social Media Links</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="#CI_news_events"><span>National Events and News</span> <i class="icon-play"></i></a></li> 
                         <li><a href="#"><span>Financing for Land Conservation and Restoration</span> <i class="icon-play"></i></a></li>             
                     </ul>
                 </div>
@@ -62,8 +65,9 @@
                                             United in consensus and spirit, we pledge to work collaboratively for a better, more 
                                             prosperous, and harmonious future. My gratitude to all fellow G20 members for their 
                                             support and cooperation.”<br>
-                                            Outcome document: New Delhi Leaders’ Declaration 
+                                         
                                         </p>
+                                        <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="flex_row pdf_box">
                                             

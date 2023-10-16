@@ -319,7 +319,7 @@
                 <div class="col_2"></div>
                 <div class="col_3">
                     <div class="delhi_declaration">
-                        <h4><a href="about.php">Delhi Declaration</a></h4>
+                        <h4><a href="delhi_declaration.php">Delhi Declaration</a></h4>
                     </div>
                 </div>
                 <div class="col_3">
