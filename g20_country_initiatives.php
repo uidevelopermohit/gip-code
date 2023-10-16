@@ -28,7 +28,7 @@
             <div class="sidebar_sticky_wrapper">
                 <div class="sidebar_sticky_left">
                     <ul class="vertical_tabs"> 
-                        <li><a href="#policy_prgrms_section" class="active"><span>Policy and Programs (GIP related)</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="#policy_prgrms_section" class="active"><span>Policy and Programs</span> <i class="icon-play"></i></a></li> 
                         <li><a href="#good_practices"><span>Good Practices</span> <i class="icon-play"></i></a></li>
                         <li><a href="#Traditional_Indigenous_section"><span>Traditional / Indigenous knowledge</span> <i class="icon-play"></i></a></li>
                         <li><a href="#design_framework_section"><span>Design Frameworks</span> <i class="icon-play"></i></a></li> 
