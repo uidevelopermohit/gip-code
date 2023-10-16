@@ -116,7 +116,7 @@
                                     threatened species were also observed. Good presence of plants foraged upon by elephants and other 
                                     herbivores is also observed.
                                 </p>
-                                <p>Source: Comeopnedium of Best Practices on restoration of Forest Fire Affected Areas </p>
+                                <p>Source: compendium of Best Practices on restoration of Forest Fire Affected Areas </p>
                             </div>
                         </div>
                         <!--Pdf Section Start-->

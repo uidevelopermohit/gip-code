@@ -1,0 +1,104 @@
+.sidebar_sticky {
+    &_wrapper {
+        display: flex;
+        align-items: start;
+    }
+
+    &_left {
+        width: 28.125vw; //540px;
+        padding-right: 2.604166666666667vw; //50px
+
+    }
+
+    &_right {
+        width: calc(100% - 25.520833333333332vw);
+        padding-left: 2.604166666666667vw; //50px
+        border-left: solid 1px $border-color;
+
+        .country_initiative_topic_wrapper {
+            margin-bottom: 6.25vw; //120px
+
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+
+        .col_6 {
+            margin-bottom: 2.083333333333333vw; //40px
+        }
+
+        h2 {
+            padding-bottom: 1.0416666666666665vw; //20px;
+            border-bottom: solid 1px $brand-color;
+            margin-bottom: 3.125vw; //60px
+        }
+
+
+        .btn_Section {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+        .btn_social_media {
+            width: 134px;
+            height: 50px;
+            border-radius: 10px;
+            background: #0075BC;
+            border: none;
+
+            margin-right: 10px;
+        }
+
+        .btn_social_media_text {
+            color: #fff;
+            font-size: 14px;
+            font-weight: 700;
+            line-height: 18px;
+            letter-spacing: 0em;
+        }
+
+        .btn_social_media_more {
+            width: 134px;
+            height: 50px;
+            border-radius: 10px;
+            border: 2px solid #0075BC;
+            background-color: unset;
+            margin-right: 10px;
+        }
+
+        .btn_social_media_text_mre {
+            color: 2px solid #0075BC;
+            font-size: 14px;
+            font-weight: 700;
+            line-height: 18px;
+            letter-spacing: 0em;
+        }
+    }
+}
+
+.vertical_tabs {
+    li {
+        a {
+            padding: 1.5625vw 1.0416666666666665vw; //30px 20px;
+            color: $base-font-color;
+            display: flex;
+            align-items: center;
+            font-size: 1.25vw; //24px
+            font-weight: 700;
+            justify-content: space-between;
+
+            span {
+                width: calc(100% - 20px);
+            }
+
+            i {
+                font-size: 12px;
+            }
+
+            &.active {
+                background-color: $brand-color-4;
+                color: $base-light-color;
+            }
+        }
+    }
+}

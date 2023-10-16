@@ -1,4 +1,10 @@
-
+.breadcrumb {
+    background: linear-gradient(to right, #F7941D 0%, #008a4bd4 100%), url(../images/lotus-texture.svg);
+    padding-top: 5.533854166666667vw; //85px
+    padding-bottom: 5.533854166666667vw; //85px
+    background-position: right;
+    background-repeat: no-repeat;
+}
 
 .top_discription_box {
     background-image: url('../images/aboutpage/lotus.webp');
@@ -10,7 +16,36 @@
     z-index: -1;
 }
 
+.breadcrumb {
+    h2 {
+        color: #fff;
+    }
+}
 
+.breadcrumb_lnk {
+
+    ul {
+        display: flex;
+        color: #fff;
+    }
+
+    ul li:first-child {
+        list-style: none;
+        text-decoration: underline;
+    }
+
+    ul li:nth-child(2) {
+        text-decoration: underline;
+    }
+
+    li {
+        margin-left: 1.6927083333333333vw; //26px
+        list-style: unset;
+        padding-bottom: 2px;
+        margin-top: 10px;
+
+    }
+}
 
 /**/
 .history_gip_section h4 {
@@ -74,6 +109,7 @@
         z-index: -1;
         border-radius: 100%;
         filter: blur(200px);
+        z-index: -1;
     }
 
     .gradient_container::after {
@@ -88,6 +124,7 @@
         height: 15.169270833333334vw;
         border-radius: 100%;
         filter: blur(200px);
+        z-index: -1;
     }
 
     .objective_boxes {
@@ -380,7 +417,6 @@
 
     .col_2 {
         text-align: center;
-        align-self: center;
     }
 
     .gradient_container::before,
@@ -473,4 +509,8 @@
     left: 71.6vw;
     right: -3.4375vw;
     height: 49.6vw;
+}
+.logo_Section .col_2 
+{
+align-self: center;
 }

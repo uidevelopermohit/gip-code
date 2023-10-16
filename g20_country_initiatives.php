@@ -1,5 +1,5 @@
 <?php include('includes/header.php')?>
-     <!--Breadcrumb section Start-->
+     <!--Inner Banner Start-->
      <Section class="inner_banner ">
         <div class="container_fluid">
             <div class="flex_row">
@@ -8,11 +8,12 @@
                 </div>
                 <div class="col_4">
                     <div class="country_initiative_banner_flag">
-                        
+                        <img src="<?php echo $base_url; ?>/assets/images/flags/india.png" alt="">
+                        <h4>India</h4>
                     </div>
                 </div>
                 <div class="col_4">
-                    <ul class="breadcrumb">
+                    <ul class="new_breadcrumb">
                         <li><a href="<?php echo $base_url; ?>">Home</a></li>
                         <li>G20 Country Initiatives</li>
                     </ul>
@@ -20,45 +21,30 @@
             </div>
         </div>
     </Section>
-    <!--Breadcrumb section End-->
-    <!--First Section Start-->
-    <main class=" maincountry_initiatives ">
-    <section class="country_initiatives gradient_container_topbar_right">
-        <div class="container_fluid gradient_container_topbar_left  common_spacing_top_btm gradient_container_topbar_right ">
-            <div class="flex_row  gradient_container_left ">
-                    <div class="col_4  sidebar_navigation">
-                        <div class="flex_row">
-                            <div class="col_12">
-                                <section class="fixme">
-                                <ul class=""> 
-                                    <li class="sub_menu"><a href="#policy_prgrms_section" class="active">Policy and Programs (GIP related)</a></li> 
-                                    <li class="sub_menu"><a href="#good_practices">Good Practices</a></li>
-                                    <li class="sub_menu"><a href="#Traditional_Indigenous_section">Traditional / Indigenous knowledge</a></li>
-                                    <li class="sub_menu"><a href="#design_framework_section">Design Frameworks</a></li> 
-                                    <li class="sub_menu"><a href="#knowledge_Resources_section">Knowledge Resources</a></li> 
-                                    <li class="sub_menu"><a href="#social_media_section">Social Media Links</a></li> 
-                                    <li class="sub_menu"><a href="#news_events_section">National Events and News</a></li> 
-                                    <li class="sub_menu"><a href="#">Financing for Land Conservation and Restoration</a></li>             
-                                </ul> 
-                                </section>
-                            </div>
-                        </div>
-                        <div class="flex_row">
-                            <div class="col_12 ">
+    <!--Inner Banner End-->
 
-                            </div>                  
-                        </div>
-                    </div>
-                <div class="col_8 ">
-                    <!--policy_programs_section Start-->
-                    <section id="policy_prgrms_section">
+    <section class="common_spacing">
+        <div class="container_fluid">
+            <div class="sidebar_sticky_wrapper">
+                <div class="sidebar_sticky_left">
+                    <ul class="vertical_tabs"> 
+                        <li><a href="#policy_prgrms_section" class="active"><span>Policy and Programs (GIP related)</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="#good_practices"><span>Good Practices</span> <i class="icon-play"></i></a></li>
+                        <li><a href="#Traditional_Indigenous_section"><span>Traditional / Indigenous knowledge</span> <i class="icon-play"></i></a></li>
+                        <li><a href="#design_framework_section"><span>Design Frameworks</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="#knowledge_Resources_section"><span>Knowledge Resources</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="#social_media_section"><span>Social Media Links</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="#news_events_section"><span>National Events and News</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="#"><span>Financing for Land Conservation and Restoration</span> <i class="icon-play"></i></a></li>             
+                    </ul>
+                </div>
+
+                <div class="sidebar_sticky_right">
+                    <!-- Policy and Program start here -->
+                    <div class="country_initiative_topic_wrapper" id="CI_policy_progam">
+                        <h2>Policy and Programs </h2>
                         <div class="flex_row">
-                            <div class="col_12">
-                                <h2>Policy and Programs (GIP Related)</h2>
-                            </div>
-                        </div>
-                        <div class="flex_row">
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/initiatives/10-October-GIP-54-New-Delhi-Leaders-Declaration-Country-Initiative.webp" alt="">
@@ -98,7 +84,7 @@
                                 </div>
                             </div>
                             <!--Second Card-->
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/initiatives/10-October-GIP-55-G20-Environment-and-Climate-Ministers’-Meeting-Out.webp" alt="">
@@ -134,16 +120,13 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <!--Second row Start-->
-                        <div class="flex_row secnd_row_top">
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/initiatives/10-October-GIP-56-GIR-GIP-outcome-document.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
-                                        <h5>GIR GIP outcome document</h5>
+                                        <h5>GIR GIP Outcome Document</h5>
                                         <p>
                                             The Prime Minister, Shri Narendra Modi lauded the adoption of the New Delhi Leaders’ 
                                             Declaration and expressed his gratitude to all fellow G20 members for their support and 
@@ -169,23 +152,15 @@
                                     </div>
                                 </div>
                             </div>
-                            <!--Second Card-->
-                            <div class="col">
-                                
-                            </div>
                         </div>
-                    </section>
-                    <!--policy_programs_section End-->
-                    <!--good_practices_section Start-->
-                    <section id="good_practices" class="common_spacing">
-                        <div class="flex_row ">
-                            <div class="col_12">
-                                <h2>Good Practices</h2>
-                                <h5>Forest fire affected landscapes</h5>
-                            </div>
-                        </div>
+                    </div>      <!-- Policy and Program end here -->
+
+                    <!-- Good Practice start here -->
+                    <div class="country_initiative_topic_wrapper" id="CI_good_practice">
+                        <h2>Good Practices</h2>
+                        <h5>Forest fire affected landscapes</h5>
                         <div class="flex_row">
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/initiatives/10-October-GIP-57-Forest-Fire-Management-in-Yellapurra-Division.webp" alt="">
@@ -203,7 +178,7 @@
                                 </div>
                             </div>
                             <!--Second Card-->
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/initiatives/10-October-GIP-58-Restoration-of-Forest-Fire-Impacted-Bandipur.webp" alt="">
@@ -236,14 +211,10 @@
                                 </div>
                             </div>
                         </div>
-                        <!--Second row Start-->
-                        <div class="flex_row secnd_row_top gradient_container_topbar_left gradient_container_topbar_right_nolotus">
-                            <div class="col_12">
-                                <h5>Mining affected landscapes</h5>
-                            </div>
-                        </div>
+
+                        <h5>Forest fire affected landscapes</h5>
                         <div class="flex_row ">
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/initiatives/10-October-GIP-59-Mine-Spoils-at-Tetulmari-under-Sijua-Area.webp" alt="">
@@ -275,8 +246,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <!--Second Card-->
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/initiatives/10-October-GIP-60-Aravalli-Biodiversity-Park,-Gurgaon,-Haryana.webp" alt="">
@@ -284,9 +254,9 @@
                                     <div class="events_card_content">
                                         <h5>Aravalli Biodiversity Park, Gurgaon, Haryana</h5>
                                         <p>
-                                             Decades of mining in the Aravalli mountains on the South Central Ridge and Northwest of 
-                                             Vasant Vihar resulted in a degraded landscape filled with numerous voids, depressions, 
-                                             and cut-slopes.
+                                            Decades of mining in the Aravalli mountains on the South Central Ridge and Northwest of 
+                                            Vasant Vihar resulted in a degraded landscape filled with numerous voids, depressions, 
+                                            and cut-slopes.
                                         </p>
                                         <a href="g20_country_initiatives_aravli_biodiversity_park.php">Read More</a>
                                         <!--Pdf Section Start-->
@@ -310,10 +280,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-
-                        <div class="flex_row secnd_row_top">
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/initiatives/10-October-GIP-61-Ecological-Restoration-in-Jharia-Coal-fields,-BCCL.webp" alt="">
@@ -347,8 +314,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <!--Second Card-->
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/initiatives/10-October-GIP-62-Restoration-of-mining-affected-land-of-Tikak-Coill.webp" alt="">
@@ -366,17 +332,13 @@
                                 </div>
                             </div>
                         </div>
-                    </section>
-                    <!--good_practices_section End-->
-                     <!--Traditional_Indigenous_section Start-->
-                     <section id="Traditional_Indigenous_section" class="common_spacing">
+                    </div>      <!-- Good Practice end here -->
+
+                    <!--Traditional_Indigenous_section Start-->
+                    <div class="country_initiative_topic_wrapper" id="CI_traditional_indigenous">
+                        <h2>Traditional/Indigenous Knowledge</h2>
                         <div class="flex_row">
-                            <div class="col_12">
-                                <h2>Traditional/Indigenous Knowledge</h2>
-                            </div>
-                        </div>
-                        <div class="flex_row">
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/initiatives/10-October-GIP-63-Community-Involvement-and-Engagement-in-Forest-Fir.webp" alt="">
@@ -411,7 +373,7 @@
                                 </div>
                             </div>
                             <!--Second Card-->
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/initiatives/10-October-GIP-64-Engagement-in-Mining-Restoration.webp" alt="">
@@ -436,7 +398,7 @@
                                             <div class="col content_center">
                                                 <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
                                                 <p><b>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf </b></p>
-                                               
+                                            
                                                 </a>
                                             </diV>
                                             
@@ -446,17 +408,13 @@
                                 </div>
                             </div>
                         </div>
-                    </section>
-                    <!--Traditional_Indigenous_section End-->
-                     <!--Design Framework Section Start-->
-                     <section id="design_framework_section" class="common_spacing">
+                    </div>      <!--Traditional_Indigenous_section End-->
+
+                    <!--Design Framework Section Start-->
+                    <div class="country_initiative_topic_wrapper" id="CI_design_framework">
+                        <h2>Design Framework</h2>
                         <div class="flex_row">
-                            <div class="col_12">
-                                <h2>Design Framework</h2>
-                            </div>
-                        </div>
-                        <div class="flex_row">
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/events/events.png" alt="">
@@ -481,7 +439,7 @@
                                             <div class="col content_center">
                                                 <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
                                                 <p><b>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf </b></p>
-                                              
+                                            
                                                 </a>
                                             </diV>
                                             
@@ -490,29 +448,23 @@
                                     </div>
                                 </div>
                             </div>
-                            <!--Second Card-->
-                            <div class="col">
-                                
-                            </div>
                         </div>
-                    </section>
-                    <!--Design Framework Section End-->
+                    </div>      <!--Design Framework Section Start-->
+
+
                     <!--Knowledge Resources section Start-->
-                    <section id="knowledge_Resources_section" class="common_spacing">
+                    <div class="country_initiative_topic_wrapper" id="CI_knowledge_Resources">
+                        <h2>Knowledge Resources</h2>
+                        <h5>Forest fire affected landscapes</h5>
+
                         <div class="flex_row">
-                            <div class="col_12">
-                                <h2>Knowledge Resources</h2>
-                                <h5>Forest fire affected landscapes</h5>
-                            </div>
-                        </div>
-                        <div class="flex_row">
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/events/events.png" alt="">
                                     </div>
                                     <div class="events_card_content">
-                                        <h5>Comeopnedium of Best Practices on restoration of Forest Fire Affected Areas</h5>
+                                        <h5>compendium of Best Practices on restoration of Forest Fire Affected Areas</h5>
                                         <p>
                                             The past decade has seen a significant surge in the incidence of large and uncontrolled 
                                             wildfires. For example, in April 2020, the number of fire alerts around the world rose by 
@@ -531,7 +483,7 @@
                                             <div class="col content_center">
                                                 <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
                                                 <p><b>G20 ECSWG Compendium of Best Practices on Restoration of Forest Fire Affected Areas.pdf</b></p>
-                                               
+                                            
                                                 </a>
                                             </diV>
                                             
@@ -540,8 +492,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <!--Second Card-->
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/events/events.png" alt="">
@@ -566,7 +517,7 @@
                                             <div class="col content_center">
                                                 <a href="assets/pdf/ceew-research-on-states-prone-to-forest-wildfires-india-and-mitigation-methods.pdf" target="_blank">
                                                 <p><b>Ceew research on states prone to forest wildfires india and mitigation methods.pdf</b></p>
-                                               
+                                            
                                                 </a>
                                             </diV>
                                             
@@ -575,10 +526,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <!--Second Row Card-->
-                        <div class="flex_row secnd_row_top">
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/events/events.png" alt="">
@@ -586,9 +534,9 @@
                                     <div class="events_card_content">
                                         <h5>Restoration of forest fire impacted areas- Karnataka Forest Department, India</h5>
                                         <p>
-                                             Forest fire on a large scale changes the species composition due to proliferation of 
-                                             invasive alien weed species like Lantana camara. This results in suppression of native 
-                                             grass, herb, shrub and tree...
+                                            Forest fire on a large scale changes the species composition due to proliferation of 
+                                            invasive alien weed species like Lantana camara. This results in suppression of native 
+                                            grass, herb, shrub and tree...
                                         </p>
                                         <a href="g20_country_initiatives_knowledge_resources_restoration_forest_fire.php">Read More</a>
                                         <!--Pdf Section Start-->
@@ -613,7 +561,7 @@
                                 </div>
                             </div>
                             <!--Second Card-->
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/events/events.png" alt="">
@@ -637,7 +585,7 @@
                                             <div class="col content_center">
                                                 <a href="assets/pdf/NAPFF-Final-Draft-23.04.2018.pdf" target="_blank">
                                                 <p><b>NAPFF Final Draft 23.04.2018.pdf</b></p>
-                                               
+                                            
                                                 </a>
                                             </diV>
                                             
@@ -646,10 +594,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                         <!--Third Row Card-->
-                         <div class="flex_row secnd_row_top">
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/events/events.png" alt="">
@@ -674,7 +619,7 @@
                                             <div class="col content_center">
                                                 <a href="assets/pdf/NDMA_forest_fire_report_India.pdf" target="_blank">
                                                 <p><b>NDMA forest fire report India.pdf </b></p>
-                                               
+                                            
                                                 </a>
                                             </diV>
                                             
@@ -684,7 +629,7 @@
                                 </div>
                             </div>
                             <!--Second Card-->
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/events/events.png" alt="">
@@ -709,7 +654,7 @@
                                             <div class="col content_center">
                                                 <a href="assets/pdf/BestPracticesForestFire_final.pdf" target="_blank">
                                                 <p><b>Best Practices Forest Fire final.pdf </b></p>
-                                              
+                                            
                                                 </a>
                                             </diV>
                                             
@@ -720,20 +665,16 @@
                             </div>
                         </div>
 
-                        <!--Second row Start-->
-                        <div class="flex_row secnd_row_top">
-                            <div class="col_12">
-                                <h5>Mining affected landscapes</h5>
-                            </div>
-                        </div>
-                        <div class="flex_row ">
-                            <div class="col">
+
+                        <h5>Mining affected landscapes</h5>
+                        <div class="flex_row">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/events/events.png" alt="">
                                     </div>
                                     <div class="events_card_content">
-                                        <h5>Comeopnedium of Best Practices on restoration of Mining Affected Areas</h5>
+                                        <h5>compendium of Best Practices on restoration of Mining Affected Areas</h5>
                                         <p>
                                             Mineral resources are the backbone of the economy. Mining is a significant contributor to 
                                             the development of many countries around the world, many developing and emerging economies, 
@@ -752,7 +693,7 @@
                                             <div class="col content_center">
                                                 <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
                                                 <p><b>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf</b></p>
-                                               
+                                            
                                                 </a>
                                             </diV>
                                         </div>
@@ -760,14 +701,13 @@
                                     </div>
                                 </div>
                             </div>
-                            <!--Second Card-->
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/events/events.png" alt="">
                                     </div>
                                     <div class="events_card_content">
-                                        <h5>Mine Reclamation: A handbook, Indian council of Forestry and Research Education</h5>
+                                        <h5>Mine Reclamation: A handbook, Indian Council of Forestry and Research Education</h5>
                                         <p>
                                             Minerals and mining sector contributes significantly to the economic growth and development 
                                             of India in the form of exports, raw material to other industries in the country and finally 
@@ -793,10 +733,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-
-                        <div class="flex_row secnd_row_top">
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/events/events.png" alt="">
@@ -828,8 +765,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <!--Second Card-->
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/events/events.png" alt="">
@@ -859,9 +795,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="flex_row secnd_row_top">
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/events/events.png" alt="">
@@ -894,7 +828,7 @@
                                 </div>
                             </div>
                             <!--Second Card-->
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/events/events.png" alt="">
@@ -925,15 +859,11 @@
                                 </div>
                             </div>
                         </div>
-                    </section>
-                    <!--Knowledge Resources section End-->
-                     <!--Social Media Section Start-->
-                     <section id="social_media_section" class="common_spacing">
-                        <div class="flex_row">
-                            <div class="col_12">
-                                <h2>Social Media Links</h2>
-                            </div>
-                        </div>
+                    </div>      <!--Knowledge Resources section End-->
+
+                    <!--Social Media Section Start-->
+                    <div class="country_initiative_topic_wrapper" id="CI_social_media">
+                        <h2>Social Media Links</h2> 
                         <div class="flex_row">
                             <div class="col_12 btn_Section">
                                 <button class="btn_social_media"><a href="#"  class="btn_social_media_text">MOEFCC</a></button>
@@ -954,90 +884,81 @@
                                 <h5>Instagram</h5>
                             </div>
                         </div>
-                    </section>
-                    <!--Social Media Section End-->
-                     <!--Events & News Section Start-->
-                     <section id="news_events_section" class="common_spacing">
-                        <div class="flex_row">
-                            <div class="col_12">
-                                <h2>National Events & News</h2>
-                            </div>
-                        </div>
-                        <div class="flex_row ">
-                            <div class="col_12 btn_Section">
-                                <button class="btn_social_media"><a href="#"  class="btn_social_media_text">MOEFCC</a></button>
-                                <button class="btn_social_media_more"><a href="#"  class="btn_social_media_text_mre">IIFM</a></button>
-                                <button class="btn_social_media_more"><a href="#"  class="btn_social_media_text_mre">ICFRE</a></button>
-                            </div>
-                        </div>
+                    </div>      <!--Social Media Section End-->
+
+                    <!--Events & News Section Start-->
+                    <div class="country_initiative_topic_wrapper" id="CI_news_events">
+                        <h2>National Events & News</h2>
                         <div class="flex_row secnd_row_top">
                             <div class="col_12">
-                                
-        <!--Event Section Start-->
-        <div class="events_selected">
-                    <img src="assets/images/events/events.png" alt="">
-                    <div class="events_selected_content_overlay">
-                        <div class="selected_event_content">
-                            <h2>Leaders’ Declaration</h2>
-                            <p>
-                                The Prime Minister, Shri Narendra Modi lauded the adoption of the New Delhi Leaders’ Declaration and 
-                                expressed his gratitude to all fellow G20 members for their support and cooperation.</p>
-                        </div>
-                        <div class="selected_event_date">
-                            <span>Sep 9</span>
-                            <h6>2023</h6>
-                        </div>
-                    </div>
-                </div>
+                                <!--Event Section Start-->
+                                <div class="events_selected">
+                                            <img src="assets/images/events/bharat_mandapam.webp" alt="">
+                                            <div class="events_selected_content_overlay">
+                                                <div class="selected_event_content">
+                                                    <h2>New Delhi Leaders’ Declaration:(9th September 2023, New Delhi)</h2>
+                                                    <p>
+                                                    The Prime Minister, Shri Narendra Modi lauded the adoption of the New Delhi Leaders’ Declaration and expressed his gratitude to all fellow G20 members for their support and cooperation.Sharing the digital copy of the New Delhi Leaders’ Declaration, the Prime Minister posted on X: “History has been created with the adoption of the New Delhi Leaders’ Declaration. United in consensus and spirit, we pledge to work collaboratively for a better, more prosperous, and harmonious future. My gratitude to all fellow G20 members for their support and cooperation.”</div>
+                                                <!--<div class="selected_event_date">
+                                                    <span>Sep 9</span>
+                                                    <h6>2023</h6>
+                                                </div>-->
+                                            </div>
+                                        </div>
 
-                <div class="owl-carousel events_slider">
-                    
-                    <div class="events_card">
-                        <div class="events_card_image">
-                            <img src="assets/images/events/events.png" alt="">
-                        </div>
-                        <div class="events_card_content">
-                            <h5>1st ECSWG meet: Bengaluru</h5>
-                            <p>9 to 11 February 2023</p>
-                        </div>
-                    </div>
-                    
-                    <div class="events_card">
-                        <div class="events_card_image">
-                            <img src="assets/images/events/events.png" alt="">
-                        </div>
-                        <div class="events_card_content">
-                            <h5>2nd ECSWG meet: Gandhinagar</h5>
-                            <p>27 to 29 March 2023</p>
-                        </div>
-                    </div>
-                    <div class="events_card">
-                        <div class="events_card_image">
-                            <img src="assets/images/events/events.png" alt="">
-                        </div>
-                        <div class="events_card_content">
-                            <h5>3rd ECSWG meet: Mumbai</h5>
-                            <p>21 to 23 May 2023</p>
-                        </div>
-                    </div>
-                </div>
-        <!--Event Section End-->
+                                        <div class="owl-carousel events_slider">
+                                            
+                                            <div class="events_card">
+                                                <div class="events_card_image">
+                                                    <img src="assets/images/events/ECSWG1.webp" alt="">
+                                                </div>
+                                                <div class="events_card_content">
+                                                    <h5>1st ECSWG meet: Bengaluru</h5>
+                                                    <p>9 to 11 February 2023</p>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="events_card">
+                                                <div class="events_card_image">
+                                                    <img src="assets/images/events/2nd_ECWSG.webp" alt="">
+                                                </div>
+                                                <div class="events_card_content">
+                                                    <h5>2nd ECSWG meet: Gandhinagar</h5>
+                                                    <p>27 to 29 March 2023</p>
+                                                </div>
+                                            </div>
+                                            <div class="events_card">
+                                                <div class="events_card_image">
+                                                    <img src="assets/images/events/3rd_EWCSG.webp" alt="">
+                                                </div>
+                                                <div class="events_card_content">
+                                                    <h5>3rd ECSWG meet: Mumbai</h5>
+                                                    <p>21 to 23 May 2023</p>
+                                                </div>
+                                            </div>
+                                            <div class="events_card">
+                                                <div class="events_card_image">
+                                                    <img src="assets/images/events/ECSWG_Chennai.webp" alt="">
+                                                </div>
+                                                <div class="events_card_content">
+                                                    <h5>4th ECSWG meet: Chennai</h5>
+                                                    <p>July 26 to 28, 2023</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                <!--Event Section End-->
                             </div>
                             <!--Second Card-->
                             <div class="col">
                                 
                             </div>
                         </div>
-                    </section>
-                    <!--Events & News Section End-->
+                    </div>
                 </div>
             </div>
         </div>
     </section>
-    <!--First Section End -->
-    <!--Second Section Start-->
-</main>
-    <!--Second Section End-->
+
     <!--Footer Section Start-->
     <?php include('includes/footer.php')?>
     <!-- Footer Section End-->

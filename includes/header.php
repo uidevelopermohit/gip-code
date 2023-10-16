@@ -20,11 +20,11 @@
         type="text/css" media="screen" /> -->
     <link rel="stylesheet" href="assets/scss/main-style.min.css">
     <?php
-        $url = 'http://localhost/'; 
+        $url = 'https://www.netnivaran.net/'; 
         $url = parse_url($url, PHP_URL_SCHEME).'://'.parse_url($url, PHP_URL_HOST); 
         $base_url = trim($url, '/');
     ?>
-    <?php
+     <?php
 // Set the time zone to India Standard Time (IST)
 date_default_timezone_set('Asia/Kolkata');
 
@@ -41,7 +41,7 @@ $currentDateTime = date('F j, Y | H:i \h\r\s');
         <header>
             <div class="header_topbar">
                 <div class="header_top_content">
-                    <div class="date_time"><span><?php echo $currentDateTime; ?></sapn></div>
+                    <div class="date_time"><span><?php echo $currentDateTime; ?></span> </div>
                     <div class="website_font_size">
                         <span>A <sup>-</sup></span>
                         <span class="font_size_selected">A</span>
@@ -55,7 +55,7 @@ $currentDateTime = date('F j, Y | H:i \h\r\s');
             <nav class="navbar">
                 <a href="javascript: void(0)" class="menu_toggle"><i class="icon-menu"></i></a>
                 <div class="navbar_brand navbar_brand_logos_left">
-                    <a href="index.php"><img src="<?php echo $base_url; ?>/gip-code/assets/images/headerlogo/headerfirst.png" class="fst_logo">
+                    <a href="index.php"><img src="<?php echo $base_url; ?>/development/GIP/assets/images/headerlogo/headerfirst.png" class="fst_logo">
                     <img src="assets/images/headerlogo/headersecond.png" class="second_logo"></a>
                 </div>
                 <ul class="navbar_nav">

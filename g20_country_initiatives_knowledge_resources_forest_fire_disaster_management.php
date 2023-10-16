@@ -110,7 +110,7 @@
                                         <img src="assets/images/events/events.png" alt="">
                                     </div>
                                     <div class="events_card_content">
-                                        <h5>Comeopnedium of Best Practices on restoration of Forest Fire Affected Areas</h5>
+                                        <h5>compendium of Best Practices on restoration of Forest Fire Affected Areas</h5>
                                         <p>
                                         The past decade has seen a significant surge in the incidence of large and uncontrolled wildfires. For example, in April 2020, the number of fire alerts around the world rose by 13% compared to 2019, a record year for fires.
                                         </p>

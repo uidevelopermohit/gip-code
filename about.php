@@ -1,21 +1,22 @@
 <?php include('includes/header.php')?>
-     <!--Breadcrumb section Start-->
-     <Section class="breadcrumb ">
+     <!--Inner Banner Start-->
+     <Section class="inner_banner ">
         <div class="container_fluid">
             <div class="flex_row">
-                <div class="col_9">
-                    <h2>About GIP</h2>
+                <div class="col_8">
+                    <h4>About G20 - GIP</h4>
                 </div>
-                <div class="col_3 breadcrumb_lnk">
-                    <ul>
-                        <li><a href="index.php">Home</a></li>
-                        <li>About GIP</li>
+                
+                <div class="col_4">
+                    <ul class="new_breadcrumb">
+                        <li><a href="<?php echo $base_url; ?>">Home</a></li>
+                        <li>About G20 - GIP</li>
                     </ul>
                 </div>
             </div>
         </div>
     </Section>
-    <!--Breadcrumb section End-->
+    <!--Inner Banner End-->
     <!--History GIP Section Start-->
     <section class="history_gip_section  ">
     <div class="flex_row top_discription_box"></div>
@@ -165,38 +166,42 @@
                     <div class="gradient_container">
                    <h5 class="shwcase"> SHOWCASE</h5>
                     <P>progress on ecological/ecosystem restoration of the identified landscapes by compiling annual reports on the 
-                        types of projects and best practices of conservation</P>
+                        types of projects and best practices of conservation.</P>
                 </div>
             </div>
                 <div class="col gradient_container_shwcase">
                     <div class="gradient_container_blue">
                         <h5 class="engage">ENGAGE</h5>
-                        <P>national nodal institutes/experts/organizations for scientific research, knowledge and technology sharing as well as in supporting monitoring...
-                            <br> <a href="">[View More]</a>
+                        <P>
+                            national nodal institutes/experts/organizations for scientific research, knowledge and technology sharing as well as in supporting monitoring,
+                            and driving of key activities on identified landscapes. 
                         </P>
                     </div>
                 </div>
                 <div class="col gradient_container_shwcase">
                     <div class="gradient_container_green">
                         <h5 class="colbarate">COLLABORATE</h5>
-                            <P>through the network of nodal institutions/experts/organizations for capacity building and knowledge sharing, including traditional knowledge...
-                                <br> <a href="">[View More]</a>
+                            <P>
+                                through the network of nodal institutions/experts/organizations for capacity building and knowledge sharing, including traditional knowledge, Indigenous Peoples, participants and stakeholders to enhance land conservation, sustainable use, and restoration outcomes. 
                             </P>
                        </div> 
                 </div>
                 <div class="col gradient_container_shwcase">
                     <div class="gradient_container_lightblue">
                         <h5 class="suport"> SUPPORT</h5>
-                        <P>especially developing and least developed countries in accelerating ecological/ecosystem restoration by mobilizing sufficient, adequate and timely means of...
-                            <br> <a href="">[View More]</a>
+                        <P>
+                            especially developing and least developed countries in accelerating ecological/ecosystem restoration by mobilizing sufficient, adequate and timely means of 
+                            implementation in line with the GBF 
+                           
                         </P>
                     </div>
                 </div>
                 <div class="col gradient_container_shwcase">
                     <div class="gradient_container_skyblue">
                         <h5 class="integrate">INTEGRATE</h5>
-                        <P>action on land degradation for identified landscapes with the Rio conventions and other multilateral environmental agreements and global initiatives...
-                        <br> <a href="">[View More]</a>
+                        <P>
+                            action on land degradation for identified landscapes with the Rio conventions and other multilateral environmental agreements and global Initiatives
+                            to scale up outcomes. 
                         </P>
                     </div>
                 </div>
