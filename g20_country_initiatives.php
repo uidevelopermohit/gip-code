@@ -37,8 +37,8 @@
                         <li><a href="#CI_design_framework"><span>Design Frameworks</span> <i class="icon-play"></i></a></li> 
                         <li><a href="#CI_knowledge_Resources"><span>Knowledge Resources</span> <i class="icon-play"></i></a></li> 
                         <li><a href="#CI_social_media"><span>Social Media Links</span> <i class="icon-play"></i></a></li> 
-                        <li><a href="#CI_news_events"><span>National Events and News</span> <i class="icon-play"></i></a></li> 
-                        <li><a href="#"><span>Financing for Land Conservation and Restoration</span> <i class="icon-play"></i></a></li>             
+                        <li><a href="#CI_financing_for_land_conservation_restoration"><span>Financing for Land Conservation and Restoration</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="#CI_news_events"><span>National Events and News</span> <i class="icon-play"></i></a></li>             
                     </ul>
                 </div>
 
@@ -888,8 +888,18 @@
                                 <h5>Instagram</h5>
                             </div>
                         </div>
-                    </div>      <!--Social Media Section End-->
-
+                    </div>      
+                    <!--Social Media Section End-->
+                     <!--Financing for Land Conservation and Restoration Section Start-->
+                     <div class="country_initiative_topic_wrapper common_spacing" id="CI_financing_for_land_conservation_restoration">
+                                        <h2>Financing for Land Conservation and Restoration</h2> 
+                                        <div class="flex_row">
+                                            <div class="col_12 btn_Section">
+                                                <h5>Update Coming Soon</h5>
+                                            </div>
+                                        </div>
+                                    </div>      
+                                <!--Financing for Land Conservation and Restoration Section End-->
                     <!--Events & News Section Start-->
                     <div class="country_initiative_topic_wrapper" id="CI_news_events">
                         <h2>National Events & News</h2>
@@ -951,6 +961,8 @@
                                             </div>
                                         </div>
                                 <!--Event Section End-->
+                               
+                   
                             </div>
                             <!--Second Card-->
                             <div class="col">
