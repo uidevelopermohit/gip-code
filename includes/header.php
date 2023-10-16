@@ -134,7 +134,7 @@ $currentDateTime = date('F j, Y | H:i \h\r\s');
                                     <li><a href="">Training Programs</a></li>
                                 </ul>
                     </li>
-                    <li class="nav_item"><a href="">Contact</a></li>
+                    <!-- <li class="nav_item"><a href="">Contact</a></li> -->
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">Media</a>
                                 <ul>
                                     <li><a href="">Press Releases</a></li>

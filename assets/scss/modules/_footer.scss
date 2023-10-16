@@ -24,6 +24,11 @@ footer {
         right: 0;
     }
 
+    .flex_row {
+        position: relative;
+        z-index: 1;
+    }
+
     .footer_logo {
         height: 4.166666666666666vw; //80px
 
