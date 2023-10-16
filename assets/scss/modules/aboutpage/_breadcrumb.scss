@@ -109,6 +109,7 @@
         z-index: -1;
         border-radius: 100%;
         filter: blur(200px);
+        z-index: -1;
     }
 
     .gradient_container::after {
@@ -123,6 +124,7 @@
         height: 15.169270833333334vw;
         border-radius: 100%;
         filter: blur(200px);
+        z-index: -1;
     }
 
     .objective_boxes {
@@ -507,4 +509,8 @@
     left: 71.6vw;
     right: -3.4375vw;
     height: 49.6vw;
+}
+.logo_Section .col_2 
+{
+align-self: center;
 }

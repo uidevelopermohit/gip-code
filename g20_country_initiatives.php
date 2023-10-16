@@ -28,7 +28,7 @@
             <div class="sidebar_sticky_wrapper">
                 <div class="sidebar_sticky_left">
                     <ul class="vertical_tabs"> 
-                        <li><a href="#policy_prgrms_section" class="active"><span>Policy and Programs (GIP related)</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="#policy_prgrms_section" class="active"><span>Policy and Programs</span> <i class="icon-play"></i></a></li> 
                         <li><a href="#good_practices"><span>Good Practices</span> <i class="icon-play"></i></a></li>
                         <li><a href="#Traditional_Indigenous_section"><span>Traditional / Indigenous knowledge</span> <i class="icon-play"></i></a></li>
                         <li><a href="#design_framework_section"><span>Design Frameworks</span> <i class="icon-play"></i></a></li> 
@@ -42,7 +42,7 @@
                 <div class="sidebar_sticky_right">
                     <!-- Policy and Program start here -->
                     <div class="country_initiative_topic_wrapper" id="CI_policy_progam">
-                        <h2>Policy and Programs (GIP Related)</h2>
+                        <h2>Policy and Programs </h2>
                         <div class="flex_row">
                             <div class="col_6">
                                 <div class="events_card">
@@ -126,7 +126,7 @@
                                         <img src="assets/images/initiatives/10-October-GIP-56-GIR-GIP-outcome-document.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
-                                        <h5>GIR GIP outcome document</h5>
+                                        <h5>GIR GIP Outcome Document</h5>
                                         <p>
                                             The Prime Minister, Shri Narendra Modi lauded the adoption of the New Delhi Leaders’ 
                                             Declaration and expressed his gratitude to all fellow G20 members for their support and 
@@ -464,7 +464,7 @@
                                         <img src="assets/images/events/events.png" alt="">
                                     </div>
                                     <div class="events_card_content">
-                                        <h5>Comeopnedium of Best Practices on restoration of Forest Fire Affected Areas</h5>
+                                        <h5>compendium of Best Practices on restoration of Forest Fire Affected Areas</h5>
                                         <p>
                                             The past decade has seen a significant surge in the incidence of large and uncontrolled 
                                             wildfires. For example, in April 2020, the number of fire alerts around the world rose by 
@@ -674,7 +674,7 @@
                                         <img src="assets/images/events/events.png" alt="">
                                     </div>
                                     <div class="events_card_content">
-                                        <h5>Comeopnedium of Best Practices on restoration of Mining Affected Areas</h5>
+                                        <h5>compendium of Best Practices on restoration of Mining Affected Areas</h5>
                                         <p>
                                             Mineral resources are the backbone of the economy. Mining is a significant contributor to 
                                             the development of many countries around the world, many developing and emerging economies, 
@@ -707,7 +707,7 @@
                                         <img src="assets/images/events/events.png" alt="">
                                     </div>
                                     <div class="events_card_content">
-                                        <h5>Mine Reclamation: A handbook, Indian council of Forestry and Research Education</h5>
+                                        <h5>Mine Reclamation: A handbook, Indian Council of Forestry and Research Education</h5>
                                         <p>
                                             Minerals and mining sector contributes significantly to the economic growth and development 
                                             of India in the form of exports, raw material to other industries in the country and finally 
@@ -889,29 +889,20 @@
                     <!--Events & News Section Start-->
                     <div class="country_initiative_topic_wrapper" id="CI_news_events">
                         <h2>National Events & News</h2>
-                        <div class="flex_row ">
-                            <div class="col_12 btn_Section">
-                                <button class="btn_social_media"><a href="#"  class="btn_social_media_text">MOEFCC</a></button>
-                                <button class="btn_social_media_more"><a href="#"  class="btn_social_media_text_mre">IIFM</a></button>
-                                <button class="btn_social_media_more"><a href="#"  class="btn_social_media_text_mre">ICFRE</a></button>
-                            </div>
-                        </div>
                         <div class="flex_row secnd_row_top">
                             <div class="col_12">
                                 <!--Event Section Start-->
                                 <div class="events_selected">
-                                            <img src="assets/images/events/events.png" alt="">
+                                            <img src="assets/images/events/bharat_mandapam.webp" alt="">
                                             <div class="events_selected_content_overlay">
                                                 <div class="selected_event_content">
-                                                    <h2>Leaders’ Declaration</h2>
+                                                    <h2>New Delhi Leaders’ Declaration:(9th September 2023, New Delhi)</h2>
                                                     <p>
-                                                        The Prime Minister, Shri Narendra Modi lauded the adoption of the New Delhi Leaders’ Declaration and 
-                                                        expressed his gratitude to all fellow G20 members for their support and cooperation.</p>
-                                                </div>
-                                                <div class="selected_event_date">
+                                                    The Prime Minister, Shri Narendra Modi lauded the adoption of the New Delhi Leaders’ Declaration and expressed his gratitude to all fellow G20 members for their support and cooperation.Sharing the digital copy of the New Delhi Leaders’ Declaration, the Prime Minister posted on X: “History has been created with the adoption of the New Delhi Leaders’ Declaration. United in consensus and spirit, we pledge to work collaboratively for a better, more prosperous, and harmonious future. My gratitude to all fellow G20 members for their support and cooperation.”</div>
+                                                <!--<div class="selected_event_date">
                                                     <span>Sep 9</span>
                                                     <h6>2023</h6>
-                                                </div>
+                                                </div>-->
                                             </div>
                                         </div>
 
@@ -919,7 +910,7 @@
                                             
                                             <div class="events_card">
                                                 <div class="events_card_image">
-                                                    <img src="assets/images/events/events.png" alt="">
+                                                    <img src="assets/images/events/ECSWG1.webp" alt="">
                                                 </div>
                                                 <div class="events_card_content">
                                                     <h5>1st ECSWG meet: Bengaluru</h5>
@@ -929,7 +920,7 @@
                                             
                                             <div class="events_card">
                                                 <div class="events_card_image">
-                                                    <img src="assets/images/events/events.png" alt="">
+                                                    <img src="assets/images/events/2nd_ECWSG.webp" alt="">
                                                 </div>
                                                 <div class="events_card_content">
                                                     <h5>2nd ECSWG meet: Gandhinagar</h5>
@@ -938,11 +929,20 @@
                                             </div>
                                             <div class="events_card">
                                                 <div class="events_card_image">
-                                                    <img src="assets/images/events/events.png" alt="">
+                                                    <img src="assets/images/events/3rd_EWCSG.webp" alt="">
                                                 </div>
                                                 <div class="events_card_content">
                                                     <h5>3rd ECSWG meet: Mumbai</h5>
                                                     <p>21 to 23 May 2023</p>
+                                                </div>
+                                            </div>
+                                            <div class="events_card">
+                                                <div class="events_card_image">
+                                                    <img src="assets/images/events/ECSWG_Chennai.webp" alt="">
+                                                </div>
+                                                <div class="events_card_content">
+                                                    <h5>4th ECSWG meet: Chennai</h5>
+                                                    <p>July 26 to 28, 2023</p>
                                                 </div>
                                             </div>
                                         </div>

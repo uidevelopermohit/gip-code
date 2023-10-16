@@ -185,7 +185,7 @@
                     <section id="policy_prgrms_section ">
                         <div class="flex_row">
                             <div class="col_12 gradient_container">
-                                <h2>Policy and Programs (GIP related)</h2>
+                                <h2>Policy and Programs</h2>
                                 <h5>Statutory Framework and Provisions for Mine Restoration and Rehabilitation</h5>
                                 <p>
                                     1.&nbsp;  The National Mineral Policy 2019 mandates the restoration and rehabilitation of mine sites by 
@@ -380,11 +380,7 @@
                                 <h2>Technology and Tools</h2>
                             </div>
                         </div>
-                        <div class="flex_row">
-                            <div class="col_12">
-                                <h5>Major policies and programmes:</h5>
-                            </div>
-                        </div>
+                        
                         <div class="flex_row">
                             <div class="col_12">
                                 <p>

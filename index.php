@@ -85,7 +85,7 @@
                 <div class="about_blocks_row">
                     <div class="first_col">
                         <div class="about_cards about_cards_1">
-                            <h5>About G20</h5>
+                            <h5>About G20 - GIP</h5>
                             <p>Following the Asian financial crisis, the G20 was established in 1999 as a forum for
                                 Finance
                                 Ministers and Central Bank Governors to discuss global economic and financial

@@ -6,7 +6,7 @@
                     <img src="assets/images/footer/footerlogog20.png" class="footer_logo">
                     <p>The Group of Twenty (G20) was established in 1999 to discuss
                         international economic and financial stability...</p>
-                    <a href="#"><u>View More</u></a>
+                    <a href="https://www.g20.org/" target="_blank"><u>View More</u></a>
                 </div>
                 <div class="col_2">
                     <div class="footer_links">

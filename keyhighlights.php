@@ -334,8 +334,7 @@
                 <div class="col col_boxes_shadow">
                     <h5>Engage stakeholders</h5>
                     <p> The Indian Council of Forestry Research & Education (ICFRE) and Indian Institute of Forest Management (IIFM), 
-                        will coordinate with nodal institutions / experts / organizations... <br>
-                        <a href="#">[View More]</a>
+                        will coordinate with nodal institutions / experts / organizations for the collation of data, best practices and information received from participating countries as well as be responsible for the design, development and maintenance of the GIP.
                     </p>
                 </div>
                 <div class="col col_boxes_shadow">

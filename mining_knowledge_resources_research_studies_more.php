@@ -149,7 +149,7 @@ After Forest conservation Act 1980 nearly 1.50 was diverted for mining alone. Ot
                                         <p>
                                         Developing Ecological Restoration Model In The Mine Spoils At Tetulmari Under Sijua Area (About 8-10 Ha) Of BCCL Mine, Forest Ecology & Environment Division Forest Research Institute, Dehradun, India       
                                     </p>
-                                        <a href="g20_country_initiatives_mining_knowledge_resources_project_reports_more.php">Read More</a>
+                                        <a href="mining_knowledge_resources_project_reports_more.php">Read More</a>
                                        
                                     </div>
                                 </div>
@@ -165,7 +165,7 @@ After Forest conservation Act 1980 nearly 1.50 was diverted for mining alone. Ot
                                         <p>
                                         Comeopnedium of Best Practices on restoration of Mining Affected Areas
                                            </p>
-                                        <a href="#">Read More</a>
+                                        <a href="mining_knowledge_resources_case_studies_more.php">Read More</a>
                                         
                                     </div>
                                 </div> 

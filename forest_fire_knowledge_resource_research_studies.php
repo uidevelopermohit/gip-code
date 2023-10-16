@@ -57,11 +57,11 @@
                             </div>
                             <div class="col_12"> 
                                 <p>
-                                	Council on Energy Environment and Water (CEEW)
-                                    he study argues that a comprehensive assessment for forest fires by integrating climatological scenarios at a localised level can help mitigate forest fires better. Our analysis suggests that there has been a 10-fold increase in forest fire incidences in the last two decades, whereas the total forest cover (TFC) has only increased by 1.12 per cent. Our analysis further suggests that tropical moist deciduous forests, followed by tropical dry deciduous forests, are most vulnerable to forest fires. (Read more)
-                                    CEEW's recommendations to climate-proof forests are as follows:
-                                    Recognise forest fires as a disaster type and integrate them into national, sub-national and local disaster management plans: The National Plan on Forest Fires was launched by the Government of India in 2018 under the flagship National Afforestation Programme. This plan touches upon a wide range of activities, but financial constraints and operational dynamism remains a challenge. Forest fires should be recognised as a disaster type under the NDMA act. The recognition will enhance and strengthen the National Plan on Forest Fires by improving its financial allocation and through the creation of a cadre of trained forest firefighters under the National Disaster Response Force (NDRF) and State Disaster Response Force (SDRF). 
-
+                                The study argues that a comprehensive assessment for forest fires by integrating climatological scenarios at a localised level can help mitigate forest fires better. Our analysis suggests that there has been a 10-fold increase in forest fire incidences in the last two decades, whereas the total forest cover (TFC) has only increased by 1.12 per cent. Our analysis further suggests that tropical moist deciduous forests, followed by tropical dry deciduous forests, are most vulnerable to forest fires.
+                                </p>
+                                <p>
+                                CEEW’s recommendations to climate-proof forests are as follows:
+                               <strong> Recognise forest fires as a disaster type and integrate them into national, sub-national and local disaster management plans:</strong> The National Plan on Forest Fires was launched by the Government of India in 2018 under the flagship National Afforestation Programme. This plan touches upon a wide range of activities, but financial constraints and operational dynamism remains a challenge. Forest fires should be recognised as a disaster type under the NDMA act. The recognition will enhance and strengthen the National Plan on Forest Fires by improving its financial allocation and through the creation of a cadre of trained forest firefighters under the National Disaster Response Force (NDRF) and State Disaster Response Force (SDRF). 
                                 </p>
                             </div>
                         </div>
