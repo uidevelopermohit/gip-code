@@ -1,10 +1,4 @@
-.breadcrumb {
-    background: linear-gradient(to right, #F7941D 0%, #008a4bd4 100%), url(../images/lotus-texture.svg);
-    padding-top: 5.533854166666667vw; //85px
-    padding-bottom: 5.533854166666667vw; //85px
-    background-position: right;
-    background-repeat: no-repeat;
-}
+
 
 .top_discription_box {
     background-image: url('../images/aboutpage/lotus.webp');
@@ -16,48 +10,7 @@
     z-index: -1;
 }
 
-.breadcrumb {
-    h2 {
-        color: #fff;
-    }
-}
 
-.breadcrumb_lnk {
-
-    ul {
-        display: flex;
-        justify-content: end;
-        color: #fff;
-        list-style: none;
-    }
-
-    li {
-        margin-left: 1.6927083333333333vw; //26px
-        list-style: unset;
-        padding-bottom: 2px;
-        margin-top: 10px;
-        position: relative;
-
-        a {
-            color: $base-light-color;
-        }
-
-        &:not(:last-child) {
-            text-decoration: underline;
-
-            &::after {
-                content: '';
-                width: 10px;
-                height: 10px;
-                background-color: $base-light-color;
-                right: -22px;
-                top: 8px;
-                position: absolute;
-                border-radius: 50px;
-            }
-        }
-    }
-}
 
 /**/
 .history_gip_section h4 {

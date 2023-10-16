@@ -1,0 +1,30 @@
+.inner_banner {
+    background: url('../images/lotus-texture.svg');
+    padding-top: 5.533854166666667vw; //85px
+    padding-bottom: 5.533854166666667vw; //85px
+    background-position: right;
+    background-repeat: no-repeat;
+    min-height: 10.416666666666668vw;   //200px;
+    position: relative;
+
+    &::before {
+        content: '';
+        @include horizontal-gradient($brand-color, $brand-color-2);
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+    }
+
+    .flex_row {
+        position: relative;
+        @include align-items(center);
+    }
+
+    @media screen and (min-width: 1920.98px) {
+        padding-top: 85px;
+        padding-bottom: 85px;
+        min-height: 200px;
+    }
+}

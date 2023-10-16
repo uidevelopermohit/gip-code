@@ -1,14 +1,19 @@
 <?php include('includes/header.php')?>
      <!--Breadcrumb section Start-->
-     <Section class="breadcrumb ">
+     <Section class="inner_banner ">
         <div class="container_fluid">
             <div class="flex_row">
-                <div class="col_9">
-                    <h2>G20 Country Initiatives</h2>
+                <div class="col_4">
+                    <h4>G20 Country Initiatives</h4>
                 </div>
-                <div class="col_3 breadcrumb_lnk_india_presidency">
-                    <ul>
-                        <li>Home</li>
+                <div class="col_4">
+                    <div class="country_initiative_banner_flag">
+                        
+                    </div>
+                </div>
+                <div class="col_4">
+                    <ul class="breadcrumb">
+                        <li><a href="<?php echo $base_url; ?>">Home</a></li>
                         <li>G20 Country Initiatives</li>
                     </ul>
                 </div>

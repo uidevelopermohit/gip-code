@@ -1,59 +1,61 @@
-.additional_topics
-{
-border-top:1px solid #EEEEEE;
+.country_initiative_banner_flag {
+    
 }
-.dtls_page
-{
-    .common_spacing
-    {
+
+.additional_topics {
+    border-top: 1px solid #EEEEEE;
+}
+
+.dtls_page {
+    .common_spacing {
         padding-top: 4.25vw;
         margin-top: 4.25vw;
     }
-    
-    
+
+
 }
-.back_btn
-    {
-        width: 130px;
-        height: 40px;
-        border-radius: 5px;
-        background: #D9D9D9;
-        border: none;
+
+.back_btn {
+    width: 130px;
+    height: 40px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    border: none;
+}
+
+.back_btn a {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000;
+}
+
+ol {
+    margin-left: 1.0416666667vw;
+}
+
+.pdf_box {
+    margin-top: 1.041667vw;
+}
+
+.pdf_icon_box {
+    padding-right: .0416666667vw;
+}
+
+.pdf_icon {
+    height: 3.25vw;
+}
+
+.content_center {
+    align-self: center;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.content_center {
+    p {
+        margin-bottom: 0vw;
     }
-    .back_btn a
-    {
-        font-size: 18px;
-        font-weight: 500;
-        line-height: 30px;
-        letter-spacing: 0em;
-        text-align: left;
-        color:#000;
-    }
-    ol{
-        margin-left: 1.0416666667vw;
-    }
-    .pdf_box
-    {
-    margin-top:1.041667vw;
-    }
-    .pdf_icon_box
-    {
-        padding-right: .0416666667vw;
-    }
-    .pdf_icon
-    {
-        height: 3.25vw;
-    }
-    .content_center
-    {
-        align-self: center;
-        padding-left: 0px;
-        padding-right: 0px;
-    }
-    .content_center
-    {
-        p
-        {
-                margin-bottom:0vw;
-        }
-    }
+}

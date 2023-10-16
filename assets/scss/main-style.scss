@@ -14,6 +14,7 @@
 @import 'components/button';
 @import 'components/parallax';
 @import 'components/popup';
+@import 'components/breadcrumbs';
 
 // MODULES FILES
 @import 'modules/layout';
@@ -24,10 +25,11 @@
 @import 'modules/homepage/logos';
 @import 'modules/homepage/thematic';
 @import 'modules/homepage/about_section';
-
 @import 'modules/homepage/events';
 @import 'modules/homepage/members';
 @import 'modules/owl-carousel';
+
+@import 'modules/inner-banner';
 @import 'modules/aboutpage/breadcrumb';
 @import 'modules/aboutpage/consrving_ecosystem';
 @import 'modules/aboutpage/about_gip_section';
