@@ -15,7 +15,9 @@ body {
     color: $base-font-color;
     font-weight: $base-font-weight;
 }
-
+ul {
+    list-style: none;
+}
 .overflow_wrapper {
     overflow: hidden;
 }

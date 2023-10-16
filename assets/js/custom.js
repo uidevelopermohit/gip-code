@@ -63,7 +63,7 @@ $(window).scroll(function () {
 
 
 //sidebar fixed
-var fixmeTop = $('.fixme').offset().top;       // get initial position of the element
+/* var fixmeTop = $('.fixme').offset().top;       // get initial position of the element
 
 $(window).scroll(function () {                  // assign scroll event listener
 
@@ -81,4 +81,4 @@ $(window).scroll(function () {                  // assign scroll event listener
         });
     }
 
-});
+}); */

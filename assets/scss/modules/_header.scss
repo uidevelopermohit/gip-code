@@ -72,6 +72,7 @@ header {
         left: 0;
         z-index: 5;
         @extend .transition;
+        @include box-shadow(0, 5px, 20px, rgba(0, 0, 0, 0.1));
     }
 }
 
@@ -247,6 +248,7 @@ header {
 }
 
 @media screen and (min-width: 992px) {
+
     .navbar_nav>li.sub_menu:hover>ul,
     .navbar_nav>li.sub_menu .sub_menu:hover>ul {
         display: block;

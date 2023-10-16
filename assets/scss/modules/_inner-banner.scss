@@ -1,11 +1,22 @@
 .inner_banner {
-    background: url('../images/lotus-texture.svg');
-    padding-top: 5.533854166666667vw; //85px
-    padding-bottom: 5.533854166666667vw; //85px
-    background-position: right;
-    background-repeat: no-repeat;
-    min-height: 10.416666666666668vw;   //200px;
+    display: flex;
+    align-items: center;
+    min-height: 10.416666666666668vw; //200px;
     position: relative;
+    min-height: 10.4166666667vw;
+
+    &::after {
+        content: '';
+        position: absolute;
+        right: 0;
+        background: url(../images/lotus-texture.svg);
+        background-position: center left;
+        background-repeat: no-repeat;
+        height: 100%;
+        width: 10.416666666666668vw; //200px
+        scale: -1;
+        z-index: 2;
+    }
 
     &::before {
         content: '';
@@ -17,14 +28,65 @@
         left: 0;
     }
 
+    h4 {
+        color: $base-light-color;
+    }
+
     .flex_row {
         position: relative;
         @include align-items(center);
     }
 
+    .country_initiative_banner_flag {
+        @include flexbox();
+        @include align-items(center);
+        justify-content: center;
+        position: relative;
+
+        img {
+            height: 3.125vw; //60px
+            margin-right: 0.5208333333333333vw; //10px
+        }
+
+        img,
+        h4 {
+            position: relative;
+        }
+
+        &::before {
+            content: '';
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            margin-left: -10.9375vw; //210px
+            margin-top: -5.208333333333334vw; //100px
+            width: 21.875vw; //420px
+            height: 10.416666666666668vw; //200px
+            background-color: $base-light-color;
+            filter: blur(10.416666666666668vw);
+        }
+    }
+
     @media screen and (min-width: 1920.98px) {
-        padding-top: 85px;
-        padding-bottom: 85px;
         min-height: 200px;
+
+        .country_initiative_banner_flag {
+            img {
+                height: 60px;
+                margin-right: 10px;
+            }
+
+            &::before {
+                margin-left: 210px;
+                margin-top: -100px;
+                width: 420px;
+                height: 200px;
+                filter: blur(200px);
+            }
+
+            &::after {
+                width: 200px;
+            }
+        }
     }
 }

@@ -1,51 +1,48 @@
-.country_initiatives
-{
-    .pdf_box
-    {
-    margin-top:1.041667vw;
+.country_initiatives {
+    .pdf_box {
+        margin-top: 1.041667vw;
     }
-    .pdf_icon_box
-    {
+
+    .pdf_icon_box {
         padding-right: .0416666667vw;
     }
-    .pdf_icon
-    {
+
+    .pdf_icon {
         height: 3.25vw;
     }
-    .content_center
-    {
+
+    .content_center {
         align-self: center;
     }
-    .gradient_container_topbar_right
-    {
+
+    .gradient_container_topbar_right {
         background: url(../images/lotus-2.webp) no-repeat;
         background-position: 114% 9%;
         background-size: 23.5vw;
         position: relative;
     }
-    .col_8 .events_card
-    {
-        height: 32.096354166666664vw;//493px
+
+    .col_8 .events_card {
+        height: 32.096354166666664vw; //493px
     }
-    .col_8 #news_events_section .events_card
-    {
+
+    .col_8 #news_events_section .events_card {
         height: auto;
-    } 
-    h2
-    {
-     border-bottom: 1px solid #F7941D;
-     padding-bottom: 0.5625vw;
-     margin-bottom: 1.5625vw;
     }
-    .secnd_row_top
-    {
-        
+
+    h2 {
+        border-bottom: 1px solid #F7941D;
+        padding-bottom: 0.5625vw;
+        margin-bottom: 1.5625vw;
+    }
+
+    .secnd_row_top {
+
         padding-top: 2.5625vw;
-        
+
     }
-   
-    .events_card_content h5::before
-    {
+
+    .events_card_content h5::before {
         content: "";
         position: absolute;
         width: 5.7291666667vw;
@@ -53,122 +50,86 @@
         background-color: #f7941d;
         bottom: -0.041667vw;
     }
-    .events_card_content p
-    {
+
+    .events_card_content p {
         padding-top: 0vw;
-        padding-bottom: 1.041667vw;;
+        padding-bottom: 1.041667vw;
+        ;
     }
-   
-    .fixme
-    {
+
+    .fixme {
         background-color: #fff;
     }
-    .sidebar_navigation
-    {
+
+    .sidebar_navigation {
         border-right: 1px solid #EEE;
     }
-    .sidebar_navigation li
-    {
+
+    .sidebar_navigation li {
         color: #000 !important;
-    width: 341px;
-    height: 55px;
-    padding-left: 15px;
-    font-weight: 700;
+        width: 341px;
+        height: 55px;
+        padding-left: 15px;
+        font-weight: 700;
     }
-    .sidebar_navigation li:nth-child(2)
-    {
+
+    .sidebar_navigation li:nth-child(2) {
         color: #000 !important;
-    width: 341px;
-    height: 21px;
-    padding-left: 15px;
-    font-weight: 700;
+        width: 341px;
+        height: 21px;
+        padding-left: 15px;
+        font-weight: 700;
     }
-    .btn_Section
-    {
+
+    .btn_Section {
         text-align: center;
     }
-    .btn_social_media
-    {
-        width: 134px;
-        height: 50px;
-        border-radius: 10px;
-        background: #0075BC;
-        border: none;
-        
-        margin-right: 10px;
-    }
-    .btn_social_media_text
-    {
-        color: #fff;
-        font-size: 14px;
-        font-weight: 700;
-        line-height: 18px;
-        letter-spacing: 0em;
-    }
-    .btn_social_media_more
-    {
-        width: 134px;
-        height: 50px;
-        border-radius: 10px;
-        border:2px solid  #0075BC;
-        background-color: unset;
-        margin-right: 10px;
-    }
-    .btn_social_media_text_mre
-    {
-        color: 2px solid  #0075BC;
-        font-size: 14px;
-        font-weight: 700;
-        line-height: 18px;
-        letter-spacing: 0em;
-    }
-    }
-    .maincountry_initiatives
-    {
-        .gradient_container_topbar_right::after
-        {
-            left: auto;
-            top: auto;
-            bottom: -42.604167vw;
-            right: -11.989583vw;
-            background-color: #008a4b;
-            content: "";
-            position: absolute;
-            width: 19.041667vw;
-            height: 9.169271vw;
-            border-radius: 100%;
-            filter: blur(200px);
-        
-        }
-    }
-    #good_practices
-    {
-        .gradient_container_topbar_right_nolotus::after
-        {
-            left: auto;
-            top: auto;
-            bottom: -42.604167vw;
-            right: -11.989583vw;
-            background-color: #008a4b;
-            content: "";
-            position: absolute;
-            width: 19.041667vw;
-            height: 9.169271vw;
-            border-radius: 100%;
-            filter: blur(200px);
-        
-        }
-        .gradient_container_topbar_left::before
-        {
-            content: "";
-            position: absolute;
-            left: -0.989583vw;
-            top: 2.604167vw;
-            width: 15.041667vw;
-            height: 13.041667vw;
-            border-radius: 100%;
-            background-color: rgba(247,148,29,0.4509803922);
-            filter: blur(200px);
-        }
-    }
+
     
+}
+
+.maincountry_initiatives {
+    .gradient_container_topbar_right::after {
+        left: auto;
+        top: auto;
+        bottom: -42.604167vw;
+        right: -11.989583vw;
+        background-color: #008a4b;
+        content: "";
+        position: absolute;
+        width: 19.041667vw;
+        height: 9.169271vw;
+        border-radius: 100%;
+        filter: blur(200px);
+
+    }
+}
+
+#good_practices {
+    .gradient_container_topbar_right_nolotus::after {
+        left: auto;
+        top: auto;
+        bottom: -42.604167vw;
+        right: -11.989583vw;
+        background-color: #008a4b;
+        content: "";
+        position: absolute;
+        width: 19.041667vw;
+        height: 9.169271vw;
+        border-radius: 100%;
+        filter: blur(200px);
+
+    }
+
+    .gradient_container_topbar_left::before {
+        content: "";
+        position: absolute;
+        left: -0.989583vw;
+        top: 2.604167vw;
+        width: 15.041667vw;
+        height: 13.041667vw;
+        border-radius: 100%;
+        background-color: rgba(247, 148, 29, 0.4509803922);
+        filter: blur(200px);
+    }
+}
