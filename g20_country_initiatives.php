@@ -13,7 +13,7 @@
                     </div>
                 </div>
                 <div class="col_4">
-                    <ul class="breadcrumb">
+                    <ul class="new_breadcrumb">
                         <li><a href="<?php echo $base_url; ?>">Home</a></li>
                         <li>G20 Country Initiatives</li>
                     </ul>

@@ -85,7 +85,40 @@
         text-align: center;
     }
 
-    
+    .btn_social_media {
+        width: 134px;
+        height: 50px;
+        border-radius: 10px;
+        background: #0075BC;
+        border: none;
+
+        margin-right: 10px;
+    }
+
+    .btn_social_media_text {
+        color: #fff;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 18px;
+        letter-spacing: 0em;
+    }
+
+    .btn_social_media_more {
+        width: 134px;
+        height: 50px;
+        border-radius: 10px;
+        border: 2px solid #0075BC;
+        background-color: unset;
+        margin-right: 10px;
+    }
+
+    .btn_social_media_text_mre {
+        color: 2px solid #0075BC;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 18px;
+        letter-spacing: 0em;
+    }
 }
 
 .maincountry_initiatives {

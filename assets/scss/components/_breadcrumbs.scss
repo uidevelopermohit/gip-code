@@ -1,4 +1,4 @@
-.breadcrumb {
+.new_breadcrumb {
     @include flexbox();
     @include justify-content(end);
     color: $base-light-color;
