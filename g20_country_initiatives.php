@@ -1,4 +1,7 @@
 <?php include('includes/header.php')?>
+<style>
+
+</style>
      <!--Inner Banner Start-->
      <Section class="inner_banner ">
         <div class="container_fluid">
@@ -62,8 +65,9 @@
                                             United in consensus and spirit, we pledge to work collaboratively for a better, more 
                                             prosperous, and harmonious future. My gratitude to all fellow G20 members for their 
                                             support and cooperation.”<br>
-                                            Outcome document: New Delhi Leaders’ Declaration 
+                                         
                                         </p>
+                                        <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="pdf_document">
                                             <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
@@ -860,8 +864,18 @@
                                 <h5>Instagram</h5>
                             </div>
                         </div>
-                    </div>      <!--Social Media Section End-->
-
+                    </div>      
+                    <!--Social Media Section End-->
+                     <!--Financing for Land Conservation and Restoration Section Start-->
+                     <div class="country_initiative_topic_wrapper common_spacing" id="CI_financing_for_land_conservation_restoration">
+                                        <h2>Financing for Land Conservation and Restoration</h2> 
+                                        <div class="flex_row">
+                                            <div class="col_12 btn_Section">
+                                                <h5>Update Coming Soon</h5>
+                                            </div>
+                                        </div>
+                                    </div>      
+                                <!--Financing for Land Conservation and Restoration Section End-->
                     <!--Events & News Section Start-->
                     <div class="country_initiative_topic_wrapper" id="CI_news_events">
                         <h2>National Events & News</h2>
@@ -923,6 +937,8 @@
                                             </div>
                                         </div>
                                 <!--Event Section End-->
+                               
+                   
                             </div>
                             <!--Second Card-->
                             <div class="col">

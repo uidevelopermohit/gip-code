@@ -188,7 +188,7 @@
                     <section id="policy_prgrms_section ">
                         <div class="flex_row">
                             <div class="col_12 gradient_container">
-                                <h2>Policy and Programs</h2>
+                                <h2>Public Programs and Schemes</h2>
                             </div>
                         </div>
                         <div class="flex_row">
