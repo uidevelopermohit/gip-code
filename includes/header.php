@@ -18,7 +18,7 @@
         rel="stylesheet">
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css"
         type="text/css" media="screen" /> -->
-    <link rel="stylesheet" href="assets/scss/main-style.min.css">
+    <link rel="stylesheet" href="assets/scss/main-style.min.css?v=1.1">
     <?php
         $url = 'https://www.netnivaran.net/'; 
         $url = parse_url($url, PHP_URL_SCHEME).'://'.parse_url($url, PHP_URL_HOST); 
@@ -134,7 +134,7 @@ $currentDateTime = date('F j, Y | H:i \h\r\s');
                                     <li><a href="">Training Programs</a></li>
                                 </ul>
                     </li>
-                    <li class="nav_item"><a href="">Contact</a></li>
+                    <!-- <li class="nav_item"><a href="">Contact</a></li> -->
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">Media</a>
                                 <ul>
                                     <li><a href="">Press Releases</a></li>
