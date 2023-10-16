@@ -24,7 +24,15 @@
         $url = parse_url($url, PHP_URL_SCHEME).'://'.parse_url($url, PHP_URL_HOST); 
         $base_url = trim($url, '/');
     ?>
-    
+    <?php
+// Set the time zone to India Standard Time (IST)
+date_default_timezone_set('Asia/Kolkata');
+
+// Get the current date and time
+$currentDateTime = date('F j, Y | H:i \h\r\s');
+
+ $currentDateTime;
+?>
 </head>
 
 <body>
@@ -33,7 +41,7 @@
         <header>
             <div class="header_topbar">
                 <div class="header_top_content">
-                    <div class="date_time"><span>September 20, 2023</span> | <span>23:40 hrs</span></div>
+                    <div class="date_time"><span><?php echo $currentDateTime; ?></sapn></div>
                     <div class="website_font_size">
                         <span>A <sup>-</sup></span>
                         <span class="font_size_selected">A</span>
