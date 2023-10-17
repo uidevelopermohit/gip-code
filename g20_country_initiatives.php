@@ -38,7 +38,7 @@
                         <li><a href="#CI_knowledge_Resources"><span>Knowledge Resources</span> <i class="icon-play"></i></a></li> 
                         <li><a href="#CI_social_media"><span>Social Media Links</span> <i class="icon-play"></i></a></li> 
                         <li><a href="#CI_news_events"><span>National Events and News</span> <i class="icon-play"></i></a></li> 
-                        <!-- <li><a href="#"><span>Financing for Land Conservation and Restoration</span> <i class="icon-play"></i></a></li>              -->
+                        <!-- <li><a href="#"><span>Financing for Land Conservation and Restoration</span> <i class="icon-play"></i></a></li> -->
                     </ul>
                 </div>
 
