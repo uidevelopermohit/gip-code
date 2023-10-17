@@ -1,7 +1,7 @@
 <?php include('includes/header.php')?>
-     <!--Inner Banner Start-->
-     <Section class="inner_banner ">
-        <div class="container_fluid ">
+<!--Inner Banner Start-->
+<Section class="inner_banner ">
+        <div class="container_fluid">
             <div class="flex_row">
                 <div class="col_8">
                     <h4>Contact Us</h4>

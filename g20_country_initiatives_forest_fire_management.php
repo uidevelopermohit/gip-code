@@ -1,66 +1,54 @@
 <?php include('includes/header.php')?>
-     <!--Breadcrumb section Start-->
-     <Section class="breadcrumb ">
+ <!--Inner Banner Start-->
+     <Section class="inner_banner ">
         <div class="container_fluid">
             <div class="flex_row">
-                <div class="col_9">
-                    <h2>G20 Country Initiatives</h2>
+                <div class="col_8">
+                    <h4>G20 Country Initiatives</h4>
                 </div>
-                <div class="col_3 breadcrumb_lnk_india_presidency">
-                    <ul>
-                        <li>Home</li>
+               
+                <div class="col_4">
+                    <ul class="new_breadcrumb">
+                        <li><a href="<?php echo $base_url; ?>">Home</a></li>
                         <li>G20 Country Initiatives</li>
                     </ul>
                 </div>
             </div>
         </div>
     </Section>
-    <!--Breadcrumb section End-->
+    <!--Inner Banner End-->
     <!--First Section Start-->
-    <main class=" gradient_container_image_lotus_right gradient_container_topbar_right">
-    <section class="country_initiatives ">
-        <div class="container_fluid gradient_container_topbar_left  common_spacing_top_btm gradient_container_image_lotus_left">
-            <div class="flex_row  gradient_container_left">
-                    <div class="col_4  sidebar_navigation">
-                        <div class="flex_row">
-                            <div class="col_12">
-                                <section class="fixme">
-                                <ul class=""> 
-                                    <li class="sub_menu"><a href="g20_country_initiatives.php#policy_prgrms_section" class="active">Policy and Programs (GIP related)</a></li> 
-                                    <li class="sub_menu"><a href="g20_country_initiatives.php#good_practices">Good Practices</a></li>
-                                    <li class="sub_menu"><a href="g20_country_initiatives.php#Traditional_Indigenous_section">Traditional / Indigenous knowledge</a></li>
-                                    <li class="sub_menu"><a href="g20_country_initiatives.php#design_framework_section">Design Frameworks</a></li> 
-                                    <li class="sub_menu"><a href="g20_country_initiatives.php#knowledge_Resources_section">Knowledge Resources</a></li> 
-                                    <li class="sub_menu"><a href="g20_country_initiatives.php#social_media_section">Social Media Links</a></li> 
-                                    <li class="sub_menu"><a href="g20_country_initiatives.php#news_events_section">National Events and News</a></li> 
-                                    <li class="sub_menu"><a href="g20_country_initiatives.php#">Financing for Land Conservation and Restoration</a></li>             
-                                </ul> 
-                                </section>
-                            </div>
-                        </div>
-                        <div class="flex_row">
-                            <div class="col_12 ">
+    <section class="common_spacing">
+        <div class="container_fluid">
+            <div class="sidebar_sticky_wrapper">
+                <div class="sidebar_sticky_left">
+                    <ul class="vertical_tabs"> 
+                        <li><a href="g20_country_initiatives.php#CI_policy_progam" class="active"><span>Policy and Programs</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="g20_country_initiatives.php#CI_good_practice"><span>Good Practices</span> <i class="icon-play"></i></a></li>
+                        <li><a href="g20_country_initiatives.php#CI_traditional_indigenous"><span>Traditional / Indigenous knowledge</span> <i class="icon-play"></i></a></li>
+                        <li><a href="g20_country_initiatives.php#CI_design_framework"><span>Design Frameworks</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="g20_country_initiatives.php#CI_knowledge_Resources"><span>Knowledge Resources</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="g20_country_initiatives.php#CI_social_media"><span>Social Media Links</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="g20_country_initiatives.php#CI_financing_for_land_conservation_restoration"><span>Financing for Land Conservation and Restoration</span> <i class="icon-play"></i></a></li>
+                        <li><a href="g20_country_initiatives.php#CI_news_events"><span>National Events and News</span> <i class="icon-play"></i></a></li>
+                    </ul>
+                </div>
 
-                            </div>                  
-                        </div>
-                    </div>
-                <div class="col_8">
-                    <!--policy_programs_section Start-->
-                    <section id="policy_prgrms_section">
+                <div class="sidebar_sticky_right">
+                    <!-- Policy and Program start here -->
+                    <div class="country_initiative_topic_wrapper" id="CI_policy_progam">
                         <div class="flex_row">
-                            <div class="col_9">
-                                <h2>Good Practices</h2>
+                            <div class="col_10">
+                                 <h2>Good Practices</h2>
                             </div>
-                            <div class="col_3">
-                                <button class="back_btn"><a href="g20_country_initiatives.php" class="">Back</a></button>
-                            </div>  
+                            <div class="col_2">
+                            <button class="back_btn"><a href="g20_country_initiatives.php#CI_good_practice" class="">Back</a></button>
+                            </div>
                         </div>
                         <div class="flex_row">
                             <div class="col_12">
-                                <h5>Forest Fire Management in Yellapurra Division, Karnataka.</h5>
-                            </div>
-                            <div class="col_12"> 
-                                <p>
+                            <h5>Forest Fire Management in Yellapurra Division, Karnataka.</h5>
+                            <p>
                                      One of the main forest regions in the Western Ghats is Yellapura, which is located in the Karnataka 
                                      district of Uttara Kannada. Uttara Kannada being the only district in Karnataka that is 80 percent 
                                      forested and is located in the Western Ghats. The Yellapura taluk has the most forest cover, with 
@@ -75,39 +63,31 @@
                                     involvement and Capacity Building approach. Some of them have been listed as below:
                                 </p>
                                 <p>
-                                <ol type="i">
-                                    <li>
-                                        &nbsp;Awareness Programmes: Awareness programmes were initiated at schools at division level to make 
+                                        <b>1.</b>Awareness Programmes: Awareness programmes were initiated at schools at division level to make 
                                         students aware about the harms and preventive measures for forest fire, the schools were also 
                                         encouraged to report any such incidents. Posters were deployed at community places where the 
                                         general public can sight them easily and be aware of the Dos and DON’Ts for the forest fire 
                                         incidents. 
-                                    </li>
-                                    <li>
-                                    &nbsp;Local Authorities Meetings: Meetings of all 111 Village Forest Communities (VFCs) of Yellapura 
+                                </p>
+                                <p>
+                                        <b>2.</b>Local Authorities Meetings: Meetings of all 111 Village Forest Communities (VFCs) of Yellapura 
                                         Forest division were conducted to raise awareness. Along with these, leaders of Gram Panchayats 
                                         were also taken into confidence for the purpose of creating awareness.
-                                    </li>
-                                    <li>
-                                    &nbsp;Beedhi Nataks: Street Plays were conducted in almost all the divisions to sensitize the general 
-                                        public
-                                    </li>
-                                    <li>
-                                    &nbsp;Fire Control Room: A round-the-clock fire control centre was set up at the DCF office, and the 
+                                </p>
+                                <p>
+                                        <b>3.</b>Beedhi Nataks: Street Plays were conducted in almost all the divisions to sensitize the general 
+                                        public    
+                                </p>
+                                <p>
+                                    <b>4.</b>Fire Control Room: A round-the-clock fire control centre was set up at the DCF office, and the 
                                         department's phone number was extensively disseminated throughout the nearby villages.
-                                    </li>
-                                    <li>
-                                    &nbsp;Door to door campaign: By adopting a vow in the name of their local deity, Lord Manjunateshwara, 
+                                </p>
+                                <p>
+                                        <b>5.</b>Door to door campaign: By adopting a vow in the name of their local deity, Lord Manjunateshwara, 
                                         the Forest Department and Sri Dharmasthala Grameena Abhivruddhi Sangha developed pamphlets to 
                                         discourage communities from engaging in any criminal activity in the forest, such as igniting 
                                         forest fires, stealing, or poaching.
-                                    </li>
-                                </ol>
                                 </p>
-                            </div>
-                        </div>
-                        <div class="flex_row">
-                            <div class="col_12"> 
                                 <p>
                                     Along with these, measures such as Oath- taking, building of forest fire watch towers, distribution 
                                     of approximately 5000 calenders to create a sense of community between locals and forest department 
@@ -132,25 +112,25 @@
                                     reporting, putting out, and managing forest fires have been made possible by community-based 
                                     techniques.
                                 </p>
+                                 
                             </div>
                         </div>
-                    </section>
-                    <!--policy_programs_section End-->
-                    <!--policy_programs_section Start-->
-                    <section id="policy_prgrms_section " class="common_spacing additional_topics">
-                        <div class="flex_row">
-                            <div class="col_12">
-                                <h5>Additional Topics</h5>
-                            </div>
+                    </div>
+                    <!-- Good Practice start here -->
+                    <div class="country_initiative_topic_wrapper" id="additional_section">
+                    <div class="flex_row">
+                        <div class="col_12">
+                        <h2>Additional Topics</h2>
                         </div>
+                    </div>
                         <div class="flex_row">
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/initiatives/10-October-GIP-58-Restoration-of-Forest-Fire-Impacted-Bandipur.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
-                                        <h5>Restoration of Forest Fire Impacted areas in Bandipur Tiger Reserve, Karnataka</h5>
+                                    <h5>Restoration of Forest Fire Impacted areas in Bandipur Tiger Reserve, Karnataka</h5>
                                         <p>
                                             At Bandipur Tiger reserve, on a pilot basis, Eco-restoration of Forest fire affected areas 
                                             were undertaken after 2019 major fire incident in GS Betta Range. Efforts were being made to 
@@ -158,38 +138,26 @@
                                         </p>
                                         <a href="g20_country_initiatives_restoration_forest_fire.php">Read More</a>
                                         <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
+                                        <div class="pdf_document">
+                                            <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
-                                                <p><b>G20 ECSWG Compendium of Best Practices on Restoration of Forest Fire Affected Areas </b></p>
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>G20 ECSWG Compendium of Best Practices on Restoration of Forest Fire Affected Areas</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
-                            <!--Second Card-->
-                            <div class="col">
-                                
-                            </div>
-                        </div>
-                    </section>
-                    <!--policy_programs_section End-->
+                            
+                        </div>         
                 </div>
             </div>
         </div>
     </section>
-    <!--First Section End -->
-    <!--Second Section Start-->
-</main>
+
+     <!--First Section End-->
+    
+
     <!--Second Section End-->
     <!--Footer Section Start-->
     <?php include('includes/footer.php')?>

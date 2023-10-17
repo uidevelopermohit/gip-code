@@ -1,7 +1,5 @@
 <?php include('includes/header.php')?>
-<style>
 
-</style>
      <!--Inner Banner Start-->
      <Section class="inner_banner ">
         <div class="container_fluid">
@@ -37,8 +35,8 @@
                         <li><a href="#CI_design_framework"><span>Design Frameworks</span> <i class="icon-play"></i></a></li> 
                         <li><a href="#CI_knowledge_Resources"><span>Knowledge Resources</span> <i class="icon-play"></i></a></li> 
                         <li><a href="#CI_social_media"><span>Social Media Links</span> <i class="icon-play"></i></a></li> 
-                        <li><a href="#CI_news_events"><span>National Events and News</span> <i class="icon-play"></i></a></li> 
-                        <!-- <li><a href="#"><span>Financing for Land Conservation and Restoration</span> <i class="icon-play"></i></a></li>              -->
+                        <li><a href="#CI_financing_for_land_conservation_restoration"><span>Financing for Land Conservation and Restoration</span> <i class="icon-play"></i></a></li>
+                        <li><a href="#CI_news_events"><span>National Events and News</span> <i class="icon-play"></i></a></li>
                     </ul>
                 </div>
 
@@ -171,20 +169,12 @@
                                             to restore 340 ha out of 2150 ha of burnt area.
                                         </p>
                                         <a href="g20_country_initiatives_restoration_forest_fire.php">Read More</a>
-                                        <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
+                                     <!--Pdf Section Start-->
+                                     <div class="pdf_document">
+                                            <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
-                                                <p><b>G20 ECSWG Compendium of Best Practices on Restoration of Forest Fire Affected Areas </b></p>
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>G20 ECSWG Compendium of Best Practices on Restoration of Forest Fire Affected Areas</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
                                     </div>
@@ -208,21 +198,14 @@
                                         </p>
                                         <a href="g20_country_initiatives_developing_ecological_restoration_model.php">Read More</a>
                                         <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
+                                     <div class="pdf_document">
+                                            <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
-                                                <p><b>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf </b></p>
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
+                                      
                                     </div>
                                 </div>
                             </div>
@@ -240,23 +223,14 @@
                                         </p>
                                         <a href="g20_country_initiatives_aravli_biodiversity_park.php">Read More</a>
                                         <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                        <div class="pdf_document">
+                                            <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf </b></p>
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf </span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -274,24 +248,14 @@
                                         </p>
                                         <a href="g20_country_initiatives_ecological_restoration_jharia.php">Read More</a>
                                         <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                        <div class="pdf_document">
+                                            <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf </b></p>
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf  </span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
-                                    </div>
+                                       </div>
                                 </div>
                             </div>
                             <div class="col_6">
@@ -331,24 +295,15 @@
                                             one way. 
                                         </p>
                                         <a href="g20_country_initiatives_traditional_forest_fires_management.php">Read More</a>
-                                        <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                       <!--Pdf Section Start-->
+                                       <div class="pdf_document">
+                                            <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
-                                                <p><b>G20 ECSWG Compendium of Best Practices on Restoration of Forest Fire Affected Areas.pdf</b></p>
-                                                
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>G20 ECSWG Compendium of Best Practices on Restoration of Forest Fire Affected Areas.pdf </span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -367,23 +322,14 @@
                                         </p>
                                         <a href="g20_country_initiatives_traditional_mining_restoration.php">Read More</a>
                                         <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                        <div class="pdf_document">
+                                            <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
-                                                <p><b>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf </b></p>
-                                            
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -407,24 +353,15 @@
                                             are also necessary to safeguard against liabilities.
                                         </p>
                                         <a href="g20_country_initiatives_design_framework.php">Read More</a>
-                                        <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                       <!--Pdf Section Start-->
+                                       <div class="pdf_document">
+                                            <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
-                                                <p><b>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf </b></p>
-                                            
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
+                                       
                                     </div>
                                 </div>
                             </div>
@@ -451,24 +388,15 @@
                                             13% compared to 2019, a record year for fires.
                                         </p>
                                         <a href="g20_country_initiatives_knowledge_resources_forest_fire_landscape.php">Read More</a>
-                                        <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                         <!--Pdf Section Start-->
+                                       <div class="pdf_document">
+                                            <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
-                                                <p><b>G20 ECSWG Compendium of Best Practices on Restoration of Forest Fire Affected Areas.pdf</b></p>
-                                            
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>G20 ECSWG Compendium of Best Practices on Restoration of Forest Fire Affected Areas.pdf</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
+                                       
                                     </div>
                                 </div>
                             </div>
@@ -485,24 +413,15 @@
                                             analysis suggests that there has been a 10-fold increase in forest
                                         </p>
                                         <a href="g20_country_initiatives_knowledge_resources_manage_forest_fire_climate.php">Read More</a>
-                                        <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/ceew-research-on-states-prone-to-forest-wildfires-india-and-mitigation-methods.pdf" target="_blank">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                         <!--Pdf Section Start-->
+                                       <div class="pdf_document">
+                                            <a href="assets/pdf/ceew-research-on-states-prone-to-forest-wildfires-india-and-mitigation-methods.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/ceew-research-on-states-prone-to-forest-wildfires-india-and-mitigation-methods.pdf" target="_blank">
-                                                <p><b>Ceew research on states prone to forest wildfires india and mitigation methods.pdf</b></p>
-                                            
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>Ceew research on states prone to forest wildfires india and mitigation methods.pdf</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -520,23 +439,14 @@
                                         </p>
                                         <a href="g20_country_initiatives_knowledge_resources_restoration_forest_fire.php">Read More</a>
                                         <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/Karnatka_Restoration_of_Forest_Fire_Impacted_Areas.pdf" target="_blank">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                       <div class="pdf_document">
+                                            <a href="assets/pdf/Karnatka_Restoration_of_Forest_Fire_Impacted_Areas.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/Karnatka_Restoration_of_Forest_Fire_Impacted_Areas.pdf" target="_blank">
-                                                <p><b>Karnatka Restoration of Forest Fire Impacted Areas.pdf </b></p>
-                                                
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>Karnatka Restoration of Forest Fire Impacted Areas.pdf</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -554,23 +464,14 @@
                                         </p>
                                         <a href="g20_country_initiatives_knowledge_resources_action_plan_forest_fire.php">Read More</a>
                                         <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/NAPFF-Final-Draft-23.04.2018.pdf" target="_blank">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                       <div class="pdf_document">
+                                            <a href="assets/pdf/NAPFF-Final-Draft-23.04.2018.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/NAPFF-Final-Draft-23.04.2018.pdf" target="_blank">
-                                                <p><b>NAPFF Final Draft 23.04.2018.pdf</b></p>
-                                            
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>NAPFF Final Draft 23.04.2018.pdf</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
+                                      
                                     </div>
                                 </div>
                             </div>
@@ -588,21 +489,11 @@
                                         </p>
                                         <a href="g20_country_initiatives_knowledge_resources_forest_fire_disaster_management.php">Read More</a>
                                         <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/NDMA_forest_fire_report_India.pdf" target="_blank">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                        <div class="pdf_document">
+                                            <a href="assets/pdf/NDMA_forest_fire_report_India.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/NDMA_forest_fire_report_India.pdf" target="_blank">
-                                                <p><b>NDMA forest fire report India.pdf </b></p>
-                                            
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>NDMA forest fire report India.pdf</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
                                     </div>
@@ -622,24 +513,15 @@
                                             the Fifth Assessment Report of the...
                                         </p>
                                         <a href="g20_country_initiatives_knowledge_resources_forest_fire_management.php">Read More</a>
-                                        <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/BestPracticesForestFire_final.pdf" target="_blank">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                       <!--Pdf Section Start-->
+                                       <div class="pdf_document">
+                                            <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/BestPracticesForestFire_final.pdf" target="_blank">
-                                                <p><b>Best Practices Forest Fire final.pdf </b></p>
-                                            
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>Best Practices Forest Fire final.pdf</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -661,23 +543,15 @@
                                             and developed...
                                         </p>
                                         <a href="g20_country_initiatives_knowledge_resources_mining_restoration_affected.php">Read More</a>
-                                        <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                         <!--Pdf Section Start-->
+                                       <div class="pdf_document">
+                                            <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
-                                                <p><b>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf</b></p>
-                                            
-                                                </a>
-                                            </diV>
+                                                <span>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -695,21 +569,14 @@
                                         </p>
                                         <a href="g20_country_initiatives_forestry_education_industry.php">Read More</a>
                                         <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                        <div class="pdf_document">
+                                            <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>G20 New Delhi Leaders Declaration </span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -726,22 +593,15 @@
                                             and roads etc...
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
-                                        <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                       <!--Pdf Section Start-->
+                                       <div class="pdf_document">
+                                            <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>G20 New Delhi Leaders Declaration</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
+                                       
                                     </div>
                                 </div>
                             </div>
@@ -756,22 +616,15 @@
                                         Almost all the mining techniques from mineral explorations to production and transport are causing environmental damage in several ways. The list includes deforestation, loss of topsoil, accelerated soil erosion, soil contamination, qualitative and quantitative depletion of surface and ground water resources, migration of wild life and avian fauna, and addition of air pollutants and dust in the atmosphere
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
-                                        <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                       <!--Pdf Section Start-->
+                                       <div class="pdf_document">
+                                            <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>G20 New Delhi Leaders Declaration</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -788,20 +641,12 @@
                                             (earth balls) are made by mixing seeds of different plant species...
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
-                                        <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                       <!--Pdf Section Start-->
+                                       <div class="pdf_document">
+                                            <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>G20 New Delhi Leaders Declaration</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
                                     </div>
@@ -819,20 +664,12 @@
                                         The various activities required for ecological restoration of coal mines have been discussed and suggested for their implementation in the field as the part of road map...
                                         </p>
                                         <a href="g20_country_initiatives_Details.php">Read More</a>
-                                        <!--Pdf Section Start-->
-                                        <div class="flex_row pdf_box">
-                                            
-                                            <div class="col_2 pdf_icon_box">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                       <!--Pdf Section Start-->
+                                       <div class="pdf_document">
+                                            <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                </a>
-                                            </div>
-                                            <div class="col content_center">
-                                                <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
-                                                <p><b>G20 New Delhi Leaders Declaration </b></p>
-                                                </a>
-                                            </diV>
-                                            
+                                                <span>G20 New Delhi Leaders Declaration</span>
+                                            </a>
                                         </div>
                                         <!--Pdf Section End-->
                                     </div>
