@@ -1,21 +1,22 @@
 <?php include('includes/header.php')?>
-     <!--Breadcrumb section Start-->
-     <Section class="breadcrumb ">
+<!--Inner Banner Start-->
+<Section class="inner_banner ">
         <div class="container_fluid">
             <div class="flex_row">
-                <div class="col_9">
-                    <h2>Key Highlights</h2>
+                <div class="col_8">
+                    <h4>Key Highlights</h4>
                 </div>
-                <div class="col_3 breadcrumb_lnk_india_presidency">
-                    <ul>
-                        <li>Home</li>
+               
+                <div class="col_4">
+                    <ul class="new_breadcrumb">
+                        <li><a href="<?php echo $base_url; ?>">Home</a></li>
                         <li>Key Highlights</li>
                     </ul>
                 </div>
             </div>
         </div>
     </Section>
-    <!--Breadcrumb section End-->
+    <!--Inner Banner End-->
     <!--First Section Start-->
     <main class="gradient_container_image_lotus_right gradient_container_topbar_right">
     <section class="key_highlights_sections ">

@@ -1,25 +1,24 @@
 <?php include('includes/header.php')?>
-     <!--Breadcrumb section Start-->
-     <Section class="breadcrumb ">
+ <!--Inner Banner Start-->
+     <Section class="inner_banner ">
         <div class="container_fluid">
             <div class="flex_row">
                 <div class="col_8">
-                    <h2>Forest Fires Impacted Landscapes</h2>
+                    <h4>Forest Fires Impacted Landscapes</h4>
                 </div>
-                <div class="col_4 breadcrumb_lnk_india_presidency">
-                    <ul>
-                        <li>Home</li>
+               
+                <div class="col_4">
+                    <ul class="new_breadcrumb">
+                        <li><a href="<?php echo $base_url; ?>">Home</a></li>
                         <li>Forest Fires Impacted Landscapes</li>
                     </ul>
                 </div>
             </div>
         </div>
     </Section>
-    <!--Breadcrumb section End-->
-    <!--First Section Start-->
-    <main class="forest_fires_impacted_landscapes  gradient_container_top_left">
-     <!--G20 Member Section Start-->
-     <section class="members_section">
+    <!--Inner Banner End-->
+    <!--G20 Member Section Start-->
+    <section class="members_section">
             <div class="container_fluid">
                 <div class="members_section_heading_content">
                     <h2>G20 Members</h2>
@@ -157,36 +156,26 @@
             </div>
         </section>
         <!--G20 Member Section End-->
-        <!--Description Section Start-->
-    <section class="country_initiatives ">
-        <div class="container_fluid gradient_container_topbar_left  common_spacing_top_btm ">
-            <div class="flex_row  gradient_container_left">
-                    <div class="col_4  sidebar_navigation">
-                        <div class="flex_row">
-                            <div class="col_12">
-                                <section class="fixme">
-                                <ul class=""> 
-                                    <li class="sub_menu"><a href="#policy_prgrms_section" class="active">Policy and Programs</a></li> 
-                                    <li class="sub_menu"><a href="#knowledge_resources">Knowledge Resources</a></li>
-                                    <li class="sub_menu"><a href="#technology_tools_Section">Design Frameworks</a></li>
-                                    <li class="sub_menu"><a href="#technology_tools_Section">Technology & Tools</a></li> 
-                                </ul> 
-                                </section>
-                            </div>
-                        </div>
-                        <div class="flex_row">
-                            <div class="col_12 ">
+    <!--First Section Start-->
+    <section class="common_spacing">
+        <div class="container_fluid">
+            <div class="sidebar_sticky_wrapper">
+                <div class="sidebar_sticky_left">
+                    <ul class="vertical_tabs"> 
+                        <li><a href="forest_fires_impacted_landscapes.php#CI_policy_progam" class="active"><span>Policy and Programs</span> <i class="icon-play"></i></a></li> 
+                        <li><a href="forest_fires_impacted_landscapes.php#CI_knowledge_Resources"><span>Knowledge Resources</span> <i class="icon-play"></i></a></li>
+                        <li><a href="forest_fires_impacted_landscapes.php#CI_design_framework"><span>Design Frameworks</span> <i class="icon-play"></i></a></li>
+                        <li><a href="forest_fires_impacted_landscapes.php#CI_technology_tools"><span>Technology & Tools</span> <i class="icon-play"></i></a></li>
+                    </ul>
+                </div>
 
-                            </div>                  
-                        </div>
-                    </div>
-                <div class="col_8">
-                    <!--policy_programs_section Start-->
-                    <section id="policy_prgrms_section">
+                <div class="sidebar_sticky_right">
+                    <!-- Policy and Program start here -->
+                    <div class="country_initiative_topic_wrapper" id="CI_policy_progam">
                         <div class="flex_row">
                             <div class="col_12">
-                                <h2>Policy and Programs</h2>
-                                <p>
+                                 <h2>Policy and Programs</h2>
+                                 <p>
                                      Legislation and policy at the national-level provides the overall framework and direction for 
                                      Forest Fire Prevention and Management (FFPM) in India. Although fire has been used as a land 
                                      management tool by traditional cultures in India for thousands of years (Pyne 1994), national 
@@ -198,12 +187,10 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="flex_row ">
-                            <div class="col_12 gradient_container">
-                                <h5>Major policies and programmes:</h5>
-                            </div>
-                            <div class="col_12"> 
-                                        <p>
+                        <div class="flex_row">
+                            <div class="col_12">
+                            <h5>Major policies and programmes:</h5>
+                            <p>
                                            1.&nbsp; The National Forestry Policy, issued in 1988, briefly mentions forest fires, stating in 
                                             paragraph 4.82: “The incidents of forest fire in the country is high. Standing trees and 
                                             fodder are destroyed on a large scale and natural regeneration annihilated by such fires. 
@@ -278,42 +265,31 @@
                                             forgone ecological services, money for watershed protection in catchments where dams are 
                                             built (Kohli et al. 2011).
                                         </p>
+                                        <!--Pdf Section Start-->
+                                        <div class="pdf_document">
+                                            <a href="assets/pdf/127284-Forest-Fire-Prevention-Management-8Oct2018.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                <span>Forest Fire Prevention Managemen -8 Oct2018.pdf</span>
+                                            </a>
+                                        </div>
+                                        <!--Pdf Section End-->
                             </div>
                         </div>
-                    </section>
-                    <!--policy_programs_section End-->
-
-
-                    <!--Pdf Section Start-->
-                    <div class="flex_row pdf_box">
-                                            
-                        <div class="col_1 pdf_icon_box">
-                            <a href="assets/pdf/127284-Forest-Fire-Prevention-Management-8Oct2018.pdf" target="_blank">
-                            <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                            </a>
+                            <!--Second Card-->
+                        
+                    </div>
+                    <!--Knowledge Resources start here -->
+                    <div class="country_initiative_topic_wrapper" id="CI_knowledge_Resources">
+                    <div class="flex_row">
+                        <div class="col_12">
+                        <h2>Knowledge Resources</h2>
                         </div>
-                        <div class="col content_center">
-                            <a href="assets/pdf/127284-Forest-Fire-Prevention-Management-8Oct2018.pdf" target="_blank">
-                            <p><b>Forest-Fire-Prevention-Management-8Oct2018.pdf</b></p>
-                            </a>
-                        </div>
-                                            
-                        </div>
-                    <!--Pdf Section End-->
-
-
-                    <!--Knowledge Resources Section Start-->
-                    <section id="knowledge_resources" class="common_spacing">
+                    </div>
                         <div class="flex_row">
-                            <div class="col_12">
-                                <h2>Knowledge Resources</h2>
-                            </div>
-                        </div>
-                        <div class="flex_row">
-                            <div class="col">
-                            <div class="events_card">
+                            <div class="col_6">
+                                <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/research_studies.jpeg" alt="">
+                                        <img src="assets/images/events/events.png" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Research Studies</h5>
@@ -321,11 +297,13 @@
                                             Managing Forest Fires in a Changing Climate: Council on Energy Environment and Water (CEEW)
                                         </p>
                                         <a href="forest_fire_knowledge_resource_research_studies.php">Read More</a>
+                                        
+                                        
                                     </div>
                                 </div>
                             </div>
                             <!--Second Card-->
-                            <div class="col">
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/events/events.png" alt="">
@@ -336,14 +314,12 @@
                                             Restoration of forest fire impacted areas- Karnataka Forest Department, India
                                         </p>
                                         <a href="forest_fire_knowledge_resource_project_reports.php">Read More</a>
+                                    
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <!--Second Row-->
-                        <!--Second row Start-->
-                        <div class="flex_row secnd_row_top">
-                            <div class="col">
+                            <!--Third Card-->
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/events/events.png" alt="">
@@ -354,11 +330,12 @@
                                         Comeopnedium of Best Practices on restoration of Forest Fire Affected Areas 
                                         </p>
                                         <a href="forest_fire_knowledge_resource_case_studies.php">Read More</a>
+                                       
                                     </div>
                                 </div>
                             </div>
-                            <!--Second Card-->
-                            <div class="col">
+                            <!--Fourth Card-->
+                            <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/events/events.png" alt="">
@@ -366,71 +343,68 @@
                                     <div class="events_card_content">
                                         <h5>Training Materials</h5>
                                         <p>
-                                            Forest Fire Disaster Management; National Disaster Management Authority, India
+                                        Forest Fire Disaster Management; National Disaster Management Authority, India
                                         </p>
                                         <a href="forest_fire_knowledge_resource_training_material.php">Read More</a>
+                                       
                                     </div>
                                 </div>
                             </div>
-                        </div> 
-                    </Section>
-                    <!--Knowledge Resources Section End-->
-                    <!--Technology Tools Section Start-->
-                    <section id="technology_tools_Section" class="technology_section common_spacing">
-                        <div class="flex_row">
-                            <div class="col_12">
-                                <h2>Technology and Tools</h2>
-                            </div>
                         </div>
-                        
-                        <div class="flex_row">
-                            <div class="col_12">
-                                <p>
+                          <!--Design Framework  Section Start-->
+                     <div class="country_initiative_topic_wrapper common_spacing" id="CI_design_framework">
+                                        <h2>Design Frameworks</h2> 
+                                        <div class="flex_row">
+                                            <div class="col_12 btn_Section">
+                                                <h5>Update Coming Soon</h5>
+                                            </div>
+                                        </div>
+                                    </div>      
+                                <!--Design Framework Section End-->
+                         <!-- Technology and tools start here -->
+                    <div class="country_initiative_topic_wrapper" id="CI_technology_tools">
+                    <div class="flex_row">
+                        <div class="col_12">
+                        <h2>Technology and Tools</h2>
+                        <p>
                                     <b>1. Firefighting tools and equipment (Forest Fires In India; Forest Research institute, India)</b> 
                                     Considering the disastrous impacts and difficulty in controlling the forest fires, the Forest 
                                     research Institute, Dehradun, India has developed an in-house forest fire extinguishing kit which 
                                     has been given to forest department personnel’s for controlling forest fire in difficult terrains.
                                 </p>
-                                <!--Pdf Section Start-->
-                                <div class="flex_row pdf_box">
-                                    
-                                    <div class="col_1 pdf_icon_box">
-                                        <a href="assets/pdf/FRI-Forest-Fire-in-India_26July19.pdf" target="_blank">
-                                        <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                        </a>
+                                  <!--Pdf Section Start-->
+                                  <div class="pdf_document">
+                                            <a href="assets/pdf/FRI-Forest-Fire-in-India_26July19.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                <span>FRI Forest Fire in India 26 July 19.pdf</span>
+                                            </a>
+                                        </div>
+                                        <!--Pdf Section End-->
+                                        <p>
                                     </div>
-                                    <div class="col content_center">
-                                        <a href="assets/pdf/FRI-Forest-Fire-in-India_26July19.pdf" target="_blank">
-                                        <p><b>FRI-Forest-Fire-in-India_26July19.pdf</b></p>
-                                        </a>
-                                    </div>
-                                                        
                                 </div>
-                                <!--Pdf Section End-->
-                                <p class="secnd_row_top">
-                                    <b>2. Modern Tools and Fire Safety Equipment (Forest Fires In India; Forest Research institute, India)</b>
+                        <div class="flex_row">
+                            <div class="col_12">
+                                <p>
+                                        <b>2. Modern Tools and Fire Safety Equipment (Forest Fires In India; Forest Research institute, India)</b>
                                     All the water reservoirs either originates or present in the forest areas, hence, the use of 
                                     chemical extinguishing agents should be prohibited during forest fore extinguishing process. 
                                     The only recommended extinguishing agent is water.
-                                </p>
-                                <!--Pdf Section Start-->
-                                <div class="flex_row pdf_box">
-                                    
-                                    <div class="col_1 pdf_icon_box">
-                                        <a href="assets/pdf/FRI-Forest-Fire-in-India_26July19.pdf" target="_blank">
-                                        <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                        </a>
-                                    </div>
-                                    <div class="col content_center">
-                                        <a href="assets/pdf/FRI-Forest-Fire-in-India_26July19.pdf" target="_blank">
-                                        <p><b>FRI-Forest-Fire-in-India_26July19.pdf</b></p>
-                                        </a>
-                                    </div>
-                                                        
-                                </div>
-                                <!--Pdf Section End-->
-                                <p class="secnd_row_top">
-                                    <b>3. Equipment for forest firefighting in India, Strengthening Forest Fire Management in India 
+                                        </p>
+                                         <!--Pdf Section Start-->
+                                        <div class="pdf_document">
+                                            <a href="assets/pdf/FRI-Forest-Fire-in-India_26July19.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                <span>FRI Forest Fire in India 26 July 19.pdf</span>
+                                            </a>
+                                        </div>
+                                        <!--Pdf Section End-->
+                            </div>
+                        </div>
+                        <div class="flex_row">
+                            <div class="col_12">
+                                <p>
+                            <b>3. Equipment for forest firefighting in India, Strengthening Forest Fire Management in India 
                                     (Joint report by MoEFCC and The World Bank)</b> Structural firefighting can involve short periods of 
                                     very intense activity where firefighters may undertake search and rescue or very specialized 
                                     suppression activity in extremely hostile environments, while kitted out in, and protected by, 
@@ -441,34 +415,27 @@
                                     heat absorbed from the environment) or metabolic heat (heat created by personal exertion). 
                                     Firefighters can only operate in these situations for very short periods, after which they must 
                                     retreat so they can cool down by shedding their heavy protective clothing.
-                                </p>
-                                <!--Pdf Section Start-->
-                                <div class="flex_row pdf_box">
-                                            
-                                    <div class="col_1 pdf_icon_box">
-                                        <a href="assets/pdf/127284-Forest-Fire-Prevention-Management-8Oct2018.pdf" target="_blank">
-                                        <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                        </a>
-                                    </div>
-                                    <div class="col content_center">
-                                        <a href="assets/pdf/127284-Forest-Fire-Prevention-Management-8Oct2018.pdf" target="_blank">
-                                        <p><b>Forest-Fire-Prevention-Management-8Oct2018.pdf</b></p>
-                                        </a>
-                                    </div>
-                                                        
-                                </div>
-                                <!--Pdf Section End-->
+                                        </p>
+                                         <!--Pdf Section Start-->
+                                        <div class="pdf_document">
+                                            <a href="assets/pdf/127284-Forest-Fire-Prevention-Management-8Oct2018.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                <span>Forest Fire Prevention Management 8 Oct 2018.pdf</span>
+                                            </a>
+                                        </div>
+                                        <!--Pdf Section End-->
                             </div>
                         </div>
-                    </section>
-                    <!--Technology Tools Section End-->
+                        
+                        </div>
                 </div>
             </div>
         </div>
     </section>
-    <!--First Section End -->
-    <!--Second Section Start-->
-</main>
+
+     <!--First Section End-->
+    
+
     <!--Second Section End-->
     <!--Footer Section Start-->
     <?php include('includes/footer.php')?>

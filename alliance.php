@@ -1,14 +1,15 @@
 <?php include('includes/header.php')?>
-     <!--Breadcrumb section Start-->
-     <Section class="breadcrumb ">
+<!--Inner Banner Start-->
+<Section class="inner_banner ">
         <div class="container_fluid">
             <div class="flex_row">
-                <div class="col_9">
-                    <h2>Alliance</h2>
+                <div class="col_8">
+                    <h4>Alliance</h4>
                 </div>
-                <div class="col_3 breadcrumb_lnk">
-                    <ul>
-                        <li>Home</li>
+               
+                <div class="col_4">
+                    <ul class="new_breadcrumb">
+                        <li><a href="<?php echo $base_url; ?>">Home</a></li>
                         <li>About GIP</li>
                         <li>Alliance</li>
                     </ul>
@@ -16,7 +17,8 @@
             </div>
         </div>
     </Section>
-    <!--Breadcrumb section End-->
+    <!--Inner Banner End-->
+    
     <!--First Section Start-->
     <section class="alliance_section_start   ">
         <div class="flex_row gradient_container_topbar">
