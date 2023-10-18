@@ -10,10 +10,7 @@
                     <h4>Financing Option</h4>
                 </div>
                 <div class="col_4">
-                    <div class="country_initiative_banner_flag">
-                        <img src="<?php echo $base_url; ?>/assets/images/flags/india.png" alt="">
-                        <h4>India</h4>
-                    </div>
+                    
                 </div>
                 <div class="col_4">
                     <ul class="new_breadcrumb">
@@ -67,7 +64,7 @@
                                         <div class="pdf_document">
                                             <a href="assets/pdf/APznzaYAM_sG3xbkIGmyAoAWxZ4pC4Yh1HtO1YDuCymqeetAA_bOo7BjOR257un51YNlAdT5XeX9EQHkNiRX23s56HsRoVGTsZIje1JkE3XSFhjwI8PF3QkGtMBVbNqj8EiMELyF-0ZJ1fX4elq6KWdKVw7mcjh4FQ0pX30YjUiepjQESmUqra2iL8BCuc9MitnqhBxcX5rrbc86.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                <span>G20 New Delhi Leaders Declaration</span>
+                                                <span>Framework for Sovereign Green Bonds</span>
                                             </a>
                                         </div>
                                         <!--Pdf Section End-->
@@ -237,10 +234,9 @@
                                     <div class="events_card_content">
                                         <h5>Progress and Challenges of Green Finance in India, Reserve Bank of India</h5>
                                         <p>
-                                            In the backdrop of increasing interest in sustainable finance in India as well as around the globe, and with a view to align the extant framework for green debt securities with the updated Green Bond Principles (GBP) recognised by IOSCO, SEBI undertook a review of the regulatory framework for green debt securities.
-                                                Initial disclosure requirements for issue and listing of green debt securities An issuer desirous of issuing green debt securities shall make the following additional disclosures in the offer document for public issues / private placements.
+                                            India has started emphasising on green finance as early as 2007. In December 2007, the Reserve Bank issued a notification on “Corporate Social Responsibility, Sustainable Development and Non-financial Reporting – Role of Banks” and mentions the importance of global warming and climate change in the context of sustainable development. 
                                         </p>
-                                        <a href="financing_options_financial_markets_green_bonds.php">Read More</a>
+                                        <a href="financing_options_financial_markets_green_finance_in_india.php">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="pdf_document">
                                             <a href="assets/pdf/Green Finance in India_RBI.pdf" target="_blank">
@@ -275,31 +271,33 @@
                                     </div>
                                 </div>
                             </div>
+
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
                                         <img src="assets/images/events/events.png" alt="">
                                     </div>
-                                    <div class="events_card_content">
-                                        <h5>Financing Arrangements for Mine Restoration and Rehabilitation</h5>
-                                        <p>
-                                            There is hardly any government, agencies or major funds which provide direct financing to mining reclamation projects especially for abandoned /orphaned mines prior to the promulgation of rules about Mine Closure Plan in April 2003. However, public sector banks, in addition to private commercial banks and non-banking financial companies, provide debt financing for mining projects including reclamation activities in India.
-                                        </p>
-                                        <a href="financing_options_financial_markets_mine_restoration_rehabilitation.php">Read More</a>
+                                <div class="events_card_content">
+                                    <h5>Financing Arrangements for Mine Restoration and Rehabilitation</h5>
+                                    <p>
+                                        There is hardly any government, agencies or major funds which provide direct financing to mining reclamation projects especially for abandoned /orphaned mines prior to the promulgation of rules about Mine Closure Plan in April 2003. However, public sector banks, in addition to private commercial banks and non-banking financial companies, provide debt financing for mining projects including reclamation activities in India.
+                                    </p>
+                                    <a href="financing_options_financial_markets_mine_restoration_rehabilitation.php">Read More</a>
+                                
+                                    <!--Pdf Section Start-->
+                                    <div class="pdf_document">
+                                        <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
+                                            <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                            <span>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf</span>
+                                        </a>
                                     </div>
-                                        <!--Pdf Section Start-->
-                                        <div class="pdf_document">
-                                            <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
-                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                <span>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf</span>
-                                            </a>
-                                        </div>
-                                        <!--Pdf Section End-->
-                                    </div>
+                                    
+                                    <!--Pdf Section End-->
                                 </div>
                             </div>
-                            <!--Second Card-->
-                            
+                        </div>
+                        <!--Second Card-->
+                          
                     </div>      
                     <!--Financial market_section End-->
 
@@ -344,7 +342,7 @@
                                         <!--Source Link Section Start-->
                                         <div class="pdf_document">
                                             <div class="col content_center">
-                                                <a target="blank" href="https://www.greenclimate.fund/news/gcf2-pledging-conference-replenishment#main-content">Source:https://www.greenclimate.fund/news/gcf2-pledging-conference-replenishment#main-content</a>
+                                                <a target="blank" href="https://www.greenclimate.fund/news/gcf2-pledging-conference-replenishment#main-content">Source:https://www.greenclimate.fund/gcf</a>
                                             </div><br><br>
                                         </div>
                                         <!--Source Link Section End-->

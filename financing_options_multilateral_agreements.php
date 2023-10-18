@@ -8,10 +8,7 @@
                     <h4>Financing Option</h4>
                 </div>
                 <div class="col_4">
-                    <div class="country_initiative_banner_flag">
-                        <img src="<?php echo $base_url; ?>/assets/images/flags/india.png" alt="">
-                        <h4>India</h4>
-                    </div>
+                    
                 </div>
                 <div class="col_4">
                     <ul class="new_breadcrumb">
@@ -64,9 +61,14 @@
                                         3.	The fair and equitable sharing of the benefits arising out of the utilization of genetic resources<br>
 
                                 </p>
-                                <div class="col content_center">
-                                    <span>Source: CBD&ensp;</span><a target="blank" href="https://www.cbd.int/">https://www.cbd.int/</a>
-                                </div><br><br>
+                                
+                                <!--Source Link Section Start-->
+                                <div class="pdf_document">
+                                    <div class="col content_center">
+                                       <a target="blank" href="https://www.cbd.int/">Source:CBD https://www.cbd.int/</a>
+                                    </div>
+                                </div><br>
+                                <!--Source Link Section End-->
                                 
 
                                 <h5>2.	UNCCD Global Land Initiative (GLI)</h5>
@@ -83,9 +85,14 @@
                                 <p>• Land conservation, sustainable management, and restoration website: the initiative will establish a website that will serve as an information sharing hub to provide easier access to information on land degradation, conservation, sustainable management, and restoration and foster collaboration and broader engagement of various stakeholders in land conservation and restoration efforts.</p>
                                 <p>• Engagement of private sector and civil society: the Initiative will engage the private sector to encourage it to support land restoration efforts and adopt sustainable land management practices. Similarly, with strong calls from society for urgent environmental action, the Initiative will encourage direct engagement of civil society, including by mobilizing the general public.</p>
                                 <p>• Sharing knowledge and building capacity: the initiative will support the exchange of know-how and capacity building between G20 members, non-member countries, and other partners and additional stakeholders, as well as support efforts to accelerate exchange of best practices to enhance land conservation and restoration efforts.</p>
-                                <div class="col content_center">
-                                    <span>Source:UNCCD GLI&ensp;</span><a target="blank" href="https://www.unccd.int/our-work/flagship-initiatives/G20-Initiative">https://www.unccd.int/our-work/flagship-initiatives/G20-Initiative</a>
-                                </div><br><br>
+                                
+                                <!--Source Link Section Start-->
+                                <div class="pdf_document">
+                                    <div class="col content_center">
+                                       <a target="blank" href="https://www.unccd.int/our-work/flagship-initiatives/G20-Initiative">Source:UNCCD GLI https://www.unccd.int/our-work/</a>
+                                    </div>
+                                </div><br>
+                                <!--Source Link Section End-->
 
                                 <h5>3.Global Biodiversity Framework Fund (GBFF)</h5>
                                 <p>
@@ -99,9 +106,14 @@
                                 </p>
                                 <p>The GBFF's ratification followed the historic agreement on global biodiversity goals known as the Kunming-Montreal Global Biodiversity Framework. It aims to halt and reverse biodiversity loss by 2030 and put nature on a path to recovery by 2050. The fund will receive contributions from public, private, and philanthropic sources, with a focus on biodiversity and ecosystem sustainability. It will also allocate resources to support Indigenous-led initiatives and prioritize assistance to Small Island Developing States and Least Developed Countries.</p>
                                 <p>The fund's launch demonstrates global commitment to addressing biodiversity loss and implementing crucial environmental initiatives, as countries work together to protect the planet's natural diversity and ensure a sustainable future.</p>
-                                <div class="col content_center">
-                                    <span>Source:GEF&ensp;</span><a target="blank" href="https://www.thegef.org/newsroom/press-releases/new-global-biodiversity-fund-launched-vancouver">https://www.thegef.org/newsroom/press-releases/new-global-biodiversity-fund-launched-vancouver</a>
-                                </div><br><br>
+                                
+                                <!--Source Link Section Start-->
+                                <div class="pdf_document">
+                                    <div class="col content_center">
+                                       <a target="blank" href="https://www.thegef.org/newsroom/press-releases/new-global-biodiversity-fund-launched-vancouver">Source:GEF https://www.thegef.org/</a>
+                                    </div>
+                                </div><br>
+                                <!--Source Link Section End-->
                                 
 
                                 <h5>4.The Paris agreement</h5>
@@ -114,9 +126,14 @@
                                 <p>
                                     Recognizing that accelerated action is required to limit global warming to 1.5°C, the COP27 cover decision requests Parties to revisit and strengthen the 2030 targets in their NDCs to align with the Paris Agreement temperature goal by the end of 2023, taking into account different national circumstances.
                                 </p>
-                                <div class="col content_center">
-                                    <span>Source:&ensp;</span><a target="blank" href="https://unfccc.int/process-and-meetings/the-paris-agreement?gclid=Cj0KCQjwj5mpBhDJARIsAOVjBdoxHSt--VaTKdc3nVCMqkgXlhH381X7jJZKpQm0aIUlHSKpuXI3C2oaAtbyEALw_wcB">https://unfccc.int/process-and-meetings/the-paris-agreement?gclid=Cj0KCQjwj5mpBhDJARIsAOVjBdoxHSt--VaTKdc3nVCMqkgXlhH381X7jJZKpQm0aIUlHSKpuXI3C2oaAtbyEALw_wcB</a>
-                                </div><br><br>
+                                
+                                <!--Source Link Section Start-->
+                                <div class="pdf_document">
+                                    <div class="col content_center">
+                                       <a target="blank" href="https://unfccc.int/process-and-meetings/the-paris-agreement?gclid=Cj0KCQjwj5mpBhDJARIsAOVjBdoxHSt--VaTKdc3nVCMqkgXlhH381X7jJZKpQm0aIUlHSKpuXI3C2oaAtbyEALw_wcB">Source: https://unfccc.int/process-and-meetings/</a>
+                                    </div>
+                                </div><br>
+                                <!--Source Link Section End-->
 
                                 <h5>5.United Nations Forum on Forests (UNFF)</h5>
                                 <p>
@@ -134,9 +151,14 @@
                                 <p>Global Objective 4:
                                     Mobilize Financial Resources: Reverse the decline in official development assistance for sustainable forest management and mobilize significantly-increased new and additional financial resources from all sources for the implementation of sustainable forest management.
                                 </p>
-                                <div class="col content_center">
-                                    <span>Source:UNFF&ensp;</span><a target="blank" href="https://www.un.org/esa/forests/index.html">https://www.un.org/esa/forests/index.html</a>
-                                </div><br><br>
+                                
+                                <!--Source Link Section Start-->
+                                <div class="pdf_document">
+                                    <div class="col content_center">
+                                       <a target="blank" href="https://www.un.org/esa/forests/index.html">Source:UNFF https://www.un.org/esa/forests/index.html</a>
+                                    </div>
+                                </div><br>
+                                <!--Source Link Section End-->
 
                                 
                                 <h5>6.India Brazil South Africa Forum (IBSA)</h5>
@@ -148,9 +170,14 @@
                                 <p>
                                     Cooperation in IBSA is on three fronts: first, as a forum for consultation and coordination on global and regional political issues, such as, the reform of the global institutions of political and economic governance, WTO/Doha Development Agenda, climate change, terrorism etc.; second, trilateral collaboration on concrete areas/projects, through fourteen working groups and six People-to-People Forums, for the common benefit of three countries; and third, assisting other developing countries by taking up projects in the latter through IBSA Fund. IBSA’s success demonstrates, most vividly, the desirability and feasibility of South-South cooperation beyond the conventional areas of exchange of experts and training.
                                 </p>
-                                <div class="col content_center">
-                                    <span>Source:IBSA&ensp;</span><a target="blank" href="https://www.ibsa-trilateral.org/">https://www.ibsa-trilateral.org/</a>
-                                </div><br><br>
+                                
+                                <!--Source Link Section Start-->
+                                <div class="pdf_document">
+                                    <div class="col content_center">
+                                       <a target="blank" href="https://www.ibsa-trilateral.org/">Source:IBSA  https://www.ibsa-trilateral.org/</a>
+                                    </div>
+                                </div><br>
+                                <!--Source Link Section End-->
                             </div>
                               
                                     

@@ -7,10 +7,7 @@
                     <h4>Financing Option</h4>
                 </div>
                 <div class="col_4">
-                    <div class="country_initiative_banner_flag">
-                        <img src="<?php echo $base_url; ?>/assets/images/flags/india.png" alt="">
-                        <h4>India</h4>
-                    </div>
+                    
                 </div>
                 <div class="col_4">
                     <ul class="new_breadcrumb">
@@ -40,7 +37,7 @@
 
                 <div class="sidebar_sticky_right">
                     <!-- Policy and Program start here -->
-                    <div class="country_initiative_topic_wrapper" id="public_programs">
+                    <div class="country_initiative_topic_wrapper" id="public_programs_green_credit_programme">
                         <div class="flex_row">
                             <div class="col_10">
                                 <h2>Public Programs & Schemes</h2>
@@ -118,7 +115,7 @@
                                     <div class="pdf_document">
                                         <a href="assets/pdf/APznzaYAM_sG3xbkIGmyAoAWxZ4pC4Yh1HtO1YDuCymqeetAA_bOo7BjOR257un51YNlAdT5XeX9EQHkNiRX23s56HsRoVGTsZIje1JkE3XSFhjwI8PF3QkGtMBVbNqj8EiMELyF-0ZJ1fX4elq6KWdKVw7mcjh4FQ0pX30YjUiepjQESmUqra2iL8BCuc9MitnqhBxcX5rrbc86.pdf" target="_blank">
                                             <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                            <span>G20 New Delhi Leaders Declaration</span>
+                                            <span>Framework for Sovereign Green Bonds</span>
                                         </a>
                                     </div>
                                     <!--Pdf Section End-->

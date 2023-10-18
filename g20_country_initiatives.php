@@ -182,7 +182,7 @@
                             </div>
                         </div>
 
-                        <h5>Forest fire affected landscapes</h5>
+                        <h5>Mining affected landscapes </h5>
                         <div class="flex_row ">
                             <div class="col_6">
                                 <div class="events_card">
@@ -759,10 +759,12 @@
                                             <img src="assets/images/events/bharat_mandapam.webp" alt="">
                                             <div class="events_selected_content_overlay">
                                                 <div class="selected_event_content">
+                                                    <a href="events_newdelhi.php" style="color:#fff;">
                                                     <h2>New Delhi Leaders’ Declaration:(9th September 2023, New Delhi)</h2>
                                                     <p>
                                                     The Prime Minister, Shri Narendra Modi lauded the adoption of the New Delhi Leaders’ Declaration and expressed his gratitude to all fellow G20 members for their support and cooperation.Sharing the digital copy of the New Delhi Leaders’ Declaration, the Prime Minister posted on X: “History has been created with the adoption of the New Delhi Leaders’ Declaration. United in consensus and spirit, we pledge to work collaboratively for a better, more prosperous, and harmonious future. My gratitude to all fellow G20 members for their support and cooperation.”</div>
-                                                <!--<div class="selected_event_date">
+                                                </a>
+                                                    <!--<div class="selected_event_date">
                                                     <span>Sep 9</span>
                                                     <h6>2023</h6>
                                                 </div>-->
@@ -776,8 +778,10 @@
                                                     <img src="assets/images/events/ECSWG1.webp" alt="">
                                                 </div>
                                                 <div class="events_card_content">
+                                                    <a href="events_bengaluru.php" style="color:#000;">
                                                     <h5>1st ECSWG meet: Bengaluru</h5>
                                                     <p>9 to 11 February 2023</p>
+                                                    </a>
                                                 </div>
                                             </div>
                                             
@@ -786,8 +790,10 @@
                                                     <img src="assets/images/events/2nd_ECWSG.webp" alt="">
                                                 </div>
                                                 <div class="events_card_content">
+                                                <a href="events_gandhinagar.php" style="color:#000;">
                                                     <h5>2nd ECSWG meet: Gandhinagar</h5>
                                                     <p>27 to 29 March 2023</p>
+                                                </a>
                                                 </div>
                                             </div>
                                             <div class="events_card">
@@ -795,8 +801,10 @@
                                                     <img src="assets/images/events/3rd_EWCSG.webp" alt="">
                                                 </div>
                                                 <div class="events_card_content">
-                                                    <h5>3rd ECSWG meet: Mumbai</h5>
-                                                    <p>21 to 23 May 2023</p>
+                                                <a href="events_mumbai.php" style="color:#000;">
+                                                <h5>3rd ECSWG meet: Mumbai</h5>
+                                                <p>May 21 to 23, 2023</p>
+                                                </a>
                                                 </div>
                                             </div>
                                             <div class="events_card">
@@ -804,8 +812,10 @@
                                                     <img src="assets/images/events/ECSWG_Chennai.webp" alt="">
                                                 </div>
                                                 <div class="events_card_content">
+                                                <a href="events_chennai.php" style="color:#000;">
                                                     <h5>4th ECSWG meet: Chennai</h5>
                                                     <p>July 26 to 28, 2023</p>
+                                                    </a>
                                                 </div>
                                             </div>
                                         </div>

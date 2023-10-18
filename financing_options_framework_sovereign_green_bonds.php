@@ -7,10 +7,7 @@
                     <h4>Financing Option</h4>
                 </div>
                 <div class="col_4">
-                    <div class="country_initiative_banner_flag">
-                        <img src="<?php echo $base_url; ?>/assets/images/flags/india.png" alt="">
-                        <h4>India</h4>
-                    </div>
+                   
                 </div>
                 <div class="col_4">
                     <ul class="new_breadcrumb">
@@ -40,7 +37,7 @@
 
                 <div class="sidebar_sticky_right">
                     <!-- Policy and Program start here -->
-                    <div class="country_initiative_topic_wrapper" id="public_programs">
+                    <div class="country_initiative_topic_wrapper" id="public_programs_sovereign_green_bonds">
                         <div class="flex_row">
                             <div class="col_10">
                                 <h2>Public Programs & Schemes</h2>

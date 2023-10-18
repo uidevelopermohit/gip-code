@@ -1,9 +1,15 @@
-.tab-content
+.contact_section
 {
-    a h5,p
+    a h5
     {
         color:#000;
     }
+    .content_Section
+    {
+        align-self: center;
+        background-color: #fff;
+    }
+    
     .gradient_container::before, .gradient_container::after
 {
     content: "";
@@ -21,7 +27,7 @@
 {
     left: auto;
     top: auto;
-    bottom: 2.6041666667vw;
+    bottom: -2.6041666667vw;
     right: 5.9895833333vw;
     background-color: #008a4b;
     z-index: -1;

@@ -26,63 +26,73 @@
                                 </ul>
                             </div>
                         </div>                 
-    <section class="events_section secnd_row_top" >
-        <div class="container_fluid gradient_container tab-content" id="events">
+    <section class="tab-content" id="events">
+        <div class="container_fluid gradient_container" >
             <div class="flex_row ">
-                <div class="col">
+                <div class="col secnd_row_top">
                     <div class="events_card">
                         <div class="events_card_image">
                             <img src="assets/images/events/bharat_mandapam.webp" alt="">
                         </div>
                         <div class="events_card_content">
+                            <a href="events_newdelhi.php">
                             <h5>New Delhi Leaders’ Declaration:(9th September 2023, New Delhi)</h5>
                             <p>9th September 2023</p>
+                            </a>
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col secnd_row_top">
                      <div class="events_card">
                         <div class="events_card_image">
                             <img src="assets/images/events/ECSWG1.webp" alt="">
                         </div>
                         <div class="events_card_content">
+                            <a href="events_bengaluru.php">
                             <h5>1st ECSWG meet: Bengaluru</h5>
                             <p>February 9 to 11, 2023</p>
+                            </a>
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col secnd_row_top">
                     <div class="events_card">
                         <div class="events_card_image">
                             <img src="assets/images/events/2nd_ECWSG.webp" alt="">
                         </div>
                         <div class="events_card_content">
+                            <a href="events_gandhinagar.php">
                             <h5>2nd ECSWG meet: Gandhinagar</h5>
                             <p>March 27 to 29,  2023</p>
+                            </a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="flex_row common_spacing">
-                <div class="col_4">
+            <div class="flex_row">
+                <div class="col secnd_row_top">
                     <div class="events_card">
                         <div class="events_card_image">
                             <img src="assets/images/events/3rd_EWCSG.webp" alt="">
                         </div>
                         <div class="events_card_content">
+                            <a href="events_mumbai.php">
                             <h5>3rd ECSWG meet: Mumbai</h5>
                             <p>May 21 to 23, 2023</p>
+                            </a>
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col secnd_row_top">
                     <div class="events_card">
                         <div class="events_card_image">
                             <img src="assets/images/events/ECSWG_Chennai.webp" alt="">
                         </div>
                         <div class="events_card_content">
+                            <a href="events_chennai.php">
                             <h5>4th ECSWG meet: Chennai</h5>
                             <p>July 26 to 28, 2023</p>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -94,139 +104,16 @@
     </section>
 
     <!--News Section-->
-    <section class="events_section tab-content secnd_row_top" id="news">
+    <section class="tab-content" id="news">
         <div class="container_fluid gradient_container">
-            <div class="flex_row ">
-                <div class="col">
-                    <div class="events_card">
-                        <div class="events_card_image">
-                            <img src="assets/images/events/bharat_mandapam.webp" alt="">
-                        </div>
-                        <div class="events_card_content">
-                            <h5>New Delhi Leaders’ Declaration:(9th September 2023, New Delhi)</h5>
-                            <p>9th September 2023</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                     <div class="events_card">
-                        <div class="events_card_image">
-                            <img src="assets/images/events/ECSWG1.webp" alt="">
-                        </div>
-                        <div class="events_card_content">
-                            <h5>1st ECSWG meet: Bengaluru</h5>
-                            <p>February 9 to 11, 2023</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="events_card">
-                        <div class="events_card_image">
-                            <img src="assets/images/events/2nd_ECWSG.webp" alt="">
-                        </div>
-                        <div class="events_card_content">
-                            <h5>2nd ECSWG meet: Gandhinagar</h5>
-                            <p>March 27 to 29,  2023</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="flex_row common_spacing">
-                <div class="col_4">
-                    <div class="events_card">
-                        <div class="events_card_image">
-                            <img src="assets/images/events/3rd_EWCSG.webp" alt="">
-                        </div>
-                        <div class="events_card_content">
-                            <h5>3rd ECSWG meet: Mumbai</h5>
-                            <p>May 21 to 23, 2023</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="events_card">
-                        <div class="events_card_image">
-                            <img src="assets/images/events/ECSWG_Chennai.webp" alt="">
-                        </div>
-                        <div class="events_card_content">
-                            <h5>4th ECSWG meet: Chennai</h5>
-                            <p>July 26 to 28, 2023</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    
-                </div>
-            </div>
+        <h2><strong>Update Coming Soon</strong></h2>
         </div>
     </section>
 
     <!--Training Program-->
-    <!--News Section-->
-    <section class="events_section tab-content secnd_row_top" id="training_program">
+    <section class="tab-content" id="training_program">
         <div class="container_fluid gradient_container">
-            <div class="flex_row ">
-                <div class="col">
-                    <div class="events_card">
-                        <div class="events_card_image">
-                            <img src="assets/images/events/bharat_mandapam.webp" alt="">
-                        </div>
-                        <div class="events_card_content">
-                            <h5>New Delhi Leaders’ Declaration:(9th September 2023, New Delhi)</h5>
-                            <p>9th September 2023</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                     <div class="events_card">
-                        <div class="events_card_image">
-                            <img src="assets/images/events/ECSWG1.webp" alt="">
-                        </div>
-                        <div class="events_card_content">
-                            <h5>1st ECSWG meet: Bengaluru</h5>
-                            <p>February 9 to 11, 2023</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="events_card">
-                        <div class="events_card_image">
-                            <img src="assets/images/events/2nd_ECWSG.webp" alt="">
-                        </div>
-                        <div class="events_card_content">
-                            <h5>2nd ECSWG meet: Gandhinagar</h5>
-                            <p>March 27 to 29,  2023</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="flex_row common_spacing">
-                <div class="col_4">
-                    <div class="events_card">
-                        <div class="events_card_image">
-                            <img src="assets/images/events/3rd_EWCSG.webp" alt="">
-                        </div>
-                        <div class="events_card_content">
-                            <h5>3rd ECSWG meet: Mumbai</h5>
-                            <p>May 21 to 23, 2023</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="events_card">
-                        <div class="events_card_image">
-                            <img src="assets/images/events/ECSWG_Chennai.webp" alt="">
-                        </div>
-                        <div class="events_card_content">
-                            <h5>4th ECSWG meet: Chennai</h5>
-                            <p>July 26 to 28, 2023</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    
-                </div>
-            </div>
+            <h2><strong>Update Coming Soon</strong></h2>
         </div>
     </section>
 

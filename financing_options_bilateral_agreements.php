@@ -7,10 +7,7 @@
                     <h4>Financing Option</h4>
                 </div>
                 <div class="col_4">
-                    <div class="country_initiative_banner_flag">
-                        <img src="<?php echo $base_url; ?>/assets/images/flags/india.png" alt="">
-                        <h4>India</h4>
-                    </div>
+                    
                 </div>
                 <div class="col_4">
                     <ul class="new_breadcrumb">
@@ -57,18 +54,28 @@
                             <p>
                                 Japan International Cooperation Agency (JICA) is a governmental organization in Japan that provides aid and assistance to developing countries to support their economic and social development initiatives. JICA offers a wide range of programs and projects, including infrastructure development, technical assistance, capacity building, and humanitarian aid. The organization plays a crucial role in Japan's international relations and commitment to global development. In their vision statement JICA states that, with its partners, will take the lead in forging bonds of trust across the world, aspiring for a free, peaceful and prosperous world where people can hope for a better future and explore their diverse potentials.
                             </p>
-                            <div class="col content_center">
-                                <span>Source:&ensp;</span><a target="blank" href="https://www.jica.go.jp/english/">https://www.jica.go.jp/english/</a>
-                            </div><br><br>
+                            <!--Source Link Section Start-->
+                            <div class="pdf_document">
+                                <div class="col content_center">
+                                   <a target="blank" href="https://www.jica.go.jp/english/">Source:https://www.jica.go.jp/english/</a>
+                                </div>
+                            </div>
+                            <!--Source Link Section End-->
+
+                           
 
                             <h5>2.Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)</h5>                               
                             <p>As a service provider in the field of international cooperation for sustainable development and international education work, GIZ is dedicated to shaping a future worth living around the world. GIZ has over 50 years of experience in a wide variety of areas, including economic development and employment promotion, energy and the environment, and peace and security. The diverse expertise of GIZ’s federal enterprise is in demand around the globe – from the German Government, European Union institutions, the United Nations, the private sector, and governments of other countries. GIZ work with businesses, civil society actors and research institutions, fostering successful interaction between development policy and other policy fields and areas of activity. </p>
                             <p>GIZ works with the commissioning parties and cooperation partners to generate ideas for political, social and economic change, to develop these into concrete plans and to implement them. GIZ is a public-benefit federal enterprise, German and European values are central to our work. Together with the partners in national governments worldwide and cooperation partners from the worlds of business, research and civil society, GIZ work flexibly to deliver effective solutions that offer people better prospects and sustainably improve their living conditions.</p>
-                            <div class="col content_center">
-                                <span>Source:&ensp;</span><a target="blank" href="https://www.giz.de/en/html/index.html">https://www.giz.de/en/html/index.html</a>
-                            </div><br><br>
+                           
                               
-                                    
+                            <!--Source Link Section Start-->
+                            <div class="pdf_document">
+                                <div class="col content_center">
+                                   <a target="blank" href="https://www.giz.de/en/html/index.html">Source:https://www.giz.de/en/html/index.html</a>
+                                </div>
+                            </div>
+                            <!--Source Link Section End-->      
                             
                         </div>
                     </div>

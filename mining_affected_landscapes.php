@@ -242,7 +242,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/research_studies.jpeg" alt="">
+                                        <img src="assets/images/events/events.png" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Research Studies</h5>

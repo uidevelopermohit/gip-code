@@ -1,9 +1,22 @@
-.tab-content
+.events_description_section
 {
     a h5,p
     {
         color:#000;
     }
+    .secnd_row_top
+    {
+        background-color: #fff;
+    }
+    .content_Section
+    {
+        align-self: center;
+    }
+    .image_box
+    {
+        padding: 0px;
+    }
+    
     .gradient_container::before, .gradient_container::after
 {
     content: "";

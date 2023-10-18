@@ -102,29 +102,29 @@ $currentDateTime = date('F j, Y | H:i \h\r\s');
                     </li>
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">Forest Fire Impacted Landscapes</a>
                                 <ul>
-                                    <li><a href="forest_fires_impacted_landscapes.php#policy_prgrms_section">Policy and Programs</a></li>
-                                    <li><a href="forest_fires_impacted_landscapes.php#knowledge_resources">Knowledge Resources</a></li>
-                                    <li><a href="forest_fires_impacted_landscapes.php">Design Frameworks</a></li>
-                                    <li><a href="forest_fires_impacted_landscapes.php#technology_tools_Section">Technology & Tools</a></li>
+                                    <li><a href="forest_fires_impacted_landscapes.php#CI_policy_progam">Policy and Programs</a></li>
+                                    <li><a href="forest_fires_impacted_landscapes.php#CI_knowledge_Resources">Knowledge Resources</a></li>
+                                    <li><a href="forest_fires_impacted_landscapes.php#CI_design_framework">Design Frameworks</a></li>
+                                    <li><a href="forest_fires_impacted_landscapes.php#CI_technology_tools">Technology & Tools</a></li>
                                 </ul>
                     </li>
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">Mining Affected Landscapes</a>
                                 <ul>
-                                    <li><a href="mining_affected_landscapes.php#policy_prgrms_section">Policy and Programs</a></li>
-                                    <li><a href="mining_affected_landscapes.php#knowledge_resources">Knowledge Resources</a></li>
-                                    <li><a href="mining_affected_landscapes.php#design_framework_Section">Design Frameworks</a></li>
-                                    <li><a href="mining_affected_landscapes.php#technology_tools_Section">Technology & Tools</a></li>
+                                    <li><a href="mining_affected_landscapes.php#CI_policy_progam">Policy and Programs</a></li>
+                                    <li><a href="mining_affected_landscapes.php#CI_knowledge_Resources">Knowledge Resources</a></li>
+                                    <li><a href="mining_affected_landscapes.php#CI_design_framework">Design Frameworks</a></li>
+                                    <li><a href="mining_affected_landscapes.php#CI_technology_tools">Technology & Tools</a></li>
                                 </ul>
                     </li>
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">Financing Options</a>
                                 <ul>
-                                    <li><a href="financing_option.php#policy_prgrms_section">Public Programs and Schemes</a></li>
+                                    <li><a href="financing_option.php#public_programs">Public Programs and Schemes</a></li>
                                     <li><a href="financing_option.php#financial_institutions">Financial Institutions</a></li>
                                     <li><a href="financing_option.php#financial_markets">Financial Markets</a></li>
-                                    <li><a href="financing_option.php#probable_international_Section">Probable International Finance Options</a></li>
-                                    <li><a href="financing_option.php">Private Sector Funding</a></li>
-                                    <li><a href="financing_option.php">Bi/ Multilateral Environmental Agreements</a></li>
-                                    <li><a href="financing_option.php">High Impact Proposals</a></li>
+                                    <li><a href="financing_option.php#probable_international">Probable International Finance Options</a></li>
+                                    <li><a href="financing_option.php#private_sector_funding">Private Sector Funding</a></li>
+                                    <li><a href="financing_option.php#bi_multilateral_agreements">Bi/ Multilateral Environmental Agreements</a></li>
+                                    <li><a href="financing_option.php#high_impact_proposals">High Impact Proposals</a></li>
                                 </ul>
                     </li>
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">Events & News</a>
