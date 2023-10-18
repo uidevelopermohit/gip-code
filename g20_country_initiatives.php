@@ -368,7 +368,6 @@
                         </div>
                     </div>      <!--Design Framework Section Start-->
 
-
                     <!--Knowledge Resources section Start-->
                     <div class="country_initiative_topic_wrapper" id="CI_knowledge_Resources">
                         <h2>Knowledge Resources</h2>
@@ -682,37 +681,74 @@
                     <div class="country_initiative_topic_wrapper" id="CI_social_media">
                         <h2>Social Media Links</h2> 
                         <div class="flex_row">
-                            <div class="col_12 btn_Section">
-                                <button class="btn_social_media"><a href="#"  class="btn_social_media_text">MOEFCC</a></button>
-                                <button class="btn_social_media_more"><a href="#"  class="btn_social_media_text_mre">IIFM</a></button>
-                                <button class="btn_social_media_more"><a href="#"  class="btn_social_media_text_mre">ICFRE</a></button>
+                            <div class="col_12">
+                                <ul class="tabbs">
+                                    <li class="active"><a href="#tab1"> MOEFCC</a></li>
+                                    <li><a href="#tab2">IIFM</a></li>
+                                    <li><a href="#tab3">ICFRE</a></li>
+                                </ul>
                             </div>
                         </div>
-                        <div class="flex_row secnd_row_top">
-                            <div class="col_4">
-                                <h5>Twitter</h5>
+                        <div id="tabs-content">
+                            <div id="tab1" class="tab-content">
+                                <div class="flex_row secnd_row_top">
+                                    <div class="col_4">
+                                        <a href="" target="_blank"><img src="assets/images/facebook.jpg" alt=""></a>
+                                    </div>
+                                    
+                                    <div class="col_4">
+                                        <a href="" target="_blank"><img src="assets/images/twitter.jpg" alt=""></a>
+                                    </div>
+                                    
+                                    <div class="col_4">
+                                        <a href="" target="_blank"><img src="assets/images/instagram.jpg" alt=""></a>
+                                    </div>
+                                </div>
                             </div>
-                            
-                            <div class="col_4">
-                                <h5>Facebook</h5>
+                            <div id="tab2" class="tab-content">
+                                <div class="flex_row secnd_row_top">
+                                    <div class="col_4">
+                                        <a href="" target="_blank"><img src="assets/images/facebook.jpg" alt=""></a>
+                                    </div>
+                                    
+                                    <div class="col_4">
+                                        <a href="" target="_blank"><img src="assets/images/twitter.jpg" alt=""></a>
+                                    </div>
+
+                                    <div class="col_4">
+                                        <a href="" target="_blank"><img src="assets/images/instagram.jpg" alt=""></a>
+                                    </div>
+                                </div>
                             </div>
-                            
-                            <div class="col_4">
-                                <h5>Instagram</h5>
+                            <div id="tab3" class="tab-content">
+                                <div class="flex_row secnd_row_top">
+                                    <div class="col_4">
+                                        <a href="" target="_blank"><img src="assets/images/facebook.jpg" alt=""></a>
+                                    </div>
+
+                                    <div class="col_4">
+                                        <a href="" target="_blank"><img src="assets/images/twitter.jpg" alt=""></a>
+                                    </div>
+
+                                    <div class="col_4">
+                                        <a href="" target="_blank"><img src="assets/images/instagram.jpg" alt=""></a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>      
                     <!--Social Media Section End-->
-                     <!--Financing for Land Conservation and Restoration Section Start-->
-                     <div class="country_initiative_topic_wrapper common_spacing" id="CI_financing_for_land_conservation_restoration">
-                                        <h2>Financing for Land Conservation and Restoration</h2> 
-                                        <div class="flex_row">
-                                            <div class="col_12 btn_Section">
-                                                <h5>Update Coming Soon</h5>
-                                            </div>
-                                        </div>
-                                    </div>      
-                                <!--Financing for Land Conservation and Restoration Section End-->
+
+                    <!--Financing for Land Conservation and Restoration Section Start-->
+                    <div class="country_initiative_topic_wrapper" id="CI_financing_for_land_conservation_restoration">
+                        <h2>Financing for Land Conservation and Restoration</h2> 
+                        <div class="flex_row">
+                            <div class="col_12 btn_Section">
+                                <h5>Update Coming Soon</h5>
+                            </div>
+                        </div>
+                    </div>      <!--Financing for Land Conservation and Restoration Section End-->
+
                     <!--Events & News Section Start-->
                     <div class="country_initiative_topic_wrapper" id="CI_news_events">
                         <h2>National Events & News</h2>
@@ -733,7 +769,7 @@
                                             </div>
                                         </div>
 
-                                        <div class="owl-carousel events_slider">
+                                        <div class="owl-carousel events_slider_inner">
                                             
                                             <div class="events_card">
                                                 <div class="events_card_image">

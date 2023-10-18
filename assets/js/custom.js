@@ -42,6 +42,27 @@ $(document).ready(function () {
         }
     });
 
+    $('.events_slider_inner').owlCarousel({
+        items: 4,
+        margin: 20,
+        loop: true,
+        nav: true,
+        dots: false,
+        autoHeight: true,
+        navText: ["<i class='icon-left-arrow'></i>", "<i class='icon-right-arrow'></i>"],
+        responsive: {
+            0: {
+                items: 1
+            },
+            600: {
+                items: 2
+            },
+            1000: {
+                items: 3
+            }
+        }
+    });
+
     $('.menu_toggle').on('click', function () {
         // $('.navbar_nav').slideToggle();
         $('.navbar_nav').toggleClass('open_navigation');
@@ -67,6 +88,23 @@ $('.vertical_tabs').find('a').click(function () {
     $('.vertical_tabs a').removeClass('active');
     $(this).addClass('active')
     window.scrollTo($anchor.left, $anchor.top - 180);
+    return false;
+});
+
+
+// Show the first tab and hide the rest
+$('.tabs button:first-child').addClass('active');
+$('.tab-content').hide();
+$('.tab-content:first').show();
+
+// Click function
+$('.tabbs li').click(function () {
+    $('.tabbs li').removeClass('active');
+    $(this).addClass('active');
+    $('.tab-content').hide();
+
+    var activeTab = $(this).find('a').attr('href');
+    $(activeTab).fadeIn();
     return false;
 });
 
