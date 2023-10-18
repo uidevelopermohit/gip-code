@@ -129,9 +129,9 @@ $currentDateTime = date('F j, Y | H:i \h\r\s');
                     </li>
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">Events & News</a>
                                 <ul>
-                                    <li><a href="">Events</a></li>
-                                    <li><a href="">News</a></li>
-                                    <li><a href="">Training Programs</a></li>
+                                    <li><a href="news_and_events.php">Events</a></li>
+                                    <li><a href="news_and_events.php">News</a></li>
+                                    <li><a href="news_and_events.php">Training Programs</a></li>
                                 </ul>
                     </li>
                     <!-- <li class="nav_item"><a href="">Contact</a></li> -->

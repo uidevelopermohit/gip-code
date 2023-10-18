@@ -90,7 +90,7 @@
                         <p>2022</p>
                     </div>
                     <p>
-                        Indonesia chose “Recover Together, Recover Stronger” as the overall theme for its Presidency, as a 
+                    Indonesia chose “Recover Together, Recover Stronger” as the overall theme for its Presidency, as a 
                         way to advance strong and inclusive global recovery from COVID-19 pandemic. The idea was to reflect 
                         the spirit of collective recovery in the world and ensure that G20 projects an inclusive vision to 
                         aid collective recovery and move towards a new chapter of green and inclusive development. The 
@@ -141,81 +141,16 @@
         <div class="country_timeline_wrapper">
             <div class="country_timeline_left">
                 <div class="country_timeline_image">
-                    <img src="assets/images/pastpresidencies/BALI_Indonesia_Summit_2022.webp" class="minister_images_g20">
+                    <img src="assets/images/pastpresidencies/G20_italia.webp" class="minister_images_g20">
                 </div>
             </div>
             <div class="country_timeline_right">
                 <div class="country_timeline_content">
                     <div class="country_timeline_heading">
-                        <h6>Indonesia</h6>
-                        <p>2022</p>
+                        <h6>Italy</h6>
+                        <p>2021</p>
                     </div>
                     <p>
-                        Indonesia chose “Recover Together, Recover Stronger” as the overall theme for its Presidency, as a 
-                        way to advance strong and inclusive global recovery from COVID-19 pandemic. The idea was to reflect 
-                        the spirit of collective recovery in the world and ensure that G20 projects an inclusive vision to 
-                        aid collective recovery and move towards a new chapter of green and inclusive development. The 
-                        presidency identified three main pillars: i) Global Health Architecture – Stronger global 
-                        cooperation to ensure equality of global health standards for travel and global community's 
-                        resilience towards any future pandemic; ii) Digital Transformation – Achieving the true potentials 
-                        from the rapid digitalization of the global economy to secure common prosperity in the digital age; 
-                        and iii) Sustainable Energy Transitions – New approaches and dimensions to accelerate the transition 
-                        towards cleaner energy sources for ensuring a cleaner and brighter future for the global community. 
-                        The Indonesia Summit pledged to continue to support the G20 Global Initiative on Reducing Land 
-                        Degradation and Enhancing Conservation of Terrestrial Habitats adopted under Saudi Arabia’s 
-                        Presidency and to enhance land protection, conservation, and restoration, address common land 
-                        tenure challenges in accordance with national legislation in line with the recent decision 27 at 
-                        UNCCD COP15 and promote inclusive sustainable land management by actively contributing to the operational development of the Global Initiative.
-                    </p>
-                    <p><strong>With the theme of “Recover Together, Recover Stronger” in mind, the G20 Leaders declared to:</strong></p>
-                    <ul class="country_timeline_content_list">
-                        <li>Stay agile and flexible in their macro-economic policy responses and cooperation, make public 
-                        investments and structural reforms, promote private investments, and strengthen multilateral 
-                        trade and resilience of global supply chains, to support long-term growth, sustainable and 
-                        inclusive, green and just transitions, and ensure long-term fiscal sustainability, with central 
-                        banks committed to achieving price stability.</li>
-                        <li>Protect macroeconomic and financial stability and remain committed to using all available tools 
-                        to mitigate downside risks, noting the steps taken since the Global Financial Crisis to 
-                        strengthen financial resilience and promote sustainable finance and capital flows.</li>
-                        <li>Take action to promote food and energy security and support stability of markets, providing 
-                        temporary and targeted support to cushion the impact of price increases, strengthening dialogue 
-                        between producers and consumers, and increasing trade and investments for longterm food and 
-                        energy security needs, resilient and sustainable food, fertilizer, and energy systems.</li>
-                        <li>Unlock further investments for low- and middle-income and other developing countries, through a 
-                        greater variety of innovative financing sources and instruments, including to catalyze private 
-                        investment, to support the achievement of the SDGs. Ask the Multilateral Development Banks to 
-                        bring forward actions to mobilize and provide additional financing within their mandates, to 
-                        support achievement of the SDGs including through sustainable development and infrastructure 
-                        investments and responding to global challenges.</li>
-                        <li>Recommit to accelerate achievement of the SDGs, achieving prosperity for all through sustainable 
-                        development.</li>
-                    </ul>
-                </div>          
-            </div>
-        </div>
-    </div>
-    <div class="container_fluid">
-        <!--Third Section Start-->
-        <div class="timeline">
-            <ul>
-                <li>
-                <div class="right_content">
-                        <div class="events_card_content">
-                                    <h5>Indonesia</h5>
-                                    <p class="year">2022</p>
-                                    
-                        </div>
-                </div>
-                <div class="left_content">
-                
-                </div>
-                </li>
-                <li >
-                <div class="right_content">
-                        <div class="events_card_content">
-                            <h5>Italy</h5>
-                            <p class="year">2021</p>
-                            <p>
                                 The 16th G20 Summit was hosted by Italy on 30-31 October 2021 in Rome. The theme chosen by Italy for 
                                 their Presidency of the G20 was 'People, Planet, Prosperity' with a focus on four broad thematic areas: 
                                 (i) Recovery from the pandemic and global health governance; (ii) Economic recovery and resilience; 
@@ -230,14 +165,14 @@
                                 health risks and emergencies. The G20 also signed the 'Matera Declaration on Food Security and 
                                 Nutrition' to address issues of food security, malnutrition, and hunger by focusing on transformation 
                                 of the agriculture sector.
-                            </p>
-                            <p>
+                    </p>
+                    <p>
                                 The G20 Finance Ministers and Central Bank Governors also endorsed the Final Political Agreement on a 
                                 two-pillar solution to address tax challenges, marking the most significant global tax reform in over 
                                 a century which will mandate multinational companies to pay a minimum tax of 15% in the countries of 
                                 their operation.
-                            </p>
-                            <p>
+                    </p>
+                    <p>
                                 In addition, Italy also convened an Extraordinary Leaders' Summit on Afghanistan, which was preceded by 
                                 a meeting of Foreign Ministers on Afghanistan, to discuss the G20's role in responding to the crisis in 
                                 Afghanistan, especially on ensuring humanitarian access, maintaining security and fighting terrorism 
@@ -246,20 +181,20 @@
                                 and respond to UN appeals on humanitarian assistance and called on the Taliban to rescind their links 
                                 with terrorist groups. The G20 Summit stressed that biodiversity conservation, protection, sustainable 
                                 use, and restoration are critical to achieve the SDGs and to halt and reverse biodiversity loss.
-                            </p>
-                        </div>
-                </div>
-                <div class="left_content">
-                        <img src="assets/images/pastpresidencies/G20_italia.webp" class="minister_images_g20">
-                </div>
-                </li>
-                <li>
-                <div class="right_content">
-                        <div class="events_card_content">
-                                    <h5>Saudi Arabia</h5>
-                                    <p class="year">2020</p>
-                                    <p>
-                                        The 15th G20 Summit was held under the theme ‘Realizing Opportunities of the 21st Century for 
+                    </p>
+                </div>          
+            </div>
+        </div>
+        <!--Second Row-->
+        <div class="country_timeline_wrapper">
+            <div class="country_timeline_left">
+                <div class="country_timeline_content">
+                    <div class="country_timeline_heading">
+                        <h6>Saudi Arabia</h6>
+                        <p>2020</p>
+                    </div>
+                    <p>
+                    The 15th G20 Summit was held under the theme ‘Realizing Opportunities of the 21st Century for 
                                         all’. It was the first ever virtual Summit in the history of G20. At the initiative of Prime 
                                         Minister Modi, the Saudi Presidency also convened an ‘Extraordinary Virtual G20 Leaders’ 
                                         Summit on 25 March 2020 to discuss the challenges posed by the outbreak of the COVID-19 
@@ -278,8 +213,8 @@
                                         progress on discussions on the reform of the international tax system. The G20 also agreed to 
                                         establish the Private Sector Alliance for the Empowerment and launched Progression of Women’s 
                                         Economic Representation (EMPOWER) during the Saudi Presidency.
-                                    </p>
-                                    <p>
+                    </p>
+                    <p>
                                         The Ministerial Communiqué of the G20 Environmental Ministers Meet during the Saudi Arabia 
                                         Summit 2020 recognised the urgent need for bold, coordinated, and collective initiatives on 
                                         land protection and restoration and on sustainable land management and use to strengthen 
@@ -291,37 +226,47 @@
                                         best practices on protecting, conserving, sustainably managing, restoring, and rehabilitating 
                                         degraded land, and by showcasing and disseminating publicly available data and information on 
                                         degraded lands and conservation/restoration efforts - Global Restoration Information Hub (GRIH).
-                                    </p>
-                        </div>
+                    </p>
                 </div>
-                <div class="left_content">
-                <img src="assets/images/aboutpage/g20leaders.webp" class="minister_images_g20">
+            </div>
+            <div class="country_timeline_right">
+                <div class="country_timeline_image">
+                    <img src="assets/images/aboutpage/g20leaders.webp" class="minister_images_g20">
+                </div>                
+            </div>
+        </div>
+
+        <div class="country_timeline_wrapper">
+            <div class="country_timeline_left">
+                <div class="country_timeline_image">
+                    <img src="assets/images/pastpresidencies/Osaka_Summit.webp" class="minister_images_g20">
                 </div>
-                </li>
-                <li>
-                <div class="right_content">
-                        <div class="events_card_content">
-                            <h5>Osaka</h5>
-                            <p class="year">2019</p>
-                            <p>
+            </div>
+            <div class="country_timeline_right">
+                <div class="country_timeline_content">
+                    <div class="country_timeline_heading">
+                        <h6>Osaka</h6>
+                        <p>2019</p>
+                    </div>
+                    <p>
                                     The G20 Summit in 2019 (Japan) focused on key issues such as Trade and Investment; Excess Capacity of 
                                     Steel; Digitalization; Data Free Flow with Trust; G20/OECD Framework on Base Erosion and Profit 
                                     Sharing; Quality Infrastructure investment; Anti-Corruption; Climate Change; Energy; Environment; 
                                     Displacement and Migration. The G20 leaders released an important statement on ‘Preventing Exploitation 
                                     of the Internet for Terrorism and Violent Extremism Conducive to Terrorism (VECT)’.
-                            </p>
-                        </div>
-                </div>
-                <div class="left_content">
-                        <img src="assets/images/pastpresidencies/Osaka_Summit.webp" class="minister_images_g20">
-                </div>
-                </li>
-                <li>
-                <div class="right_content">
-                        <div class="events_card_content">
-                                    <h5>Buenos Aires</h5>
-                                    <p class="year">2018</p>
-                                    <p>
+                    </p>
+                </div>          
+            </div>
+        </div>
+        <!--Third Row-->
+        <div class="country_timeline_wrapper">
+            <div class="country_timeline_left">
+                <div class="country_timeline_content">
+                    <div class="country_timeline_heading">
+                        <h6>Buenos Aires</h6>
+                        <p>2018</p>
+                    </div>
+                    <p>
                                         The overarching theme of the G20 under Argentina’s Presidency was ‘Building Consensus For Fair 
                                         And Sustainable Development’. The priority areas for Argentina’s Presidency were - Future of 
                                         work; Fourth Industrial Revolution, Health, Youth, Infrastructure for development; and 
@@ -329,19 +274,29 @@
                                         across a broad array of issues including empowering women, fighting corruption, strengthening 
                                         our financial governance, strong and sustainable financial system, fairness of the global tax 
                                         system, trade and investment, climate action, flexible and cleaner energy systems.
-                                    </p>
-                        </div>
+                    </p>
                 </div>
-                <div class="left_content">
-                <img src="assets/images/pastpresidencies/Buenos_Aires_Summit_2018.webp" class="minister_images_g20">
+            </div>
+            <div class="country_timeline_right">
+                <div class="country_timeline_image">
+                    <img src="assets/images/pastpresidencies/Buenos_Aires_Summit_2018.webp" class="minister_images_g20">
+                </div>                
+            </div>
+        </div>
+
+        <div class="country_timeline_wrapper">
+            <div class="country_timeline_left">
+                <div class="country_timeline_image">
+                    <img src="assets/images/pastpresidencies/Hamburg_2.webp" class="minister_images_g20">
                 </div>
-                </li>
-                <li>
-                <div class="right_content">
-                        <div class="events_card_content">
-                            <h5>Hamburg</h5>
-                            <p class="year">2017</p>
-                            <p>
+            </div>
+            <div class="country_timeline_right">
+                <div class="country_timeline_content">
+                    <div class="country_timeline_heading">
+                        <h6>Hamburg</h6>
+                        <p>2017</p>
+                    </div>
+                    <p>
                                 The G20 under the German Presidency met under the theme “Shaping an interconnected world” and accorded 
                                 a special emphasis to addressing the global menace of terrorism. A G20 Leaders’ Retreat on ‘Fighting 
                                 Terrorism’ was held, ahead of the formal commencement of Summit proceedings. The Hamburg Declaration 
@@ -351,19 +306,19 @@
                                 G20 Leaders committed to further aligning their policies with the 2030 Agenda for Sustainable 
                                 Development and the Addis Ababa Action Agenda on Financing for Development. The G20 Africa Partnership 
                                 also known as ‘G20 Compact with Africa’ was launched at the Summit.
-                            </p>
-                        </div>
-                </div>
-                <div class="left_content">
-                        <img src="assets/images/pastpresidencies/Hamburg_2.webp" class="minister_images_g20">
-                </div>
-                </li>
-                <li>
-                <div class="right_content">
-                        <div class="events_card_content">
-                                    <h5>Antalya and Hangzhou</h5>
-                                    <p class="year">2015 & 2016</p>
-                                    <p>
+                    </p>
+                </div>          
+            </div>
+        </div>
+        <!--Fourth Row-->
+        <div class="country_timeline_wrapper">
+            <div class="country_timeline_left">
+                <div class="country_timeline_content">
+                    <div class="country_timeline_heading">
+                        <h6>Antalya and Hangzhou</h6>
+                        <p>2015 & 2016</p>
+                    </div>
+                    <p>
                                         At the G20 Summit in Antalya (Turkey), in 2015, the G20 looked for the first time at migration 
                                         and refugee movement. They also agreed on further financial sector reforms and resolved to 
                                         support the global climate agreement. The Leaders also issued a G20 Statement on the Fight 
@@ -373,19 +328,29 @@
                                         became part of the G20 agenda for the first time during China’s Presidency in 2016. G20 Leaders 
                                         also adopted the ‘G20 Action Plan on 2030 Agenda for Sustainable Development’, which has since 
                                         then become the guiding document for G20’s work on the ‘sustainable development’.
-                                    </p>
-                        </div>
+                    </p>
                 </div>
-                <div class="left_content">
-                <img src="assets/images/pastpresidencies/Antalya_2.webp" class="minister_images_g20">
+            </div>
+            <div class="country_timeline_right">
+                <div class="country_timeline_image">
+                    <img src="assets/images/pastpresidencies/Antalya_2.webp" class="minister_images_g20">
+                </div>                
+            </div>
+        </div>
+
+        <div class="country_timeline_wrapper">
+            <div class="country_timeline_left">
+                <div class="country_timeline_image">
+                    <img src="assets/images/pastpresidencies/Los_CAbos_2012.webp" class="minister_images_g20">
                 </div>
-                </li>
-                <li>
-                <div class="right_content">
-                        <div class="events_card_content">
-                            <h5>Los Cabos, St. Petersburg, Brisbane</h5>
-                            <p class="year">2012, 2013 &2014</p>
-                            <p>
+            </div>
+            <div class="country_timeline_right">
+                <div class="country_timeline_content">
+                    <div class="country_timeline_heading">
+                        <h6>Los Cabos, St. Petersburg, Brisbane</h6>
+                        <p>2012, 2013 & 2014</p>
+                    </div>
+                    <p>
                                 The focus of the Summit in Los Cabos (Mexico) in 2012 was on fighting youth unemployment and creating 
                                 quality jobs with social security coverage and fair income. The Summit also highlighted the link between 
                                 the development agenda, agriculture, and green growth. In St. Petersburg (Russia) in 2013, major progress
@@ -399,19 +364,19 @@
                                 Governors endorsed the Common Reporting Standard for Automatic Exchange of Tax Information. The 
                                 Leaders endorsed the ‘Brisbane 25 by 25’ goal which aimed at reducing the gender gap in the labor 
                                 workforce by 25 percent by 2025.
-                            </p>
-                        </div>
-                </div>
-                <div class="left_content">
-                        <img src="assets/images/pastpresidencies/Los_CAbos_2012.webp" class="minister_images_g20">
-                </div>
-                </li>
-                <li>
-                <div class="right_content">
-                        <div class="events_card_content">
-                                    <h5>Toronto, Seoul, Cannes</h5>
-                                    <p class="year">2010 & 2011</p>
-                                    <p>
+                    </p>
+                </div>          
+            </div>
+        </div>
+        <!--Fifth Section-->
+        <div class="country_timeline_wrapper">
+            <div class="country_timeline_left">
+                <div class="country_timeline_content">
+                    <div class="country_timeline_heading">
+                        <h6>Toronto, Seoul, Cannes</h6>
+                        <p>2010 & 2011</p>
+                    </div>
+                    <p>
                                         At the Toronto Summit (Canada) in 2010, the G20 adopted directives to reduce sovereign debt. 
                                         The advanced industrial States pledged a reduction in their budget deficits and external 
                                         borrowing. G20 Leaders met again in 2010 in Seoul (Republic of Korea), where they adopted 
@@ -424,20 +389,30 @@
                                             system. G20 Leaders also agreed to establish the Agricultural Market Information System, 
                                             an inter-agency platform to enhance food market transparency and encourage international
                                                 policy coordination in times of crisis.
-                                    </p>
-                        </div>
+                    </p>
                 </div>
-                <div class="left_content">
-                <img src="assets/images/pastpresidencies/Seoul_G20_summit.webp" class="minister_images_g20">
+            </div>
+            <div class="country_timeline_right">
+                <div class="country_timeline_image">
+                    <img src="assets/images/pastpresidencies/Seoul_G20_summit.webp" class="minister_images_g20">
+                </div>                
+            </div>
+        </div>
+
+        <div class="country_timeline_wrapper">
+            <div class="country_timeline_left">
+                <div class="country_timeline_image">
+                    <img src="assets/images/pastpresidencies/Washuington_2008.webp" class="minister_images_g20">
                 </div>
-                </li>
-                <li>
-                <div class="right_content">
-                        <div class="events_card_content">
-                            <h5>Washington DC, London, Pittsburgh</h5>
-                            <p class="year">2008 & 2009</p>
-                            <p>
-                                The first G20 Summit was held in 2008 in Washington DC (USA). It set the scene for the most dramatic 
+            </div>
+            <div class="country_timeline_right">
+                <div class="country_timeline_content">
+                    <div class="country_timeline_heading">
+                        <h6>Washington DC, London, Pittsburgh</h6>
+                        <p>2008 & 2009</p>
+                    </div>
+                    <p>
+                                 The first G20 Summit was held in 2008 in Washington DC (USA). It set the scene for the most dramatic 
                                 reform of global finance in over 60 years. At the follow-up summit in 2009 in London (UK), the G20 
                                 agreed to blacklist states that refused to cooperate on efforts to tackle tax evasion and avoidance. 
                                 In the wake of the 2008 financial crisis, the G20 resolved to impose stricter controls on hedge funds 
@@ -453,17 +428,10 @@
                                 regulations for the banking sector, requiring banks to retain a greater proportion of their profits
                                 to build capital. These measures helped reduce the financial risk to governments and tax-payers
                                 posed by high-risk private sector activities.
-                            </p>
-                        </div>
-                </div>
-                <div class="left_content">
-                        <img src="assets/images/pastpresidencies/Washuington_2008.webp" class="minister_images_g20">
-                </div>
-                </li>
-                <div style="clear:both;"></div>
-            </ul>
+                    </p>
+                </div>          
+            </div>
         </div>
-        <!--Third Section End-->
     </div>
 </section>
 <!--Second Section End-->

@@ -693,45 +693,45 @@
                             <div id="tab1" class="tab-content">
                                 <div class="flex_row secnd_row_top">
                                     <div class="col_4">
-                                        <a href="" target="_blank"><img src="assets/images/facebook.jpg" alt=""></a>
+                                        <a href="https://www.facebook.com/moefcc" target="_blank"><img src="assets/images/facebook.webp" alt=""></a>
                                     </div>
                                     
                                     <div class="col_4">
-                                        <a href="" target="_blank"><img src="assets/images/twitter.jpg" alt=""></a>
+                                        <a href="https://x.com/moefcc?t=50a8EOPGX2LDx6EoLo59rg&s=08" target="_blank"><img src="assets/images/twitter.webp" alt=""></a>
                                     </div>
                                     
                                     <div class="col_4">
-                                        <a href="" target="_blank"><img src="assets/images/instagram.jpg" alt=""></a>
+                                        <a href="https://instagram.com/moefccgoi?igshid=NjIwNzIyMDk2Mg==" target="_blank"><img src="assets/images/instagram.webp" alt=""></a>
                                     </div>
                                 </div>
                             </div>
                             <div id="tab2" class="tab-content">
                                 <div class="flex_row secnd_row_top">
                                     <div class="col_4">
-                                        <a href="" target="_blank"><img src="assets/images/facebook.jpg" alt=""></a>
+                                        <a href="https://www.facebook.com/IIFMOfficial" target="_blank"><img src="assets/images/facebook.webp" alt=""></a>
                                     </div>
                                     
                                     <div class="col_4">
-                                        <a href="" target="_blank"><img src="assets/images/twitter.jpg" alt=""></a>
+                                        <a href="https://instagram.com/iifm_bhopal?igshid=NjIwNzIyMDk2Mg==" target="_blank"><img src="assets/images/twitter.webp" alt=""></a>
                                     </div>
 
                                     <div class="col_4">
-                                        <a href="" target="_blank"><img src="assets/images/instagram.jpg" alt=""></a>
+                                        <a href="https://x.com/IIfmBhopal?t=-yzKMQ-OQfs7vGYhoJhhqA&s=08" target="_blank"><img src="assets/images/instagram.webp" alt=""></a>
                                     </div>
                                 </div>
                             </div>
                             <div id="tab3" class="tab-content">
                                 <div class="flex_row secnd_row_top">
                                     <div class="col_4">
-                                        <a href="" target="_blank"><img src="assets/images/facebook.jpg" alt=""></a>
+                                        <a href="https://www.facebook.com/ICFRE.org" target="_blank"><img src="assets/images/facebook.webp" alt=""></a>
                                     </div>
 
                                     <div class="col_4">
-                                        <a href="" target="_blank"><img src="assets/images/twitter.jpg" alt=""></a>
+                                        <a href="https://instagram.com/icfreindia?igshid=NjIwNzIyMDk2Mg==" target="_blank"><img src="assets/images/twitter.webp" alt=""></a>
                                     </div>
 
                                     <div class="col_4">
-                                        <a href="" target="_blank"><img src="assets/images/instagram.jpg" alt=""></a>
+                                        <a href="https://x.com/IcfreIndia?t=b9BZoPZUBtDKI7ufBx60GA&s=08" target="_blank"><img src="assets/images/instagram.webp" alt=""></a>
                                     </div>
                                 </div>
                             </div>

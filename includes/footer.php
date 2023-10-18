@@ -19,8 +19,8 @@
                             <li> <a href="#"> ICFRE-COE</a></li>
                             <li> <a href="#"> IIFM</a></li>
                             <li> <a href="#"> UNDP</a></li>
-                            <li> <a href="#"> Event</a></li>
-                            <li> <a href="#"> Contact</a></li>
+                            <li> <a href="news_and_events.php"> Event</a></li>
+                            <li> <a href="contact.php"> Contact</a></li>
                             <li><a href="#"> Media</a></li>
                         </ul>
                     </div>
