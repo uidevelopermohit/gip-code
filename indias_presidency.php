@@ -1,159 +1,213 @@
 <?php include('includes/header.php')?>
 <!--Inner Banner Start-->
 <Section class="inner_banner ">
-        <div class="container_fluid">
-            <div class="flex_row">
-                <div class="col_8">
-                    <h4>G20 India ’s Presidency</h4>
-                </div>
-               
-                <div class="col_4">
-                    <ul class="new_breadcrumb">
-                        <li><a href="<?php echo $base_url; ?>">Home</a></li>
-                        <li>G20 India ’s Presidency</li>
+    <div class="container_fluid">
+        <div class="flex_row">
+            <div class="col_8">
+                <h4>G20 India ’s Presidency</h4>
+            </div>
+            
+            <div class="col_4">
+                <ul class="new_breadcrumb">
+                    <li><a href="<?php echo $base_url; ?>">Home</a></li>
+                    <li>G20 India ’s Presidency</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</Section>
+<!--Inner Banner End-->
+
+<!--First Section Start-->
+<section class="india_Presidency_section_start common_spacing  gradient_container_topbar gradient_container_image_lotus_top">
+    <div class="container_fluid">
+        <div class="flex_row">
+            <div class="col_6">
+                <p>
+                    India's G20 presidency has marked a significant milestone in its global leadership role. With, India taking 
+                    the presidency for the first time, it is steering discussions and initiative’ among the world's major 
+                    economies to address complex challenges. During the presidency, India has focussed on various issues like 
+                    inclusive growth, digital innovation, climate resilience, and equitable global health access. By leveraging 
+                    its presidency, India is fostering collaborative solutions that not only benefit its own population but 
+                    contribute to the broader global well-being, reinforcing its spirit of ‘Vasudhaiva Kutumbakam’ or the 
+                    ‘World is One Family’.
+                </p>
+                <p>
+                    The G20 Logo draws inspiration from the vibrant colours of India’s national flag – saffron, white and 
+                    green, and blue. It juxtaposes planet Earth with the lotus, India’s national flower that reflects growth 
+                    amid challenges. The Earth reflects India’s pro-planet approach to life, one in perfect harmony with nature.
+                    Below the G20 logo is “Bharat”, written in the Devanagari script. The theme of India’– G20 Presidency - 
+                    “Vasudhaiva Kutumbakam” or “One Earth · One Fami–y · One Future” - is drawn from the ancient Sanskrit text 
+                    of the Maha Upanishad. Essentially, the theme affirms the value of all life – human, animal, plant, and 
+                    microorganisms – and their interconnectedness on the planet Earth and in the wider universe.
+                </p>
+            </div>
+            <div class="col_6">
+                <img src="assets/images/aboutpage/g20leaders.webp" class="minister_images_g20">
+            </div>
+        </div>
+        <div class="flex_row">
+            <div class="col_12">        
+                <p>
+                    The theme also spotlights LiFE (Lifestyle for Environment), with its associated, environmentally sustainable,
+                    and responsible choices, both at the level of individual lifestyles as well as national development, leading 
+                    to globally transformative actions resulting in a cleaner, greener and bluer future.
+                </p>
+                <p>
+                    The logo and the theme together convey a powerful message of India’s G20 Presidency, which is of striving for 
+                    just and equitable growth for all in the world, as we navigate through these turbulent times, in a sustainable, 
+                    holistic, responsible, and inclusive manner. They represent a uniquely Indian approach to our G20 Presidency, 
+                    of living in harmony with the surrounding ecosystem.
+                </p>
+                <p>
+                    For India, the G20 Presidency also marks the beginning of “Amritkaal”, the 25-year period beginning from the
+                    75th anniversary of its independence on 15 August 2022, leading up to the centenary of its independence, 
+                    towards a futuristic, prosperous, inclusive and developed society, distinguished by a human-centric approach 
+                    at its core.
+                </p>
+                <p>
+                    India’s Presidency intends to drive meaningful action to accelerate ecosystem restoration along with other key 
+                    issues. The discussions have covered financing mechanisms and frontier technologies to promote avenues such as 
+                    Payment for Ecosystem Services (PES) to incentivize the preservation of ecosystems and biodiversity offsetting
+                    to mitigate the negative impacts of development (for instance, urban development, mining, agricultural
+                    expansion.
+                </p>
+            </div> 
+        </div>
+    </div>
+</section>
+<!--First Section End-->
+
+<!--Second Section Start-->
+<section class="timeline_section common_spacing">
+    <div class="container_fluid top_right_image_lotus">
+        <h2>Past Presidencies</h2>
+        <div class="country_timeline_wrapper">
+            <div class="country_timeline_left">
+                <div class="country_timeline_content">
+                    <div class="country_timeline_heading">
+                        <h6>Indonesia</h6>
+                        <p>2022</p>
+                    </div>
+                    <p>
+                        Indonesia chose “Recover Together, Recover Stronger” as the overall theme for its Presidency, as a 
+                        way to advance strong and inclusive global recovery from COVID-19 pandemic. The idea was to reflect 
+                        the spirit of collective recovery in the world and ensure that G20 projects an inclusive vision to 
+                        aid collective recovery and move towards a new chapter of green and inclusive development. The 
+                        presidency identified three main pillars: i) Global Health Architecture – Stronger global 
+                        cooperation to ensure equality of global health standards for travel and global community's 
+                        resilience towards any future pandemic; ii) Digital Transformation – Achieving the true potentials 
+                        from the rapid digitalization of the global economy to secure common prosperity in the digital age; 
+                        and iii) Sustainable Energy Transitions – New approaches and dimensions to accelerate the transition 
+                        towards cleaner energy sources for ensuring a cleaner and brighter future for the global community. 
+                        The Indonesia Summit pledged to continue to support the G20 Global Initiative on Reducing Land 
+                        Degradation and Enhancing Conservation of Terrestrial Habitats adopted under Saudi Arabia’s 
+                        Presidency and to enhance land protection, conservation, and restoration, address common land 
+                        tenure challenges in accordance with national legislation in line with the recent decision 27 at 
+                        UNCCD COP15 and promote inclusive sustainable land management by actively contributing to the operational development of the Global Initiative.
+                    </p>
+                    <p><strong>With the theme of “Recover Together, Recover Stronger” in mind, the G20 Leaders declared to:</strong></p>
+                    <ul class="country_timeline_content_list">
+                        <li>Stay agile and flexible in their macro-economic policy responses and cooperation, make public 
+                        investments and structural reforms, promote private investments, and strengthen multilateral 
+                        trade and resilience of global supply chains, to support long-term growth, sustainable and 
+                        inclusive, green and just transitions, and ensure long-term fiscal sustainability, with central 
+                        banks committed to achieving price stability.</li>
+                        <li>Protect macroeconomic and financial stability and remain committed to using all available tools 
+                        to mitigate downside risks, noting the steps taken since the Global Financial Crisis to 
+                        strengthen financial resilience and promote sustainable finance and capital flows.</li>
+                        <li>Take action to promote food and energy security and support stability of markets, providing 
+                        temporary and targeted support to cushion the impact of price increases, strengthening dialogue 
+                        between producers and consumers, and increasing trade and investments for longterm food and 
+                        energy security needs, resilient and sustainable food, fertilizer, and energy systems.</li>
+                        <li>Unlock further investments for low- and middle-income and other developing countries, through a 
+                        greater variety of innovative financing sources and instruments, including to catalyze private 
+                        investment, to support the achievement of the SDGs. Ask the Multilateral Development Banks to 
+                        bring forward actions to mobilize and provide additional financing within their mandates, to 
+                        support achievement of the SDGs including through sustainable development and infrastructure 
+                        investments and responding to global challenges.</li>
+                        <li>Recommit to accelerate achievement of the SDGs, achieving prosperity for all through sustainable 
+                        development.</li>
                     </ul>
                 </div>
             </div>
+            <div class="country_timeline_right">
+                <div class="country_timeline_image">
+                    <img src="assets/images/pastpresidencies/BALI_Indonesia_Summit_2022.webp" class="minister_images_g20">
+                </div>                
+            </div>
         </div>
-    </Section>
-    <!--Inner Banner End-->
-    <!--First Section Start-->
-    <section class="india_Presidency_section_start common_spacing  gradient_container_topbar gradient_container_image_lotus_top">
-        <div class="container_fluid gradient_container_topbar_right">
-            <div class="flex_row ">
-                <div class="col_12 top_discription_box_india_presidency">
-                    <div class="flex_row">
-                        <div class="col_6">
-                        <p>
-                            India's G20 presidency has marked a significant milestone in its global leadership role. With, India taking 
-                            the presidency for the first time, it is steering discussions and initiative’ among the world's major 
-                            economies to address complex challenges. During the presidency, India has focussed on various issues like 
-                            inclusive growth, digital innovation, climate resilience, and equitable global health access. By leveraging 
-                            its presidency, India is fostering collaborative solutions that not only benefit its own population but 
-                            contribute to the broader global well-being, reinforcing its spirit of ‘Vasudhaiva Kutumbakam’ or the 
-                            ‘World is One Family’.
-                        </p>
-                        <p>
-                            The G20 Logo draws inspiration from the vibrant colours of India’s national flag – saffron, white and 
-                            green, and blue. It juxtaposes planet Earth with the lotus, India’s national flower that reflects growth 
-                            amid challenges. The Earth reflects India’s pro-planet approach to life, one in perfect harmony with nature.
-                            Below the G20 logo is “Bharat”, written in the Devanagari script. The theme of India’– G20 Presidency - 
-                            “Vasudhaiva Kutumbakam” or “One Earth · One Fami–y · One Future” - is drawn from the ancient Sanskrit text 
-                            of the Maha Upanishad. Essentially, the theme affirms the value of all life – human, animal, plant, and 
-                            microorganisms – and their interconnectedness on the planet Earth and in the wider universe.
-                        </p>
-                        </div>
-                        <div class="col_6">
-                            <img src="assets/images/aboutpage/g20leaders.webp" class="minister_images_g20">
-                        </div>
+
+        <div class="country_timeline_wrapper">
+            <div class="country_timeline_left">
+                <div class="country_timeline_image">
+                    <img src="assets/images/pastpresidencies/BALI_Indonesia_Summit_2022.webp" class="minister_images_g20">
+                </div>
+            </div>
+            <div class="country_timeline_right">
+                <div class="country_timeline_content">
+                    <div class="country_timeline_heading">
+                        <h6>Indonesia</h6>
+                        <p>2022</p>
                     </div>
-                </div>
+                    <p>
+                        Indonesia chose “Recover Together, Recover Stronger” as the overall theme for its Presidency, as a 
+                        way to advance strong and inclusive global recovery from COVID-19 pandemic. The idea was to reflect 
+                        the spirit of collective recovery in the world and ensure that G20 projects an inclusive vision to 
+                        aid collective recovery and move towards a new chapter of green and inclusive development. The 
+                        presidency identified three main pillars: i) Global Health Architecture – Stronger global 
+                        cooperation to ensure equality of global health standards for travel and global community's 
+                        resilience towards any future pandemic; ii) Digital Transformation – Achieving the true potentials 
+                        from the rapid digitalization of the global economy to secure common prosperity in the digital age; 
+                        and iii) Sustainable Energy Transitions – New approaches and dimensions to accelerate the transition 
+                        towards cleaner energy sources for ensuring a cleaner and brighter future for the global community. 
+                        The Indonesia Summit pledged to continue to support the G20 Global Initiative on Reducing Land 
+                        Degradation and Enhancing Conservation of Terrestrial Habitats adopted under Saudi Arabia’s 
+                        Presidency and to enhance land protection, conservation, and restoration, address common land 
+                        tenure challenges in accordance with national legislation in line with the recent decision 27 at 
+                        UNCCD COP15 and promote inclusive sustainable land management by actively contributing to the operational development of the Global Initiative.
+                    </p>
+                    <p><strong>With the theme of “Recover Together, Recover Stronger” in mind, the G20 Leaders declared to:</strong></p>
+                    <ul class="country_timeline_content_list">
+                        <li>Stay agile and flexible in their macro-economic policy responses and cooperation, make public 
+                        investments and structural reforms, promote private investments, and strengthen multilateral 
+                        trade and resilience of global supply chains, to support long-term growth, sustainable and 
+                        inclusive, green and just transitions, and ensure long-term fiscal sustainability, with central 
+                        banks committed to achieving price stability.</li>
+                        <li>Protect macroeconomic and financial stability and remain committed to using all available tools 
+                        to mitigate downside risks, noting the steps taken since the Global Financial Crisis to 
+                        strengthen financial resilience and promote sustainable finance and capital flows.</li>
+                        <li>Take action to promote food and energy security and support stability of markets, providing 
+                        temporary and targeted support to cushion the impact of price increases, strengthening dialogue 
+                        between producers and consumers, and increasing trade and investments for longterm food and 
+                        energy security needs, resilient and sustainable food, fertilizer, and energy systems.</li>
+                        <li>Unlock further investments for low- and middle-income and other developing countries, through a 
+                        greater variety of innovative financing sources and instruments, including to catalyze private 
+                        investment, to support the achievement of the SDGs. Ask the Multilateral Development Banks to 
+                        bring forward actions to mobilize and provide additional financing within their mandates, to 
+                        support achievement of the SDGs including through sustainable development and infrastructure 
+                        investments and responding to global challenges.</li>
+                        <li>Recommit to accelerate achievement of the SDGs, achieving prosperity for all through sustainable 
+                        development.</li>
+                    </ul>
+                </div>          
             </div>
         </div>
-    </section>
-    <section class="second_discrptn_box">
-        <div class="container_fluid">
-            <div class="flex_row">
-                <div class="col_12">        
-                        <p>
-                            The theme also spotlights LiFE (Lifestyle for Environment), with its associated, environmentally sustainable,
-                            and responsible choices, both at the level of individual lifestyles as well as national development, leading 
-                            to globally transformative actions resulting in a cleaner, greener and bluer future.
-                        </p>
-                        <p>
-                            The logo and the theme together convey a powerful message of India’s G20 Presidency, which is of striving for 
-                            just and equitable growth for all in the world, as we navigate through these turbulent times, in a sustainable, 
-                            holistic, responsible, and inclusive manner. They represent a uniquely Indian approach to our G20 Presidency, 
-                            of living in harmony with the surrounding ecosystem. 
-                        </p>
-                        <p>
-                            For India, the G20 Presidency also marks the beginning of “Amritkaal”, the 25-year period beginning from the
-                            75th anniversary of its independence on 15 August 2022, leading up to the centenary of its independence, 
-                            towards a futuristic, prosperous, inclusive and developed society, distinguished by a human-centric approach 
-                            at its core.
-                        </p>
-                        <p>
-                            India’s Presidency intends to drive meaningful action to accelerate ecosystem restoration along with other key 
-                            issues. The discussions have covered financing mechanisms and frontier technologies to promote avenues such as 
-                            Payment for Ecosystem Services (PES) to incentivize the preservation of ecosystems and biodiversity offsetting
-                            to mitigate the negative impacts of development (for instance, urban development, mining, agricultural
-                            expansion.
-                        </p>
-                </div> 
-            </div>
-        </div>
-    </section>
-    <!--First Section End-->
-    <!--Second Section Start-->
-    <section class="line_bar_Section_Start">
-        <div class="container_fluid top_right_image_lotus">
-            <div class="flex_row">
-                <div class="col_12 common_spacing_top_btm">
-                    <h2>Past Presidencies</h2>
-                </div>
-            </div> 
-        </div>
-        <div class="container_fluid">
-             <!--Third Section Start-->
-                <div class="timeline">
+    </div>
+    <div class="container_fluid">
+        <!--Third Section Start-->
+        <div class="timeline">
             <ul>
-               <li>
+                <li>
                 <div class="right_content">
                         <div class="events_card_content">
                                     <h5>Indonesia</h5>
                                     <p class="year">2022</p>
-                                    <p>
-                                    Indonesia chose “Recover Together, Recover Stronger” as the overall theme for its Presidency, as a 
-                                    way to advance strong and inclusive global recovery from COVID-19 pandemic. The idea was to reflect 
-                                    the spirit of collective recovery in the world and ensure that G20 projects an inclusive vision to 
-                                    aid collective recovery and move towards a new chapter of green and inclusive development. The 
-                                    presidency identified three main pillars: i) Global Health Architecture – Stronger global 
-                                    cooperation to ensure equality of global health standards for travel and global community’s 
-                                    resilience towards any future pandemic; ii) Digital Transformation – Achieving the true potentials 
-                                    from the rapid digitalization of the global economy to secure common prosperity in the digital age; 
-                                    and iii) Sustainable Energy Transitions – New approaches and dimensions to accelerate the transition 
-                                    towards cleaner energy sources for ensuring a cleaner and brighter future for the global community. 
-                                    The Indonesia Summit pledged to continue to support the G20 Global Initiative on Reducing Land 
-                                    Degradation and Enhancing Conservation of Terrestrial Habitats adopted under Saudi Arabia’s 
-                                    Presidency and to enhance land protection, conservation, and restoration, address common land 
-                                    tenure challenges in accordance with national legislation in line with the recent decision 27 at 
-                                    UNCCD COP15 and promote inclusive sustainable land management by actively contributing to the operational development of the Global Initiative.
-                                    </p>
-                                    <p><b>With the theme of “Recover Together, Recover Stronger” in mind, the G20 Leaders declared to:</b></p>
-                                    <p>
-                                    <i class="icon-right-arrow"></i>&nbsp;Stay agile and flexible in their macro-economic policy responses and cooperation, make public 
-                                        investments and structural reforms, promote private investments, and strengthen multilateral 
-                                        trade and resilience of global supply chains, to support long-term growth, sustainable and 
-                                        inclusive, green and just transitions, and ensure long-term fiscal sustainability, with central 
-                                        banks committed to achieving price stability.
-                                    </p>
-                                    <p>
-                                    <i class="icon-right-arrow"></i>&nbsp;Protect macroeconomic and financial stability and remain committed to using all available tools 
-                                        to mitigate downside risks, noting the steps taken since the Global Financial Crisis to 
-                                        strengthen financial resilience and promote sustainable finance and capital flows.
-                                    </p>
-                                    <p>
-                                    <i class="icon-right-arrow"></i>&nbsp;Take action to promote food and energy security and support stability of markets, providing 
-                                        temporary and targeted support to cushion the impact of price increases, strengthening dialogue 
-                                        between producers and consumers, and increasing trade and investments for longterm food and 
-                                        energy security needs, resilient and sustainable food, fertilizer, and energy systems.
-                                    </p>
-                                    <p>
-                                    <i class="icon-right-arrow"></i>&nbsp;Unlock further investments for low- and middle-income and other developing countries, through a 
-                                        greater variety of innovative financing sources and instruments, including to catalyze private 
-                                        investment, to support the achievement of the SDGs. Ask the Multilateral Development Banks to 
-                                        bring forward actions to mobilize and provide additional financing within their mandates, to 
-                                        support achievement of the SDGs including through sustainable development and infrastructure 
-                                        investments and responding to global challenges.
-                                    </p>
-                                    <p>
-                                    <i class="icon-right-arrow"></i>&nbsp;Recommit to accelerate achievement of the SDGs, achieving prosperity for all through sustainable 
-                                        development.
-                                    </p>
+                                    
                         </div>
                 </div>
                 <div class="left_content">
-                <img src="assets/images/pastpresidencies/BALI_Indonesia_Summit_2022.webp" class="minister_images_g20">
+                
                 </div>
                 </li>
                 <li >
@@ -196,7 +250,7 @@
                         </div>
                 </div>
                 <div class="left_content">
-                     <img src="assets/images/pastpresidencies/G20_italia.webp" class="minister_images_g20">
+                        <img src="assets/images/pastpresidencies/G20_italia.webp" class="minister_images_g20">
                 </div>
                 </li>
                 <li>
@@ -250,16 +304,16 @@
                             <h5>Osaka</h5>
                             <p class="year">2019</p>
                             <p>
-                                 The G20 Summit in 2019 (Japan) focused on key issues such as Trade and Investment; Excess Capacity of 
-                                 Steel; Digitalization; Data Free Flow with Trust; G20/OECD Framework on Base Erosion and Profit 
-                                 Sharing; Quality Infrastructure investment; Anti-Corruption; Climate Change; Energy; Environment; 
-                                 Displacement and Migration. The G20 leaders released an important statement on ‘Preventing Exploitation 
-                                 of the Internet for Terrorism and Violent Extremism Conducive to Terrorism (VECT)’.
+                                    The G20 Summit in 2019 (Japan) focused on key issues such as Trade and Investment; Excess Capacity of 
+                                    Steel; Digitalization; Data Free Flow with Trust; G20/OECD Framework on Base Erosion and Profit 
+                                    Sharing; Quality Infrastructure investment; Anti-Corruption; Climate Change; Energy; Environment; 
+                                    Displacement and Migration. The G20 leaders released an important statement on ‘Preventing Exploitation 
+                                    of the Internet for Terrorism and Violent Extremism Conducive to Terrorism (VECT)’.
                             </p>
                         </div>
                 </div>
                 <div class="left_content">
-                     <img src="assets/images/pastpresidencies/Osaka_Summit.webp" class="minister_images_g20">
+                        <img src="assets/images/pastpresidencies/Osaka_Summit.webp" class="minister_images_g20">
                 </div>
                 </li>
                 <li>
@@ -301,7 +355,7 @@
                         </div>
                 </div>
                 <div class="left_content">
-                     <img src="assets/images/pastpresidencies/Hamburg_2.webp" class="minister_images_g20">
+                        <img src="assets/images/pastpresidencies/Hamburg_2.webp" class="minister_images_g20">
                 </div>
                 </li>
                 <li>
@@ -349,7 +403,7 @@
                         </div>
                 </div>
                 <div class="left_content">
-                     <img src="assets/images/pastpresidencies/Los_CAbos_2012.webp" class="minister_images_g20">
+                        <img src="assets/images/pastpresidencies/Los_CAbos_2012.webp" class="minister_images_g20">
                 </div>
                 </li>
                 <li>
@@ -362,14 +416,14 @@
                                         The advanced industrial States pledged a reduction in their budget deficits and external 
                                         borrowing. G20 Leaders met again in 2010 in Seoul (Republic of Korea), where they adopted 
                                         stricter regulations for banks (Basel III Norms), as well as agreed on the reform of the
-                                         financial stakes and voting shares in the International Monetary Fund (IMF). Seoul was also a 
-                                         milestone in the history of the G20. For the first time, development policy issues were on the
-                                          Summit’s Agenda which came to be known as the ‘Seoul Consensus’. Development has since been
-                                           a standard part of the agenda of every subsequent Summit. At the heart of the work programme 
-                                           of the G20 Summit in Cannes (France), in 2011, was the reform of the international monetary
+                                            financial stakes and voting shares in the International Monetary Fund (IMF). Seoul was also a 
+                                            milestone in the history of the G20. For the first time, development policy issues were on the
+                                            Summit’s Agenda which came to be known as the ‘Seoul Consensus’. Development has since been
+                                            a standard part of the agenda of every subsequent Summit. At the heart of the work programme 
+                                            of the G20 Summit in Cannes (France), in 2011, was the reform of the international monetary
                                             system. G20 Leaders also agreed to establish the Agricultural Market Information System, 
                                             an inter-agency platform to enhance food market transparency and encourage international
-                                             policy coordination in times of crisis.
+                                                policy coordination in times of crisis.
                                     </p>
                         </div>
                 </div>
@@ -403,16 +457,16 @@
                         </div>
                 </div>
                 <div class="left_content">
-                     <img src="assets/images/pastpresidencies/Washuington_2008.webp" class="minister_images_g20">
+                        <img src="assets/images/pastpresidencies/Washuington_2008.webp" class="minister_images_g20">
                 </div>
                 </li>
                 <div style="clear:both;"></div>
             </ul>
-            </div>
-            <!--Third Section End-->
         </div>
-    </section>
-    <!--Second Section End-->
-     
-    <!--last Section End-->
-    <?php include('includes/footer.php')?>
+        <!--Third Section End-->
+    </div>
+</section>
+<!--Second Section End-->
+    
+<!--last Section End-->
+<?php include('includes/footer.php')?>

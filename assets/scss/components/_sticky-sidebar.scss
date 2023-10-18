@@ -8,11 +8,11 @@
         width: 28.125vw; //540px;
         padding-right: 2.604166666666667vw; //50px
         position: sticky;
-        top: 10.416666666666668vw;
+        top: 10.416666666666668vw;  //20px
     }
 
     &_right {
-        width: calc(100% - 25.520833333333332vw);
+        width: calc(100% - 25.520833333333332vw);   //490px
         padding-left: 2.604166666666667vw; //50px
         border-left: solid 1px $border-color;
 
@@ -76,6 +76,56 @@
             &.active {
                 background-color: $brand-color-4;
                 color: $base-light-color;
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 1920.98px) {
+    .sidebar_sticky {
+
+        &_left {
+            width: 540px;
+            padding-right: 50px;
+            top: 200px;
+        }
+
+        &_right {
+            width: calc(100% - 490px);
+            padding-left: 50px;
+
+            .country_initiative_topic_wrapper {
+                margin-bottom: 120px;
+            }
+
+            .col_6 {
+                margin-bottom: 40px;
+            }
+
+            h2 {
+                padding-bottom: 20px;
+                margin-bottom: 60px;
+            }
+        }
+    }
+
+    .pdf_document {
+        margin-top: 20px;
+
+        a {
+            padding: 1.0416666666666665vw;
+
+            img {
+                height: 40px;
+            }
+        }
+    }
+
+    .vertical_tabs {
+        li {
+            a {
+                padding: 30px 20px;
+                font-size: 24px;
             }
         }
     }
