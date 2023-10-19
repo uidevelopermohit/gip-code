@@ -64,7 +64,14 @@
                                     additives such as humus or compost, microbial inoculants, cotton fibres, liquefied paper mash, etc., 
                                     to protect the seed balls in harsh habitats and to promote the germination and growth.
                                 </p>
-                            
+                                <!--Pdf Section Start-->
+                                <div class="pdf_document">
+                                            <a href="assets/pdf/Technology_RFRI_Seed_ball_technology_for_restoration_of_coal_mine.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                <span>Technology - RFRI Seed ball technology for restoration of coal mine.pdf</span>
+                                            </a>
+                                        </div>
+                                        <!--Pdf Section End-->
                             </div>
                         </div>
                     </div>
@@ -89,6 +96,14 @@
                                              finally vast employment opportunities...
                                         </p>
                                         <a href="g20_country_initiatives_knowledge_resources_mine_reclamation.php">Read More</a>
+                                        <!--Pdf Section Start-->
+                                        <div class="pdf_document">
+                                            <a href="assets/pdf/A_Handbook_ICFRE_Mine_Reclamation.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                <span>A Handbook ICFRE Mine Reclamation.pdf</span>
+                                            </a>
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -106,6 +121,14 @@
                                             and roads etc...
                                         </p>
                                         <a href="g20_country_initiatives_knowledge_resources_ecofriendly_approaches.php">Read More</a>
+                                         <!--Pdf Section Start-->
+                                       <div class="pdf_document">
+                                            <a href="assets/pdf/Approches_IFGTB_Eco_friendly_approaches_for_rehablitation_of_mine_spoils.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                <span>Approches IFGTB Eco friendly approaches for rehablitation of mine spoils.pdf</span>
+                                            </a>
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -128,6 +151,14 @@
                                          pollutants and dust in the atmosphere.
                                         </p>
                                         <a href="g20_country_initiatives_knowledge_resources_developing_ecological_restoration.php">Read More</a>
+                                         <!--Pdf Section Start-->
+                                       <div class="pdf_document">
+                                            <a href="assets/pdf/Case_study_FRI_Developing_ecological_restoration_model_in_the_mine_spoils_tetulmari.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                <span>Case study FRI Developing ecological restoration model in the mine spoils tetulmari.pdf</span>
+                                            </a>
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -168,6 +199,14 @@
                                             and suggested for their implementation in the field as the part of road map...
                                         </p>
                                         <a href="g20_country_initiatives_knowledge_resources_ecological_roadmap.php">Read More</a>
+                                         <!--Pdf Section Start-->
+                                       <div class="pdf_document">
+                                            <a href="assets/pdf/Road_map_FRI_Combined_Singrauli_Final_Report_17_05_2018.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                <span>Road map  FRI - Combined Singrauli Final Report 17 05 2018</span>
+                                            </a>
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>

@@ -34,7 +34,7 @@
                     </ul>
                 </div>
 
-                <div class="sidebar_sticky_right">
+            <div class="sidebar_sticky_right">
                     <!-- Policy and Program start here -->
                     <div class="country_initiative_topic_wrapper" id="CI_policy_progam">
                         <div class="flex_row">
@@ -71,12 +71,19 @@
                                      of ecofriendly mining and species prescriptions for different mining scenarios. The manual also 
                                      contains outstanding reclamation efforts of various ICFRE institutions in recent past. 
                                 </p>
-                               
+                                 <!--Pdf Section Start-->
+                                 <div class="pdf_document">
+                                            <a href="assets/pdf/A_Handbook_ICFRE_Mine_Reclamation.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                <span>A Handbook ICFRE Mine Reclamation.pdf</span>
+                                            </a>
+                                        </div>
+                                        <!--Pdf Section End-->
                             </div>
                         </div>
                     </div>
                     <!-- Good Practice start here -->
-                    <div class="country_initiative_topic_wrapper" id="additional_section">
+                <div class="country_initiative_topic_wrapper" id="additional_section">
                     <div class="flex_row">
                         <div class="col_12">
                         <h2>Additional Topics</h2>
@@ -119,6 +126,14 @@
                                             and roads etc...
                                         </p>
                                         <a href="g20_country_initiatives_knowledge_resources_ecofriendly_approaches.php">Read More</a>
+                                     <!--Pdf Section Start-->
+                                     <div class="pdf_document">
+                                            <a href="assets/pdf/Approches_IFGTB_Eco_friendly_approaches_for_rehablitation_of_mine_spoils.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                <span>Approches IFGTB Eco friendly approaches for rehablitation of mine spoils.pdf</span>
+                                            </a>
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -141,6 +156,14 @@
                                          pollutants and dust in the atmosphere.
                                         </p>
                                         <a href="g20_country_initiatives_knowledge_resources_developing_ecological_restoration.php">Read More</a>
+                                      <!--Pdf Section Start-->
+                                      <div class="pdf_document">
+                                            <a href="assets/pdf/Case_study_FRI_Developing_ecological_restoration_model_in_the_mine_spoils_tetulmari.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                <span>Case study FRI Developing ecological restoration model in the mine spoils tetulmari.pdf</span>
+                                            </a>
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -159,6 +182,14 @@
                                             (earth balls) are made by mixing seeds of different plant species...
                                         </p>
                                         <a href="g20_country_initiatives_knowledge_resources_seed_ball_technology.php">Read More</a>
+                                         <!--Pdf Section Start-->
+                                       <div class="pdf_document">
+                                            <a href="assets/pdf/Technology_RFRI_Seed_ball_technology_for_restoration_of_coal_mine.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                <span>Technology - RFRI Seed ball technology for restoration of coal mine.pdf</span>
+                                            </a>
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
@@ -176,28 +207,23 @@
                                             and suggested for their implementation in the field as the part of road map...
                                         </p>
                                         <a href="g20_country_initiatives_knowledge_resources_ecological_roadmap.php">Read More</a>
+                                           <!--Pdf Section Start-->
+                                       <div class="pdf_document">
+                                            <a href="assets/pdf/Road_map_FRI_Combined_Singrauli_Final_Report_17_05_2018.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                <span>Road map  FRI - Combined Singrauli Final Report 17 05 2018</span>
+                                            </a>
+                                        </div>
+                                        <!--Pdf Section End-->
                                     </div>
                                 </div>
                             </div>
-                            <!--Sixth Card-->
-                            <div class="col_6">
-                                <div class="events_card">
-                                    <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
-                                    </div>
-                                    <div class="events_card_content">
-                                    <h5>Developing Ecological Restoration Model In The Mine Spoils At Tetulmari Under Sijua Area 
-                                        (About 8-10 Ha) Of Bccl Mine, Forest Ecology & Environment Division Forest Research Institute, 
-                                        Dehradun, India
-                                    </h5>
-                                        <p>
-                                         Almost all the mining techniques from mineral explorations to production and transport are 
-                                         causing environmental damage in several ways. The list includes deforestation, loss of topsoil, 
-                               
+                        
                         </div>
                 </div>
             </div>
         </div>
+    </div>  
     </section>
 
      <!--First Section End-->

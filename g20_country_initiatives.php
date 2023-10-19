@@ -569,9 +569,9 @@
                                         <a href="g20_country_initiatives_knowledge_resources_mine_reclamation.php">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="pdf_document">
-                                            <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                            <a href="assets/pdf/A_Handbook_ICFRE_Mine_Reclamation.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                <span>G20 New Delhi Leaders Declaration </span>
+                                                <span>A Handbook ICFRE Mine Reclamation.pdf</span>
                                             </a>
                                         </div>
                                         <!--Pdf Section End-->
@@ -594,9 +594,9 @@
                                         <a href="g20_country_initiatives_knowledge_resources_ecofriendly_approaches.php">Read More</a>
                                        <!--Pdf Section Start-->
                                        <div class="pdf_document">
-                                            <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                            <a href="assets/pdf/Approches_IFGTB_Eco_friendly_approaches_for_rehablitation_of_mine_spoils.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                <span>G20 New Delhi Leaders Declaration</span>
+                                                <span>Approches IFGTB Eco friendly approaches for rehablitation of mine spoils.pdf</span>
                                             </a>
                                         </div>
                                         <!--Pdf Section End-->
@@ -617,9 +617,9 @@
                                         <a href="g20_country_initiatives_knowledge_resources_developing_ecological_restoration.php">Read More</a>
                                        <!--Pdf Section Start-->
                                        <div class="pdf_document">
-                                            <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                            <a href="assets/pdf/Case_study_FRI_Developing_ecological_restoration_model_in_the_mine_spoils_tetulmari.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                <span>G20 New Delhi Leaders Declaration</span>
+                                                <span>Case study FRI Developing ecological restoration model in the mine spoils tetulmari.pdf</span>
                                             </a>
                                         </div>
                                         <!--Pdf Section End-->
@@ -642,9 +642,9 @@
                                         <a href="g20_country_initiatives_knowledge_resources_seed_ball_technology.php">Read More</a>
                                        <!--Pdf Section Start-->
                                        <div class="pdf_document">
-                                            <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                            <a href="assets/pdf/Technology_RFRI_Seed_ball_technology_for_restoration_of_coal_mine.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                <span>G20 New Delhi Leaders Declaration</span>
+                                                <span>Technology - RFRI Seed ball technology for restoration of coal mine.pdf</span>
                                             </a>
                                         </div>
                                         <!--Pdf Section End-->
@@ -665,9 +665,9 @@
                                         <a href="g20_country_initiatives_knowledge_resources_ecological_roadmap.php">Read More</a>
                                        <!--Pdf Section Start-->
                                        <div class="pdf_document">
-                                            <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                                            <a href="assets/pdf/Road_map_FRI_Combined_Singrauli_Final_Report_17_05_2018.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                <span>G20 New Delhi Leaders Declaration</span>
+                                                <span>Road map  FRI - Combined Singrauli Final Report 17 05 2018</span>
                                             </a>
                                         </div>
                                         <!--Pdf Section End-->
