@@ -541,7 +541,7 @@
                                             the development of many countries around the world, many developing and emerging economies, 
                                             and developed...
                                         </p>
-                                        <a href="g20_country_initiatives_knowledge_resources_mining_restoration_affected.php">Read More</a>
+                                        <a href="g20_country_initiatives_knowledge_resources_mining_compendium_best_practices.php">Read More</a>
                                          <!--Pdf Section Start-->
                                        <div class="pdf_document">
                                             <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
@@ -566,7 +566,7 @@
                                             of India in the form of exports, raw material to other industries in the country and finally 
                                             vast employment opportunities...
                                         </p>
-                                        <a href="g20_country_initiatives_forestry_education_industry.php">Read More</a>
+                                        <a href="g20_country_initiatives_knowledge_resources_mine_reclamation.php">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="pdf_document">
                                             <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
@@ -591,7 +591,7 @@
                                             for which forest lands were diverted include transmission lines, hydro projects, defence 
                                             and roads etc...
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_knowledge_resources_ecofriendly_approaches.php">Read More</a>
                                        <!--Pdf Section Start-->
                                        <div class="pdf_document">
                                             <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
@@ -614,7 +614,7 @@
                                         <p>
                                         Almost all the mining techniques from mineral explorations to production and transport are causing environmental damage in several ways. The list includes deforestation, loss of topsoil, accelerated soil erosion, soil contamination, qualitative and quantitative depletion of surface and ground water resources, migration of wild life and avian fauna, and addition of air pollutants and dust in the atmosphere
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_knowledge_resources_developing_ecological_restoration.php">Read More</a>
                                        <!--Pdf Section Start-->
                                        <div class="pdf_document">
                                             <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
@@ -639,7 +639,7 @@
                                             throwing seeds balls without opening up soil with cultivation tools. Seed balls 
                                             (earth balls) are made by mixing seeds of different plant species...
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_knowledge_resources_seed_ball_technology.php">Read More</a>
                                        <!--Pdf Section Start-->
                                        <div class="pdf_document">
                                             <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
@@ -662,7 +662,7 @@
                                         <p>
                                         The various activities required for ecological restoration of coal mines have been discussed and suggested for their implementation in the field as the part of road map...
                                         </p>
-                                        <a href="g20_country_initiatives_Details.php">Read More</a>
+                                        <a href="g20_country_initiatives_knowledge_resources_ecological_roadmap.php">Read More</a>
                                        <!--Pdf Section Start-->
                                        <div class="pdf_document">
                                             <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
@@ -743,8 +743,30 @@
                     <div class="country_initiative_topic_wrapper" id="CI_financing_for_land_conservation_restoration">
                         <h2>Financing for Land Conservation and Restoration</h2> 
                         <div class="flex_row">
-                            <div class="col_12 btn_Section">
-                                <h5>Update Coming Soon</h5>
+                            <div class="col_12">
+                            <div class="col_6">
+                                <div class="events_card">
+                                    <div class="events_card_image">
+                                        <img src="assets/images/events/events.png" alt="">
+                                    </div>
+                                    <div class="events_card_content">
+                                        <h5>Financing Arrangements for Mine Restoration and Rehabilitation</h5>
+                                        <p>
+                                            There is hardly any government, agencies or major funds which provide direct financing to 
+                                            mining reclamation projects especially for abandoned...
+                                        </p>
+                                        <a href="g20_country_initiatives_financing_arrangments_mine.php">Read More</a>
+                                       <!--Pdf Section Start-->
+                                       <div class="pdf_document">
+                                            <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                <span>G20 ECSWG Compendium Best Practices on Restoration of Mining Affected Areas.pdf</span>
+                                            </a>
+                                        </div>
+                                        <!--Pdf Section End-->
+                                    </div>
+                                </div>
+                            </div>
                             </div>
                         </div>
                     </div>      <!--Financing for Land Conservation and Restoration Section End-->

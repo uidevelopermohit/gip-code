@@ -39,10 +39,10 @@
                     <div class="country_initiative_topic_wrapper" id="CI_policy_progam">
                         <div class="flex_row">
                             <div class="col_10">
-                                 <h2>Good Practices</h2>
+                                 <h2>Knowledge Resources</h2>
                             </div>
                             <div class="col_2">
-                            <button class="back_btn"><a href="g20_country_initiatives.php" class="">Back</a></button>
+                            <button class="back_btn"><a href="g20_country_initiatives.php#CI_good_practice" class="">Back</a></button>
                             </div>
                         </div>
                         <div class="flex_row">

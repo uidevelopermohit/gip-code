@@ -64,13 +64,10 @@
                                      , as well as national priorities.
                                 </p>
                                 <p>
-                                     Outcome document: GANDHINAGAR IMPLEMENTATION ROADMAP AND GANDHINAGAR INFORMATION PLATFORM PRESIDENCY 
+                                     Outcome document: GANDHI NAGAR IMPLEMENTATION ROAD MAP AND GANDHI NAGAR INFORMATION PLATFORM PRESIDENCY 
                                      DOCUMENT 
                                 </p>
-                                <p>
-                                    Outcome document: G20 Environment and Climate Ministers’ Meeting Outcome Document and Chair’s 
-                                    Summary 
-                                </p>
+                                
                                   <!--Pdf Section Start-->
                                   <div class="pdf_document">
                                             <a href="assets/pdf/G20_ECSWG-GIR_GIP_for_Global_Land_Initiative.pdf" target="_blank">

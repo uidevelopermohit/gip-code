@@ -49,6 +49,9 @@
                             <div class="col_12">
                             <h5>NATIONAL ACTION PLAN ON FOREST FIRE, Forest protection division, Ministry of environment, forests and climate change, Government of India </h5>
                             <p>
+                               The objective of the National Action Plan on Forest Fires is to minimize forest fires from taking place by informing, enabling and empowering forest fringe communities and may be incentivizing them to work in tandem with the forest departments. This will substantially reduce the vulnerabilities of forests across the diverse forest ecosystems in the Indian subcontinent against fire hazards, enhancing the capabilities of forest and other personnel and institutions in fighting fires, and speed up recovery after a fire event. 
+                            </p>
+                            <p>
                                 <b>General Principles </b>
                                 </p>
                                 <p>

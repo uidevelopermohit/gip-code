@@ -43,15 +43,40 @@
                         </div>
                         <div class="flex_row">
                             <div class="col_12">
-                             <h5>(a)Forest Fire Disaster Management; National Disaster Management Authority, India:</h5>
+                             <h5>(a) Forest Fire Disaster Management; National Disaster Management Authority, India:</h5>
                              <p>
-                                    The overall impact of large scale deforestation has been very devastating, while on one hand the indigenous people in the tropical forests have faced poverty and alienation due to diminishing supplies of forest products and farm yields, on the other; it caused immense loss to environment and ecology. There have been profound ecological effects of forest loss, as evident in the exacerbation of droughts and floods, release of heat trapping temperatures, advent of new pests into cropped lands, much sedimentation in riverbeds and hydroelectric reservoirs, and loss of productive fisheries. (Read more)
-                                        More than 90 percent forest fires all over the world are initiated due to anthropogenic activities, which majority is related to land use pattern. Conversion of forestland to agriculture, pastureland and plantation are the main eminent factors for such incidences. In tropics, two types of practices for conversion of forest land are common i.e. shifting cultivation and permanent conversion.
-                                        Global initiatives are essential to deal with regional issues, like global climate change, rise of sea levels, melting of glaciers and forest fire. During the recent past forest fire has emerged as a severe problem adversely affecting the health and sustainability of the global vegetation. Keeping in view the severity of the problem, a need has been felt worldwide to evolve an effective strategy for fire management planning and practices by seeking international cooperation. It has been felt that communities, being the first responder, be engaged in its management vigorously and experience and expertise of countries be shared for capacity building of individual countries to effectively tackle the problem. Joint research and development network, especially in advancing knowledge about forest fire and in learning from one another's experience carry a lot of advantage and strengthen the prevailing system. Early warning techniques, use of satellite data, suppression techniques, sending experts at the time of fire breakout etc. are the field activities, where such cooperation may be of immense use and significance. In the case of severe fire, it is natural for friendly countries to share expertise and rush helpful agencies that carry rich experiences and could be of great service in the hours of need.
-
-
-
-                                </p>
+                                    The overall impact of large scale deforestation has been very devastating, while on one hand the 
+                                    indigenous people in the tropical forests have faced poverty and alienation due to diminishing 
+                                    supplies of forest products and farm yields, on the other; it caused immense loss to environment 
+                                    and ecology. There have been profound ecological effects of forest loss, as evident in the 
+                                    exacerbation of droughts and floods, release of heat trapping temperatures, advent of new pests 
+                                    into cropped lands, much sedimentation in riverbeds and hydroelectric reservoirs, and loss of 
+                                    productive fisheries.
+                            </p>
+                            <p>
+                                        More than 90 percent forest fires all over the world are initiated due to anthropogenic 
+                                        activities, which majority is related to land use pattern. Conversion of forestland to 
+                                        agriculture, pastureland and plantation are the main eminent factors for such incidences. 
+                                        In tropics, two types of practices for conversion of forest land are common i.e. shifting 
+                                        cultivation and permanent conversion.
+                            </p>
+                            <p>
+                                        Global initiatives are essential to deal with regional issues, like global climate change, 
+                                        rise of sea levels, melting of glaciers and forest fire. During the recent past forest fire has 
+                                        emerged as a severe problem adversely affecting the health and sustainability of the global 
+                                        vegetation. Keeping in view the severity of the problem, a need has been felt worldwide to 
+                                        evolve an effective strategy for fire management planning and practices by seeking 
+                                        international cooperation. It has been felt that communities, being the first responder, 
+                                        be engaged in its management vigorously and experience and expertise of countries be shared 
+                                        for capacity building of individual countries to effectively tackle the problem. Joint research 
+                                        and development network, especially in advancing knowledge about forest fire and in learning 
+                                        from one another's experience carry a lot of advantage and strengthen the prevailing system. 
+                                        Early warning techniques, use of satellite data, suppression techniques, sending experts at
+                                        the time of fire breakout etc. are the field activities, where such cooperation may be of 
+                                        immense use and significance. In the case of severe fire, it is natural for friendly countries 
+                                        to share expertise and rush helpful agencies that carry rich experiences and could be of great 
+                                        service in the hours of need.
+                            </p>
                                         <!--Pdf Section Start-->
                                         <div class="pdf_document">
                                             <a href="assets/pdf/forest fire.pdf" target="_blank">
@@ -65,12 +90,20 @@
                             <!--Second Card-->
                             <div class="flex_row">
                             <div class="col_12">
+                            <br><br>
                             <h5>(b) Proceedings of Consultative Workshop on Forest Fore Management in India (New Delhi); National Disaster Management Authority, May 2022 :</h5>
                             <p>
-                                The Workshop largely focused on Strengthening of Forest Fire Management in the 26 most forest fire affected districts of India spread over 11 States. It also focused on preventing future forest fire outbreaks and ensuing effective and swift response towards this disaster. Keeping these in mind, various officers of MHA, NDMA, IAF, NDRF, FSI, ICFRE, IGNFA and MoEF & CC and Forest Departments of 11 states conducted sessions related to forest fire training, fire alerts and early warning, meteorological drivers of forest fire forecasting, issues and challenges of forest fire management, Global best practices on forest fire management, capacity and training constraints. In an attempt to chart a roadmap for generating awareness towards forest fires, various technical sessions on awareness to various problems and solutions related to forest fire management were held as a part of the one day workshop.
-
-
-                                </p>
+                                The Workshop largely focused on Strengthening of Forest Fire Management in the 26 most forest fire 
+                                affected districts of India spread over 11 States. It also focused on preventing future forest fire 
+                                outbreaks and ensuing effective and swift response towards this disaster. Keeping these in mind, 
+                                various officers of MHA, NDMA, IAF, NDRF, FSI, ICFRE, IGNFA and MoEF & CC and Forest Departments of 
+                                11 states conducted sessions related to forest fire training, fire alerts and early warning, 
+                                meteorological drivers of forest fire forecasting, issues and challenges of forest fire management, 
+                                Global best practices on forest fire management, capacity and training constraints. In an attempt to 
+                                chart a roadmap for generating awareness towards forest fires, various technical sessions on awareness 
+                                to various problems and solutions related to forest fire management were held as a part of the one day 
+                                workshop.
+                            </p>
                                         <!--Pdf Section Start-->
                                         <div class="pdf_document">
                                             <a href="assets/pdf/forest fire.pdf" target="_blank">
@@ -84,11 +117,20 @@
                            <!--Second Card-->
                            <div class="flex_row">
                             <div class="col_12">
+                            <br>
+                            <br>
                             <h5>(c) Proceedings of Consultative Workshop on Forest Fore Management in India (Shimla); National Disaster Management Authority, India, January 2023:</h5>
                             <p>
-                                    The one-day consultative workshop on “National Programme on Forest Fire Management” was organized by the NDMA and MoEFCC in collaboration with the Himachal Pradesh Forest Department (HPFD) and Himalayan Forest Research Institute (HFRI) at HFRI, Shimla on 13 January 2023. The discussions and deliberations by over 60 participants mainly focused on the best practices in forest fire management, innovations, community engagement and issues of sustainable livelihoods. Another important aspect of discussion was the need for early warning, response, research, and training. The participants representing various organizations and agencies were all given an opportunity to share their opinions and experience, who also put in their interesting and innovative views, on this very sensitive issue of forest fire.
-
-                                </p>
+                                    The one-day consultative workshop on “National Programme on Forest Fire Management” was organized by 
+                                    the NDMA and MoEFCC in collaboration with the Himachal Pradesh Forest Department (HPFD) and 
+                                    Himalayan Forest Research Institute (HFRI) at HFRI, Shimla on 13 January 2023. The discussions and 
+                                    deliberations by over 60 participants mainly focused on the best practices in forest fire 
+                                    management, innovations, community engagement and issues of sustainable livelihoods. Another 
+                                    important aspect of discussion was the need for early warning, response, research, and training. 
+                                    The participants representing various organizations and agencies were all given an opportunity to 
+                                    share their opinions and experience, who also put in their interesting and innovative views, on 
+                                    this very sensitive issue of forest fire.
+                            </p>
                                         <!--Pdf Section Start-->
                                         <div class="pdf_document">
                                             <a href="assets/pdf/Proceedings_Shimla.pdf" target="_blank">
@@ -102,12 +144,18 @@
                         <!--Second Card-->
                         <div class="flex_row">
                             <div class="col_12">
+                                <br><br>
                             <h5>(d)	Proceedings of Consultative Workshop on Forest Fore Management in India (Manipur); National Disaster Management Authority, India, January 2023</h5>
                             <p>
-                                    As part of developing the National Programme on Forest Fire Management a consultation workshop was conducted to identify the key challenges faced by the North – Eastern states and to collect inputs and suggestions from them to be incorporated in the National Programme. The workshop was conducted in Manipur and was hosted by the Manipur state forest department. Representatives from all the 7 North-Eastern states and Sikkim were invited to the workshop alongside the research institutes and organizations such as RFRI, NDRF, SDRF, Fire Services and SDMA.
-
-
-                                </p>
+                                As part of developing the National Programme on Forest Fire Management a consultation workshop was 
+                                conducted to identify the key challenges faced by the North 
+                                <br>
+                                – Eastern states and to collect inputs 
+                                and suggestions from them to be incorporated in the National Programme. 
+                                The workshop was conducted in Manipur and was hosted by the Manipur state forest department. 
+                                Representatives from all the 7 North-Eastern states and Sikkim were invited to the workshop alongside 
+                                the research institutes and organizations such as RFRI, NDRF, SDRF, Fire Services and SDMA.
+                            </p>
                                         <!--Pdf Section Start-->
                                         <div class="pdf_document">
                                             <a href="assets/pdf/MoM_Imphal.pdf" target="_blank">
@@ -121,10 +169,14 @@
                          <!--Second Card-->
                          <div class="flex_row">
                             <div class="col_12">
+                                <br><br>
                             <h5>(e)	Proceedings of Consultative Workshop on Forest Fore Management in India (Bhopal); National Disaster Management Authority, India, January 2023:</h5>
                             <p>
-                            The workshop was aimed at collecting inputs and realizing the ground truth in Central Indian states where maximum area of forest is burnt every year. The forests of Central India are highly prone to forest fire and any management initiatives should be incomplete without addressing the Central Indian scenario.
-                                </p>
+                                The workshop was aimed at collecting inputs and realizing the ground truth in Central Indian states 
+                                where maximum area of forest is burnt every year. The forests of Central India are highly prone to 
+                                forest fire and any management initiatives should be incomplete without addressing the Central Indian 
+                                scenario.
+                            </p>
                                         <!--Pdf Section Start-->
                                         <div class="pdf_document">
                                             <a href="assets/pdf/Proceedings_bhopal.pdf" target="_blank">

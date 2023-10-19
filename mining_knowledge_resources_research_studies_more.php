@@ -91,6 +91,14 @@
                                             <STRONG>d. Carbon Regulating Services of A 30-year-old Reclaimed Limestone Mine Area in Foothills of Himalaya (The Indian Forester, International Journal)</STRONG></br>
                                             The study aimed to assess various carbon regulating services of a limestone mine site, reclaimed 30 years back, compared to its adjoining natural forest. The natural forest is dominated by broad leaf species (Quercus leucotricophora) whereas, the reclaimed sites have Cupressus torulosa as the dominant species. Though there was no significant difference in the number of species of various life forms (trees, shrubs, herbs and grasses), total basal cover (TBC) estimated for the natural forest (2513.36cm /100m) was much higher compared to the reclaimed site (584.30 to 997.07cm /100m). The difference is much higher in TBC of trees compared to shrubs. Annual litter production was also higher in the natural forest. Microbial activity in the topsoil layer was found to have increased substantially in the reclaimed mine site. Soil respiration rate and soil microbial biomass in the reclaimed mine site was on a par with that of natural forest. It indicates a significant level of organic matter and detritus availability in the reclaimed sites' topsoils since the soil's degradable organic carbon is the main fuel responsible for the CO emission during soil 2 respiration. Though the carbon assimilation rate recorded in the vegetation of the reclaimed area is on a par with that of vegetation of natural forest at the species level, at the community level, the reclaimed site may have lower assimilation owing to lower TBC. Therefore, the difference in vegetation structure and composition in the reclaimed site compared to the natural forest might significantly impact the overall carbon regulating services in the study area.    
                                         </p>
+                                         <!--Pdf Section Start-->
+                                         <div class="pdf_document">
+                                            <a href="assets/pdf/Special_Issue_on_Ecorestoration_Indian_Forester.pdf" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                <span>Special Issue on Ecorestoration Indian Forester.pdf</span>
+                                            </a>
+                                        </div>
+                                        <!--Pdf Section End-->
                             </div>
                         </div>
                     </div>

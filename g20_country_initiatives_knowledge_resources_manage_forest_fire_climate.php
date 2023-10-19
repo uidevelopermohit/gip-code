@@ -66,9 +66,7 @@
                                 <p>
                                     <b>4. Provide clean air shelters: </b>The state government/ state forest departments (SFDs) should repurpose public buildings like government schools and community halls by fitting them with clean air solutions – like air filters – to create clean air shelters for communities worst impacted by fires and smoke from forest fires.
                                 </p>
-                                <p>
-                                    <b>Recognise forest fires as a disaster type and integrate them into national, sub-national and local disaster management plans:</b> The National Plan on Forest Fires was launched by the Government of India in 2018 under the flagship National Afforestation Programme. This plan touches upon a wide range of activities, but financial constraints and operational dynamism remains a challenge. Forest fires should be recognised as a disaster type under the NDMA act. The recognition will enhance and strengthen the National Plan on Forest Fires by improving its financial allocation and through the creation of a cadre of trained forest firefighters under the National Disaster Response Force (NDRF) and State Disaster Response Force (SDRF). 
-                                </p>
+                                
                                   <!--Pdf Section Start-->
                                   <div class="pdf_document">
                                             <a href="assets/pdf/ceew-research-on-states-prone-to-forest-wildfires-india-and-mitigation-methods.pdf" target="_blank">

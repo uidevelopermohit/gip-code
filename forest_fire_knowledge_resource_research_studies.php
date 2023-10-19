@@ -35,7 +35,7 @@
                     <div class="country_initiative_topic_wrapper" id="additional_section">
                         <div class="flex_row">
                             <div class="col_10">
-                                 <h2>Project Reports</h2>
+                                 <h2>Research Studies</h2>
                             </div>
                             <div class="col_2">
                             <button class="back_btn"><a href="forest_fires_impacted_landscapes.php" class="">Back</a></button>

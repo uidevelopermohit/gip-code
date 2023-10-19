@@ -125,7 +125,7 @@
                     <li>
                         <a href="">
                             <img src="assets/images/flags/turkiya.png">
-                            <h5>Turkiya</h5>
+                            <h5>Türkiye</h5>
                         </a>
                     </li>
                     <li>

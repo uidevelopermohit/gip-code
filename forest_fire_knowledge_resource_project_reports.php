@@ -45,8 +45,18 @@
                             <div class="col_12">
                                 <h5>Restoration of forest fire impacted areas- Karnataka Forest Department, India:</h5>
                                         <p>
-                                        Forest fire on a large scale changes the species composition due to proliferation of invasive alien weed species like Lantana camara. This results in suppression of native grass, herb, shrub and tree species in the long thereby reducing the biodiversity of forests. At Bandipur Tiger reserve, on a pilot basis, Eco-restoration of Forest fire affected areas were undertaken after 2019 major fire incident in GS Betta Range. Efforts are being made to restore 340 ha out of 2150 ha of burnt area. This is an adhoc efforts and there is no policy and financial resources in place to address the restoration efforts of forest fire affected areas.
-                                        There is an immediate requirement of financial resources and assistance from the government and department to the Bandipur Tiger Reserve to reclaim the large portion of forest fire affected areas, so that it can be transformed into earlier natural forests with rich biodiversity.
+                                        Forest fire on a large scale changes the species composition due to proliferation of invasive 
+                                        alien weed species like Lantana camara. This results in suppression of native grass, herb, 
+                                        shrub and tree species in the long thereby reducing the biodiversity of forests. At Bandipur 
+                                        Tiger reserve, on a pilot basis, Eco-restoration of Forest fire affected areas were undertaken 
+                                        after 2019 major fire incident in GS Betta Range. Efforts are being made to restore 340 ha out 
+                                        of 2150 ha of burnt area. This is an adhoc efforts and there is no policy and financial 
+                                        resources in place to address the restoration efforts of forest fire affected areas.
+                                    </p>
+                                    <p>
+                                        There is an immediate requirement of financial resources and assistance from the government and 
+                                        department to the Bandipur Tiger Reserve to reclaim the large portion of forest fire affected 
+                                        areas, so that it can be transformed into earlier natural forests with rich biodiversity.
                                         
                                         </p>
                                         <!--Pdf Section Start-->
