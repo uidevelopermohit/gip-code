@@ -16,9 +16,8 @@
                             <li><a href="index.php"> Minister’s Message</a></li>
                             <li> <a href="indias_presidency.php"> G20 Presidency - India</a></li>
                             <li> <a href="about.php"> About GIP</a></li>
-                            <li> <a href="#"> ICFRE-COE</a></li>
-                            <li> <a href="#"> IIFM</a></li>
-                            <li> <a href="#"> UNDP</a></li>
+                            <li> <a href="https://icfre.gov.in/" target="_blank"> ICFRE-COE</a></li>
+                            <li> <a href="https://iifm.ac.in/" target="_blank"> IIFM</a></li>
                             <li> <a href="news_and_events.php"> Event</a></li>
                             <li> <a href="contact.php"> Contact</a></li>
                             <li><a href="#"> Media</a></li>

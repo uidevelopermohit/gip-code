@@ -57,45 +57,7 @@
             </div>
         </div>
     </section>
-    <!--Events Gallery Image Section Start-->
-    <section class="image_gallery common_spacing">
-        <div class="container_fluid">
-            <div class="flex_row">
-                <div class="col_12">
-                    <div class="section_heading">
-                        <h2>Events Gallery Images</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="flex_row">
-                <div class="col_12 common_spacing">
-                <div class="owl-carousel events_slider">
-                    <div class="events_card">
-                        <div class="events_card_image">
-                            <img src="assets/images/events/ECSWG1.webp" alt="">
-                        </div>
-                    </div>
-                    <div class="events_card">
-                        <div class="events_card_image">
-                            <img src="assets/images/events/2nd_ECWSG.webp" alt="">
-                        </div>
-                    </div>
-                    <div class="events_card">
-                        <div class="events_card_image">
-                            <img src="assets/images/events/3rd_EWCSG.webp" alt="">
-                        </div>
-                    </div>
-                    <div class="events_card">
-                        <div class="events_card_image">
-                            <img src="assets/images/events/ECSWG_Chennai.webp" alt="">
-                        </div>
-                    </div>
-                </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--Events Gallery Image Section End-->
+  
 
     <!--Event Section Start-->
     <section class="events_section common_spacing  ">
