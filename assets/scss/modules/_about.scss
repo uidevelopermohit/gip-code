@@ -1,17 +1,8 @@
+/////////////////////////////////////////////
+///////////////HISTORY OF GIP///////////////
+////////////////////////////////////////////
+
 .history_gip_section {
-    .container_fluid {
-        &::before {
-            content: '';
-            background: url('../images/lotus-vector-green.svg') no-repeat;
-            background-size: 100%;
-            width: 12.5vw;
-            height: 12.5vw;
-            position: absolute;
-            right: 0;
-            top: -5vw;
-            opacity: 0.2;
-        }
-    }
 
     .history_gip_image {
         @include border-radius(1.5625vw);
@@ -23,6 +14,8 @@
     overflow: hidden;
     padding: 6.25vw 0;
     margin-top: 5.208333333333334vw;
+    position: relative;
+    z-index: 1;
 
     .container_fluid {
 
@@ -73,11 +66,27 @@
 
 .gip_pillars {
 
+    &_row {
+        display: flex;
+        max-width: 100%;
+        width: 100%;
+        margin-left: -1.0416666666666665vw; //20px
+        margin-right: -1.0416666666666665vw; //20px
+    }
+
+    &_col {
+        flex: 0 0 auto;
+        width: 20%;
+        padding-left: 1.0416666666666665vw; //20px
+        padding-right: 1.0416666666666665vw; //20px
+    }
+
     &_cards {
         padding: 3.125vw 2.604166666666667vw;
         overflow: hidden;
         position: relative;
         @include border-radius(1.5625vw);
+        height: 100%;
 
         &::before {
             content: '';
@@ -152,4 +161,49 @@
     background-color: $base_light_grey;
     padding-bottom: 6.25vw;
     margin-top: 6.25vw;
+    position: relative;
+    z-index: 1;
+
+    h2 {
+        text-align: center;
+    }
+
+    &_links {
+        margin-top: 4.166666666666666vw; //80px
+        text-align: center;
+
+        .link_1,
+        .link_2,
+        .link_3 {
+            display: inline-block;
+            font-size: 1.6666666666666667vw; //32px
+            font-weight: 700;
+            padding: 1.5625vw 2.604166666666667vw; //30px 50px
+            background-color: $brand-color;
+            @include border-radius(1.0416666666666665vw); //20px
+            color: $base-light-color;
+        }
+
+        .link_2 {
+            background-color: $brand-color-3;
+            margin: 0 5.208333333333334vw; //100px
+        }
+
+        .link_3 {
+            background-color: $brand-color-2;
+        }
+    }
+}
+
+
+
+/////////////////////////////////////////////
+//////////////DELHI DECLARATION//////////////
+////////////////////////////////////////////
+
+.first_section_heading {
+    h2 {
+        text-align: center;
+        margin-bottom: 3.125vw;     //60px
+    }
 }

@@ -1,6 +1,6 @@
 <?php include('includes/header.php')?>
 
-<div class="inner_wrapper">
+<div class="inner_page_wrapper">
     <!--Inner Banner Start-->
     <Section class="inner_banner">
         <div class="container_fluid">
@@ -22,7 +22,7 @@
 
     <!--History GIP Section Start-->
     <section class="history_gip_section common_spacing gradient_container">
-        <div class="container_fluid">
+        <div class="container_fluid right_top_lotus">
             <div class="flex_row">
                 <div class="col_12">
                     <p>
@@ -217,19 +217,21 @@
     <section class="gip_pillars_section common_spacing">
         <div class="container_fluid">
             <div class="flex_row">
-                <h6 class="mt_0">Pillars of the Gandhinagar Implementation Roadmap</h6>
-                <p>All the participating countries to the roadmap are invited to nominate national nodal
-                    institutes/experts/
-                    organizations engaged in the restoration of the two identified landscapes on a voluntary basis.
-                    These
-                    nodal
-                    institutions/experts/organizations will form the backbone of the GIR and help achieve its objectives
-                    by
-                    acting
-                    across the below mentioned 5 pillars.</p>
+                <div class="col_12">
+                    <h6 class="mt_0">Pillars of the Gandhinagar Implementation Roadmap</h6>
+                    <p>All the participating countries to the roadmap are invited to nominate national nodal
+                        institutes/experts/
+                        organizations engaged in the restoration of the two identified landscapes on a voluntary basis.
+                        These
+                        nodal
+                        institutions/experts/organizations will form the backbone of the GIR and help achieve its objectives
+                        by
+                        acting
+                        across the below mentioned 5 pillars.</p>
+                </div>
             </div>
-            <div class="flex_row">
-                <div class="col">
+            <div class="gip_pillars_row">
+                <div class="gip_pillars_col">
                     <div class="gip_pillars_cards pillar_card_1">
                         <h5> SHOWCASE</h5>
                         <P>progress on ecological/ecosystem restoration of the identified landscapes by compiling annual
@@ -237,7 +239,7 @@
                             types of projects and best practices of conservation.</P>
                     </div>
                 </div>
-                <div class="col">
+                <div class="gip_pillars_col">
                     <div class="gip_pillars_cards pillar_card_2">
                         <h5>ENGAGE</h5>
                         <P>
@@ -247,7 +249,7 @@
                         </P>
                     </div>
                 </div>
-                <div class="col">
+                <div class="gip_pillars_col">
                     <div class="gip_pillars_cards pillar_card_3">
                         <h5>COLLABORATE</h5>
                         <P>
@@ -257,7 +259,7 @@
                         </P>
                     </div>
                 </div>
-                <div class="col">
+                <div class="gip_pillars_col">
                     <div class="gip_pillars_cards pillar_card_4">
                         <h5> SUPPORT</h5>
                         <P>
@@ -268,7 +270,7 @@
                         </P>
                     </div>
                 </div>
-                <div class="col">
+                <div class="gip_pillars_col">
                     <div class="gip_pillars_cards pillar_card_5">
                         <h5>INTEGRATE</h5>
                         <P>
@@ -319,7 +321,7 @@
                         The GIP will enable the operationalization of the GIR in the following ways –
                     </p>
                     <p>
-                        <span>Engage stakeholders –</span> The Indian Council of Forestry Research &
+                        <strong>Engage stakeholders –</strong> The Indian Council of Forestry Research &
                         Education
                         (ICFRE) and Indian Institute of
                         Forest Management (IIFM), will coordinate with nodal
@@ -331,13 +333,13 @@
                         the design, development and maintenance of the GIP.
                     </p>
                     <p>
-                        <span>Enable collaboration on a voluntary basis – </span> The best practices,
+                        <strong>Enable collaboration on a voluntary basis – </strong> The best practices,
                         policies
                         and success stories shared on the GIP
                         shall enable cross-learning as well as for ecological/ecosystem restoration.
                     </p>
                     <p>
-                        <span>Innovation through traditions –</span> Highlight traditional knowledge and
+                        <strong>Innovation through traditions –</strong> Highlight traditional knowledge and
                         role of
                         other partners and
                         stakeholders (e.g., Indigenous Peoples, Local Communities and others as appropriate)
@@ -346,7 +348,7 @@
                         ecological/ecosystem restoration.
                     </p>
                     <p>
-                        <span>Access to and sharing of information</span> across a network of experts,
+                        <strong>Access to and sharing of information</strong> across a network of experts,
                         researchers and civil
                         society organizations invited by participating countries for capacity building
                         activities.
@@ -358,7 +360,7 @@
     <!--Expert Section End-->
 
     <!--logo_section Start-->
-    <section class="logo_Section gradient_container common_spacing">
+    <section class="logo_Section common_spacing gradient_container">
         <div class="container_fluid">
             <div class="flex_row">
                 <div class="col_12">
@@ -406,19 +408,11 @@
                 </div>
             </div>
             <div class="flex_row">
-                <div class="col_3">
-                    <div class="delhi_declaration">
-                        <h4><a href="delhi_declaration.php">Delhi Declaration</a></h4>
-                    </div>
-                </div>
-                <div class="col_3">
-                    <div class="grih_structure">
-                        <h4><a href="about_gip_structure.php">GRIH Structure</a></h4>
-                    </div>
-                </div>
-                <div class="col_3">
-                    <div class="gir_gip_structure">
-                        <h4><a href="alliance.php">GIR-GIP Alliance</a></h4>
+                <div class="col_12">
+                    <div class="more_about_gip_links">
+                        <a href="delhi_declaration.php" class="link_1">Delhi Declaration</a>
+                        <a href="about_gip_structure.php" class="link_2">GRIH Structure</a>
+                        <a href="alliance.php" class="link_3">GIR-GIP Alliance</a>
                     </div>
                 </div>
             </div>

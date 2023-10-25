@@ -62,6 +62,8 @@ p {
 .flex_row {
     @include flexbox;
     @include flex-wrap(wrap);
+    width: 100%;
+    max-width: 100%;
 
     margin-left: -1.0416666666666665vw; //20px
     margin-right: -1.0416666666666665vw; //20px
@@ -274,6 +276,50 @@ h6 {
     .container_fluid {
         position: relative;
         z-index: 1;
+    }
+}
+
+.right_top_lotus {
+    &::before {
+        content: '';
+        background: url('../images/lotus-vector-green.svg') no-repeat;
+        background-size: 100%;
+        width: 12.5vw;
+        height: 12.5vw;
+        position: absolute;
+        right: 0;
+        top: -5vw;
+        opacity: 0.2;
+    }
+}
+
+.list {
+    padding-left: 0;
+    list-style: none;
+
+    li {
+        display: block;
+        position: relative;
+        padding-left: 1.5625vw; //30px
+
+        &:not(:last-child) {
+            margin-bottom: 1.5625vw;    //15px
+        }
+
+        &::before {
+            font-family: 'icomoon' !important;
+            content: "\e901";
+            font-size: 0.5208333333333333vw;
+            color: $base-light-color;
+            width: 1.0416666666666665vw;    //20px
+            height: 1.0416666666666665vw;   //20px
+            background-color: $base-font-color;
+            @include border-radius(50px);
+            @extend .middle_align;
+            position: absolute;
+            left: 0;
+            top: 3px;
+        }
     }
 }
 
