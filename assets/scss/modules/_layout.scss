@@ -15,9 +15,11 @@ body {
     color: $base-font-color;
     font-weight: $base-font-weight;
 }
+
 ul {
     list-style: none;
 }
+
 .overflow_wrapper {
     overflow: hidden;
 }
@@ -206,6 +208,14 @@ h6 {
     font-weight: 700;
 }
 
+.pt_0 {
+    padding-top: 0;
+}
+
+.mt_0 {
+    margin-top: 0 !important;
+}
+
 .section_heading {
     text-align: center;
 }
@@ -259,6 +269,11 @@ h6 {
         bottom: -2.604166666666667vw; //50px
         right: -5.989583333333334vw; //115px
         background-color: $brand-color-2;
+    }
+
+    .container_fluid {
+        position: relative;
+        z-index: 1;
     }
 }
 
@@ -459,7 +474,7 @@ h6 {
 
     h5 {
         font-size: 24px;
-        font-weight: 7;
+        font-weight: 700;
     }
 
     h6 {

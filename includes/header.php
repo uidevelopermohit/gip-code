@@ -18,7 +18,7 @@
         rel="stylesheet">
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css"
         type="text/css" media="screen" /> -->
-    <link rel="stylesheet" href="assets/scss/main-style.min.css?v=1.1">
+    <link rel="stylesheet" href="assets/scss/main-style.min.css?v=1.2">
     <?php
         $url = 'https://www.netnivaran.net/development/GIP/'; 
         // $url = parse_url($url, PHP_URL_SCHEME).'://'.parse_url($url, PHP_URL_HOST); 

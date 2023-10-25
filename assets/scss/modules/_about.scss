@@ -1,0 +1,155 @@
+.history_gip_section {
+    .container_fluid {
+        &::before {
+            content: '';
+            background: url('../images/lotus-vector-green.svg') no-repeat;
+            background-size: 100%;
+            width: 12.5vw;
+            height: 12.5vw;
+            position: absolute;
+            right: 0;
+            top: -5vw;
+            opacity: 0.2;
+        }
+    }
+
+    .history_gip_image {
+        @include border-radius(1.5625vw);
+        margin-bottom: 1.5625vw;
+    }
+}
+
+.gip_section {
+    overflow: hidden;
+    padding: 6.25vw 0;
+    margin-top: 5.208333333333334vw;
+
+    .container_fluid {
+
+        &::before,
+        &::after {
+            content: '';
+            background: url('../images/lotus-2.webp') no-repeat;
+            background-size: 100%;
+            width: 41.66666666666667vw;
+            height: 41.66666666666667vw;
+            position: absolute;
+            right: -20.833333333333336vw;
+            top: -20.833333333333336vw;
+        }
+
+        &::after {
+            right: auto;
+            left: -20.833333333333336vw;
+            top: auto;
+            bottom: -20.833333333333336vw;
+        }
+
+        .flex_row {
+            position: relative;
+            z-index: 1;
+        }
+    }
+
+    .gip_highlight_box {
+        border: solid 1px rgba(0, 0, 0, 0.1);
+        background-color: rgba(0, 0, 0, 0.05);
+        padding: 1.5625vw;
+        @include border-radius(1.5625vw);
+        position: relative;
+        margin-bottom: 1.5625vw;
+
+        span {
+            position: absolute;
+            color: rgba(247, 148, 29, 0.1);
+            font-size: 10.416666666666668vw;
+            left: 0;
+            top: 0;
+            line-height: 0.8;
+            font-weight: 700;
+        }
+    }
+}
+
+.gip_pillars {
+
+    &_cards {
+        padding: 3.125vw 2.604166666666667vw;
+        overflow: hidden;
+        position: relative;
+        @include border-radius(1.5625vw);
+
+        &::before {
+            content: '';
+            width: 14.583333333333334vw;
+            height: 14.583333333333334vw;
+            background-color: $brand-color;
+            filter: blur(10.416666666666668vw);
+            position: absolute;
+            top: -3.125vw;
+            left: -3.125vw;
+        }
+
+        h5 {
+            margin-bottom: 1.0416666666666665vw;
+        }
+
+        &.pillar_card_1 {
+            h5 {
+                color: $brand-color;
+            }
+        }
+
+        &.pillar_card_2 {
+            &::before {
+                background-color: $brand-color-3;
+            }
+
+            h5 {
+                color: $brand-color-3;
+            }
+        }
+
+        &.pillar_card_3 {
+
+            &::before {
+                background-color: $brand-color-2;
+            }
+
+            h5 {
+                color: $brand-color-2;
+            }
+        }
+
+        &.pillar_card_4 {
+
+            &::before {
+                background-color: $brand-color-4;
+            }
+
+            h5 {
+                color: $brand-color-4;
+            }
+        }
+
+        &.pillar_card_5 {
+            &::before {
+                background-color: #32BBFF;
+            }
+
+            h5 {
+                color: #32BBFF;
+            }
+        }
+    }
+}
+
+.nodal_institution_logos {
+    margin-top: 3.125vw;
+}
+
+.more_about_gip {
+    background-color: $base_light_grey;
+    padding-bottom: 6.25vw;
+    margin-top: 6.25vw;
+}

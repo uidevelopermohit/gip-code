@@ -1,5 +1,4 @@
-.alliance_section_start
-{
+.alliance_section_start {
     .top_discription_box_delhi_declrtn {
         background-image: url(../images/aboutpage/lotus.webp);
         background-repeat: no-repeat;
@@ -9,28 +8,27 @@
         position: relative;
         z-index: -1;
     }
-    h2
-    {
+
+    h2 {
         text-align: center;
     }
 }
-.alliance_section_start
-{
-.gradient_container_topbar::before
-{
-    content: "";
-    position: absolute;
-    left: -5.9895833333vw;
-    top: 21.604167vw;
-    width: 26.0416666667vw;
-    height:23.041667vw;
-    border-radius: 100%;
-    background-color: #f7941d73;
-    filter: blur(200px);
-}
+
+.alliance_section_start {
+    .gradient_container_topbar::before {
+        content: "";
+        position: absolute;
+        left: -5.9895833333vw;
+        top: 21.604167vw;
+        width: 26.0416666667vw;
+        height: 23.041667vw;
+        border-radius: 100%;
+        background-color: #f7941d73;
+        filter: blur(200px);
+    }
 
 }
-.vision_sctn
-{
-padding-top: 2.6041666667vw;
+
+.vision_sctn {
+    padding-top: 2.6041666667vw;
 }
