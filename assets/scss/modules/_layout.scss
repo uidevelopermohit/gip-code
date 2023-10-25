@@ -35,7 +35,7 @@ a {
 }
 
 p {
-    margin-bottom: 1.5625vw;
+    margin-bottom: 1.5625vw;    //30px
 }
 
 .text-muted {
@@ -218,6 +218,10 @@ h6 {
     margin-top: 0 !important;
 }
 
+.mb_30 {
+    margin-bottom: 1.5625vw;    //30px
+}
+
 .section_heading {
     text-align: center;
 }
@@ -279,6 +283,9 @@ h6 {
     }
 }
 
+.round_shape {
+    @include border-radius(1.5625vw);   //30px
+}
 .right_top_lotus {
     &::before {
         content: '';

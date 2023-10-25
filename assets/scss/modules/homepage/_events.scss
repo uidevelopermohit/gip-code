@@ -1,9 +1,10 @@
 .events {
     &_section {
         padding-bottom: 6.25vw; //120px
+
         .section_heading {
             margin-bottom: 3.6458333333333335vw; //70px
-       
+
         }
     }
 
@@ -27,7 +28,7 @@
 
                 h2 {
                     margin-bottom: 1.0416666666666665vw; //20px
-               
+
                 }
 
                 p {
@@ -63,6 +64,10 @@
         &_content {
             padding: 1.0416666666666665vw; //20px
 
+            a {
+                color: $base-font-color;
+            }
+
             h5 {
                 margin-bottom: 1.0416666666666665vw; //20px
                 padding-bottom: 0;
@@ -75,14 +80,14 @@
                     height: 0.26041666666666663vw; //5px
                     background-color: $brand-color;
                     bottom: -1.0416666666666665vw; //20px
-               
+
                 }
             }
 
             p {
                 margin-bottom: 0;
                 padding-top: 1.0416666666666665vw; //20px;
-           
+
             }
         }
     }
@@ -147,13 +152,13 @@
 
             &_content {
                 padding: 20px;
-    
+
                 h5 {
                     margin-bottom: 15px;
                 }
             }
-       
-        } 
+
+        }
     }
 
     @media screen and (max-width: 767.98px) {

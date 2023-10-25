@@ -37,10 +37,9 @@
                     </p>
                 </div>
             </div>
-            <div class="flex_row">
-                <div class="col_12">
-                    <img src="assets/images/aboutpage/g20leadersmeeting.webp" class="minister_images_g20"
-                        style="width:100%;">
+            <div class="flex_row mb_30 justify_content_center">
+                <div class="col_9">
+                    <img src="assets/images/aboutpage/g20leadersmeeting.webp" class="round_shape" >
                 </div>
             </div>
             <ul class="list">

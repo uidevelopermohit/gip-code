@@ -316,7 +316,7 @@
                             <img src="assets/images/events/ECSWG1.webp" alt="">
                         </div>
                         <div class="events_card_content">
-                        <a href="events_bengaluru.php" style="color:#000;">
+                        <a href="events_bengaluru.php">
                             <h5>1st ECSWG meet: Bengaluru</h5>
                             <p>9 to 11 February 2023</p>
                         </a>
@@ -327,7 +327,7 @@
                             <img src="assets/images/events/2nd_ECWSG.webp" alt="">
                         </div>
                         <div class="events_card_content">
-                        <a href="events_gandhinagar.php" style="color:#000;">
+                        <a href="events_gandhinagar.php">
                             <h5>2nd ECSWG meet: Gandhinagar</h5>
                             <p>27 to 29 March 2023</p>
                         </a>
@@ -338,7 +338,7 @@
                             <img src="assets/images/events/3rd_EWCSG.webp" alt="">
                         </div>
                         <div class="events_card_content">
-                        <a href="events_mumbai.php" style="color:#000;">
+                        <a href="events_mumbai.php">
                             <h5>3rd ECSWG meet: Mumbai</h5>
                             <p>May 21 to 23, 2023</p>
                         </a>
@@ -349,7 +349,7 @@
                             <img src="assets/images/events/ECSWG_Chennai.webp" alt="">
                         </div>
                         <div class="events_card_content">
-                        <a href="events_chennai.php" style="color:#000;">
+                        <a href="events_chennai.php">
                             <h5>4th ECSWG meet: Chennai</h5>
                             <p>July 26 to 28, 2023</p>
                         </a>
