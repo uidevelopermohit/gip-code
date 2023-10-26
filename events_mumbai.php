@@ -1,4 +1,5 @@
 <?php include('includes/header.php')?>
+<div class="inner_page_wrapper">
 <!--Inner Banner Start-->
 <Section class="inner_banner ">
         <div class="container_fluid">
@@ -129,4 +130,5 @@
             </div>
         </section>
         <!--Event Section End-->
+</div>
     <?php include('includes/footer.php')?>

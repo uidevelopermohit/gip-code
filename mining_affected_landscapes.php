@@ -1,4 +1,5 @@
 <?php include('includes/header.php')?>
+<div class="inner_page_wrapper">
  <!--Inner Banner Start-->
      <Section class="inner_banner ">
         <div class="container_fluid">
@@ -219,7 +220,7 @@
                                     Vocational Rules 1966, Oil Mines Regulations 1984, Mines Rescue Rules 1985, and Mines Creche Rules 
                                     1966.
                                 </p>
-                                <p>Source: Comeopnedium of Best Practices on restoration of Mining Affected Areas </p>
+                                <p>Source: Compendium of Best Practices on restoration of Mining Affected Areas </p>
                                 <!--Pdf Section Start-->
                                 <div class="pdf_document">
                                             <a href="assets/pdf/G20_ECSWG-Compendium_Best_Practices_on_Restoration_of_Mining_Affected_Areas.pdf" target="_blank">
@@ -395,9 +396,7 @@
     </section>
 
      <!--First Section End-->
-    
-
-    <!--Second Section End-->
+</div>
     <!--Footer Section Start-->
     <?php include('includes/footer.php')?>
     <!-- Footer Section End-->

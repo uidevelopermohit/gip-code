@@ -9,4 +9,22 @@
     h5 {
         margin-bottom: 1.0416666666666665vw;    //20px
     }
+    //Back Button Css
+    .back_btn
+    {
+        width: 130px;
+        height: 40px;
+        border-radius: 5px;
+        background: #d9d9d9;
+        border: none;
+    }
+    .back_btn a
+    {
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #000;
+    }
 }

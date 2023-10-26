@@ -1,4 +1,5 @@
 <?php include('includes/header.php')?>
+<div class="inner_page_wrapper">
  <!--Inner Banner Start-->
      <Section class="inner_banner ">
         <div class="container_fluid">
@@ -52,7 +53,7 @@
                                 Public participation Is crucial during the pre-project stage, specifically during the Environmental Impact Assessment (EIA) led by the responsible state government through the district administration. The approval process for Land Acquisition and Resettlement and Rehabilitation (R&R) proposals involves a separate Social Impact Assessment (SIA) that requires public consultation to gather the views of affected communities. The state primarily oversees for the project through district administration, courts, or Grievance Redressal Cells established per national and state R&R guidelines. These processes mainly address pre-project litigation or complaints related to land acquisition, compensation, resettlement, and eligibility. There Is a growing recognition of the importance of participatory techniques and community engagement in development planning and program execution.
                                 </p>
                                 <p>
-                                Source: Comeopnedium of Best Practices on restoration of Mining Affected Areas 
+                                Source: Compendium of Best Practices on restoration of Mining Affected Areas 
 
                                 </p>
                                   <!--Pdf Section Start-->
@@ -82,7 +83,8 @@
                                     <div class="events_card_content">
                                     <h5>Community Involvement and Engagement in Forest Fire Management </h5>
                                         <p>
-                                        There are various communities living inside and very close to the forests in India, the sustenance of these communities is intertwined with the forest ecosystems in more than one way.
+                                        There are various communities living inside and very close to the forests in India, the sustenance of these 
+                                        communities is intertwined with the forest ecosystems in more than one way.
                                         </p>
                                         <a href="g20_country_initiatives_traditional_forest_fires_management.php">Read More</a>
                                         <!--Pdf Section Start-->
@@ -103,9 +105,7 @@
     </section>
 
      <!--First Section End-->
-    
-
-    <!--Second Section End-->
+</div>
     <!--Footer Section Start-->
     <?php include('includes/footer.php')?>
     <!-- Footer Section End-->

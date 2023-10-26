@@ -1,4 +1,6 @@
 <?php include('includes/header.php')?>
+
+<div class="inner_page_wrapper">
  <!--Inner Banner Start-->
      <Section class="inner_banner ">
         <div class="container_fluid">
@@ -43,7 +45,7 @@
                         </div>
                         <div class="flex_row">
                             <div class="col_12">
-                                <h5>(a) Comeopnedium of Best Practices on restoration of Forest Fire Affected Areas:</h5>
+                                <h5>(a) Compendium of Best Practices on restoration of Forest Fire Affected Areas:</h5>
                                         <p>
                                             The past decade has seen a significant surge in the incidence of large and uncontrolled 
                                             wildfires. For example, in April 2020, the number of fire alerts around the world rose by 
@@ -220,7 +222,7 @@
     </section>
 
      <!--First Section End-->
-    
+</div>
 
     <!--Second Section End-->
     <!--Footer Section Start-->

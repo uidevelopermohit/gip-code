@@ -1,7 +1,5 @@
 <?php include('includes/header.php')?>
-<style>
-
-</style>
+<div class="inner_page_wrapper">
      <!--Inner Banner Start-->
      <Section class="inner_banner ">
         <div class="container_fluid">
@@ -64,7 +62,7 @@
                                         <div class="pdf_document">
                                             <a href="assets/pdf/APznzaYAM_sG3xbkIGmyAoAWxZ4pC4Yh1HtO1YDuCymqeetAA_bOo7BjOR257un51YNlAdT5XeX9EQHkNiRX23s56HsRoVGTsZIje1JkE3XSFhjwI8PF3QkGtMBVbNqj8EiMELyF-0ZJ1fX4elq6KWdKVw7mcjh4FQ0pX30YjUiepjQESmUqra2iL8BCuc9MitnqhBxcX5rrbc86.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                <span>Framework for Sovereign Green Bonds</span>
+                                                <span>Framework for Sovereign Green Bonds, Government of India</span>
                                             </a>
                                         </div>
                                         <!--Pdf Section End-->
@@ -321,7 +319,8 @@
                                        <div class="pdf_document">
                                             <div class="col content_center">
                                                 
-                                                <a target="blank" href="https://www.jica.go.jp/english/">Source: https://www.jica.go.jp/english/</a>
+                                                <a target="blank" href="https://www.jica.go.jp/english/">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon"> Source: https://www.jica.go.jp/english/</a>
                                             </div><br><br>
                                         </div>
                                         <!--Source Link Section End-->
@@ -339,13 +338,15 @@
                                             GCF is the world’s largest, dedicated multilateral climate fund, with USD 12.7 billion portfolio of GCF resources. Today signals the world’s commitment to GCF’s new 2024-2027 programming period. GCF will deploy its financial resources, continue to grow its 200-plus strong partnerships, build its convening power and knowledge to intentionally invest in the world’s most vulnerable communities – with a focus to maximise private sector investment and coalesce multiple partners and investments behind singular, country-led initiatives.
                                         </p>
                                         <a href="financing-options-probable-international-gcf.php">Read More</a>
-                                        <!--Source Link Section Start-->
+                                        <!--Pdf Section Start-->
                                         <div class="pdf_document">
-                                            <div class="col content_center">
-                                                <a target="blank" href="https://www.greenclimate.fund/news/gcf2-pledging-conference-replenishment#main-content">Source:https://www.greenclimate.fund/gcf</a>
-                                            </div><br><br>
+                                            <a href="https://www.greenclimate.fund/news/gcf2-pledging-conference-replenishment#main-content" target="_blank">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                                                <span>Source:https://www.greenclimate.fund/<br>news/gcf2-pledging-conference-replenishment#main-content</span>
+                                            </a>
                                         </div>
-                                        <!--Source Link Section End-->
+                                        <!--Pdf Section End-->
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -363,7 +364,8 @@
                                         <!--Source Link Section Start-->
                                         <div class="pdf_document">
                                             <div class="col content_center">
-                                                <a target="blank" href="https://www.adb.org/">Source:https://www.adb.org/</a>
+                                                <a target="blank" href="https://www.adb.org/">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">Source:https://www.adb.org/</a>
                                             </div><br><br>
                                         </div>
                                         <!--Source Link Section End-->
@@ -384,7 +386,8 @@
                                         <!--Source Link Section Start-->
                                         <div class="pdf_document">
                                             <div class="col content_center">
-                                                <a target="blank" href="https://openknowledge.worldbank.org/entities/publication/ee8a5cd7-ed72-542d-918b-d72e07f96c79">Source:https://worldbank</a>
+                                                <a target="blank" href="https://openknowledge.worldbank.org/entities/publication/ee8a5cd7-ed72-542d-918b-d72e07f96c79">
+                                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">Source:https://worldbank</a>
                                             </div><br><br>
                                         </div>
                                         <!--Source Link Section End-->
@@ -405,7 +408,8 @@
                                         <!--Source Link Section Start-->
                                         <div class="pdf_document">
                                             <div class="col content_center">
-                                               <a target="blank" href="https://www.jica.go.jp/english/">Source:https://www.jica.go.jp/english/</a>
+                                               <a target="blank" href="https://www.jica.go.jp/english/">
+                                               <img src="assets/images/pdf_icon.webp" class="pdf_icon">Source:https://www.jica.go.jp/english/</a>
                                             </div><br><br>
                                         </div>
                                         <!--Source Link Section End-->
@@ -458,7 +462,8 @@
                                         <!--Source Link Section Start-->
                                         <div class="pdf_document">
                                             <div class="col content_center">
-                                               <a target="blank" href="https://www.ey.com/en_in/climate-change-sustainability-services/green-finance-is-gaining-traction-for-net-zero-transition-in-india">Source:https://www.ey.com/en_in/esg</a>
+                                               <a target="blank" href="https://www.ey.com/en_in/climate-change-sustainability-services/green-finance-is-gaining-traction-for-net-zero-transition-in-india">
+                                               <img src="assets/images/pdf_icon.webp" class="pdf_icon">Source:https://www.ey.com/en_in/esg</a>
                                             </div>
                                         </div>
                                         <!--Source Link Section End-->
@@ -479,7 +484,8 @@
                                         <!--Source Link Section Start-->
                                         <div class="pdf_document">
                                             <div class="col content_center">
-                                               <a target="blank" href="https://www.bain.com/insights/india-philanthropy-report-2023/#:~:text=Overall%2C%20private%20philanthropy%20has%20grown,(INR%201.05%20lakh%20crore">Source:https://Philanthropic Interest</a>
+                                               <a target="blank" href="https://www.bain.com/insights/india-philanthropy-report-2023/#:~:text=Overall%2C%20private%20philanthropy%20has%20grown,(INR%201.05%20lakh%20crore">
+                                               <img src="assets/images/pdf_icon.webp" class="pdf_icon">Source:https://Philanthropic Interest</a>
                                             </div>
                                         </div>
                                         <!--Source Link Section End-->
@@ -507,13 +513,7 @@
                                             Japan International Cooperation Agency (JICA) is a governmental organization in Japan that provides aid and assistance to developing countries to support their economic and social development initiatives. JICA offers a wide range of programs and projects, including infrastructure development, technical assistance, capacity building, and humanitarian aid. 
                                         </p>
                                         <a href="financing_options_bilateral_agreements.php">Read More</a>
-                                         <!--Source Link Section Start-->
-                                         <div class="pdf_document">
-                                            <div class="col content_center">
-                                               <a target="blank" href="https://www.jica.go.jp/english/">Source:https://www.jica.go.jp/english/</a>
-                                            </div>
-                                        </div>
-                                        <!--Source Link Section End-->
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -528,13 +528,7 @@
                                             The Convention on Biological Diversity (CBD) The Convention on Biological Diversity (CBD) entered into force on 29 December 1993. CBD was inspired by the world community's growing commitment to sustainable development. It represents a dramatic step forward in the conservation of biological diversity, the sustainable use of its components, and the fair and equitable sharing of benefits arising from the use of genetic resources.  
                                         </p>
                                         <a href="financing_options_multilateral_agreements.php">Read More</a>
-                                        <!--Source Link Section Start-->
-                                        <div class="pdf_document">
-                                            <div class="col content_center">
-                                               <a target="blank" href="https://www.cbd.int/">Source:https://www.cbd.int/</a>
-                                            </div>
-                                        </div>
-                                        <!--Source Link Section End-->
+                                       
                                     </div>
                                 </div>
                             </div>
@@ -620,7 +614,7 @@
             </div>
         </div>
     </section>
-
+</div>                           
     <!--Footer Section Start-->
     <?php include('includes/footer.php')?>
     <!-- Footer Section End-->

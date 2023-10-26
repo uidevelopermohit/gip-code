@@ -1,4 +1,5 @@
 <?php include('includes/header.php')?>
+<div class="inner_page_wrapper">
     <!--Inner Banner Start-->
     <Section class="inner_banner ">
         <div class="container_fluid">
@@ -54,13 +55,7 @@
                             <p>
                                 Japan International Cooperation Agency (JICA) is a governmental organization in Japan that provides aid and assistance to developing countries to support their economic and social development initiatives. JICA offers a wide range of programs and projects, including infrastructure development, technical assistance, capacity building, and humanitarian aid. The organization plays a crucial role in Japan's international relations and commitment to global development. In their vision statement JICA states that, with its partners, will take the lead in forging bonds of trust across the world, aspiring for a free, peaceful and prosperous world where people can hope for a better future and explore their diverse potentials.
                             </p>
-                            <!--Source Link Section Start-->
-                            <div class="pdf_document">
-                                <div class="col content_center">
-                                   <a target="blank" href="https://www.jica.go.jp/english/">Source:https://www.jica.go.jp/english/</a>
-                                </div>
-                            </div>
-                            <!--Source Link Section End-->
+                           
 
                            
 
@@ -69,13 +64,7 @@
                             <p>GIZ works with the commissioning parties and cooperation partners to generate ideas for political, social and economic change, to develop these into concrete plans and to implement them. GIZ is a public-benefit federal enterprise, German and European values are central to our work. Together with the partners in national governments worldwide and cooperation partners from the worlds of business, research and civil society, GIZ work flexibly to deliver effective solutions that offer people better prospects and sustainably improve their living conditions.</p>
                            
                               
-                            <!--Source Link Section Start-->
-                            <div class="pdf_document">
-                                <div class="col content_center">
-                                   <a target="blank" href="https://www.giz.de/en/html/index.html">Source:https://www.giz.de/en/html/index.html</a>
-                                </div>
-                            </div>
-                            <!--Source Link Section End-->      
+                           
                             
                         </div>
                     </div>
@@ -100,13 +89,7 @@
                                         The Convention on Biological Diversity (CBD) The Convention on Biological Diversity (CBD) entered into force on 29 December 1993. CBD was inspired by the world community's growing commitment to sustainable development. It represents a dramatic step forward in the conservation of biological diversity, the sustainable use of its components, and the fair and equitable sharing of benefits arising from the use of genetic resources.  
                                     </p>
                                     <a href="financing_options_multilateral_agreements.php">Read More</a>
-                                    <!--Source Link Section Start-->
-                                    <div class="pdf_document">
-                                        <div class="col content_center">
-                                           <a target="blank" href="https://www.cbd.int/">Source:https://www.cbd.int/</a>
-                                        </div>
-                                    </div>
-                                    <!--Source Link Section End-->
+                                   
                                 </div>
                             </div>
                         </div>
@@ -123,10 +106,7 @@
     </section>
 
      <!--First Section End-->
-    
-    
-</main>
-
+</div>
     <!--Second Section End-->
     <!--Footer Section Start-->
     <?php include('includes/footer.php')?>

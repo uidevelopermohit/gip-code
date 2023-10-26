@@ -1,4 +1,5 @@
 <?php include('includes/header.php')?>
+<div class="inner_page_wrapper">
  <!--Inner Banner Start-->
      <Section class="inner_banner ">
         <div class="container_fluid">
@@ -45,7 +46,7 @@
                             <div class="col_12">
                             <h5>Case studies</h5>
                             <p>
-                                <STRONG>a.	Comeopnedium of Best Practices on restoration of Mining Affected Areas </STRONG></br>
+                                <STRONG>a.	Compendium of Best Practices on restoration of Mining Affected Areas </STRONG></br>
                                 Mineral resources are the backbone of the economy. Mining is a significant contributor to the development of many countries around the world, many developing and emerging economies, and developed, industrialised economies are dependent on functioning supply chains and security of supply of the resources that drive their economies. A sustainable, well-functioning economy must have an adequate supply of raw mineral resources under fair market conditions. Raw materials are required to ensure our future viability and to address the great problems in climate and energy, health, nutrition, transportation, digitalization, and security.
                                 </p>
                                         <!--Pdf Section Start-->
@@ -152,9 +153,7 @@
     </section>
 
      <!--First Section End-->
-    
-
-    <!--Second Section End-->
+</div>
     <!--Footer Section Start-->
     <?php include('includes/footer.php')?>
     <!-- Footer Section End-->

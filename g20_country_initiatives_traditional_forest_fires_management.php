@@ -1,4 +1,5 @@
 <?php include('includes/header.php')?>
+<div class="inner_page_wrapper">
  <!--Inner Banner Start-->
      <Section class="inner_banner ">
         <div class="container_fluid">
@@ -61,13 +62,13 @@
                                 </p>
                                
                                 <p>
-                                Source: Comeopnedium of Best Practices on restoration of Forest Fire Affected Areas 
+                                Source: Compendium of Best Practices on restoration of Forest Fire Affected Areas 
                                 </p>
                                   <!--Pdf Section Start-->
                                   <div class="pdf_document">
                                             <a href="assets/pdf/G20_ECSWG-Compendium_of_Best_Practices_on_Restoration_of_Forest_Fire_Affected_Areas.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                <span>G20 ECSWG Compendium of Best Practices on Restoration of Forest Fire Affected Areas.pdf</span>
+                                                <span>G20 ECSWG Compendium of Best Practices on Restoration of Forest Fire Impacted Areas.pdf</span>
                                             </a>
                                         </div>
                                         <!--Pdf Section End--> 
@@ -90,7 +91,8 @@
                                     <div class="events_card_content">
                                     <h5>Community Involvement and Engagement in Mining Restoration </h5>
                                         <p>
-                                        Public participation Is crucial during the pre-project stage, specifically during the Environmental Impact Assessment (EIA) led by the responsible state government through the district administration.
+                                        Public participation Is crucial during the pre-project stage, specifically during the Environmental Impact 
+                                        Assessment (EIA) led by the responsible state government through the district administration.
                                         </p>
                                         <a href="g20_country_initiatives_traditional_mining_restoration.php">Read More</a>
                                         <!--Pdf Section Start-->
@@ -112,9 +114,7 @@
     </section>
 
      <!--First Section End-->
-    
-
-    <!--Second Section End-->
+</div>
     <!--Footer Section Start-->
     <?php include('includes/footer.php')?>
     <!-- Footer Section End-->
