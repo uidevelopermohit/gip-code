@@ -20,7 +20,7 @@
                             <li> <a href="https://iifm.ac.in/" target="_blank"> IIFM</a></li>
                             <li> <a href="news_and_events.php"> Event</a></li>
                             <li> <a href="contact.php"> Contact</a></li>
-                            <li><a href="#"> Media</a></li>
+                            <li><a href="media_coverage.php"> Media</a></li>
                         </ul>
                     </div>
                 </div>

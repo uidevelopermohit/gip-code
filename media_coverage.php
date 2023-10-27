@@ -196,7 +196,7 @@
                             </div>
                             <div class="col_10">
                             <h5>National Action Plan On Forest Fire, Government of India</h5>
-                                <p><span class="read_more"><a href="assets/pdf/NAPFF-Final_Draft_23.04.2018.pdf" target="_blank">Read More</a></span></p>
+                                <p><span class="read_more"><a href="assets/pdf/NAPFF-Final-Draft-23.04.2018.pdf" target="_blank">Read More</a></span></p>
                             </div>
                         </div>
                         <hr>
@@ -236,7 +236,7 @@
                             </div>
                             <div class="col_10">
                             <h5>Mine Reclamation: A handbook, Indian Council of Forestry and Research Education</h5>
-                                <p> <span class="read_more"><a href="assets/pdf/A_Handbook-ICFRE_Mine_Reclamation.pdf" target="_blank">Read More</a></span></p>  
+                                <p> <span class="read_more"><a href="assets/pdf/A Handbook - ICFRE Mine Reclamation.pdf" target="_blank">Read More</a></span></p>  
                             </div>
                         </div>
                         <hr>
@@ -266,7 +266,7 @@ Ha) Of Bccl Mine, Forest
 Ecology &amp; Environment
 Division Forest Research
 Institute, Dehradun, India</h5>
-                                <p><span class="read_more"><a href="assets/pdf/Case_study-FRI_Developing_ecological_restoration_model_in_the_mine_spoils_tetulmari.pdf" target="_blank">Read More</a></span></p>
+                                <p><span class="read_more"><a href="assets/pdf/Case_study_FRI_Developing_ecological_restoration_model_in_the_mine_spoils_tetulmari.pdf" target="_blank">Read More</a></span></p>
                             </div>
                         </div>
                         <hr>
@@ -278,7 +278,7 @@ Institute, Dehradun, India</h5>
                             </div>
                             <div class="col_10">
                             <h5>Seed Ball Technology for Restoration of Coal Mined Land, Rain Forest Research Institute, India</h5>
-                                <p><span class="read_more"><a href="assets/pdf/Technology-RFRI_Seed_ball_technology_for_restoration_of_coal_mine.pdf" target="_blank">Read More</a></span></p>
+                                <p><span class="read_more"><a href="assets/pdf/Technology_RFRI_Seed_ball_technology_for_restoration_of_coal_mine.pdf" target="_blank">Read More</a></span></p>
                             </div>
                         </div>
                         <hr>
@@ -293,7 +293,7 @@ Institute, Dehradun, India</h5>
                             <div class="col_10">
                             <h5>Road Map for Ecological Restoration Works in Coal Mines of NCL, Singrauli, M.P.; Forest Research Institute,
 Dehradun, Indiaf</h5>
-                                <p> <span class="read_more"><a href="assets/pdf/Road_map_FRI-Combined_Singrauli_Final_Report_17_05_2018.pdf" target="_blank">Read More</a></span></p>  
+                                <p> <span class="read_more"><a href="assets/pdf/Road_map_FRI_Combined_Singrauli_Final_Report_17_05_2018.pdf" target="_blank">Read More</a></span></p>  
                             </div>
                         </div>
                         <hr>
