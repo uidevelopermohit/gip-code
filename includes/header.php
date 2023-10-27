@@ -69,8 +69,8 @@ $currentDateTime = date('F j, Y | H:i \h\r\s');
                                     <li><a href="alliance.php">Alliance</a></li>
                                 </ul>
                             </li>
-                            <li><a href="indias_presidency.php">G20 Presidency</a></li>
-                            <li><a href="indias_presidency.php">Past Presidencies</a></li>
+                            <li><a href="indias_presidency.php#indias_presidencies">G20 Presidency</a></li>
+                            <li><a href="indias_presidency.php#past_presidencies">Past Presidencies</a></li>
                             <li><a href="keyhighlights.php">Key Highlights</a></li>
                             <li><a href="thematic_working_group_meetings.php">Themetic Working Group Meetings</a></li>
                         </ul>
@@ -137,10 +137,10 @@ $currentDateTime = date('F j, Y | H:i \h\r\s');
                     <!-- <li class="nav_item"><a href="">Contact</a></li> -->
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">Media</a>
                                 <ul>
-                                    <li><a href="">Press Releases</a></li>
-                                    <li><a href="">Media Coverage</a></li>
-                                    <li><a href="">Event Reports</a></li>
-                                    <li><a href="">Gallery</a></li>
+                                    <li><a href="media_coverage.php#pressrelease">Press Releases</a></li>
+                                    <li><a href="media_coverage.php#media_coverage">Media Coverage</a></li>
+                                    <li><a href="media_coverage.php#events_reports">Event Reports</a></li>
+                                    <li><a href="media_coverage.php#gallery">Gallery</a></li>
                                 </ul>
                 
                     </li>

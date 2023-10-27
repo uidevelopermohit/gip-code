@@ -31,7 +31,7 @@
                     <img src="assets/images/events/2nd_ECWSG.webp" alt="">
                 </div>     
             </div>
-            <div class="container_fluid">
+            <div class="container_fluid common_spacing">
                 <div class="flex_row">
                     <div class="col_12">
                         <p>

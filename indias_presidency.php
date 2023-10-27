@@ -1,5 +1,4 @@
 <?php include('includes/header.php')?>
-<div class="inner_page_wrapper">
     <!--Inner Banner Start-->
     <Section class="inner_banner ">
         <div class="container_fluid">
@@ -20,7 +19,7 @@
     <!--Inner Banner End-->
 
     <!--First Section Start-->
-    <section class="india_Presidency_section_start common_spacing gradient_container">
+    <section class="india_Presidency_section_start common_spacing gradient_container" id="indias_presidencies">
         <div class="container_fluid right_top_lotus">
             <div class="flex_row">
                 <div class="col_6">
@@ -119,7 +118,7 @@
     <!--First Section End-->
 
     <!--Second Section Start-->
-    <section class="timeline_section common_spacing">
+    <section class="timeline_section common_spacing" id="past_presidencies">
         <div class="container_fluid top_right_image_lotus">
             <h2>Past Presidencies</h2>
             <div class="country_timeline_wrapper">
@@ -624,5 +623,4 @@
         </div>
     </section>
     <!--Second Section End-->
-</div>
 <?php include('includes/footer.php')?>

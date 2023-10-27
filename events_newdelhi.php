@@ -30,7 +30,7 @@
                     <img src="assets/images/events/bharat_mandapam.webp" alt="">
                 </div>     
             </div>
-            <div class="container_fluid">
+            <div class="container_fluid common_spacing">
                 <div class="flex_row">
                     <div class="col_12">
                         <p>
@@ -61,8 +61,8 @@
   
 
     <!--Event Section Start-->
-    <section class="events_section common_spacing  ">
-            <div class="container_fluid">
+    <section class="events_section   ">
+            <div class="container_fluid ">
                 <div class="section_heading">
                     <h2>Events & News</h2>
                 </div>

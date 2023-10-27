@@ -28,10 +28,10 @@
                     <div class="footer_links">
                         <h5>Mining Affected Landscapes</h5>
                         <ul>
-                            <li><a href="mining_affected_landscapes.php#policy_prgrms_section">Policies and Programs</a></li>
-                            <li><a href="mining_affected_landscapes.php#knowledge_resources#"> Knowledge Resources</a></li>
-                            <li> <a href="mining_affected_landscapes.php#design_framework_Section"> Design Frameworks</a></li>
-                            <li> <a href="mining_affected_landscapes.php#technology_tools_Section">Technology & Tools</a></li>
+                            <li><a href="mining_affected_landscapes.php#CI_policy_progam">Policies and Programs</a></li>
+                            <li><a href="mining_affected_landscapes.php#CI_knowledge_Resources"> Knowledge Resources</a></li>
+                            <li> <a href="mining_affected_landscapes.php#CI_design_framework"> Design Frameworks</a></li>
+                            <li> <a href="mining_affected_landscapes.php#CI_technology_tools">Technology & Tools</a></li>
                         </ul>
                     </div>
                 </div>
@@ -39,10 +39,10 @@
                     <div class="footer_links">
                         <h5>Forest Fires Impacted Landscapes</h5>
                         <ul>
-                            <li><a href="forest_fires_impacted_landscapes.php#policy_prgrms_section">Policies and Programs</a></li>
-                            <li><a href="forest_fires_impacted_landscapes.php#knowledge_resources"> Knowledge Resources</a></li>
-                            <li> <a href="forest_fires_impacted_landscapes.php"> Design Frameworks</a></li>
-                            <li> <a href="forest_fires_impacted_landscapes.php#technology_tools_Section">Technology & Tools</a></li>
+                            <li><a href="forest_fires_impacted_landscapes.php#CI_policy_progam">Policies and Programs</a></li>
+                            <li><a href="forest_fires_impacted_landscapes.php#CI_knowledge_Resources"> Knowledge Resources</a></li>
+                            <li> <a href="forest_fires_impacted_landscapes.php#CI_design_framework"> Design Frameworks</a></li>
+                            <li> <a href="forest_fires_impacted_landscapes.php#CI_technology_tools">Technology & Tools</a></li>
                         </ul>
                     </div>
                 </div>
@@ -51,13 +51,13 @@
                     <div class="footer_links">
                         <h5>Financing <br>Options</h5>
                         <ul>
-                            <li><a href="financing_option.php#policy_prgrms_section#">Public Programs and schemes</a></li>
+                            <li><a href="financing_option.php#public_programs">Public Programs and schemes</a></li>
                             <li><a href="financing_option.php#financial_institutions"> Financial Institutions</a></li>
                             <li> <a href="financing_option.php#financial_markets"> Financial Markets</a></li>
-                            <li> <a href="financing_option.php#probable_international_Section"> Private Sector funding</a></li>
-                            <li> <a href="financing_option.php"> Bi / Multilateral Environmental</a></li>
-                            <li> <a href="financing_option.php"> Agreements</a></li>
-                            <li> <a href="financing_option.php"> High Impact proposals</a></li>
+                            <li> <a href="financing_option.php#probable_international"> Private Sector funding</a></li>
+                            <li> <a href="financing_option.php#private_sector_funding"> Bi / Multilateral Environmental</a></li>
+                            <li> <a href="financing_option.php#bi_multilateral_agreements"> Agreements</a></li>
+                            <li> <a href="financing_option.php#high_impact_proposals"> High Impact proposals</a></li>
                         </ul>
                     </div>
                 </div>

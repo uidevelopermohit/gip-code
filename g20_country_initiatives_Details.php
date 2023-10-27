@@ -1,6 +1,5 @@
 <?php include('includes/header.php')?>
 
-<div class="inner_page_wrapper">
 <!--Breadcrumb section Start-->
 <Section class="new_breadcrumb">
     <div class="container_fluid">
@@ -152,7 +151,6 @@
         </div>
     </section>
     <!--First Section End -->
-</div>
 <!--Footer Section Start-->
 <?php include('includes/footer.php')?>
 <!-- Footer Section End-->

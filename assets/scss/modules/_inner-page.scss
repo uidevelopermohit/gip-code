@@ -9,22 +9,62 @@
     h5 {
         margin-bottom: 1.0416666666666665vw;    //20px
     }
-    //Back Button Css
-    .back_btn
-    {
-        width: 130px;
-        height: 40px;
-        border-radius: 5px;
-        background: #d9d9d9;
-        border: none;
-    }
-    .back_btn a
-    {
-        font-size: 18px;
-        font-weight: 500;
-        line-height: 30px;
-        letter-spacing: 0em;
-        text-align: left;
-        color: #000;
-    }
 }
+ //Back Button Css
+ .back_btn
+ {
+     width: 130px;
+     height: 40px;
+     border-radius: 5px;
+     background: #d9d9d9;
+     border: none;
+ }
+ .back_btn a
+ {
+     font-size: 18px;
+     font-weight: 500;
+     line-height: 30px;
+     letter-spacing: 0em;
+     text-align: left;
+     color: #000;
+ }
+ .content_Section
+ {
+     background-color: #fff;
+     z-index: 1;
+     padding: 24vh 5vh;
+     align-self: center;
+ }
+ .events_card_content a
+ {
+    color: #0075bc;
+ }
+ .events_card_content .blk_lnk
+ {
+    color: #000;
+ }
+ .pdf_document_img .pdf_icon 
+ {
+    height: 4.0833333333vw;
+    margin-right: 10px;
+}
+.read_more
+{
+    float: right;
+    margin-bottom: 1.5625vw;
+}
+.press_release_top_botom_spacing_last
+{
+margin-top: 2.5625vw;
+padding-bottom: 5.5625vw;
+}
+.press_release_top_botom_spacing
+{
+margin-top: 2.5625vw;
+}
+
+ .fix_hight
+ {
+    height:172px;
+ }
+

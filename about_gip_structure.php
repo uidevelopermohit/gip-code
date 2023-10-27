@@ -143,68 +143,95 @@
                         broadly
                         comprise and cover the following components:
                     </p>
+                    <ul class="list mb_30">
                     <p>
-                        <i class="icon-right-arrow"></i>&nbsp; Best practices, and success stories on land restoration
+                        <li>
+                        Best practices, and success stories on land restoration
                         across the priority landscapes i.e. forest fire-affected
                         areas and mining-affected areas, information on the nodal institutes/agencies and knowledge
                         bases
+                        </li>
                     </p>
                     <p>
-                        <i class="icon-right-arrow"></i>&nbsp;Progress achieved, and lessons learned on restoration
+                        <li>
+                        Progress achieved, and lessons learned on restoration
                         efforts
+                        </li>
                     </p>
+                    </ul>
                     <h5>
+
                         The following discusses the specific components that will be encompassed in the Gandhinagar
                         Information Hub:
                     </h5>
+                    <ul class="list mb_30">
                     <p>
-                        <i class="icon-right-arrow"></i>&nbsp;Best practices of restoration in mining and
+                        <li>
+                        Best practices of restoration in mining and
                         forest-forest-impacted areas
+                        </li>
                     </p>
 
                     <p>
-                        <i class="icon-right-arrow"></i>&nbsp; Information on the nodal institutes/agencies that are
+                        <li>
+                        Information on the nodal institutes/agencies that are
                         proposed to be
                         designated nodal agencies that will support the G20 Global Land Initiative specific to the
                         priority
                         landscapes of
                         mining-affected areas and forest fire-impacted areas
+                            <li>
                     </p>
 
                     <p>
-                        <i class="icon-right-arrow"></i>&nbsp; Knowledge base showcasing case studies of the use of
+                        <li>
+                        Knowledge base showcasing case studies of the use of
                         traditional knowledge
                         in restoration and biodiversity enrichment
+                        </li>
                     </p>
 
                     <p>
-                        <i class="icon-right-arrow"></i>&nbsp; Solution portal of restoration efforts for the
+                        <li>
+                        Solution portal of restoration efforts for the
                         identification
                         of appropriate
                         techniques and practices for restoration efforts
+                        </li>
                     </p>
 
                     <p>
-                        <i class="icon-right-arrow"></i>&nbsp;Feedback mechanism
+                        <li>
+                        Feedback mechanism
+                        </li>
                     </p>
 
                     <p>
-                        <i class="icon-right-arrow"></i>&nbsp; Showcase of capacity building efforts of G20 countries
+                        <li>
+                        Showcase of capacity building efforts of G20 countries
+                        <li>
                     </p>
 
                     <p>
-                        <i class="icon-right-arrow"></i>&nbsp; Employment and gender aspects
+                        <li>
+                        Employment and gender aspects
+                        </li>
                     </p>
 
                     <p>
-                        <i class="icon-right-arrow"></i>&nbsp; Display of progress and progress sharing
+                        <li>
+                        Display of progress and progress sharing
+                        </li>
                     </p>
 
                     <p>
-                        <i class="icon-right-arrow"></i>&nbsp; Publications across the thematic areas of restoration and
+                        <li>
+                        Publications across the thematic areas of restoration and
                         biodiversity
                         enrichment
+                        </li>
                     </p>
+                    </ul>
                 </div>
             </div>
         </div>

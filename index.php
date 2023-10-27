@@ -1,6 +1,7 @@
 <?php include('includes/header.php')?>
 
 
+<div class="inner_page_wrapper">
         <!--Banner Section Start Here-->
         <section class="banner_section">
             <div class="owl-carousel banner_slider">
@@ -303,10 +304,6 @@
                             <p>The Prime Minister, Shri Narendra Modi lauded the adoption of the New Delhi Leaders’ Declaration and expressed his gratitude to all fellow G20 members for their support and cooperation.Sharing the digital copy of the New Delhi Leaders’ Declaration, the Prime Minister posted on X: “History has been created with the adoption of the New Delhi Leaders’ Declaration. United in consensus and spirit, we pledge to work collaboratively for a better, more prosperous, and harmonious future. My gratitude to all fellow G20 members for their support and cooperation.”</p>
                         </a>
                         </div>
-                        <!--<div class="selected_event_date">
-                            <span>Sept&nbsp; 9</span>
-                            <h6>2023</h6>
-                        </div>-->
                     </div>
                 </div>
 
@@ -316,7 +313,7 @@
                             <img src="assets/images/events/ECSWG1.webp" alt="">
                         </div>
                         <div class="events_card_content">
-                        <a href="events_bengaluru.php">
+                        <a href="events_bengaluru.php" class="blk_lnk">
                             <h5>1st ECSWG meet: Bengaluru</h5>
                             <p>9 to 11 February 2023</p>
                         </a>
@@ -327,7 +324,7 @@
                             <img src="assets/images/events/2nd_ECWSG.webp" alt="">
                         </div>
                         <div class="events_card_content">
-                        <a href="events_gandhinagar.php">
+                        <a href="events_gandhinagar.php" class="blk_lnk">
                             <h5>2nd ECSWG meet: Gandhinagar</h5>
                             <p>27 to 29 March 2023</p>
                         </a>
@@ -338,7 +335,7 @@
                             <img src="assets/images/events/3rd_EWCSG.webp" alt="">
                         </div>
                         <div class="events_card_content">
-                        <a href="events_mumbai.php">
+                        <a href="events_mumbai.php" class="blk_lnk">
                             <h5>3rd ECSWG meet: Mumbai</h5>
                             <p>May 21 to 23, 2023</p>
                         </a>
@@ -349,7 +346,7 @@
                             <img src="assets/images/events/ECSWG_Chennai.webp" alt="">
                         </div>
                         <div class="events_card_content">
-                        <a href="events_chennai.php">
+                        <a href="events_chennai.php" class="blk_lnk">
                             <h5>4th ECSWG meet: Chennai</h5>
                             <p>July 26 to 28, 2023</p>
                         </a>
@@ -374,5 +371,5 @@
             </div>
         </section>
         <!--Logo Section End-->
-
+</div>
         <?php include('includes/footer.php')?>

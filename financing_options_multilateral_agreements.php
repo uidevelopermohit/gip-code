@@ -187,9 +187,6 @@
      <!--First Section End-->
     
     
-</main>
-
-    <!--Second Section End-->
     <!--Footer Section Start-->
     <?php include('includes/footer.php')?>
     <!-- Footer Section End-->

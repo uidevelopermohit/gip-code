@@ -37,7 +37,7 @@
                                 <img src="assets/images/events/bharat_mandapam.webp" alt="">
                             </div>
                             <div class="events_card_content">
-                                <a href="events_newdelhi.php">
+                                <a href="events_newdelhi.php" class="blk_lnk">
                                     <h5>New Delhi Leaders’ Declaration:(9th September 2023, New Delhi)</h5>
                                     <p>9th September 2023</p>
                                 </a>
@@ -50,7 +50,7 @@
                                 <img src="assets/images/events/ECSWG1.webp" alt="">
                             </div>
                             <div class="events_card_content">
-                                <a href="events_bengaluru.php">
+                                <a href="events_bengaluru.php" class="blk_lnk">
                                     <h5>1st ECSWG meet: Bengaluru</h5>
                                     <p>February 9 to 11, 2023</p>
                                 </a>
@@ -63,7 +63,7 @@
                                 <img src="assets/images/events/2nd_ECWSG.webp" alt="">
                             </div>
                             <div class="events_card_content">
-                                <a href="events_gandhinagar.php">
+                                <a href="events_gandhinagar.php" class="blk_lnk">
                                     <h5>2nd ECSWG meet: Gandhinagar</h5>
                                     <p>March 27 to 29, 2023</p>
                                 </a>
@@ -76,7 +76,7 @@
                                 <img src="assets/images/events/3rd_EWCSG.webp" alt="">
                             </div>
                             <div class="events_card_content">
-                                <a href="events_mumbai.php">
+                                <a href="events_mumbai.php" class="blk_lnk">
                                     <h5>3rd ECSWG meet: Mumbai</h5>
                                     <p>May 21 to 23, 2023</p>
                                 </a>
@@ -89,7 +89,7 @@
                                 <img src="assets/images/events/ECSWG_Chennai.webp" alt="">
                             </div>
                             <div class="events_card_content">
-                                <a href="events_chennai.php">
+                                <a href="events_chennai.php" class="blk_lnk">
                                     <h5>4th ECSWG meet: Chennai</h5>
                                     <p>July 26 to 28, 2023</p>
                                 </a>

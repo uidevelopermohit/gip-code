@@ -24,7 +24,8 @@
 
             .selected_event_content {
                 color: $base-light-color;
-                width: calc(100% - 250px);
+                //width: calc(100% - 250px);
+                width: calc(100%);
 
                 h2 {
                     margin-bottom: 1.0416666666666665vw; //20px
