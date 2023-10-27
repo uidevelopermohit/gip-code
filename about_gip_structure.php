@@ -112,8 +112,8 @@
     <!--GIP Section Start-->
 
     <!--Third Section Start-->
-    <section class="discription_structr_about_gip common_spacing">
-        <div class="container_fluid common_spacing gradient_container ">
+    <section class="discription_structr_about_gip common_spacing gradient_container">
+        <div class="container_fluid">
             <div class="flex_row ">
                 <div class="col_12 discription_structr_about_gip_lotus">
 

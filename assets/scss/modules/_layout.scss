@@ -35,7 +35,7 @@ a {
 }
 
 p {
-    margin-bottom: 1.5625vw;    //30px
+    margin-bottom: 1.5625vw; //30px
 }
 
 .text-muted {
@@ -219,7 +219,7 @@ h6 {
 }
 
 .mb_30 {
-    margin-bottom: 1.5625vw;    //30px
+    margin-bottom: 1.5625vw; //30px
 }
 
 .section_heading {
@@ -284,8 +284,9 @@ h6 {
 }
 
 .round_shape {
-    @include border-radius(1.5625vw);   //30px
+    @include border-radius(1.5625vw); //30px
 }
+
 .right_top_lotus {
     &::before {
         content: '';
@@ -310,7 +311,7 @@ h6 {
         padding-left: 1.5625vw; //30px
 
         &:not(:last-child) {
-            margin-bottom: 1.5625vw;    //15px
+            margin-bottom: 1.5625vw; //15px
         }
 
         &::before {
@@ -318,8 +319,8 @@ h6 {
             content: "\e901";
             font-size: 0.5208333333333333vw;
             color: $base-light-color;
-            width: 1.0416666666666665vw;    //20px
-            height: 1.0416666666666665vw;   //20px
+            width: 1.0416666666666665vw; //20px
+            height: 1.0416666666666665vw; //20px
             background-color: $base-font-color;
             @include border-radius(50px);
             @extend .middle_align;
@@ -626,8 +627,8 @@ h6 {
     }
 
     .container_fluid {
-        padding-left: 20px;
-        padding-right: 20px;
+        padding-left: 30px;
+        padding-right: 30px;
     }
 
     p {
@@ -656,6 +657,23 @@ h6 {
 
     h6 {
         font-size: 20px;
+    }
+
+    .list {
+
+        li {
+            padding-left: 30px;
+
+            &:not(:last-child) {
+                margin-bottom: 15px;
+            }
+
+            &::before {
+                font-size: 5px;
+                width: 20px;
+                height: 20px;
+            }
+        }
     }
 }
 

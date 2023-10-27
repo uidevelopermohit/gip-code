@@ -204,7 +204,7 @@
 .first_section_heading {
     h2 {
         text-align: center;
-        margin-bottom: 3.125vw;     //60px
+        margin-bottom: 3.125vw; //60px
     }
 }
 
@@ -223,5 +223,224 @@
 .thematic_meetings {
     .col_6 {
         margin-bottom: 2vw;
+    }
+}
+
+@media screen and (min-width: 1920.98px) {
+    .history_gip_section {
+
+        .history_gip_image {
+            @include border-radius(30px);
+            margin-bottom: 30px;
+        }
+    }
+
+    .gip_section {
+        padding: 120px 0;
+        margin-top: 100px;
+
+        .container_fluid {
+
+            &::before,
+            &::after {
+                width: 800px;
+                height: 800px;
+                right: -400px;
+                top: -400px;
+            }
+
+            &::after {
+                left: -400px;
+                bottom: -400px;
+            }
+        }
+
+        .gip_highlight_box {
+            padding: 30px;
+            @include border-radius(30px);
+            margin-bottom: 30px;
+
+            span {
+                font-size: 200px;
+            }
+        }
+    }
+
+    .gip_pillars {
+
+        &_row {
+            display: flex;
+            max-width: 100%;
+            width: 100%;
+            margin-left: -1.0416666666666665vw; //20px
+            margin-right: -1.0416666666666665vw; //20px
+        }
+
+        &_col {
+            flex: 0 0 auto;
+            width: 20%;
+            padding-left: 1.0416666666666665vw; //20px
+            padding-right: 1.0416666666666665vw; //20px
+        }
+
+        &_cards {
+            padding: 60px 50px;
+            @include border-radius(1.5625vw);
+
+            &::before {
+                width: 280px;
+                height: 280px;
+                filter: blur(200px);
+                top: -60px;
+                left: -60px;
+            }
+
+            h5 {
+                margin-bottom: 20px;
+            }
+        }
+    }
+
+    .nodal_institution_logos {
+        margin-top: 60px;
+    }
+
+    .more_about_gip {
+        padding-bottom: 120px;
+        margin-top: 120px;
+
+        &_links {
+            margin-top: 80px;
+
+            .link_1,
+            .link_2,
+            .link_3 {
+                font-size: 32px;
+                padding: 30px 50px;
+                @include border-radius(20px);
+            }
+
+            .link_2 {
+                margin: 100px;
+            }
+        }
+    }
+
+    .first_section_heading {
+        h2 {
+            margin-bottom: 60px;
+        }
+    }
+
+    .thematic_meetings {
+        .col_6 {
+            margin-bottom: 38px;
+        }
+    }
+}
+
+@media screen and (max-width: 991.98px) {
+    .gip_section {
+        padding: 50px 0;
+        margin-top: 50px;
+
+        .gip_highlight_box {
+            height: 100%;
+            margin-bottom: 20px;
+            padding: 20px;
+        }
+    }
+
+    .gip_highlight_box {
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+
+    .gip_pillars {
+
+        &_row {
+            margin-left: -20px;
+            margin-right: -20px;
+            flex-wrap: wrap;
+        }
+
+        &_col {
+            width: 33.33%;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+
+        &_cards {
+            padding: 20px;
+
+            h5 {
+                margin-bottom: 15px;
+            }
+        }
+    }
+
+    .more_about_gip {
+        padding-bottom: 50px;
+        margin-top: 50px;
+
+        &_links {
+            margin-top: 50px;
+
+            .link_1,
+            .link_2,
+            .link_3 {
+                font-size: 16px;
+                font-weight: 700;
+                padding: 15px 30px;
+                @include border-radius(20px);
+            }
+        }
+    }
+
+    .first_section_heading {
+        h2 {
+            text-align: left;
+            margin-bottom: 20px;
+        }
+    }
+}
+
+@media screen and (max-width: 767.98px) {
+    .gip_section {
+        .gip_highlight_box {
+            height: auto;
+        }
+    }
+
+    .gip_pillars {
+
+        &_col {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+    }
+
+    .more_about_gip {
+        &_links {
+            margin-top: 20px;
+
+            .link_1,
+            .link_2,
+            .link_3 {
+                padding: 15px 10px;
+            }
+
+            .link_2 {
+                margin: 0 20px;
+            }
+        }
+    }
+
+    .nodal_institution_logos {
+        align-items: center;
+
+        .col_2 {
+            width: 16.66666667%;
+        }
     }
 }

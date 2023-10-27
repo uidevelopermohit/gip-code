@@ -86,7 +86,7 @@
                     </p>
                 </div>
             </div>
-            <div class="flex_row">
+            <div class="flex_row history_gip_images">
                 <div class="col_6">
                     <img src="assets/images/aboutpage/g20leaders.webp" class="history_gip_image">
                 </div>
@@ -417,7 +417,6 @@
                 </div>
             </div>
         </div>
-
     </section>
 </div>
 <!--last Section End-->

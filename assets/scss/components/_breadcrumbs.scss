@@ -22,12 +22,13 @@
                 width: 10px;
                 height: 10px;
                 background-color: $base-light-color;
-                right: -0.78125vw;      //15px
-                top: 0.3645833333333333vw;  //7px
+                right: -0.78125vw; //15px
+                top: 0.3645833333333333vw; //7px
                 position: absolute;
                 border-radius: 50px;
             }
         }
+
         &:last-child {
             opacity: 0.7;
         }
@@ -35,7 +36,40 @@
 
     @media screen and (min-width: 1920.98px) {
         li {
-            margin-left: 25px;
+            padding: 0 20px;
+
+            &:not(:last-child) {
+
+                &::after {
+                    width: 10px;
+                    height: 10px;
+                    right: -15px;
+                    top: 7px;
+                }
+            }
+        }
+    }
+
+    @media screen and (max-width: 767.98px) {
+        @include justify-content(start);
+        margin-top: 10px;
+
+        li {
+            padding: 0 20px;
+
+            &:first-child {
+                padding-left: 0;
+            }
+
+            &:not(:last-child) {
+
+                &::after {
+                    width: 10px;
+                    height: 10px;
+                    right: -8px;
+                    top: 7px;
+                }
+            }
         }
     }
 }
