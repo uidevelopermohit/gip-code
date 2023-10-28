@@ -88,20 +88,22 @@
                 </div>
                 <div class="col_6">
                     <h6>Mission of the Alliance</h6>
-                    <p><i class="icon-right-arrow"></i>&nbsp;Shaping the global agenda for restoration of
+                    <ul class="list">
+                        <li>Shaping the global agenda for restoration of
                         identified
                         priority
-                        landscapes</p>
-                    <p><i class="icon-right-arrow"></i>&nbsp;Creating a network of nodal institutions/experts to
+                        landscapes</li>
+                        <li>Creating a network of nodal institutions/experts to
                         enable
-                        knowledge sharing and capacity building</p>
-                    <p><i class="icon-right-arrow"></i>&nbsp;Building a knowledge platform to enhance capacity
+                        knowledge sharing and capacity building</li>
+                        <li>Building a knowledge platform to enhance capacity
                         of
-                        organizations/individuals engaged in restoration activities</p>
-                    <p><i class="icon-right-arrow"></i>&nbsp;Identifying and supporting lighthouse projects that
+                        organizations/individuals engaged in restoration activities</li>
+                        <li>Identifying and supporting lighthouse projects that
                         can
                         demonstrate
-                        measurable impacts and act as a template for restoration of identified landscapes</p>
+                        measurable impacts and act as a template for restoration of identified landscapes</li>
+                    </ul>
                 </div>
             </div>
         </div>

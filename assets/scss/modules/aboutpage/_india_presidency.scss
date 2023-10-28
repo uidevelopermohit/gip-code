@@ -47,7 +47,7 @@
                 width: 50%;
                 background-color: $brand-color;
                 position: absolute;
-                right: 0;
+                left: 0;
                 bottom: -0.5208333333333333vw;
             }
         }
@@ -58,13 +58,44 @@
                 position: relative;
             }
         }
+        .country_timeline_heading {
+            position: sticky;
+            top: 8vw;
+            padding-top: 2vw;
+            padding-bottom: 1vw;
+            background-color: #FCEFDF;
+            z-index: 1;
+
+            &::before {
+                content: '';
+                position: absolute;
+                width: 1.5625vw;
+                height: 1.5625vw;
+                right: -3.75vw;
+                top: 3.78125vw;
+                background-color: $brand-color-3;
+                border-radius: 50px;
+            }
+
+            p {
+                margin-bottom: 0;
+            }
+        }
+        .country_timeline_right {
+            .country_timeline_heading {
+                &::before {
+                    left: -4vw; 
+                    right: auto;
+                }
+            }
+        }
     }
 
     &_left {
         flex: 0 0 50%;
         width: 50%;
         padding-right: 3.125vw;
-        text-align: right;
+        // text-align: right;
         position: relative;
         padding-bottom: 6.25vw;
 
@@ -92,26 +123,6 @@
                     border-radius: 50px;
                     background-color: $base-font-color;
                 }
-            }
-        }
-
-        .country_timeline_heading {
-            position: relative;
-            margin-bottom: 2.083333333333333vw;
-
-            &::before {
-                content: '';
-                position: absolute;
-                width: 1.5625vw;
-                height: 1.5625vw;
-                right: -3.75vw;
-                top: 1.78125vw;
-                background-color: $brand-color-3;
-                border-radius: 50px;
-            }
-
-            p {
-                margin-bottom: 0;
             }
         }
     }

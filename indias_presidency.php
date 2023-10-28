@@ -164,7 +164,7 @@
                         <p><strong>With the theme of “Recover Together, Recover Stronger” in mind, the G20 Leaders
                                 declared
                                 to:</strong></p>
-                        <ul class="country_timeline_content_list">
+                        <ul class="list">
                             <li>Stay agile and flexible in their macro-economic policy responses and cooperation, make
                                 public
                                 investments and structural reforms, promote private investments, and strengthen

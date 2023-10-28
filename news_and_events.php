@@ -5,13 +5,13 @@
         <div class="container_fluid">
             <div class="flex_row">
                 <div class="col_8">
-                    <h4>News & Events</h4>
+                    <h4>Events & News</h4>
                 </div>
 
                 <div class="col_4">
                     <ul class="new_breadcrumb">
                         <li><a href="<?php echo $base_url; ?>">Home</a></li>
-                        <li>News & Events</li>
+                        <li>Events & News</li>
                     </ul>
                 </div>
             </div>
@@ -98,21 +98,21 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+            <!--News Section-->
+            <div class="tab-content news_events" id="news">
+                <div class="container_fluid gradient_container">
+                    <div class="news_container">
+                        <h2>Update Coming Soon</h2>
+                    </div>
+                </div>
+            </div>
 
-
-    <!--News Section-->
-    <section class="tab-content" id="news">
-        <div class="container_fluid gradient_container">
-            <h2><strong>Update Coming Soon</strong></h2>
-        </div>
-    </section>
-
-    <!--Training Program-->
-    <section class="tab-content" id="training_program">
-        <div class="container_fluid gradient_container">
-            <h2><strong>Update Coming Soon</strong></h2>
+            <!--Training Program-->
+            <div class="tab-content news_events" id="training_program">
+                <div class="training_programs_container">
+                    <h2>Update Coming Soon</h2>
+                </div>
+            </div>
         </div>
     </section>
 </div>

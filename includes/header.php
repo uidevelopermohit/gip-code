@@ -24,7 +24,7 @@
         // $url = parse_url($url, PHP_URL_SCHEME).'://'.parse_url($url, PHP_URL_HOST); 
         $base_url = trim($url, '/');
     ?>
-     <?php
+    <?php
 // Set the time zone to India Standard Time (IST)
 date_default_timezone_set('Asia/Kolkata');
 
@@ -43,9 +43,9 @@ $currentDateTime = date('F j, Y | H:i \h\r\s');
                 <div class="header_top_content">
                     <div class="date_time"><span><?php echo $currentDateTime; ?></span> </div>
                     <div class="website_font_size">
-                        <span>A <sup>-</sup></span>
-                        <span class="font_size_selected">A</span>
-                        <span>A <sup>+</sup></span>
+                        <span id="btn-decrease">A <sup>-</sup></span>
+                        <span class="font_size_selected" id="btn-orig">A</span>
+                        <span id="btn-increase">A <sup>+</sup></span>
                     </div>
                     <!-- <div class="website_language"><img src="assets/images/language/flaglanguageen.png" width="27"
                         height="14px" alt=""> English</div> -->
@@ -55,8 +55,9 @@ $currentDateTime = date('F j, Y | H:i \h\r\s');
             <nav class="navbar">
                 <a href="javascript: void(0)" class="menu_toggle"><i class="icon-menu"></i></a>
                 <div class="navbar_brand navbar_brand_logos_left">
-                    <a href="index.php"><img src="<?php echo $base_url; ?>/assets/images/headerlogo/headerfirst.png" class="fst_logo">
-                    <img src="assets/images/headerlogo/headersecond.png" class="second_logo"></a>
+                    <a href="index.php"><img src="<?php echo $base_url; ?>/assets/images/headerlogo/headerfirst.png"
+                            class="fst_logo">
+                        <img src="assets/images/headerlogo/headersecond.png" class="second_logo"></a>
                 </div>
                 <ul class="navbar_nav">
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">GIP</a>
@@ -101,48 +102,54 @@ $currentDateTime = date('F j, Y | H:i \h\r\s');
                         </ul>
                     </li>
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">Forest Fire Impacted Landscapes</a>
-                                <ul>
-                                    <li><a href="forest_fires_impacted_landscapes.php#CI_policy_progam">Policy and Programs</a></li>
-                                    <li><a href="forest_fires_impacted_landscapes.php#CI_knowledge_Resources">Knowledge Resources</a></li>
-                                    <li><a href="forest_fires_impacted_landscapes.php#CI_design_framework">Design Frameworks</a></li>
-                                    <li><a href="forest_fires_impacted_landscapes.php#CI_technology_tools">Technology & Tools</a></li>
-                                </ul>
+                        <ul>
+                            <li><a href="forest_fires_impacted_landscapes.php">Policy and Programs</a></li>
+                            <li><a href="forest_fires_impacted_landscapes.php#CI_knowledge_Resources">Knowledge
+                                    Resources</a></li>
+                            <li><a href="forest_fires_impacted_landscapes.php#CI_design_framework">Design Frameworks</a>
+                            </li>
+                            <li><a href="forest_fires_impacted_landscapes.php#CI_technology_tools">Technology &
+                                    Tools</a></li>
+                        </ul>
                     </li>
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">Mining Affected Landscapes</a>
-                                <ul>
-                                    <li><a href="mining_affected_landscapes.php#CI_policy_progam">Policy and Programs</a></li>
-                                    <li><a href="mining_affected_landscapes.php#CI_knowledge_Resources">Knowledge Resources</a></li>
-                                    <li><a href="mining_affected_landscapes.php#CI_design_framework">Design Frameworks</a></li>
-                                    <li><a href="mining_affected_landscapes.php#CI_technology_tools">Technology & Tools</a></li>
-                                </ul>
+                        <ul>
+                            <li><a href="mining_affected_landscapes.php">Policy and Programs</a></li>
+                            <li><a href="mining_affected_landscapes.php#CI_knowledge_Resources">Knowledge Resources</a>
+                            </li>
+                            <li><a href="mining_affected_landscapes.php#CI_design_framework">Design Frameworks</a></li>
+                            <li><a href="mining_affected_landscapes.php#CI_technology_tools">Technology & Tools</a></li>
+                        </ul>
                     </li>
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">Financing Options</a>
-                                <ul>
-                                    <li><a href="financing_option.php#public_programs">Public Programs and Schemes</a></li>
-                                    <li><a href="financing_option.php#financial_institutions">Financial Institutions</a></li>
-                                    <li><a href="financing_option.php#financial_markets">Financial Markets</a></li>
-                                    <li><a href="financing_option.php#probable_international">Probable International Finance Options</a></li>
-                                    <li><a href="financing_option.php#private_sector_funding">Private Sector Funding</a></li>
-                                    <li><a href="financing_option.php#bi_multilateral_agreements">Bi/ Multilateral Environmental Agreements</a></li>
-                                    <li><a href="financing_option.php#high_impact_proposals">High Impact Proposals</a></li>
-                                </ul>
+                        <ul>
+                            <li><a href="financing_option.php">Public Programs and Schemes</a></li>
+                            <li><a href="financing_option.php#financial_institutions">Financial Institutions</a></li>
+                            <li><a href="financing_option.php#financial_markets">Financial Markets</a></li>
+                            <li><a href="financing_option.php#probable_international">Probable International Finance
+                                    Options</a></li>
+                            <li><a href="financing_option.php#private_sector_funding">Private Sector Funding</a></li>
+                            <li><a href="financing_option.php#bi_multilateral_agreements">Bi/ Multilateral Environmental
+                                    Agreements</a></li>
+                            <li><a href="financing_option.php#high_impact_proposals">High Impact Proposals</a></li>
+                        </ul>
                     </li>
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">Events & News</a>
-                                <ul>
-                                    <li><a href="news_and_events.php">Events</a></li>
-                                    <li><a href="news_and_events.php">News</a></li>
-                                    <li><a href="news_and_events.php">Training Programs</a></li>
-                                </ul>
+                        <ul>
+                            <li><a href="news_and_events.php">Events</a></li>
+                            <li><a href="news_and_events.php">News</a></li>
+                            <li><a href="news_and_events.php">Training Programs</a></li>
+                        </ul>
                     </li>
                     <!-- <li class="nav_item"><a href="">Contact</a></li> -->
                     <li class="nav_item sub_menu"><a href="javascript: void(0)">Media</a>
-                                <ul>
-                                    <li><a href="media_coverage.php#pressrelease">Press Releases</a></li>
-                                    <li><a href="media_coverage.php#media_coverage">Media Coverage</a></li>
-                                    <li><a href="media_coverage.php#events_reports">Event Reports</a></li>
-                                    <li><a href="media_coverage.php#gallery">Gallery</a></li>
-                                </ul>
-                
+                        <ul>
+                            <li><a href="media_coverage.php#pressrelease">Press Releases</a></li>
+                            <li><a href="media_coverage.php#media_coverage">Media Coverage</a></li>
+                            <li><a href="media_coverage.php#events_reports">Event Reports</a></li>
+                            <li><a href="media_coverage.php#gallery">Gallery</a></li>
+                        </ul>
+
                     </li>
                 </ul>
                 <div class="navbar_brand navbar_brand_logos_right">

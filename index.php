@@ -6,7 +6,7 @@
         <section class="banner_section">
             <div class="owl-carousel banner_slider">
                 <div class="item">
-                    <img src="assets/images/banner/banner-1.jpg" alt="">
+                    <img src="assets/images/banner/banner-1.webp" alt="">
                     <div class="banner_content_overlay">
                         <h5>A G20 Knowledge Initiative</h5>
                         <h1>Gandhinagar Information Platform (GIP)</h1>
@@ -40,7 +40,7 @@
                     </div>
                 </div>
                 <div class="item last_slide">
-                    <img src="assets/images/banner/banner-5.jpg" alt="">
+                    <img src="assets/images/banner/banner-5.webp" alt="">
                 </div>
             </div>
         </section>

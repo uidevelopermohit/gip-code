@@ -38,7 +38,7 @@
                 </div>
             </div>
             <div class="flex_row mb_30 justify_content_center">
-                <div class="col_9">
+                <div class="col_9 text_center">
                     <img src="assets/images/aboutpage/g20leadersmeeting.webp" class="round_shape" >
                 </div>
             </div>

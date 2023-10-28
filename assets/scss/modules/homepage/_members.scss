@@ -53,7 +53,7 @@
             flex: 0 0 14.28%;
             width: 14.28%;
             padding: 2.083333333333333vw; //40px
-            border: solid 1px $border-color;
+            // border: solid 1px $border-color;
             // background-color: $base-light-color;
 
             a {
@@ -64,6 +64,7 @@
                     margin-top: 0.78125vw; //15px
                     font-size: 1.0416666666666665vw; //20px
                     padding-bottom: 0;
+                    margin-bottom: 0;
                 }
 
                 &:hover {

@@ -2,4 +2,9 @@
     .col_4 {
         margin-bottom: 2vw;
     }
+    .news_container,
+    .training_programs_container {
+        min-height: 40vh;
+        @extend .middle_align;
+    }
 }

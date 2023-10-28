@@ -292,12 +292,30 @@ h6 {
         content: '';
         background: url('../images/lotus-vector-green.svg') no-repeat;
         background-size: 100%;
-        width: 12.5vw;
-        height: 12.5vw;
+        width: 8.5vw;
+        height: 8.5vw;
         position: absolute;
         right: 0;
         top: -5vw;
         opacity: 0.2;
+    }
+}
+
+.pdf_document {
+    margin-top: 1.0416666666666665vw; //20px
+
+    a {
+        display: flex;
+        align-items: center;
+        font-weight: 700;
+        // background-color: $base-light-grey;
+        // padding: 1.0416666666666665vw;
+        border-radius: 5px;
+
+        img {
+            height: 2.083333333333333vw; //40px
+            margin-right: 10px;
+        }
     }
 }
 
@@ -560,54 +578,27 @@ h6 {
         margin-left: 50px;
         margin-top: 50px;
     }
+
+    .right_top_lotus {
+        &::before {
+            width: 163px;
+            top: -80px;
+        }
+    }
+
+    .pdf_document {
+        margin-top: 20px;
+
+        a {
+            padding: 1.0416666666666665vw;
+
+            img {
+                height: 40px;
+            }
+        }
+    }
 }
 
-@media screen and (max-width: 1400px) {
-    /* h1 {
-        font-size: 4.166666666666666vw; //80px
-        font-weight: 700; 
-    }
-    
-    h2 {
-        font-size: 2.083333333333333vw; //40px
-        font-weight: 700;
-    }
-    
-    h3 {
-        font-size: 2.083333333333333vw; //40px
-        font-weight: 700;
-    }
-    
-    h4 {
-        font-size: 1.6666666666666667vw; //32px
-        font-weight: 700;
-    }
-    
-    h5 {
-        font-size: 1.25vw; //24px
-        font-weight: 7
-    }
-    
-    h6 {
-        font-size: 1.4583333333333333vw; //28px
-        font-weight: 500;
-    } */
-}
-
-@media screen and (max-width: 1199.98px) {
-    /* 
-        h1 {
-            font-size: 50px;
-        }
-    
-        h2 {
-            font-size: 42px;
-        }
-    
-        h6 {
-            font-size: 20px;
-        } */
-}
 
 @media screen and (max-width: 991.98px) {
     body {
