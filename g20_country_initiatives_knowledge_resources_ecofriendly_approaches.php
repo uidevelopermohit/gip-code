@@ -94,7 +94,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Mine_Reclamation_A_handbook_Indian_Council_of_Forestry_and_Research_Education.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Mine Reclamation: A handbook, Indian Council of Forestry and Research Education</h5>

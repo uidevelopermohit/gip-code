@@ -96,7 +96,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Eco_Friendly_Approaches_for_Rehabilitation_of_Mine_Spoils_Institute_of_Forest_Genetics_and_Tree_Bre.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Research Studies</h5>
@@ -113,7 +113,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Developing_Ecological_Restoration_Model_In_The_Mine_Spoils_At_Tetulmari_Under_Sijua_Area_About_8-10.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Project Reports</h5>
@@ -128,7 +128,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Mine_Reclamation_A_handbook_Indian_Council_of_Forestry_and_Research_Education.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Training materials</h5>

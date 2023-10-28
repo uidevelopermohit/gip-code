@@ -90,7 +90,7 @@
             </div>
             <div class="flex_row objective_boxes">
                 <div class="col_6">
-                    <img src="assets/images/aboutpage/enhance.webp" class="minister_images_g20">
+                    <img src="assets/images/aboutpage/Global_Restoration_Information_Hub.webp" class="minister_images_g20">
                 </div>
                 <div class="col_6">
                     <h5>Enhance focus on ecological restoration of land</h5>

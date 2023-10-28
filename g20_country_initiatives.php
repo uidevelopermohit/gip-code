@@ -343,7 +343,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Institutional_Framework_for_Monitoring_and_Evaluation_ofMine_Restoration.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Institutional Framework for Monitoring and Evaluation of Mine Restoration</h5>
@@ -377,10 +377,10 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Compendium_of_Best_Practices_on_restoration_of_Forest_Fire_Affected_Areas.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
-                                        <h5>compendium of Best Practices on restoration of Forest Fire Affected Areas</h5>
+                                        <h5>Compendium of Best Practices on restoration of Forest Fire Affected Areas</h5>
                                         <p>
                                             The past decade has seen a significant surge in the incidence of large and uncontrolled 
                                             wildfires. For example, in April 2020, the number of fire alerts around the world rose by 
@@ -402,7 +402,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Managing_Forest_Fires_in_a_Changing_Climate-Council_on_Energy_Environment_and_Water_(CEEW).webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Managing Forest Fires in a Changing Climate: Council on Energy Environment and Water (CEEW)</h5>
@@ -427,7 +427,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Restoration_of_forest_fire_impacted_areas_Karnataka_Forest_Department_India.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Restoration of forest fire impacted areas- Karnataka Forest Department, India</h5>
@@ -453,7 +453,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/NATIONAL-ACTION-PLAN-ON-FOREST-FIRE_-Forest-protection-division_-Ministry-of-environment_-forests-an.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>NATIONAL ACTION PLAN ON FOREST FIRE, Forest protection division, Ministry of environment, forests and climate change, Government of India</h5>
@@ -477,7 +477,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/NATIONAL_ACTION_PLAN_ON_FOREST_FIRE_Forest_protection_division_Ministry_of_environment_forestsan.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Forest fire disaster management report, The National Disaster Management Authority, India</h5>
@@ -502,7 +502,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Forest-Fire-Management-Global-Best-Practices_-National-Disaster-Management-Authority_-India.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Forest Fire Management: Global Best Practices, National Disaster Management Authority, India</h5>
@@ -532,10 +532,10 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/compendium_of_Best_Practices_on_restoration_of_Mining_Affected_Areas.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
-                                        <h5>compendium of Best Practices on restoration of Mining Affected Areas</h5>
+                                        <h5>Compendium of Best Practices on restoration of Mining Affected Areas</h5>
                                         <p>
                                             Mineral resources are the backbone of the economy. Mining is a significant contributor to 
                                             the development of many countries around the world, many developing and emerging economies, 
@@ -557,7 +557,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Mine_Reclamation_A_handbook_Indian_Council_of_Forestry_and_Research_Education.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Mine Reclamation: A handbook, Indian Council of Forestry and Research Education</h5>
@@ -582,7 +582,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Eco_Friendly_Approaches_for_Rehabilitation_of_Mine_Spoils_Institute_of_Forest_Genetics_and_Tree_Bre.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Eco Friendly Approaches for Rehabilitation of Mine Spoils, Institute of Forest Genetics and Tree Breeding</h5>
@@ -607,7 +607,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Developing_Ecological_Restoration_Model_In_The_Mine_Spoils_At_Tetulmari_Under_Sijua_Area_About_8-10.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Developing Ecological Restoration Model In The Mine Spoils At Tetulmari Under Sijua Area (About 8-10 Ha) Of Bccl Mine, Forest Ecology & Environment Division Forest Research Institute, Dehradun, India</h5>
@@ -630,7 +630,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Seed_Ball_Technology_for_Restoration_of_Coal_Mined_Land_Rain_Forest_Research_Institute_India.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Seed Ball Technology for Restoration of Coal Mined Land, Rain Forest Research Institute, India</h5>
@@ -655,7 +655,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Road_Map_for_Ecological_Restoration_Works_in_Coal_Mines_of_NCL_Singrauli_M.P.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Road Map for Ecological Restoration Works in Coal Mines of NCL, Singrauli, M.P.; Forest Research Institute, Dehradun, India</h5>
@@ -747,7 +747,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Financing_Arrangements_for_Mine_Restoration_and_Rehabilitation.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Financing Arrangements for Mine Restoration and Rehabilitation</h5>

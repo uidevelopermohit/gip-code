@@ -84,7 +84,7 @@
             </div>
             <div class="flex_row objective_boxes">
                 <div class="col_6">
-                    <img src="assets/images/aboutpage/enhance.webp" class="round-shape">
+                    <img src="assets/images/aboutpage/Kunming_Montreal_Global_Biodiversity_Framework.webp" class="round-shape">
                 </div>
                 <div class="col_6">
                     <h6>Mission of the Alliance</h6>

@@ -91,7 +91,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Restoration_of_forest_fire_impacted_areas_Karnataka_Forest_Department_India.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Project Reports</h5>
@@ -116,7 +116,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Compendium_of_Best_Practices_on_restoration_of_Forest_Fire_Affected_Areas.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Case Studies</h5>
@@ -140,7 +140,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/NATIONAL_ACTION_PLAN_ON_FOREST_FIRE_Forest_protection_division_Ministry_of_environment_forestsan.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Training Materials</h5>
