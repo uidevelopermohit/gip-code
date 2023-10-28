@@ -21,7 +21,7 @@
     <!--First Fold Section Start-->
     <section class="events_detail gradient_container common_spacing">
         <div class="container_fluid">
-            <div class="flex_row">
+            <div class="flex_row mb_60">
                 <div class="col_4 event_detail_desc">
                     <h4>1st ECSWG meet: Bengaluru </h4>
                     <p>(9 to 11 February 2023)</p>
@@ -30,43 +30,41 @@
                     <img src="assets/images/events/ECSWG1.webp" alt="">
                 </div>
             </div>
-            <div class="container_fluid common_spacing">
-                <div class="flex_row">
-                    <div class="col_12">
-                        <p>
-                            <strong>
-                                First Environment and Climate Sustainability Working Group (ECSWG) meeting concluded in
-                                Bengaluru with all
-                                G20 countries showing commitment to constructively work towards the objective of the
-                                three priority areas
-                            </strong>
-                        </p>
-                        <p>
-                            The Environment and Climate Sustainability Working Group (ECSWG) held its first meeting in
-                            Bengaluru,
-                            focusing on three priority areas: Arresting Land Degradation, Accelerating Ecosystem
-                            Restoration and
-                            Enriching Biodiversity, Promoting a Sustainable and Climate Resilient Blue Economy, and
-                            Encouraging Resource
-                            Efficiency and Circular Economy. The meeting was led by India's G20 presidency and included
-                            a visit to the
-                            Bannerghatta National Park. The G20 will work in collaboration with other key working groups
-                            to address
-                            environmental, sustainability, and climate change issues. The ECSWG will work on the Green
-                            Development Pact
-                            and the High-Level Principles on LiFE, as well as the Blue Economy. The discussions will
-                            continue at the
-                            2nd ECSWG meeting in Gandhinagar.
-                        </p>
-                        <!--pdf Section Start-->
-                        <div class="pdf_document">
-                            <a href="assets/pdf/1st_ECSWG_Meeting.pdf" target="_blank">
-                                <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                <span>1st ECSWG Meeting.pdf</span>
-                            </a>
-                        </div>
-                         <!--pdf Section End-->    
+            <div class="flex_row">
+                <div class="col_12">
+                    <p>
+                        <strong>
+                            First Environment and Climate Sustainability Working Group (ECSWG) meeting concluded in
+                            Bengaluru with all
+                            G20 countries showing commitment to constructively work towards the objective of the
+                            three priority areas
+                        </strong>
+                    </p>
+                    <p>
+                        The Environment and Climate Sustainability Working Group (ECSWG) held its first meeting in
+                        Bengaluru,
+                        focusing on three priority areas: Arresting Land Degradation, Accelerating Ecosystem
+                        Restoration and
+                        Enriching Biodiversity, Promoting a Sustainable and Climate Resilient Blue Economy, and
+                        Encouraging Resource
+                        Efficiency and Circular Economy. The meeting was led by India's G20 presidency and included
+                        a visit to the
+                        Bannerghatta National Park. The G20 will work in collaboration with other key working groups
+                        to address
+                        environmental, sustainability, and climate change issues. The ECSWG will work on the Green
+                        Development Pact
+                        and the High-Level Principles on LiFE, as well as the Blue Economy. The discussions will
+                        continue at the
+                        2nd ECSWG meeting in Gandhinagar.
+                    </p>
+                    <!--pdf Section Start-->
+                    <div class="pdf_document">
+                        <a href="assets/pdf/1st_ECSWG_Meeting.pdf" target="_blank">
+                            <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                            <span>1st ECSWG Meeting.pdf</span>
+                        </a>
                     </div>
+                    <!--pdf Section End-->
                 </div>
             </div>
         </div>
