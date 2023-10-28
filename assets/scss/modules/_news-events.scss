@@ -8,3 +8,17 @@
         @extend .middle_align;
     }
 }
+
+.events_detail {
+    .event_detail_desc {
+        background-color: $base-light-color;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        padding: 0 2.604166666666667vw;     //0 50px
+
+        h4 {
+            margin-bottom: 1.5625vw;        //30px
+        }
+    }
+}

@@ -1,51 +1,48 @@
-.contact_section
-{
-    a h5
-    {
-        color:#000;
+.contact_section {
+    a h5 {
+        color: #000;
     }
-    .content_Section
-    {
+
+    .content_Section {
         align-self: center;
         background-color: #fff;
     }
-    
-    .gradient_container::before, .gradient_container::after
-{
-    content: "";
-    position: absolute;
-    left: 5.9895833333vw;
-    top: 2.6041666667vw;
-    width: 16.0416666667vw;
-    height: 26.0416666667vw;
-    background-color: #f7941d;
-    border-radius: 100%;
-    filter: blur(200px);
-    z-index: -1;
-}
-.gradient_container::before
-{
-    left: auto;
-    top: auto;
-    bottom: -2.6041666667vw;
-    right: 5.9895833333vw;
-    background-color: #008a4b;
-    z-index: -1;
-}
 
-.about_cards
-{
-    height: 16.536458333333332vw;//254px
-}
-.cntct_cntnt
-{
-            top: 50%; 
-            left: 50%; 
-            transform: translate(-50%, -50%);
-}
-.secnd_row_top
-{
-margin-bottom: 2.0833333333vw;
-margin-top: 2.0833333333vw;
-}
+    .gradient_container::before,
+    .gradient_container::after {
+        content: "";
+        position: absolute;
+        left: 5.9895833333vw;
+        top: 2.6041666667vw;
+        width: 16.0416666667vw;
+        height: 26.0416666667vw;
+        background-color: #f7941d;
+        border-radius: 100%;
+        filter: blur(200px);
+        z-index: -1;
+    }
+
+    .gradient_container::before {
+        left: auto;
+        top: auto;
+        bottom: -2.6041666667vw;
+        right: 5.9895833333vw;
+        background-color: #008a4b;
+        z-index: -1;
+    }
+
+    .about_cards {
+        height: 16.536458333333332vw; //254px
+    }
+
+    .cntct_cntnt {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .secnd_row_top {
+        margin-bottom: 2.0833333333vw;
+        margin-top: 2.0833333333vw;
+    }
 }

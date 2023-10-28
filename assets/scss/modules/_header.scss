@@ -1,4 +1,10 @@
 header {
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    top: 0;
+    left: 0;
+
     .header {
         &_topbar {
             width: 100%;
@@ -73,6 +79,11 @@ header {
         z-index: 5;
         @extend .transition;
         @include box-shadow(0, 5px, 20px, rgba(0, 0, 0, 0.1));
+
+        .navbar_brand img {
+            // height: 3.6458333333333335vw;
+            // @extend .transition;
+        }
     }
 }
 
@@ -86,6 +97,7 @@ header {
     &_brand {
         img {
             height: 4.427083333333334vw; //85px;
+            @extend .transition;
 
         }
     }
