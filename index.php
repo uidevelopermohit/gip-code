@@ -71,7 +71,10 @@
                                 <h2>Minister’s Message</h2>
 								<!--<p> Message at the G20 Environment and Climate Ministers Meet in Chennai:</p>-->
 
-                                <p>Shri Bhupender Yadav, Union Minister of Environment, Forest and Climate Change, said the Environment and Climate Ministers’ Meet concluded in Chennai with G20 ministers standing united in their commitment to create a sustainable and resilient future.</p>
+                                <p>
+                                    Shri Bhupender Yadav, Union Minister of Environment, Forest and Climate Change, said the Environment and Climate Ministers’ Meet concluded in Chennai with G20 ministers standing united in their commitment to create a sustainable and resilient future.
+                                </p>
+                                <a href="minister_message.php" class="minister_msge_btn">View More</a>
                             </div>
                         </div>
                     </div>
