@@ -55,9 +55,9 @@
                         </p>
                         <!--pdf Section Start-->
                                             <div class="pdf_document">
-                                                <a href="https://www.g20.org/en/media-resources/press-releases/mar-23/ecswg-concludes/" target="_blank">
+                                                <a href="assets/pdf/ECSWG_meeting_concludes.pdf" target="_blank">
                                                     <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                    <span>https://www.g20.org/en/media-resources/press-releases/mar-23/ecswg-concludes/</span>
+                                                    <span>ECSWG meeting concludes.pdf</span>
                                                 </a>
                                             </div>
                          <!--pdf Section End-->    

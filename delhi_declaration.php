@@ -31,9 +31,7 @@
                         drought, land degradation, pollution, food insecurity and water scarcity. We commit to restoring
                         by
                         2030 at least
-                        30% of all degraded ecosystems and scaling up efforts to achieve land degradation neutrality. To
-                        achieve this,
-                        we:
+                        30% of all degraded ecosystems and scaling up efforts to achieve land degradation neutrality.
                     </p>
                 </div>
             </div>
@@ -42,6 +40,11 @@
                     <img src="assets/images/aboutpage/g20leadersmeeting.webp" class="round_shape" >
                 </div>
             </div>
+            <p>
+            To achieve this,
+            <br>
+            we:
+            </p>
             <ul class="list">
                 <li>
                     Commit to the swift, full and effective implementation of

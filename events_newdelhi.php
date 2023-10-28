@@ -51,7 +51,7 @@
                         </p>
                         <!--pdf Section Start-->
                         <div class="pdf_document">
-                            <a href="G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
+                            <a href="assets/pdf/G20-New-Delhi-Leaders-Declaration.pdf" target="_blank">
                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
                                 <span>G20 New Delhi Leaders Declaration.pdf</span>
                             </a>

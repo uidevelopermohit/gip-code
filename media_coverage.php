@@ -39,7 +39,7 @@
                             </div>
                             <div class="col_10">
                             <h5>1st ECSWG meet: Bengaluru</h5>
-                                <p>February 9 to 11, 2023  <span class="read_more"><a href="https://www.g20.org/en/media-resources/press-releases/february-23/ecswg/" target="_blank">Read More</a></span></p>
+                                <p>February 9 to 11, 2023  <span class="read_more"><a href="assets/pdf/1st_ECSWG_Meeting.pdf" target="_blank">Read More</a></span></p>
                             </div>
                         </div>
                         <hr>
@@ -51,7 +51,7 @@
                             </div>
                             <div class="col_10">
                             <h5>2nd ECSWG meet: Gandhinagar</h5>
-                                <p>March 27 to 29,  2023  <span class="read_more"><a href="https://www.g20.org/en/media-resources/press-releases/mar-23/ecswg-concludes/" target="_blank">Read More</a></span></p>
+                                <p>March 27 to 29,  2023  <span class="read_more"><a href="assets/pdf/ECSWG_meeting_concludes.pdf" target="_blank">Read More</a></span></p>
                             </div>
                         </div>
                         <hr>
@@ -65,7 +65,7 @@
                             </div>
                             <div class="col_10">
                             <h5>3rd ECSWG meet: Mumbai</h5>
-                                <p>May 21 to 23, 2023  <span class="read_more"><a href="https://www.g20.org/en/media-resources/press-releases/may-2023/third-ecswg/" target="_blank">Read More</a></span></p>  
+                                <p>May 21 to 23, 2023  <span class="read_more"><a href="assets/pdf/G20_Third_ECSWG_Meeting_to_be_held_in_Mumbai_from_May_21-23_2023.pdf" target="_blank">Read More</a></span></p>  
                             </div>
                         </div>
                         <hr>
@@ -77,7 +77,7 @@
                             </div>
                             <div class="col_10">
                             <h5>4th ECSWG meet: Chennai</h5>
-                                <p>July 26 to 28, 2023  <span class="read_more"><a href="https://www.g20.org/en/media-resources/press-releases/july-2023/climate-meet/" target="_blank">Read More</a></span></p>
+                                <p>July 26 to 28, 2023  <span class="read_more"><a href="assets/pdf/Environment_and_Climate_Ministers_Meet_concludes_in_Chennai_G20_ministers_stand_united_in_their_commitment_to_create_a_sustainable_and_resilient_future.pdf" target="_blank">Read More</a></span></p>
                             </div>
                         </div>
                         <hr>

@@ -51,9 +51,9 @@
                         </p>
                         <!--pdf Section Start-->
                                             <div class="pdf_document">
-                                                <a href="https://www.g20.org/en/media-resources/press-releases/july-2023/climate-meet/" target="_blank">
+                                                <a href="assets/pdf/Environment_and_Climate_Ministers_Meet_concludes_in_Chennai_G20_ministers_stand_united_in_their_commitment_to_create_a_sustainable_and_resilient_future.pdf" target="_blank">
                                                     <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                    <span>https://www.g20.org/en/media-resources/press-releases/july-2023/climate-meet/</span>
+                                                    <span>Environment and Climate Ministers’ Meet concludes in Chennai; G20 ministers stand united in their commitment to create a sustainable and resilient future.pdf</span>
                                                 </a>
                                             </div>
                          <!--pdf Section End-->    

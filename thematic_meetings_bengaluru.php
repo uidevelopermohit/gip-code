@@ -58,14 +58,14 @@
                         use of sustainable alternatives to single use plastics, prevention of littering etc.  would contribute to 
                         clean and healthy oceans.
                     </p>
-                        <!--pdf Section Start-->
-                                            <div class="pdf_document">
-                                                <a href="https://www.g20.org/en/media-resources/press-releases/february-23/ecswg/" target="_blank">
+                       <!--pdf Section Start-->
+                       <div class="pdf_document">
+                                                <a href="assets/pdf/1st_ECSWG_Meeting.pdf" target="_blank">
                                                     <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                    <span>https://www.g20.org/en/media-resources/press-releases/february-23/ecswg/</span>
+                                                    <span>1st ECSWG Meeting.pdf</span>
                                                 </a>
                                             </div>
-                         <!--pdf Section End-->    
+                         <!--pdf Section End--> 
                     </div>
                 </div>
             </div>

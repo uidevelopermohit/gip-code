@@ -13,7 +13,7 @@
                         <h5>GIP</h5>
                         <ul>
                             <li><a href="index.php">PM’s Message</a></li>
-                            <li><a href="index.php"> Minister’s Message</a></li>
+                            <li><a href="minister_message.php"> Minister’s Message</a></li>
                             <li> <a href="indias_presidency.php"> G20 Presidency - India</a></li>
                             <li> <a href="about.php"> About GIP</a></li>
                             <li> <a href="https://icfre.gov.in/" target="_blank"> ICFRE-COE</a></li>

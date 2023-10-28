@@ -50,9 +50,9 @@
                         </p>
                         <!--pdf Section Start-->
                                             <div class="pdf_document">
-                                                <a href="https://www.g20.org/en/media-resources/press-releases/may-2023/third-ecswg/" target="_blank">
+                                                <a href="assets/pdf/G20_Third_ECSWG_Meeting_to_be_held_in_Mumbai_from_May_21-23_2023.pdf" target="_blank">
                                                     <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                    <span>https://www.g20.org/en/media-resources/press-releases/may-2023/third-ecswg/</span>
+                                                    <span>G20 Third ECSWG Meeting to be held in Mumbai from May 21-23-2023.pdf</span>
                                                 </a>
                                             </div>
                          <!--pdf Section End-->    
