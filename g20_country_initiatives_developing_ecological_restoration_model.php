@@ -40,7 +40,7 @@
                     <div class="country_initiative_topic_wrapper" id="CI_policy_progam">
                         <div class="flex_row">
                             <div class="col_10">
-                                 <h2>Knowledge Resources</h2>
+                                 <h2>Good Practices</h2>
                             </div>
                             <div class="col_2">
                             <button class="back_btn"><a href="g20_country_initiatives.php#CI_good_practice" class="">Back</a></button>
@@ -104,7 +104,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/initiatives/10-October-GIP-60-Aravalli-Biodiversity-Park,-Gurgaon,-Haryana.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Aravalli Biodiversity Park, Gurgaon, Haryana</h5>
@@ -129,7 +129,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/initiatives/10-October-GIP-61-Ecological-Restoration-in-Jharia-Coal-fields,-BCCL.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Ecological Restoration in Jharia Coal-fields, BCCL, Jharkhand</h5>
@@ -154,7 +154,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/initiatives/10-October-GIP-62-Restoration-of-mining-affected-land-of-Tikak-Coill.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Restoration of mining-affected land of Tikak Coillery, Margarita, Assam with Integrated Biological Approach</h5>

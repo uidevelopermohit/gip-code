@@ -22,7 +22,7 @@
                     </div>
                 </div>
                 <div class="item ">
-                    <img src="assets/images/banner/10-October-GIP-54.png" alt="">
+                    <img src="assets/images/banner/10-October-GIP-54.webp" alt="">
                     <div class="banner_content_overlay">
                         <h5>Accelerating Ecological Restoration</h5>
                         <h1>Mining-Affected Landscapes Under Effective
@@ -135,7 +135,7 @@
             </div>
             <div class="thematic_section_card_wrapper">
                 <a href="mining_affected_landscapes.php" class="thematic_section_card"
-                    style="background-image: url('assets/images/thematic/IMG_20230421_120227.jpg');">
+                    style="background-image: url('assets/images/thematic/mining_Affected_landscape.webp');">
                     <div class="thematic_section_card_content">
                         <h2>Mining Affected Landscapes</h2>
                     </div>

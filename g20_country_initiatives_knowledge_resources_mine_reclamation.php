@@ -93,7 +93,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/compendium_of_Best_Practices_on_restoration_of_Mining_Affected_Areas.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>compendium of Best Practices on restoration of Mining Affected Areas</h5>
@@ -116,7 +116,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Eco_Friendly_Approaches_for_Rehabilitation_of_Mine_Spoils_Institute_of_Forest_Genetics_and_Tree_Bre.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Eco Friendly Approaches for Rehabilitation of Mine Spoils, Institute of Forest Genetics and Tree Breeding</h5>
@@ -141,7 +141,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Developing_Ecological_Restoration_Model_In_The_Mine_Spoils_At_Tetulmari_Under_Sijua_Area_About_8-10.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Developing Ecological Restoration Model In The Mine Spoils At Tetulmari Under Sijua Area 
@@ -171,7 +171,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Seed_Ball_Technology_for_Restoration_of_Coal_Mined_Land_Rain_Forest_Research_Institute_India.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Seed Ball Technology for Restoration of Coal Mined Land, Rain Forest Research Institute, India
@@ -197,7 +197,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Road_Map_for_Ecological_Restoration_Works_in_Coal_Mines_of_NCL_Singrauli_M.P.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Road Map for Ecological Restoration Works in Coal Mines of NCL, Singrauli, M.P.; Forest Research Institute, Dehradun, India

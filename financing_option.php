@@ -216,7 +216,7 @@
                                         <div class="pdf_document">
                                             <a href="assets/pdf/Green Deposits Framework_RBI.pdf" target="_blank">
                                                 <img src="assets/images/pdf_icon.webp" class="pdf_icon">
-                                                <span>Green Deposits Framework RBI.pdf.pdf</span>
+                                                <span>Green Deposits Framework RBI.pdf</span>
                                             </a>
                                         </div>
                                         <!--Pdf Section End-->
@@ -306,7 +306,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Global_Biodiversity_Fund_by_Global_Environment_Facility(GEF).webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Global Biodiversity Fund by Global Environment Facility (GEF)</h5>
@@ -329,7 +329,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Global_Climate_Fund_(GCF).webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Global Climate Fund (GCF)</h5>
@@ -352,7 +352,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Asian_Development_Bank(ADB).webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Asian Development Bank (ADB)</h5>

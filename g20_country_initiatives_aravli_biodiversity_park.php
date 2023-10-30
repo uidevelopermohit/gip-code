@@ -107,7 +107,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/initiatives/10-October-GIP-59-Mine-Spoils-at-Tetulmari-under-Sijua-Area.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Developing Ecological Restoration Model in the Mine Spoils at Tetulmari under Sijua Area, Jharkhand</h5>
@@ -130,7 +130,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/initiatives/10-October-GIP-61-Ecological-Restoration-in-Jharia-Coal-fields,-BCCL.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Ecological Restoration in Jharia Coal-fields, BCCL, Jharkhand</h5>
@@ -155,7 +155,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/initiatives/10-October-GIP-62-Restoration-of-mining-affected-land-of-Tikak-Coill.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Restoration of mining-affected land of Tikak Coillery, Margarita, Assam with Integrated Biological Approach</h5>

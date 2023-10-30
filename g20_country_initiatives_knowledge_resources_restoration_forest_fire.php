@@ -79,7 +79,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Compendium_of_Best_Practices_on_restoration_of_Forest_Fire_Affected_Areas.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Comeopnedium of Best Practices on restoration of Forest Fire Affected Areas</h5>
@@ -102,7 +102,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Forest-Fire-Management-Global-Best-Practices_-National-Disaster-Management-Authority_-India.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Forest Fire Management: Global Best Practices, National Disaster Management Authority, India</h5>
@@ -125,7 +125,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Managing_Forest_Fires_in_a_Changing_Climate-Council_on_Energy_Environment_and_Water_(CEEW).webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Managing Forest Fires in a Changing Climate: Council on Energy Environment and Water (CEEW)</h5>
@@ -150,7 +150,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/NATIONAL_ACTION_PLAN_ON_FOREST_FIRE_Forest_protection_division_Ministry_of_environment_forestsan.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>Forest fire disaster management report, The National Disaster Management Authority, India</h5>
@@ -173,7 +173,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/NATIONAL-ACTION-PLAN-ON-FOREST-FIRE_-Forest-protection-division_-Ministry-of-environment_-forests-an.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                     <h5>NATIONAL ACTION PLAN ON FOREST FIRE, Forest protection division, Ministry of environment, forests and climate change, Government of India</h5>

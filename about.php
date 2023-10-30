@@ -386,7 +386,7 @@
             </div>
             <div class="flex_row justify_content_center nodal_institution_logos">
                 <div class="col_2">
-                    <img src="assets/images/aboutpage/icfre_logo.webp">
+                    <img src="assets/images/aboutpage/icfre_logo.png">
                 </div>
                 <div class="col_2">
                     <img src="assets/images/aboutpage/Indian_Institute_of_Forest_Management.webp">
