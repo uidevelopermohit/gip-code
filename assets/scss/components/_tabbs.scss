@@ -72,3 +72,29 @@
     line-height: 18px;
     letter-spacing: 0em;
 }
+
+@media screen and (min-width: 1920.98px) {
+    .tabbs {
+        margin-bottom: 20px;
+
+        li {
+            a {
+                padding: 15px;
+                font-size: 14px;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 991.98px) {
+    .tabbs {
+        margin-bottom: 20px;
+
+        li {
+            a {
+                padding: 5px 10px;
+                font-size: 12px;
+            }
+        }
+    }
+}

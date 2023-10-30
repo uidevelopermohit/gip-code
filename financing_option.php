@@ -226,7 +226,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/Green_Deposit_Framework_Reserve_Bank_of_India.webp" alt="">
+                                        <img src="assets/images/events/Progress_and_Challenges_of_Green_Finance_in_India_Reserve_Bank_of_India.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Progress and Challenges of Green Finance in India, Reserve Bank of India</h5>
@@ -248,7 +248,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/Green_Deposit_Framework_Reserve_Bank_of_India.webp" alt="">
+                                        <img src="assets/images/events/Framework_for_Sovereign_Green_Bonds_Government_of_India.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Green Bonds, Reserve Bank of India</h5>
@@ -256,6 +256,7 @@
                                             Green bonds are the bonds issued by any sovereign entity, inter-governmental groups or alliances and corporates with the aim that the proceeds of the bonds are utilised for projects classified as environmentally sustainable.
 
                                                 India started issuing green bonds since 2015. As of February 12, 2020, the outstanding amount of green bonds in India was US$16.3 billion India issued green bonds of about US$8 billion since January 1, 2018, which constituted about 0.7 per cent of all the bonds issued in the Indian financial market.
+                                        </p>
                                         <a href="financing_options_financial_markets_green_bonds.php">Read More</a>
                                         <!--Pdf Section Start-->
                                         <div class="pdf_document">
@@ -374,7 +375,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/The_World_Bank.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>The World Bank</h5>
@@ -396,7 +397,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Japan_International_Cooperation_Agency_JICA.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Japan International Cooperation Agency (JICA)</h5>
@@ -428,7 +429,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Corporate_Social_Responsibility_CSR.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>CSR</h5>
@@ -450,7 +451,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/ESG.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>ESG</h5>
@@ -472,7 +473,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Philanthropic_Interest.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Philanthropic Interest</h5>
@@ -504,7 +505,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Bilateral_Agreements.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Bilateral Agreements</h5>
@@ -519,7 +520,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Bi_Multilateral_Agreements.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Multilateral Agreements</h5>

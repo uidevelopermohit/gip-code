@@ -378,7 +378,7 @@
 
     .more_about_gip {
         padding-bottom: 50px;
-        margin-top: 50px;
+        // margin-top: 50px;
 
         &_links {
             margin-top: 50px;
@@ -388,8 +388,9 @@
             .link_3 {
                 font-size: 16px;
                 font-weight: 700;
-                padding: 15px 30px;
-                @include border-radius(20px);
+                padding: 10px 20px;
+                @include border-radius(10px);
+                margin-bottom: 10px;
             }
         }
     }
@@ -424,11 +425,11 @@
             .link_1,
             .link_2,
             .link_3 {
-                padding: 15px 10px;
+                padding: 5px 10px;
             }
 
             .link_2 {
-                margin: 0 20px;
+                margin: 0 10px 10px;
             }
         }
     }

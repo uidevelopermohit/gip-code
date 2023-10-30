@@ -380,7 +380,17 @@
     <!--Gallery Section-->
     <section class="tab-content media_coverage" id="gallery">
         <div class="container_fluid gradient_container">
-            <h2><strong>Update Coming Soon</strong></h2>
+            <div class="full-img" id="fullImgBox">
+                <span onclick="closefullImg()">X</span>
+                 <img src="assets/images/gallery/Leader'snewdelhievent.webp" id="fullImg">
+            </div>
+            <div class="img-gallery">
+                <img src="assets/images/gallery/Leader'snewdelhievent.webp" onclick="openfullImg(this.src)">
+                <img src="assets/images/gallery/pm-photo.webp" onclick="openfullImg(this.src)">
+                <img src="assets/images/gallery/event1.webp" onclick="openfullImg(this.src)">
+                <img src="assets/images/gallery/event2.webp" onclick="openfullImg(this.src)">
+                <img src="assets/images/gallery/event3.webp" onclick="openfullImg(this.src)">
+            </div>
         </div>
     </section>
 </div>

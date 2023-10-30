@@ -22,3 +22,45 @@
         }
     }
 }
+
+@media screen and (min-width: 1920.98px) {
+    .news_events {
+        .col_4 {
+            margin-bottom: 30px;
+        }
+        .news_container,
+        .training_programs_container {
+            min-height: 500px;
+        }
+    }
+    .events_detail {
+        .event_detail_desc {
+            padding: 0 50px;
+    
+            h4 {
+                margin-bottom: 30px;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 991.98px) {
+    .news_events {
+        .col_4 {
+            margin-bottom: 30px;
+        }
+        .news_container,
+        .training_programs_container {
+            min-height: 250px;
+        }
+    }
+    .events_detail {
+        .event_detail_desc {
+            padding: 0;
+    
+            h4 {
+                margin-bottom: 20px;
+            }
+        }
+    }
+}

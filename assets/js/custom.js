@@ -164,3 +164,16 @@ $(window).scroll(function () {                  // assign scroll event listener
 }); */
 
 
+var fullimgbox = document.getElementById("fullImgBox");
+var fullimg = document.getElementById("fullImg");
+
+function openfullImg(pic)
+{
+    fullimgbox.style.display = "flex";
+    fullimg.src= pic;
+}
+
+function closefullImg(pic)
+{
+    fullimgbox.style.display = "none";
+}
