@@ -24,7 +24,7 @@
     </Section>
     <!--Inner Banner End-->
 
-    <section class="common_spacing">
+    <section class="common_spacing pb_120">
         <div class="container_fluid">
             <div class="sidebar_sticky_wrapper">
                 <div class="sidebar_sticky_left">

@@ -93,5 +93,16 @@
 
     @media screen and (max-width: 991.98px) {
         min-height: 120px;
+        margin-top: 118px;
+
+        .country_initiative_banner_flag {
+            margin-top: 10px;
+            justify-content: start;
+
+            img {
+                height: 20px;
+                margin-right: 10px;
+            }
+        }
     }
 }

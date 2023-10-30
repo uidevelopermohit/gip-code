@@ -20,7 +20,7 @@
     <!--Inner Banner End-->
     <!--First Fold Section Start-->
     <section class="events_detail gradient_container common_spacing">
-        <div class="container_fluid ">
+        <div class="container_fluid">
             <div class="flex_row mb_60">
                 <div class="col_4 event_detail_desc">
                     <h4>2nd ECSWG meet: Gandhinagar </h4>

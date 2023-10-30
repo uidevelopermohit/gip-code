@@ -21,7 +21,7 @@
     <!--First Section Start-->
     <section class="india_Presidency_section_start common_spacing gradient_container" id="indias_presidencies">
         <div class="container_fluid right_top_lotus">
-            <div class="flex_row">
+            <div class="flex_row presidency_content_first_section mb_30">
                 <div class="col_6">
                     <p>
                         India's G20 presidency has marked a significant milestone in its global leadership role. With,
@@ -213,7 +213,7 @@
                 </div>
             </div>
 
-            <div class="country_timeline_wrapper">
+            <div class="country_timeline_wrapper reverse_column">
                 <div class="country_timeline_left">
                     <div class="country_timeline_image">
                         <img src="assets/images/pastpresidencies/G20_italia.webp" class="minister_images_g20">
@@ -362,7 +362,7 @@
                 </div>
             </div>
 
-            <div class="country_timeline_wrapper">
+            <div class="country_timeline_wrapper reverse_column">
                 <div class="country_timeline_left">
                     <div class="country_timeline_image">
                         <img src="assets/images/pastpresidencies/Osaka_Summit.webp" class="minister_images_g20">
@@ -418,7 +418,7 @@
                 </div>
             </div>
 
-            <div class="country_timeline_wrapper">
+            <div class="country_timeline_wrapper reverse_column">
                 <div class="country_timeline_left">
                     <div class="country_timeline_image">
                         <img src="assets/images/pastpresidencies/Hamburg_2.webp" class="minister_images_g20">
@@ -488,7 +488,7 @@
                 </div>
             </div>
 
-            <div class="country_timeline_wrapper">
+            <div class="country_timeline_wrapper reverse_column">
                 <div class="country_timeline_left">
                     <div class="country_timeline_image">
                         <img src="assets/images/pastpresidencies/Los_CAbos_2012.webp" class="minister_images_g20">
@@ -567,7 +567,7 @@
                 </div>
             </div>
 
-            <div class="country_timeline_wrapper">
+            <div class="country_timeline_wrapper reverse_column">
                 <div class="country_timeline_left">
                     <div class="country_timeline_image">
                         <img src="assets/images/pastpresidencies/Washuington_2008.webp" class="minister_images_g20">

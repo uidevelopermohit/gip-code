@@ -331,6 +331,8 @@ header {
             @include box-shadow(0, 0, 10px, rgba(0, 0, 0, 0.2));
 
             @include transition(all, 0.5s);
+            height: calc(100vh - 108px);
+            overflow-y: auto;
 
             .nav_item {
                 margin-right: 0;
@@ -373,6 +375,8 @@ header {
                         ul {
                             position: relative;
                             left: 0;
+                            min-width: auto;
+                            width: 100%;
 
                             li {
                                 a {

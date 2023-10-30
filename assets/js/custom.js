@@ -120,7 +120,7 @@ $('.vertical_tabs').find('a').click(function () {
     var $anchor = $($href).offset();
     $('.vertical_tabs a').removeClass('active');
     $(this).addClass('active')
-    window.scrollTo($anchor.left, $anchor.top - 180);
+    window.scrollTo($anchor.left, $anchor.top - 240);
     return false;
 });
 
