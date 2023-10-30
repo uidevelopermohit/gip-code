@@ -392,7 +392,7 @@
                     <img src="assets/images/aboutpage/Indian_Institute_of_Forest_Management.webp">
                 </div>
                 <div class="col_2">
-                    <img src="assets/images/aboutpage/image9.webp">
+                    <img src="assets/images/aboutpage/image9.png">
                 </div>
             </div>
         </div>
