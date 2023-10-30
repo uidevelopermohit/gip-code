@@ -384,23 +384,28 @@
                     </p>
                 </div>
             </div>
-            <div class="flex_row justify_content_center nodal_institution_logos">
-                <div class="col_2">
-                    <img src="assets/images/aboutpage/icfre_logo.png">
-                </div>
-                <div class="col_2">
-                    <img src="assets/images/aboutpage/Indian_Institute_of_Forest_Management.webp">
-                </div>
-                <div class="col_2">
-                    <img src="assets/images/aboutpage/image9.png">
+            <!--Logo Section Start-->
+        <section class="logos_section common_spacing">
+            <div class="container_fluid">
+                <div class="logos_stripe">
+                    <img src="">
+                    <img src="">
+                    <img src="assets/images/logos/icfre_logo.png">
+                    <img src="assets/images/logos/Indian_Institute_of_Forest_Management.png">
+                    <img src="assets/images/logos/image9.png">
+                    <img src="">
+                    <img src="">
                 </div>
             </div>
+        </section>
+        <!--Logo Section End-->
+            
         </div>
     </section>
     <!--logo_section End-->
 
     <!--last Section Start-->
-    <section class="more_about_gip common_spacing">
+    <section class="more_about_gip common_spacing"
         <div class="container_fluid">
             <div class="flex_row">
                 <div class="col_12">
