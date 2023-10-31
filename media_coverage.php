@@ -376,8 +376,7 @@
             </div>
         </div>
     </section>
-
-    <!--Gallery Section-->
+    <!--Gallery Section--><!--media Coverage Section-->
     <section class="tab-content media_coverage" id="gallery">
         <div class="container_fluid gradient_container">
             <div class="full-img" id="fullImgBox">
