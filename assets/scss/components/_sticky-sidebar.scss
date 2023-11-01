@@ -145,7 +145,7 @@
 
         li {
             a {
-                font-size: 18px;
+                font-size: 16px;
                 background-color: $base-light-grey;
                 @include border-radius(10px);
                 // height: 100%;
@@ -163,43 +163,43 @@
 
             &:nth-child(1) {
                 a {
-                    min-width: 230px;
+                    min-width: 200px;
                 }
             }
 
             &:nth-child(2) {
                 a {
-                    min-width: 180px;
+                    min-width: 165px;
                 }
             }
             &:nth-child(3) {
                 a {
-                    min-width: 350px;
+                    min-width: 320px;
                 }
             }
             &:nth-child(4) {
                 a {
-                    min-width: 215px;
+                    min-width: 200px;
                 }
             }
             &:nth-child(5) {
                 a {
-                    min-width: 245px;
+                    min-width: 220px;
                 }
             }
             &:nth-child(6) {
                 a {
-                    min-width: 200px;
+                    min-width: 190px;
                 }
             }
             &:nth-child(7) {
                 a {
-                    min-width: 465px;
+                    min-width: 435px;
                 }
             }
             &:nth-child(8) {
                 a {
-                    min-width: 265px;
+                    min-width: 245px;
                 }
             }
         }

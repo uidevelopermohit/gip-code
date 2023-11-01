@@ -107,6 +107,10 @@ footer {
     footer {
         padding: 20px 30px;
 
+        .footer_logo {
+            height: 40px;
+        }
+
         .flex_row {
             .col_2 {
                 flex: 0 0 auto;

@@ -29,7 +29,7 @@
             </h2>
             <div class="flex_row">
                 <div class="col_12">
-                    <h6>Overview</h6>
+                    <h6 class="mt_0">Overview</h6>
                     <p>The GIR-GIP alliance for strengthening the G20 Global Land Initiative (GLI), is proposed as an
                         alliance of countries
                         led by national nodal institutions/experts/organizations to accelerate ecological restoration of
