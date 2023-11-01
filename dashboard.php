@@ -35,8 +35,8 @@
                 <div class="container_fluid">
                     <div class="flex_row">
                         <div class="col_6"
-                            data-tour="step: 1; title: Dashboard ; content: Gandhinagar Information Platform. (GIP)">
-                            <h4>Gandhinagar Information Platform. (GIP)</h4>
+                            data-tour="step: 1; title: Dashboard ; content: Gandhinagar Information Platform (GIP) - Dashboard">
+                            <h4>Gandhinagar Information Platform (GIP) - Dashboard</h4>
                         </div>
 
                         <div class="col_6">
