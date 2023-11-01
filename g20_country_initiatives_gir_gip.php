@@ -64,10 +64,10 @@
                                      the Paris Agreement, the UNCCD Strategic Framework, the UN Decade on Ecosystem Restoration 2021-2030
                                      , as well as national priorities.
                                 </p>
-                                <p>
+                                <!--<p>
                                      Outcome document: GANDHI NAGAR IMPLEMENTATION ROAD MAP AND GANDHI NAGAR INFORMATION PLATFORM PRESIDENCY 
                                      DOCUMENT 
-                                </p>
+                                </p>-->
                                 
                                   <!--Pdf Section Start-->
                                   <div class="pdf_document">

@@ -27,12 +27,12 @@
                         <div class="events_card_content">
                             
                                 <h5>Opening Address by Union Minister of Environment, Forest and Climate Change at the G20
-                                    Environment and Climate Ministers Meet in Chennai:</h5>
-                                <p>(The Union of Environment, Forest and Climate Change, Bhupender Yadav addressed
+                                    Environment and Climate </h5>
+                                <p>The Union of Environment, Forest and Climate Change, Bhupender Yadav addressed
                                     the G20 Environment and Climate Ministers Meet in Chennai on 28 July 2023. The Minister
                                     stated that the G20 members share an enormous responsibility to lead global efforts for a
                                     sustainable, resilient, and equitable future through resolute actions to tackle pressing
-                                    environmental challenges and combat climate change)
+                                    environmental challenges and combat climate change.
                                 </p>
                                 <!--Pdf Section Start-->
                                 <div class="pdf_document">
@@ -48,7 +48,7 @@
                 <div class="col_6">
                     <div class="events_card">
                         <div class="events_card_content">
-                                <h5>Message at the G20 Environment and Climate Ministers Meet in Chennai:</h5>
+                                <h5>Message at the G20 Environment and Climate</h5>
                                 <p>
                                     Shri Bhupender Yadav, Union Minister of Environment, Forest and Climate Change,
                                     said the Environment and Climate Ministers’ Meet concluded in Chennai with G20 ministers
