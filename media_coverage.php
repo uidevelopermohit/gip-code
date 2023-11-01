@@ -355,6 +355,7 @@
                     <hr>
                 </div>
             </div>
+            
             <div class="flex_row press_release_top_botom_spacing_last">
                 <div class="col_6">
                     <div class="flex_row fix_hight">
@@ -371,9 +372,182 @@
                     <hr>
                 </div>
                 <div class="col_6">
-
+                    <div class="flex_row fix_hight">
+                        <div class="col_2 pdf_document_img">
+                            <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                        </div>
+                        <div class="col_10">
+                            <h5>Enhancement of Biodiversity and Its Conservation in The Ecological restoration Site at Tetlumari, Sijua 
+                                Area (08 Ha) of BCCL, Dhanbad</h5>
+                            <p><span class="read_more"><a
+                                        href="assets/pdf/Case_study_FRI_Enhancement_of_Biodiversity_in_Ecologically_restored siteTetulmari.pdf"
+                                        target="_blank">Read More</a></span></p>
+                        </div>
+                    </div>
+                    <hr>
                 </div>
             </div>
+           
+            <div class="flex_row press_release_top_botom_spacing_last">
+                <div class="col_6">
+                    <div class="flex_row fix_hight">
+                        <div class="col_2 pdf_document_img">
+                            <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                        </div>
+                        <div class="col_10">
+                            <h5>Eco Restoration Studies in Uranium Mines</h5>
+                            <p> <span class="read_more"><a
+                                        href="assets/pdf/Esorestoration_Studies_in_Uranium_Mines.pdf"
+                                        target="_blank">Read More</a></span></p>
+                        </div>
+                    </div>
+                    <hr>
+                </div>
+                <div class="col_6">
+                    <div class="flex_row fix_hight">
+                        <div class="col_2 pdf_document_img">
+                            <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                        </div>
+                        <div class="col_10">
+                            <h5>Road Map for Eco Restoration of BCCL Mine Areas of Dhanbad, Jharkhand</h5>
+                            <p><span class="read_more"><a
+                                        href="assets/pdf/FRI_RoadMapBCCL.pdf"
+                                        target="_blank">Read More</a></span></p>
+                        </div>
+                    </div>
+                    <hr>
+                </div>
+            </div>
+            <div class="flex_row press_release_top_botom_spacing_last">
+                <div class="col_6">
+                    <div class="flex_row fix_hight">
+                        <div class="col_2 pdf_document_img">
+                            <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                        </div>
+                        <div class="col_10">
+                            <h5>Guidelines for Eco Rehabilitation of Limestone Mined Areas in Himachal Pradesh</h5>
+                            <p> <span class="read_more"><a
+                                        href="assets/pdf/Guidelines_for_Eco_retsotaion_of_Limestone_minearea_in_HP.pdf"
+                                        target="_blank">Read More</a></span></p>
+                        </div>
+                    </div>
+                    <hr>
+                </div>
+                <div class="col_6">
+                    <div class="flex_row fix_hight">
+                        <div class="col_2 pdf_document_img">
+                            <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                        </div>
+                        <div class="col_10">
+                            <h5>Reclamation at Maldeota Rock Phosphate Mine</h5>
+                            <p><span class="read_more"><a
+                                        href="assets/pdf/Reclamation_at_MaldeovtaRock_Phosphate_Mine.pdf"
+                                        target="_blank">Read More</a></span></p>
+                        </div>
+                    </div>
+                    <hr>
+                </div>
+            </div>
+            <div class="flex_row press_release_top_botom_spacing_last">
+                <div class="col_6">
+                    <div class="flex_row fix_hight">
+                        <div class="col_2 pdf_document_img">
+                            <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                        </div>
+                        <div class="col_10">
+                            <h5>Leaving Green Footprints</h5>
+                            <p> <span class="read_more"><a
+                                        href="assets/pdf/Broucher_CILLeaving_green_footprints.pdf"
+                                        target="_blank">Read More</a></span></p>
+                        </div>
+                    </div>
+                    <hr>
+                </div>
+                <div class="col_6">
+                     <div class="flex_row fix_hight">
+                        <div class="col_2 pdf_document_img">
+                            <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                        </div>
+                        <div class="col_10">
+                            <h5>State Action Plan on Forest Fire, Government of Tripura</h5>
+                            <p> <span class="read_more"><a
+                                        href="assets/pdf/Tripura_Forest_Fire_action_plan.pdf"
+                                        target="_blank">Read More</a></span></p>
+                        </div>
+                    </div>
+                    <hr>
+                </div>
+            </div>
+            <div class="flex_row press_release_top_botom_spacing_last">
+                <div class="col_6">
+                    <div class="flex_row fix_hight">
+                        <div class="col_2 pdf_document_img">
+                            <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                        </div>
+                        <div class="col_10">
+                            <h5>Environment Management Services for Sustainable Development</h5>
+                            <p> <span class="read_more"><a
+                                        href="assets/pdf/Broucher_ICFRE_Booklet_Environmental_management_services.pdf"
+                                        target="_blank">Read More</a></span></p>
+                        </div>
+                    </div>
+                    <hr>
+                </div>
+                <div class="col_6">
+                    <div class="flex_row fix_hight">
+                        <div class="col_2 pdf_document_img">
+                            <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                        </div>
+                        <div class="col_10">
+                            <h5>Bioremediation Strategies for Mine Spoils: An Experience of IFGTBt</h5>
+                            <p><span class="read_more"><a
+                                        href="assets/pdf/Broucher_IFGTB_mine_spoils_brochure.pdf"
+                                        target="_blank">Read More</a></span></p>
+                        </div>
+                    </div>
+                    <hr>
+                </div>
+            </div>
+            <div class="flex_row press_release_top_botom_spacing_last">
+                <div class="col_6">
+                    <div class="flex_row fix_hight">
+                        <div class="col_2 pdf_document_img">
+                            <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                        </div>
+                        <div class="col_10">
+                            <h5>Open Cast Iron Ore Mine reclamation and Rehabilitation in Karnataka</h5>
+                            <p> <span class="read_more"><a
+                                        href="assets/pdf/Broucher_ICFRE_Brochure_entitled_Open_Cast_Iron_Ore_Mine_Reclamation_Rehabilitation_in_Karnataka.pdf"
+                                        target="_blank">Read More</a></span></p>
+                        </div>
+                    </div>
+                    <hr>
+                </div>
+                <div class="col_6">
+                    <div class="flex_row fix_hight">
+                        <div class="col_2 pdf_document_img">
+                            <img src="assets/images/pdf_icon.webp" class="pdf_icon">
+                        </div>
+                        <div class="col_10">
+                            <h5>Package of Practices for Restoration of Coal Mined Land</h5>
+                            <p><span class="read_more"><a
+                                        href="assets/pdf/Broucher_RFRI_Practices_for_Restoration_of_coal_practices.pdf"
+                                        target="_blank">Read More</a></span></p>
+                        </div>
+                    </div>
+                    <hr>
+                </div>
+            </div>
+            <div class="flex_row press_release_top_botom_spacing_last">
+                <div class="col_6">
+                    
+                </div>
+                <div class="col_6">
+                    
+                </div>
+            </div>
+            
+
         </div>
     </section>
     <!--Gallery Section--><!--media Coverage Section-->
