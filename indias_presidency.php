@@ -63,7 +63,7 @@
                     </p>
                 </div>
                 <div class="col_6">
-                    <img src="assets/images/aboutpage/g20leaders.webp" class="minister_images_g20">
+                    <img src="assets/images/events/bharat_mandapam.webp" class="minister_images_g20">
                 </div>
             </div>
             <div class="flex_row">

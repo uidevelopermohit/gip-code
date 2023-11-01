@@ -117,7 +117,7 @@
                     <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Pradhan_Mantri_Khanij_Kshetra_Kalyan_Yojana_(PMKKKY).webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Pradhan Mantri Khanij Kshetra Kalyan Yojana (PMKKKY)</h5>
@@ -140,7 +140,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/District_Mineral_Foundation.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>District Mineral Foundation</h5>
@@ -162,7 +162,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Star_Rating_of_Mines.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Star Rating of Mines</h5>
@@ -184,7 +184,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Green_Credit_Programme_Ministry_of_Environment_Forest_and_Climate_Change_Government_of_India.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Green Credit Programme, Ministry of Environment, Forest and Climate Change, Government of India</h5>

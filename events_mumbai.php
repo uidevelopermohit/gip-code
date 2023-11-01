@@ -5,13 +5,13 @@
         <div class="container_fluid">
             <div class="flex_row">
                 <div class="col_8">
-                    <h4>News & Events</h4>
+                    <h4>Events & News</h4>
                 </div>
 
                 <div class="col_4">
                     <ul class="new_breadcrumb">
                         <li><a href="<?php echo $base_url; ?>">Home</a></li>
-                        <li>News & Events</li>
+                        <li>Events & News</li>
                     </ul>
                 </div>
             </div>

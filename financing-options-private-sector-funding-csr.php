@@ -110,7 +110,7 @@
                         <div class="col_6">
                             <div class="events_card">
                                 <div class="events_card_image">
-                                    <img src="assets/images/events/events.png" alt="">
+                                    <img src="assets/images/events/ESG.webp" alt="">
                                 </div>
                                 <div class="events_card_content">
                                     <h5>ESG</h5>
@@ -131,7 +131,7 @@
                         <div class="col_6">
                             <div class="events_card">
                                 <div class="events_card_image">
-                                    <img src="assets/images/events/events.png" alt="">
+                                    <img src="assets/images/events/Philanthropic_Interest.webp" alt="">
                                 </div>
                                 <div class="events_card_content">
                                     <h5>Philanthropic Interest</h5>

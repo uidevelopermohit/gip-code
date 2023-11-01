@@ -99,7 +99,7 @@
                         <div class="col_6">
                             <div class="events_card">
                                 <div class="events_card_image">
-                                    <img src="assets/images/events/events.png" alt="">
+                                    <img src="assets/images/events/Framework_on_Green_Debt_Securities_SEBI.webp" alt="">
                                 </div>
                                 <div class="events_card_content">
                                     <h5>Framework on Green Debt Securities, SEBI</h5>
@@ -122,7 +122,7 @@
                         <div class="col_6">
                             <div class="events_card">
                                 <div class="events_card_image">
-                                    <img src="assets/images/events/events.png" alt="">
+                                    <img src="assets/images/events/Progress_and_Challenges_of_Green_Finance_in_India_Reserve_Bank_of_India.webp" alt="">
                                 </div>
                                 <div class="events_card_content">
                                     <h5>Progress and Challenges of Green Finance in India, Reserve Bank of India</h5>
@@ -144,7 +144,7 @@
                         <div class="col_6">
                             <div class="events_card">
                                 <div class="events_card_image">
-                                    <img src="assets/images/events/events.png" alt="">
+                                    <img src="assets/images/events/Framework_for_Sovereign_Green_Bonds_Government_of_India.webp" alt="">
                                 </div>
                                 <div class="events_card_content">
                                     <h5>Green Bonds, Reserve Bank of India</h5>
@@ -166,7 +166,7 @@
                         <div class="col_6">
                             <div class="events_card">
                                 <div class="events_card_image">
-                                    <img src="assets/images/events/events.png" alt="">
+                                    <img src="assets/images/events/Green_Deposit_Framework_Reserve_Bank_of_India.webp" alt="">
                                 </div>
                                 <div class="events_card_content">
                                     <h5>Green Deposit Framework, Reserve Bank of India</h5>

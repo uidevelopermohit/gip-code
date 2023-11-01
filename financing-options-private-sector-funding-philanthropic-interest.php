@@ -91,7 +91,7 @@
                         <div class="col_6">
                             <div class="events_card">
                                 <div class="events_card_image">
-                                    <img src="assets/images/events/events.png" alt="">
+                                    <img src="assets/images/events/Corporate_Social_Responsibility_CSR.webp" alt="">
                                 </div>
                                 <div class="events_card_content">
                                     <h5>CSR</h5>
@@ -113,7 +113,7 @@
                         <div class="col_6">
                             <div class="events_card">
                                 <div class="events_card_image">
-                                    <img src="assets/images/events/events.png" alt="">
+                                    <img src="assets/images/events/ESG.webp" alt="">
                                 </div>
                                 <div class="events_card_content">
                                     <h5>ESG</h5>

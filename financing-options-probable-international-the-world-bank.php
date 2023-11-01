@@ -83,7 +83,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Global_Biodiversity_Fund_by_Global_Environment_Facility(GEF).webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Global Biodiversity Fund by Global Environment Facility (GEF)</h5>
@@ -105,7 +105,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Global_Climate_Fund_(GCF).webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Global Climate Fund (GCF)</h5>
@@ -126,7 +126,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Asian_Development_Bank(ADB).webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Asian Development Bank (ADB)</h5>
@@ -148,7 +148,7 @@
                             <div class="col_6">
                                 <div class="events_card">
                                     <div class="events_card_image">
-                                        <img src="assets/images/events/events.png" alt="">
+                                        <img src="assets/images/events/Japan_International_Cooperation_Agency_JICA.webp" alt="">
                                     </div>
                                     <div class="events_card_content">
                                         <h5>Japan International Cooperation Agency (JICA)</h5>
