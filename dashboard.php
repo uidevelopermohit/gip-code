@@ -56,7 +56,7 @@
                     <div class="flex_row">
                         <div class="col_12">
                             <button class="btn btn-success btn-lg btn-block" id="tourbutton">
-                                Start tour
+                                
                             </button>
                         </div>
                     </div>
@@ -144,12 +144,12 @@
         <script>
         var tourguide = new Tourguide();
 
-        function startTour() {
+        window.onload = function startTour() {
             tourguide.start();
         }
         // Attach the touruide start evene to the button press
         var tourbutton = document.getElementById("tourbutton");
-        tourbutton.addEventListener("click", startTour);
+        tourbutton.addEventListener("onload", startTour);
         </script>
 </body>
 
