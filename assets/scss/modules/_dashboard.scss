@@ -1,98 +1,30 @@
 .dashboard {
-    &_wrapper {
+    &_walkthrough {
+        .inner_banner {
+            margin-top: 0;
+        }
+    }
+    &_user_actions {
         display: flex;
-    }
-
-    &_sidebar_menu {
-        width: 300px;
-        padding: 30px;
-        border-right: solid 1px $base-grey-color;
-        height: 100vh;
-        position: fixed;
-
-        h4 {
-            font-size: 20px;
-        }
-
-        .profile_details {
-            display: flex;
-            align-items: center;
-            flex-direction: column;
-            padding-top: 30px;
-            padding-bottom: 30px;
-            margin-bottom: 30px;
-            border-bottom: solid 1px #333;
-
-            .profile_img {
-                width: 80px;
-                height: 80px;
-
-                @include border-radius(100px);
-
-                background-color: #333;
-                color: $base-font-color;
-
-                @extend .middle_align;
-            }
-
-            h3 {
-                margin-top: 10px;
-            }
-
-            .user_email {
-                padding: 10px 20px;
-                background-color: rgba(255, 255, 255, 0.1);
-
-                @include border-radius(50px);
-
-                margin-top: 10px;
-            }
-        }
-
-        .filter_group {
-            display: flex;
-            flex-direction: column;
-            margin-top: 20px;
-
-            label {
-                margin-bottom: 5px;
-            }
+        justify-content: flex-end;
+        img {
+            width: 17.1875vw;
         }
     }
 
-    &_content_container {
-        h2 {
-            padding: 50px 0 70px;
-            font-size: 30px;
-        }
+    &_country_flag {
+        display: flex;
+        justify-content: center;
 
-        .project {
-            &_card_list {
-                display: flex;
-                flex-wrap: wrap;
-            }
-
-            &_card {
-                &.active {
-                    opacity: 1;
-                    pointer-events: all;
-                }
-            }
+        img {
+            width: 6.25vw;
         }
     }
-
-    @media screen and (max-width: 767.98px) {
-        &_content_container {
-            .project {
-                &_card {
-                    margin-bottom: 30px;
-                }
-            }
-
-            h2 {
-                padding: 30px 0 50px;
-                font-size: 20px;
-            }
+    &_login_screen {
+        display: flex;
+        justify-content: center;
+        img {
+            width: 47.91666666666667vw;
         }
     }
 }

@@ -49,7 +49,7 @@ $currentDateTime = date('F j, Y | H:i \h\r\s');
                     </div>
                     <!-- <div class="website_language"><img src="assets/images/language/flaglanguageen.png" width="27"
                         height="14px" alt=""> English</div> -->
-                    <a href="" class="dashoard_cta">GIP Dashboard</a>
+                    <a href="dashboard.php" class="dashoard_cta">GIP Dashboard</a>
                 </div>
             </div>
             <nav class="navbar">

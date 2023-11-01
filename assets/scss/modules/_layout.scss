@@ -258,6 +258,9 @@ h6 {
 .justify_content_center {
     @include justify-content(center);
 }
+.justify_content_end {
+    @include justify-content(end);
+}
 
 .align_item_center {
     @include align-items(center);
