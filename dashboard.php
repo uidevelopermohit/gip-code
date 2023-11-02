@@ -29,103 +29,95 @@
 
 <body>
     <div class="dashboard_walkthrough">
-        <div class="inner_page_wrapper ">
-            <!--Inner Banner Start-->
-            <Section class="inner_banner">
-                <div class="container_fluid">
-                    <div class="flex_row">
-                        <div class="col_6"
-                            data-tour="step: 1; title: Dashboard ; content: Gandhinagar Information Platform (GIP) - Dashboard">
-                            <h4>Gandhinagar Information Platform (GIP) - Dashboard</h4>
-                        </div>
-
-                        <div class="col_6">
-                            <div class="dashboard_user_actions"
-                                data-tour="step: 2; title: Dashboard User Actions; content: User Profile – Update the credential of country administrator. Updates – You can view latest notification and updates. Sign Out">
-                                <img src="<?php echo $base_url; ?>/assets/images/dashboard/top-actions.png">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </Section>
-            <!--Inner Banner End-->
-
-
-            <section class="common_spacing">
-                <div class="container_fluid">
-                    <div class="flex_row">
-                        <div class="col_12">
-                            <button class="btn btn-success btn-lg btn-block" id="tourbutton">
-                                
-                            </button>
-                        </div>
-                    </div>
-                    <div class="flex_row">
-                        <div class="col_12">
-                            <div class="dashboard_country_flag"
-                                data-tour="step: 3; title: Country; content: Representing the user country">
-                                <img src="<?php echo $base_url; ?>/assets/images/dashboard/country-flag.jpg">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="">
-                <div class="container_fluid">
-                    <div class="flex_row">
-                        <div class="col_12">
-                            <div class="dashboard_login_screen"
-                                data-tour="step: 4; title: Country Administrator Login; content: (1) Login credentials along with login link will be sent to country representative to login into GIP platform. Country administrator can further invite country nodal agencies.
-(2) Country administrator and county nodal agency can login some panel.
-(3) upon login you can view the GIP dashboard.">
-                                <img src="<?php echo $base_url; ?>/assets/images/dashboard/dashboard-login.jpg">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="mb_60">
-                <div class="container_fluid">
-                    <div class="flex_row">
-                        <div class="col_4">
-                            <div class="dashboard_registration"
-                                data-tour="step: 5; title: Registration; content: 1.Country administrator can send invite to nodal agencies to join the GIP platform.
-2.Country administrator can manage and update the login credentials of nodal agencies.
-2.Nodal agencies can login GIP platform.">
-                                <img src="<?php echo $base_url; ?>/assets/images/dashboard/dashboard-registration.jpg">
-                            </div>
-                        </div>
-                        <div class="col_4">
-                            <div class="dashboard_country_statistics"
-                                data-tour="step: 6; title: Country Statistics (Mining & Forest Fire); content: 1.Nodal Agencies can add / update the multiple data field.
-2.Country administrator can approve / edit / delete the data.">
-                                <img src="<?php echo $base_url; ?>/assets/images/dashboard/country-statistics.jpg">
-                            </div>
-                        </div>
-                        <div class="col_4">
-                            <div class="dashboard_country_initiative"
-                                data-tour="step: 7; title: Country Initiative (Mining / Forest Fire / Financial Options); content: 1.Nodal Agencies can add / update the multiple data field.
-2.Country administrator can approve / edit / delete the data.">
-                                <img src="<?php echo $base_url; ?>/assets/images/dashboard/country-initiative.jpg">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- Footer starts here -->
-            <hr class="footer_top">
-            <div class="bottom_footer">
+        <!--Inner Banner Start-->
+        <Section class="inner_banner">
+            <div class="container_fluid">
                 <div class="flex_row">
-                    <div class="col_9">
-                        <p><a href="#">Website Policy</a> | <a href="#"> Disclaimer</a> | <a href="">Terms and
-                                Conditions</a> | <a href="">Notifications</a> | <a href="">Filtration </a> | <a
-                                href="">Hyperlinking Policy</a> | <a href="">Accessibility Statement</a></p>
+                    <div class="col_6"
+                        data-tour="step: 1; title: Dashboard ; content: Gandhinagar Information Platform (GIP) - Dashboard">
+                        <h4>Gandhinagar Information Platform (GIP) - Dashboard</h4>
                     </div>
-                    <div class="col_3 text_right">
-                        <p>©2023 . All Rights Reserved.</p>
+
+                    <div class="col_6">
+                        <div class="dashboard_user_actions">
+                            <img src="<?php echo $base_url; ?>/assets/images/dashboard/top-actions.png"
+                                data-tour="step: 2; title: Dashboard User Actions; content: 1). Manage the credentials of the country administrator. <br> 2). View the latest notifications and updates. <br>3). Login or log off from the dashboard.">
+                        </div>
                     </div>
+                </div>
+            </div>
+        </Section>
+        <!--Inner Banner End-->
+
+
+        <section class="common_spacing">
+            <div class="container_fluid">
+                <div class="flex_row">
+                    <div class="col_12">
+                        <button class="btn btn-success btn-lg btn-block" id="tourbutton">
+
+                        </button>
+                    </div>
+                </div>
+                <div class="flex_row">
+                    <div class="col_12">
+                        <div class="dashboard_country_flag">
+                            <img src="<?php echo $base_url; ?>/assets/images/dashboard/country-flag.jpg"
+                                data-tour="step: 3; title: Country; content: Flag Representing the user country. ">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="">
+            <div class="container_fluid">
+                <div class="flex_row">
+                    <div class="col_12">
+                        <div class="dashboard_login_screen">
+                            <img src="<?php echo $base_url; ?>/assets/images/dashboard/dashboard-login.jpg"
+                                data-tour="step: 4; title: Country Administrator Login; content: 1). Login credentials along with login link will be sent to country representative to login into GIP platform.<br> 2). Country administrator can further invite & manage country nodal agencies.<br> 3). Login Panel can be accessed by the country administrator and national nodal agency. 4). you can access the GIP dashboard after logging in.">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="mb_60">
+            <div class="container_fluid">
+                <div class="flex_row">
+                    <div class="col_4">
+                        <div class="dashboard_registration">
+                            <img src="<?php echo $base_url; ?>/assets/images/dashboard/dashboard-registration.jpg"
+                                data-tour="step: 5; title: Registration; content: 1.Country administrator can send invite to nodal agencies to join the GIP platform.<br> 2.Country administrator can manage and update the login credentials of nodal agencies.<br> 2.Nodal agencies can login GIP platform.">
+                        </div>
+                    </div>
+                    <div class="col_4">
+                        <div class="dashboard_country_statistics">
+                            <img src="<?php echo $base_url; ?>/assets/images/dashboard/country-statistics.jpg"
+                                data-tour="step: 6; title: Country Statistics (Mining & Forest Fire); content: 1). Nodal Agencies can add / update the multiple data field..<br> 2). Country administrator can approve / edit / delete the data.">
+                        </div>
+                    </div>
+                    <div class="col_4">
+                        <div class="dashboard_country_initiative">
+                            <img src="<?php echo $base_url; ?>/assets/images/dashboard/country-initiative.jpg"
+                                data-tour="step: 7; title: Country Initiative (Mining / Forest Fire / Financial Options); content: 1). Nodal Agencies can add / update the multiple data field. <br> 2). Country administrator can approve / edit / delete the data.<br> 3). Program & Policies / Knowledge Resources / Design Frameworks / Technology & Tools / Others.">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Footer starts here -->
+        <hr class="footer_top">
+        <div class="bottom_footer">
+            <div class="flex_row">
+                <div class="col_9">
+                    <p><a href="#">Website Policy</a> | <a href="#"> Disclaimer</a> | <a href="">Terms and
+                            Conditions</a> | <a href="">Notifications</a> | <a href="">Filtration </a> | <a
+                            href="">Hyperlinking Policy</a> | <a href="">Accessibility Statement</a></p>
+                </div>
+                <div class="col_3 text_right">
+                    <p>©2023 . All Rights Reserved.</p>
                 </div>
             </div>
         </div>
