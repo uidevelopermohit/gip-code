@@ -2,7 +2,7 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!<![endif]-->
 <html>
 
 <head>
@@ -33,12 +33,12 @@
         <Section class="inner_banner">
             <div class="container_fluid">
                 <div class="flex_row">
-                    <div class="col_6"
+                    <div class="col_7"
                         data-tour="step: 1; title: Dashboard ; content: Gandhinagar Information Platform (GIP) - Dashboard">
                         <h4>Gandhinagar Information Platform (GIP) - Dashboard</h4>
                     </div>
 
-                    <div class="col_6">
+                    <div class="col_5">
                         <div class="dashboard_user_actions">
                             <img src="<?php echo $base_url; ?>/assets/images/dashboard/top-actions.png"
                                 data-tour="step: 2; title: Dashboard User Actions; content: 1). Manage the credentials of the country administrator. <br> 2). View the latest notifications and updates. <br>3). Login or log off from the dashboard.">
