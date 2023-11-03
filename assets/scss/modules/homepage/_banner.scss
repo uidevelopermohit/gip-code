@@ -28,6 +28,11 @@
         }
 
         .item {
+            height: 38.28125vw;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
+
             &::before {
                 content: '';
                 width: 100%;
@@ -128,6 +133,10 @@
                     right: 115px;
                 }
             }
+
+            .item {
+                height: 735px;
+            }
         }
 
         &_content_overlay {
@@ -185,6 +194,14 @@
 
             .outline_button {
                 padding: 5px 10px;
+            }
+        }
+    }
+
+    @media screen and (max-width: 575.98px) {
+        &_section {
+            .item {
+                height: 280px;
             }
         }
     }

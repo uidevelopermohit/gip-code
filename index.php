@@ -5,24 +5,24 @@
         <!--Banner Section Start Here-->
         <section class="banner_section">
             <div class="owl-carousel banner_slider">
-                <div class="item">
-                    <img src="assets/images/banner/banner-1.webp" alt="">
+                <div class="item" style="background-image: url('assets/images/banner/banner-1.webp')">
+                    <!-- <img src="assets/images/banner/banner-1.webp" alt=""> -->
                     <div class="banner_content_overlay">
                         <h5>A G20 Knowledge Initiative</h5>
                         <h1>Gandhinagar Information Platform (GIP)</h1>
                         <a href="about.php" class="outline_button">Learn More</a>
                     </div>
                 </div>
-                <div class="item">
-                    <img src="assets/images/banner/Forest-Fire-First-Fold-Banner.webp" alt="">
+                <div class="item" style="background-image: url('assets/images/banner/Forest-Fire-First-Fold-Banner.webp')">
+                    <!-- <img src="assets/images/banner/Forest-Fire-First-Fold-Banner.webp" alt=""> -->
                     <div class="banner_content_overlay">
                         <h5>Accelerating Ecological Restoration </h5>
                         <h1>Forest Fire-Degraded Lands</h1>
                         <a href="about.php" class="outline_button">Learn More</a>
                     </div>
                 </div>
-                <div class="item ">
-                    <img src="assets/images/banner/10-October-GIP-54.webp" alt="">
+                <div class="item" style="background-image: url('assets/images/banner/10-October-GIP-54.webp')">
+                    <!-- <img src="assets/images/banner/10-October-GIP-54.webp" alt=""> -->
                     <div class="banner_content_overlay">
                         <h5>Accelerating Ecological Restoration</h5>
                         <h1>Mining-Affected Landscapes Under Effective
@@ -30,8 +30,8 @@
                         <a href="about.php" class="outline_button">Learn More</a>
                     </div>
                 </div>
-                <div class="item">
-                    <img src="assets/images/banner/Five-Frame-Works.webp" alt="">
+                <div class="item" style="background-image: url('assets/images/banner/Five-Frame-Works.webp')">
+                    <!-- <img src="assets/images/banner/Five-Frame-Works.webp" alt=""> -->
                     <div class="banner_content_overlay">
                         <h5>A framework of five pillars</h5>
                         <h1>Showcasing, Engaging, Collaborating,
@@ -39,8 +39,8 @@
                         <a href="about.php" class="outline_button">Learn More</a>
                     </div>
                 </div>
-                <div class="item last_slide">
-                    <img src="assets/images/banner/banner-5.webp" alt="">
+                <div class="item last_slide" style="background-image: url('assets/images/banner/banner-5.webp')">
+                    <!-- <img src="assets/images/banner/banner-5.webp" alt=""> -->
                 </div>
             </div>
         </section>
