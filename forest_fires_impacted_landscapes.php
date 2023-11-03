@@ -169,13 +169,13 @@
         <div class="sidebar_sticky_wrapper">
             <div class="sidebar_sticky_left">
                 <ul class="vertical_tabs">
-                    <li><a href="forest_fires_impacted_landscapes.php#CI_policy_progam" class="active"><span>Policy and
+                    <li><a href="#CI_policy_progam" class="active"><span>Policy and
                                 Programs</span> <i class="icon-play"></i></a></li>
-                    <li><a href="forest_fires_impacted_landscapes.php#CI_knowledge_Resources"><span>Knowledge
+                    <li><a href="#CI_knowledge_Resources"><span>Knowledge
                                 Resources</span> <i class="icon-play"></i></a></li>
-                    <li><a href="forest_fires_impacted_landscapes.php#CI_design_framework"><span>Design
+                    <li><a href="#CI_design_framework"><span>Design
                                 Frameworks</span> <i class="icon-play"></i></a></li>
-                    <li><a href="forest_fires_impacted_landscapes.php#CI_technology_tools"><span>Technology &
+                    <li><a href="#CI_technology_tools"><span>Technology &
                                 Tools</span> <i class="icon-play"></i></a></li>
                 </ul>
             </div>
