@@ -100,10 +100,8 @@
             </div>
             <!--News Section-->
             <div class="tab-content news_events" id="news">
-                <div class="container_fluid gradient_container">
-                    <div class="news_container">
-                        <h2>Update Coming Soon</h2>
-                    </div>
+                <div class="news_container">
+                    <h2>Update Coming Soon</h2>
                 </div>
             </div>
 

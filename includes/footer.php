@@ -101,6 +101,7 @@
     <!-- <script type="text/javascript"
         src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script> -->
     <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"></script>
     <script src="assets/js/custom.js"></script>
 </body>
 

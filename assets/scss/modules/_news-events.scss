@@ -2,6 +2,7 @@
     .col_4 {
         margin-bottom: 2vw;
     }
+
     .news_container,
     .training_programs_container {
         min-height: 40vh;
@@ -15,10 +16,10 @@
         display: flex;
         justify-content: center;
         flex-direction: column;
-        padding: 0 2.604166666666667vw;     //0 50px
+        padding: 0 2.604166666666667vw; //0 50px
 
         h4 {
-            margin-bottom: 1.5625vw;        //30px
+            margin-bottom: 1.5625vw; //30px
         }
     }
 }
@@ -28,15 +29,17 @@
         .col_4 {
             margin-bottom: 30px;
         }
+
         .news_container,
         .training_programs_container {
             min-height: 500px;
         }
     }
+
     .events_detail {
         .event_detail_desc {
             padding: 0 50px;
-    
+
             h4 {
                 margin-bottom: 30px;
             }
@@ -49,15 +52,17 @@
         .col_4 {
             margin-bottom: 30px;
         }
+
         .news_container,
         .training_programs_container {
             min-height: 250px;
         }
     }
+
     .events_detail {
         .event_detail_desc {
             padding: 0;
-    
+
             h4 {
                 margin-bottom: 20px;
             }
