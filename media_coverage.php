@@ -222,6 +222,222 @@
                             </div>
                         </div>
                     </li>
+                    <li>
+                        <div class="document_list_wrapper">
+                            <div class="document_icon"><img src="assets/images/pdf_icon.webp" class="pdf_icon"></div>
+                            <div class="document_detail">
+                                <h5>Mine Reclamation: A handbook, Indian Council of Forestry and Research Education</h5>
+                            </div>
+                            <div class="document_action">
+                                <a href="assets/pdf/A Handbook - ICFRE Mine Reclamation.pdf" target="_blank"><i class="icon-view"></i></a>
+                                <a href="assets/pdf/A Handbook - ICFRE Mine Reclamation.pdf" download><i class="icon-download" ></i></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="document_list_wrapper">
+                            <div class="document_icon"><img src="assets/images/pdf_icon.webp" class="pdf_icon"></div>
+                            <div class="document_detail">
+                                <h5>Eco Friendly Approaches for Rehabilitation of Mine Spoils, Institute of Forest Genetics and Tree Breeding</h5>
+                            </div>
+                            <div class="document_action">
+                                <a href="assets/pdf/Approches_IFGTB_Eco_friendly_approaches_for_rehablitation_of_mine_spoils.pdf" target="_blank"><i class="icon-view"></i></a>
+                                <a href="assets/pdf/Approches_IFGTB_Eco_friendly_approaches_for_rehablitation_of_mine_spoils.pdf" download><i class="icon-download" ></i></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="document_list_wrapper">
+                            <div class="document_icon"><img src="assets/images/pdf_icon.webp" class="pdf_icon"></div>
+                            <div class="document_detail">
+                                <h5>Developing Ecological Restoration Model In The Mine Spoils At Tetulmari Under Sijua Area (About 8-10 Ha) Of Bccl Mine, Forest Ecology & Environment Division Forest Research Institute, Dehradun, India</h5>
+                            </div>
+                            <div class="document_action">
+                                <a href="assets/pdf/Case_study_FRI_Developing_ecological_restoration_model_in_the_mine_spoils_tetulmari.pdf" target="_blank"><i class="icon-view"></i></a>
+                                <a href="assets/pdf/Case_study_FRI_Developing_ecological_restoration_model_in_the_mine_spoils_tetulmari.pdf" download><i class="icon-download" ></i></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="document_list_wrapper">
+                            <div class="document_icon"><img src="assets/images/pdf_icon.webp" class="pdf_icon"></div>
+                            <div class="document_detail">
+                                <h5>Seed Ball Technology for Restoration of Coal Mined Land, Rain Forest Research Institute, India</h5>
+                            </div>
+                            <div class="document_action">
+                                <a href="assets/pdf/Technology_RFRI_Seed_ball_technology_for_restoration_of_coal_mine.pdf" target="_blank"><i class="icon-view"></i></a>
+                                <a href="assets/pdf/Technology_RFRI_Seed_ball_technology_for_restoration_of_coal_mine.pdf" download><i class="icon-download" ></i></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="document_list_wrapper">
+                            <div class="document_icon"><img src="assets/images/pdf_icon.webp" class="pdf_icon"></div>
+                            <div class="document_detail">
+                                <h5>Road Map for Ecological Restoration Works in Coal Mines of NCL, Singrauli, M.P.; Forest Research Institute, Dehradun, India</h5>
+                            </div>
+                            <div class="document_action">
+                                <a href="assets/pdf/Road_map_FRI_Combined_Singrauli_Final_Report_17_05_2018.pdf" target="_blank"><i class="icon-view"></i></a>
+                                <a href="assets/pdf/Road_map_FRI_Combined_Singrauli_Final_Report_17_05_2018.pdf" download><i class="icon-download" ></i></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="document_list_wrapper">
+                            <div class="document_icon"><img src="assets/images/pdf_icon.webp" class="pdf_icon"></div>
+                            <div class="document_detail">
+                                <h5>Strengthening Forest Fire Management in India</h5>
+                            </div>
+                            <div class="document_action">
+                                <a href="assets/pdf/127284-Forest-Fire-Prevention-Management-8Oct2018.pdf" target="_blank"><i class="icon-view"></i></a>
+                                <a href="assets/pdf/127284-Forest-Fire-Prevention-Management-8Oct2018.pdf" download><i class="icon-download" ></i></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="document_list_wrapper">
+                            <div class="document_icon"><img src="assets/images/pdf_icon.webp" class="pdf_icon"></div>
+                            <div class="document_detail">
+                                <h5>The Indian Forester</h5>
+                            </div>
+                            <div class="document_action">
+                                <a href="assets/pdf/Special_Issue_on_Ecorestoration_Indian_Forester.pdf" target="_blank"><i class="icon-view"></i></a>
+                                <a href="assets/pdf/Special_Issue_on_Ecorestoration_Indian_Forester.pdf" download><i class="icon-download" ></i></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="document_list_wrapper">
+                            <div class="document_icon"><img src="assets/images/pdf_icon.webp" class="pdf_icon"></div>
+                            <div class="document_detail">
+                                <h5>Enhancement of Biodiversity and Its Conservation in The Ecological restoration Site at Tetlumari, Sijua Area (08 Ha) of BCCL, Dhanbad</h5>
+                            </div>
+                            <div class="document_action">
+                                <a href="assets/pdf/Case_study_FRI_Enhancement_of_Biodiversity_in_Ecologically_restored siteTetulmari.pdf" target="_blank"><i class="icon-view"></i></a>
+                                <a href="assets/pdf/Case_study_FRI_Enhancement_of_Biodiversity_in_Ecologically_restored siteTetulmari.pdf" download><i class="icon-download" ></i></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="document_list_wrapper">
+                            <div class="document_icon"><img src="assets/images/pdf_icon.webp" class="pdf_icon"></div>
+                            <div class="document_detail">
+                                <h5>Eco Restoration Studies in Uranium Mines</h5>
+                            </div>
+                            <div class="document_action">
+                                <a href="assets/pdf/Esorestoration_Studies_in_Uranium_Mines.pdf" target="_blank"><i class="icon-view"></i></a>
+                                <a href="assets/pdf/Esorestoration_Studies_in_Uranium_Mines.pdf" download><i class="icon-download" ></i></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="document_list_wrapper">
+                            <div class="document_icon"><img src="assets/images/pdf_icon.webp" class="pdf_icon"></div>
+                            <div class="document_detail">
+                                <h5>Road Map for Eco Restoration of BCCL Mine Areas of Dhanbad, Jharkhand</h5>
+                            </div>
+                            <div class="document_action">
+                                <a href="assets/pdf/FRI_RoadMapBCCL.pdf" target="_blank"><i class="icon-view"></i></a>
+                                <a href="assets/pdf/FRI_RoadMapBCCL.pdf" download><i class="icon-download" ></i></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="document_list_wrapper">
+                            <div class="document_icon"><img src="assets/images/pdf_icon.webp" class="pdf_icon"></div>
+                            <div class="document_detail">
+                                <h5>Guidelines for Eco Rehabilitation of Limestone Mined Areas in Himachal Pradesh</h5>
+                            </div>
+                            <div class="document_action">
+                                <a href="assets/pdf/Guidelines_for_Eco_retsotaion_of_Limestone_minearea_in_HP.pdf" target="_blank"><i class="icon-view"></i></a>
+                                <a href="assets/pdf/Guidelines_for_Eco_retsotaion_of_Limestone_minearea_in_HP.pdf" download><i class="icon-download" ></i></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="document_list_wrapper">
+                            <div class="document_icon"><img src="assets/images/pdf_icon.webp" class="pdf_icon"></div>
+                            <div class="document_detail">
+                                <h5>Reclamation at Maldeota Rock Phosphate Mine</h5>
+                            </div>
+                            <div class="document_action">
+                                <a href="assets/pdf/Reclamation_at_MaldeovtaRock_Phosphate_Mine.pdf" target="_blank"><i class="icon-view"></i></a>
+                                <a href="assets/pdf/Reclamation_at_MaldeovtaRock_Phosphate_Mine.pdf" download><i class="icon-download" ></i></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="document_list_wrapper">
+                            <div class="document_icon"><img src="assets/images/pdf_icon.webp" class="pdf_icon"></div>
+                            <div class="document_detail">
+                                <h5>Leaving Green Footprints</h5>
+                            </div>
+                            <div class="document_action">
+                                <a href="assets/pdf/Broucher_CILLeaving_green_footprints.pdf" target="_blank"><i class="icon-view"></i></a>
+                                <a href="assets/pdf/Broucher_CILLeaving_green_footprints.pdf" download><i class="icon-download" ></i></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="document_list_wrapper">
+                            <div class="document_icon"><img src="assets/images/pdf_icon.webp" class="pdf_icon"></div>
+                            <div class="document_detail">
+                                <h5>State Action Plan on Forest Fire, Government of Tripura</h5>
+                            </div>
+                            <div class="document_action">
+                                <a href="assets/pdf/Tripura_Forest_Fire_action_plan.pdf" target="_blank"><i class="icon-view"></i></a>
+                                <a href="assets/pdf/Tripura_Forest_Fire_action_plan.pdf" download><i class="icon-download" ></i></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="document_list_wrapper">
+                            <div class="document_icon"><img src="assets/images/pdf_icon.webp" class="pdf_icon"></div>
+                            <div class="document_detail">
+                                <h5>Environment Management Services for Sustainable Development</h5>
+                            </div>
+                            <div class="document_action">
+                                <a href="assets/pdf/Broucher_ICFRE_Booklet_Environmental_management_services.pdf" target="_blank"><i class="icon-view"></i></a>
+                                <a href="assets/pdf/Broucher_ICFRE_Booklet_Environmental_management_services.pdf" download><i class="icon-download" ></i></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="document_list_wrapper">
+                            <div class="document_icon"><img src="assets/images/pdf_icon.webp" class="pdf_icon"></div>
+                            <div class="document_detail">
+                                <h5>Bioremediation Strategies for Mine Spoils: An Experience of IFGTBt</h5>
+                            </div>
+                            <div class="document_action">
+                                <a href="assets/pdf/Broucher_IFGTB_mine_spoils_brochure.pdf" target="_blank"><i class="icon-view"></i></a>
+                                <a href="assets/pdf/Broucher_IFGTB_mine_spoils_brochure.pdf" download><i class="icon-download" ></i></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="document_list_wrapper">
+                            <div class="document_icon"><img src="assets/images/pdf_icon.webp" class="pdf_icon"></div>
+                            <div class="document_detail">
+                                <h5>Open Cast Iron Ore Mine reclamation and Rehabilitation in Karnataka</h5>
+                            </div>
+                            <div class="document_action">
+                                <a href="assets/pdf/Broucher_ICFRE_Brochure_entitled_Open_Cast_Iron_Ore_Mine_Reclamation_Rehabilitation_in_Karnataka.pdf" target="_blank"><i class="icon-view"></i></a>
+                                <a href="assets/pdf/Broucher_ICFRE_Brochure_entitled_Open_Cast_Iron_Ore_Mine_Reclamation_Rehabilitation_in_Karnataka.pdf" download><i class="icon-download" ></i></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="document_list_wrapper">
+                            <div class="document_icon"><img src="assets/images/pdf_icon.webp" class="pdf_icon"></div>
+                            <div class="document_detail">
+                                <h5>Package of Practices for Restoration of Coal Mined Land</h5>
+                            </div>
+                            <div class="document_action">
+                                <a href="assets/pdf/Environment_and_Climate_Ministers_Meet_concludes_in_Chennai_G20_ministers_stand_united_in_their_commitment_to_create_a_sustainable_and_resilient_future.pdf" target="_blank"><i class="icon-view"></i></a>
+                                <a href="assets/pdf/Environment_and_Climate_Ministers_Meet_concludes_in_Chennai_G20_ministers_stand_united_in_their_commitment_to_create_a_sustainable_and_resilient_future.pdf" download><i class="icon-download" ></i></a>
+                            </div>
+                        </div>
+                    </li>
                 </ul>
             </div>
         </div>
