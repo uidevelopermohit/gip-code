@@ -28,7 +28,7 @@
 </head>
 
 <body>
-    <div class="dashboard_walkthrough">
+    <div class="dashboard_walkthrough gradient_container">
         <!--Inner Banner Start-->
         <Section class="inner_banner">
             <div class="container_fluid">
@@ -49,6 +49,11 @@
         </Section>
         <!--Inner Banner End-->
 
+        <div class="container_fluid">
+            <div class="back_to_home">
+                <a href="index.php"><i class="icon-home"></i> Home</a>
+            </div>
+        </div>
 
         <section class="common_spacing">
             <div class="container_fluid">
