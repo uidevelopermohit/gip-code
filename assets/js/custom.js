@@ -115,15 +115,48 @@ $(window).scroll(function () {
 });
 
 
-$('.vertical_tabs').find('a').click(function () {
+/* $('.vertical_tabs').find('a').click(function () {
     var $href = $(this).attr('href');
     var $anchor = $($href).offset();
     $('.vertical_tabs a').removeClass('active');
     $(this).addClass('active')
     window.scrollTo($anchor.left, $anchor.top - 240);
     return false;
+}); */
+
+
+var sections = $('.country_initiative_topic_wrapper')
+    , nav = $('.sidebar_sticky_left')
+    , nav_height = nav.outerHeight()
+    , headerHgt = $('header').outerHeight();
+
+$(window).on('scroll', function () {
+    var cur_pos = $(this).scrollTop();
+
+    sections.each(function () {
+        var top = $(this).offset().top - nav_height,
+            bottom = top + $(this).outerHeight();
+
+        if (cur_pos >= top && cur_pos <= bottom) {
+            nav.find('a').removeClass('active');
+            sections.removeClass('active');
+
+            $(this).addClass('active');
+            nav.find('a[href="#' + $(this).attr('id') + '"]').addClass('active');
+        }
+    });
 });
 
+nav.find('a').on('click', function () {
+    var $el = $(this)
+        , id = $el.attr('href');
+
+    $('html, body').animate({
+        scrollTop: $(id).offset().top - headerHgt - 30
+    }, 500);
+
+    return false;
+});
 
 // Show the first tab and hide the rest
 $('.tabs button:first-child').addClass('active');
